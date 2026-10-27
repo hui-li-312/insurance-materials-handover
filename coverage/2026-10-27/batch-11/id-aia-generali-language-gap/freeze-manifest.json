@@ -1,0 +1,21 @@
+{
+  "payload_kind": "public_source_gap_metadata_candidate",
+  "baseline_manifest_sha256": "66d2866792a12fa139d878372c8436eb4fe31360f52b2cb14d55d4a48b33b025",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 1177,
+      "sha256": "ff16899abf7cbd5384284ff7e0d955bd8f087a126cd61e47228e03b6b996a59a"
+    },
+    {
+      "file": "route-dispositions.jsonl",
+      "bytes": 22547,
+      "sha256": "076ed6375d9964a5fc4d2cc1a4023f511eaf937dc6868d4a5b7df1c4e4fc97e2"
+    },
+    {
+      "file": "run-status.json",
+      "bytes": 924,
+      "sha256": "857f071695055bfbc65ea744f10f087115925623ae498b380b95f0fa6bcd6a75"
+    }
+  ]
+}
