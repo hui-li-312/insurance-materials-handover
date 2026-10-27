@@ -1,0 +1,1169 @@
+{
+  "schemaVersion": 1,
+  "artifactType": "finite-public-HTML-wording-review-overlay-candidate",
+  "candidateStatus": "not_integrated_or_published",
+  "sourceSnapshotManifestSha256": "4dc273b3df99f53083f085a11e811fe93911fc420ce15b6287ebbcbedf0ccdc6",
+  "reviewedAt": "2026-10-27T21:19:25.863969+00:00",
+  "reviewCount": 7,
+  "exactExistingFormalOriginals": 4,
+  "exactSHAUnmatchedObservations": 3,
+  "formalBaselineCountsUnchanged": {
+    "directoryEntries": 2360,
+    "originalRecords": 4713,
+    "strictMainVerified": 426
+  },
+  "excludedSummaryPage": {
+    "sourceDocumentName": "Shop Package Insurance",
+    "reason": "Explicit general-summary page; not one of the seven operative wording body reviews."
+  },
+  "reviews": [
+    {
+      "schemaVersion": 1,
+      "reviewId": "tugu-html-body-review-HK-tugu-hk-50cd861b326c00d375-20261027",
+      "reviewedAt": "2026-10-27T21:19:25.863969+00:00",
+      "binding": {
+        "sourceObservationId": "HK-tugu-hk-50cd861b326c00d375",
+        "sourceIssuerId": "HK-own-6010f73b4043dce8",
+        "exactSourceDocumentUrl": "https://www.tuguhk.com/tugu-product/detail?tugu_product_id=10&module=0",
+        "sourceRawHtmlSha256": "565dea32a27ab6e5e43d15faf109a39aa1d07955bd3b725dfb9468a5daf034a6",
+        "sourceParentProductUrl": "https://www.tuguhk.com/tugu-product/detail?tugu_product_id=10",
+        "sourceDocumentName": "Domestic Helper Insurance Policy",
+        "sourceParentProductName": "Domestic Helper Insurance",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "sourceDocumentRecordCollection": "documents-tugu-hk.jsonl",
+        "matchingRule": "Require exact observation ID, issuer ID, document URL and raw HTML SHA before enriching material index 0. No URL-only, name-only, module-stripped or reference-number fallback."
+      },
+      "documentIdentity": {
+        "mediaType": "text/html",
+        "rawHtmlSha256": "565dea32a27ab6e5e43d15faf109a39aa1d07955bd3b725dfb9468a5daf034a6",
+        "rawHtmlByteCount": 60118,
+        "extractedProductBodySha256": "8de3fcf50ef56870168e8e4af6ca0f5ee0fe5e58e69f622c7698f1c60fb42e8c",
+        "hashDistinction": "Raw HTML bytes and normalized extracted body text are different hashes; neither is a PDF hash.",
+        "pageCount": null,
+        "language": "en",
+        "sourceMarket": "HK",
+        "sourcePublisher": "Tugu Insurance Company Limited",
+        "sourceStatedInsurer": "Tugu Insurance Company Limited",
+        "sourceStatedInsurerBasis": "operative_public_HTML_body",
+        "actualIssuedContractUnderwriterVerified": false,
+        "coverageTerritoryNote": "正文地域为香港，并列香港法律及专属法院约定；不等于核实当前适用版本。",
+        "sourceStatedGoverningLaw": "Hong Kong SAR",
+        "sourceStatedExclusiveCourt": "Hong Kong SAR exclusive jurisdiction",
+        "publicationDate": null,
+        "effectiveDate": null,
+        "editionDate": null,
+        "sourceAcquiredAt": "2026-10-27T12:28:29.531124+00:00"
+      },
+      "reviewConclusion": {
+        "documentRole": "public_HTML_main_policy_wording_text",
+        "operativeMainClauseTextPresent": true,
+        "summary": "公开英文 HTML 含家佣保险的九项保障、通用及分项除外、等待期与索赔条件，不只是宣传介绍；仍缺附表及一般短期费率表，正文存在残缺和重复语句。",
+        "coverageSummary": [
+          "雇员补偿、门诊、住院及手术、服务中断、牙科、休息日意外、遣返、替换家佣和忠诚保证分为九节。",
+          "第2、3、4、5、8节列14日等待期；医疗既往症规则须连同通用除外阅读。"
+        ],
+        "exclusionSummary": [
+          "通用除外涉及战争、自伤、妊娠、未按处方使用药物、既往症、核风险、年龄及香港以外事故或治疗。",
+          "休息日意外与雇佣期间补偿不是同一保障；分项疾病、牙科和危险活动限制仍适用。"
+        ],
+        "claimsAndConditionsSummary": [
+          "要求立即通知，30日内提交书面事故资料及原始单据；未经同意不得自行承认或和解责任。",
+          "取消使用一般短期费率；索赔争议和时限条款仅作原文记录，未核验其现实法律效力。"
+        ],
+        "missingComponentsAndDependencies": [
+          "个别附表、投保声明及批注不在该 HTML 内，不请求公开客户文件。",
+          "公司一般短期保费率表未在正文中给出。"
+        ],
+        "sourceDefectsOrAmbiguities": [
+          "HTML 163行疾病累计责任句不连贯，未补齐缺失内容或限额。",
+          "HTML 216–217行服务中断条款重复；不解释为双倍赔付。"
+        ],
+        "fullIssuedContractPackageVerified": false,
+        "currentVersionOrSaleVerified": false,
+        "legalEnforceabilityAssessed": false,
+        "evidence": [
+          {
+            "topic": "主文及附表关系",
+            "segmentStart": 3,
+            "segmentEnd": 4,
+            "rawHtmlLineStart": 101,
+            "rawHtmlLineEnd": 102,
+            "documentHeading": "Domestic Helper Insurance Policy"
+          },
+          {
+            "topic": "通用除外",
+            "segmentStart": 20,
+            "segmentEnd": 30,
+            "rawHtmlLineStart": 133,
+            "rawHtmlLineEnd": 145,
+            "documentHeading": "Domestic Helper Insurance Policy"
+          },
+          {
+            "topic": "九项保障",
+            "segmentStart": 31,
+            "segmentEnd": 121,
+            "rawHtmlLineStart": 150,
+            "rawHtmlLineEnd": 316,
+            "documentHeading": "Domestic Helper Insurance Policy"
+          },
+          {
+            "topic": "等待期",
+            "segmentStart": 122,
+            "segmentEnd": 123,
+            "rawHtmlLineStart": 323,
+            "rawHtmlLineEnd": 324,
+            "documentHeading": "Domestic Helper Insurance Policy"
+          },
+          {
+            "topic": "索赔与一般条件",
+            "segmentStart": 124,
+            "segmentEnd": 168,
+            "rawHtmlLineStart": 327,
+            "rawHtmlLineEnd": 378,
+            "documentHeading": "Domestic Helper Insurance Policy"
+          },
+          {
+            "topic": "来源语句缺损",
+            "segmentStart": 38,
+            "segmentEnd": 40,
+            "rawHtmlLineStart": 161,
+            "rawHtmlLineEnd": 164,
+            "documentHeading": "Domestic Helper Insurance Policy"
+          },
+          {
+            "topic": "重复条款",
+            "segmentStart": 65,
+            "segmentEnd": 68,
+            "rawHtmlLineStart": 215,
+            "rawHtmlLineEnd": 218,
+            "documentHeading": "Domestic Helper Insurance Policy"
+          }
+        ]
+      },
+      "reviewMethod": {
+        "method": "complete_semantic_read_of_offline_extracted_public_HTML_product_body",
+        "extractedBodySemanticReadComplete": true,
+        "extractedSegmentsRead": 169,
+        "extractedCharacterCount": 26743,
+        "rawSourceHashReverified": true,
+        "twoIndependentExtractorsAgree": true,
+        "renderedBrowserVisualReview": false,
+        "embeddedProductImagesReviewed": false,
+        "computedCSSVisibilityVerified": false,
+        "PDFReviewed": false,
+        "networkRecheckPerformed": false,
+        "locatorUnit": "one-based extracted segment plus raw UTF-8 HTML source text-token line span, not rendered page number"
+      },
+      "baselineRelation": {
+        "exactRawShaMatches": [
+          {
+            "catalogRecordId": "bc441d1981ee0969",
+            "region": "HK",
+            "rawSha256Equal": true,
+            "exactDocumentUrlEqual": true,
+            "priorReviewStatus": "needs_review",
+            "priorReviewMethodScope": "全文核读完成；按具体文档角色与适用范围记录，不代表个别签发合同完整。",
+            "priorFullContentReviewFlag": true
+          }
+        ],
+        "status": "exact_existing_formal_HTML_original",
+        "noMatchCaveat": null
+      },
+      "preservation": {
+        "frozenSourceAcquisitionStatusUnchanged": true,
+        "priorFormalReviewStatusUnchanged": true,
+        "newFormalOriginalCredit": 0,
+        "newPDFCredit": 0,
+        "newSKUCredit": 0,
+        "strictMainVerifiedCountCredit": 0,
+        "newRawPublicRelease": false,
+        "noSilentLegalTextRepairs": true
+      },
+      "privacyAndDistributionTriage": {
+        "bodyScope": "extracted public product wording, not entire website resources or any issued customer policy",
+        "customerSpecificFilledPolicyObserved": false,
+        "obviousInternalOrRestrictedDistributionLabelObserved": false,
+        "notComprehensivePrivacyOrRedistributionClearance": true
+      },
+      "limitations": [
+        "Only the saved English product body text was read; no browser rendering, embedded-image content, CSS visibility, external linked documents or individual issued package was verified.",
+        "Public source identity and operative clause prose do not prove this is the currently sold version or a complete enforceable contract.",
+        "No missing wording, benefits table, schedule or numeric limit was invented or legally repaired.",
+        "A separate overlay must not rewrite frozen heading-only acquisition or prior formal-review states."
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "reviewId": "tugu-html-body-review-HK-tugu-hk-04961012c77ff9db35-20261027",
+      "reviewedAt": "2026-10-27T21:19:25.863969+00:00",
+      "binding": {
+        "sourceObservationId": "HK-tugu-hk-04961012c77ff9db35",
+        "sourceIssuerId": "HK-own-6010f73b4043dce8",
+        "exactSourceDocumentUrl": "https://www.tuguhk.com/tugu-product/detail?tugu_product_id=12&module=0",
+        "sourceRawHtmlSha256": "127dedc67549fd9c7bae7da5efa95bc2dbf63b22e854fd6ddbc85cbd50d224ee",
+        "sourceParentProductUrl": "https://www.tuguhk.com/tugu-product/detail?tugu_product_id=12",
+        "sourceDocumentName": "Home Comprehensive Insurance Policy",
+        "sourceParentProductName": "Home Comprehensive Insurance",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "sourceDocumentRecordCollection": "documents-tugu-hk.jsonl",
+        "matchingRule": "Require exact observation ID, issuer ID, document URL and raw HTML SHA before enriching material index 0. No URL-only, name-only, module-stripped or reference-number fallback."
+      },
+      "documentIdentity": {
+        "mediaType": "text/html",
+        "rawHtmlSha256": "127dedc67549fd9c7bae7da5efa95bc2dbf63b22e854fd6ddbc85cbd50d224ee",
+        "rawHtmlByteCount": 82984,
+        "extractedProductBodySha256": "83f409b79d01912e39d5061e1058cc755581b53e709f3de75a6b1d5489044bf9",
+        "hashDistinction": "Raw HTML bytes and normalized extracted body text are different hashes; neither is a PDF hash.",
+        "pageCount": null,
+        "language": "en",
+        "sourceMarket": "HK",
+        "sourcePublisher": "Tugu Insurance Company Limited",
+        "sourceStatedInsurer": null,
+        "sourceStatedInsurerBasis": "body_defers_company_identity_to_missing_schedule",
+        "actualIssuedContractUnderwriterVerified": false,
+        "coverageTerritoryNote": "家居地域一般为香港；第4节及第3节指定临时出访有不同地域安排，须以附表和分节为准。",
+        "sourceStatedGoverningLaw": null,
+        "sourceStatedExclusiveCourt": null,
+        "publicationDate": null,
+        "effectiveDate": null,
+        "editionDate": null,
+        "sourceAcquiredAt": "2026-10-27T12:28:36.732021+00:00"
+      },
+      "reviewConclusion": {
+        "documentRole": "public_HTML_main_policy_wording_text",
+        "operativeMainClauseTextPresent": true,
+        "summary": "公开英文 HTML 含家居财物、楼宇、公众及个人责任、全球随身财物四节操作性条款。承保公司由缺失附表指定，不能因 Tugu 发布而自动填为合同承保人。",
+        "coverageSummary": [
+          "四节分列财物、楼宇、责任及全球财物保障；赔偿基础、单项限额、比例分摊和免赔须分别读取。",
+          "附加费用和多项限额依附表；全球个人责任仅对特定临时出访情形适用。"
+        ],
+        "exclusionSummary": [
+          "各节保留磨损、故障、宠物、特定财物及无人居住限制；盗窃14日与一般60日无人居住规则不能混用。",
+          "通用除外含战争、核风险、神秘失踪及日期识别故障等，不据“2000”认定版本日期。"
+        ],
+        "claimsAndConditionsSummary": [
+          "要求立即书面通知，盗窃报案，30日内提交资料，未经同意不得自行维修、和解或承认责任。",
+          "按一般短期费率取消并列最低保费；一般费率表未附。"
+        ],
+        "missingComponentsAndDependencies": [
+          "附表确定公司、受保地点、期间、保额、比例限额及免赔，未随网页提供。",
+          "投保声明、个别批注及公司一般短期费率表不在本次正文中。"
+        ],
+        "sourceDefectsOrAmbiguities": [
+          "HTML 432行日期处理除外中的句子止于不完整表达；保留残缺，不补写法律含义。",
+          "责任判决地域限制并非明确整份合同适用法或专属法院条款；二者仍留空。"
+        ],
+        "fullIssuedContractPackageVerified": false,
+        "currentVersionOrSaleVerified": false,
+        "legalEnforceabilityAssessed": false,
+        "evidence": [
+          {
+            "topic": "公司由附表指定",
+            "segmentStart": 3,
+            "segmentEnd": 4,
+            "rawHtmlLineStart": 101,
+            "rawHtmlLineEnd": 102,
+            "documentHeading": "Home Comprehensive Insurance Policy"
+          },
+          {
+            "topic": "四节保障及赔偿",
+            "segmentStart": 5,
+            "segmentEnd": 162,
+            "rawHtmlLineStart": 104,
+            "rawHtmlLineEnd": 371,
+            "documentHeading": "Home Comprehensive Insurance Policy"
+          },
+          {
+            "topic": "地域定义",
+            "segmentStart": 176,
+            "segmentEnd": 177,
+            "rawHtmlLineStart": 394,
+            "rawHtmlLineEnd": 395,
+            "documentHeading": "Home Comprehensive Insurance Policy"
+          },
+          {
+            "topic": "除外与不完整日期句",
+            "segmentStart": 184,
+            "segmentEnd": 202,
+            "rawHtmlLineStart": 407,
+            "rawHtmlLineEnd": 433,
+            "documentHeading": "Home Comprehensive Insurance Policy"
+          },
+          {
+            "topic": "附表与索赔",
+            "segmentStart": 203,
+            "segmentEnd": 227,
+            "rawHtmlLineStart": 439,
+            "rawHtmlLineEnd": 473,
+            "documentHeading": "Home Comprehensive Insurance Policy"
+          },
+          {
+            "topic": "取消与争议",
+            "segmentStart": 243,
+            "segmentEnd": 248,
+            "rawHtmlLineStart": 504,
+            "rawHtmlLineEnd": 512,
+            "documentHeading": "Home Comprehensive Insurance Policy"
+          }
+        ]
+      },
+      "reviewMethod": {
+        "method": "complete_semantic_read_of_offline_extracted_public_HTML_product_body",
+        "extractedBodySemanticReadComplete": true,
+        "extractedSegmentsRead": 249,
+        "extractedCharacterCount": 37058,
+        "rawSourceHashReverified": true,
+        "twoIndependentExtractorsAgree": true,
+        "renderedBrowserVisualReview": false,
+        "embeddedProductImagesReviewed": false,
+        "computedCSSVisibilityVerified": false,
+        "PDFReviewed": false,
+        "networkRecheckPerformed": false,
+        "locatorUnit": "one-based extracted segment plus raw UTF-8 HTML source text-token line span, not rendered page number"
+      },
+      "baselineRelation": {
+        "exactRawShaMatches": [
+          {
+            "catalogRecordId": "f7f0c46075796829",
+            "region": "HK",
+            "rawSha256Equal": true,
+            "exactDocumentUrlEqual": true,
+            "priorReviewStatus": "needs_review",
+            "priorReviewMethodScope": "全文核读完成；按具体文档角色与适用范围记录，不代表个别签发合同完整。",
+            "priorFullContentReviewFlag": true
+          }
+        ],
+        "status": "exact_existing_formal_HTML_original",
+        "noMatchCaveat": null
+      },
+      "preservation": {
+        "frozenSourceAcquisitionStatusUnchanged": true,
+        "priorFormalReviewStatusUnchanged": true,
+        "newFormalOriginalCredit": 0,
+        "newPDFCredit": 0,
+        "newSKUCredit": 0,
+        "strictMainVerifiedCountCredit": 0,
+        "newRawPublicRelease": false,
+        "noSilentLegalTextRepairs": true
+      },
+      "privacyAndDistributionTriage": {
+        "bodyScope": "extracted public product wording, not entire website resources or any issued customer policy",
+        "customerSpecificFilledPolicyObserved": false,
+        "obviousInternalOrRestrictedDistributionLabelObserved": false,
+        "notComprehensivePrivacyOrRedistributionClearance": true
+      },
+      "limitations": [
+        "Only the saved English product body text was read; no browser rendering, embedded-image content, CSS visibility, external linked documents or individual issued package was verified.",
+        "Public source identity and operative clause prose do not prove this is the currently sold version or a complete enforceable contract.",
+        "No missing wording, benefits table, schedule or numeric limit was invented or legally repaired.",
+        "A separate overlay must not rewrite frozen heading-only acquisition or prior formal-review states."
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "reviewId": "tugu-html-body-review-HK-tugu-hk-e790ebdc678959e046-20261027",
+      "reviewedAt": "2026-10-27T21:19:25.863969+00:00",
+      "binding": {
+        "sourceObservationId": "HK-tugu-hk-e790ebdc678959e046",
+        "sourceIssuerId": "HK-own-6010f73b4043dce8",
+        "exactSourceDocumentUrl": "https://www.tuguhk.com/tugu-product/detail?tugu_product_id=13&module=0",
+        "sourceRawHtmlSha256": "fbf361a99f9be0264ad3058e030f3f29d050f52c81881064bfa9c8bf15012d7a",
+        "sourceParentProductUrl": "https://www.tuguhk.com/tugu-product/detail?tugu_product_id=13",
+        "sourceDocumentName": "Private Motor Car Insurance Policy",
+        "sourceParentProductName": "Motor Insurance",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "sourceDocumentRecordCollection": "documents-tugu-hk.jsonl",
+        "matchingRule": "Require exact observation ID, issuer ID, document URL and raw HTML SHA before enriching material index 0. No URL-only, name-only, module-stripped or reference-number fallback."
+      },
+      "documentIdentity": {
+        "mediaType": "text/html",
+        "rawHtmlSha256": "fbf361a99f9be0264ad3058e030f3f29d050f52c81881064bfa9c8bf15012d7a",
+        "rawHtmlByteCount": 48657,
+        "extractedProductBodySha256": "4a1f1d6b899b5352eca1123f042447ba397bbf7b95352c1191fb19287c5797b7",
+        "hashDistinction": "Raw HTML bytes and normalized extracted body text are different hashes; neither is a PDF hash.",
+        "pageCount": null,
+        "language": "en",
+        "sourceMarket": "HK",
+        "sourcePublisher": "Tugu Insurance Company Limited",
+        "sourceStatedInsurer": "Tugu Insurance Company Limited",
+        "sourceStatedInsurerBasis": "operative_public_HTML_body",
+        "actualIssuedContractUnderwriterVerified": false,
+        "coverageTerritoryNote": "香港及载车海上运输的指定地域；正文另列香港法律及专属法院条款。",
+        "sourceStatedGoverningLaw": "Hong Kong",
+        "sourceStatedExclusiveCourt": "Hong Kong exclusive jurisdiction",
+        "publicationDate": null,
+        "effectiveDate": null,
+        "editionDate": null,
+        "sourceAcquiredAt": "2026-10-27T12:28:41.572583+00:00"
+      },
+      "reviewConclusion": {
+        "documentRole": "public_HTML_main_policy_wording_text",
+        "operativeMainClauseTextPresent": true,
+        "summary": "公开英文 HTML 含私家车损失、第三者责任及医疗费用主文；综合或第三者保障须由附表选择，并明确要求授权签署的附表才生效。不是可直接替代签发保单的完整合同包。",
+        "coverageSummary": [
+          "综合保障启用三节，第三者责任选项只启用第二节；车型、驾驶者、使用目的及地域受限制。",
+          "车损赔偿受市值与附表估值较低者约束；多项车损免赔可能累加。"
+        ],
+        "exclusionSummary": [
+          "排除磨损、故障、后果损失等；第三者责任另有雇佣伤害、保管财产及法院地域限制。",
+          "非指定使用或驾驶者、地域外事故、战争及核风险等按分节和法定例外读取。"
+        ],
+        "claimsAndConditionsSummary": [
+          "要求即时通知、提交诉讼文件及必要报案；未经同意不得承认责任或自行和解。",
+          "取消涉及附表、保险证书及一般短期费率；无赔款优惠条款不是当前报价承诺。"
+        ],
+        "missingComponentsAndDependencies": [
+          "签署附表、投保声明、保险证书及适用批注未随本 HTML 提供。",
+          "保额、驾驶者附加免赔、授权维修限额等依附表；公司一般短期费率表未附。"
+        ],
+        "sourceDefectsOrAmbiguities": [
+          "HTML 124行定义中的“of”原样保留，不静默替换为“or”。"
+        ],
+        "fullIssuedContractPackageVerified": false,
+        "currentVersionOrSaleVerified": false,
+        "legalEnforceabilityAssessed": false,
+        "evidence": [
+          {
+            "topic": "签署及公司身份",
+            "segmentStart": 3,
+            "segmentEnd": 23,
+            "rawHtmlLineStart": 103,
+            "rawHtmlLineEnd": 127,
+            "documentHeading": "Private Motor Car Insurance Policy"
+          },
+          {
+            "topic": "保障选择与使用限制",
+            "segmentStart": 24,
+            "segmentEnd": 28,
+            "rawHtmlLineStart": 130,
+            "rawHtmlLineEnd": 136,
+            "documentHeading": "Private Motor Car Insurance Policy"
+          },
+          {
+            "topic": "车损与免赔",
+            "segmentStart": 29,
+            "segmentEnd": 64,
+            "rawHtmlLineStart": 137,
+            "rawHtmlLineEnd": 197,
+            "documentHeading": "Private Motor Car Insurance Policy"
+          },
+          {
+            "topic": "第三者及医疗",
+            "segmentStart": 65,
+            "segmentEnd": 101,
+            "rawHtmlLineStart": 200,
+            "rawHtmlLineEnd": 263,
+            "documentHeading": "Private Motor Car Insurance Policy"
+          },
+          {
+            "topic": "无赔款优惠",
+            "segmentStart": 102,
+            "segmentEnd": 120,
+            "rawHtmlLineStart": 265,
+            "rawHtmlLineEnd": 298,
+            "documentHeading": "Private Motor Car Insurance Policy"
+          },
+          {
+            "topic": "除外与一般条件",
+            "segmentStart": 121,
+            "segmentEnd": 143,
+            "rawHtmlLineStart": 301,
+            "rawHtmlLineEnd": 331,
+            "documentHeading": "Private Motor Car Insurance Policy"
+          }
+        ]
+      },
+      "reviewMethod": {
+        "method": "complete_semantic_read_of_offline_extracted_public_HTML_product_body",
+        "extractedBodySemanticReadComplete": true,
+        "extractedSegmentsRead": 144,
+        "extractedCharacterCount": 24305,
+        "rawSourceHashReverified": true,
+        "twoIndependentExtractorsAgree": true,
+        "renderedBrowserVisualReview": false,
+        "embeddedProductImagesReviewed": false,
+        "computedCSSVisibilityVerified": false,
+        "PDFReviewed": false,
+        "networkRecheckPerformed": false,
+        "locatorUnit": "one-based extracted segment plus raw UTF-8 HTML source text-token line span, not rendered page number"
+      },
+      "baselineRelation": {
+        "exactRawShaMatches": [
+          {
+            "catalogRecordId": "06a64e41cb8a1da4",
+            "region": "HK",
+            "rawSha256Equal": true,
+            "exactDocumentUrlEqual": true,
+            "priorReviewStatus": "needs_review",
+            "priorReviewMethodScope": "全文核读完成；按具体文档角色与适用范围记录，不代表个别签发合同完整。",
+            "priorFullContentReviewFlag": true
+          }
+        ],
+        "status": "exact_existing_formal_HTML_original",
+        "noMatchCaveat": null
+      },
+      "preservation": {
+        "frozenSourceAcquisitionStatusUnchanged": true,
+        "priorFormalReviewStatusUnchanged": true,
+        "newFormalOriginalCredit": 0,
+        "newPDFCredit": 0,
+        "newSKUCredit": 0,
+        "strictMainVerifiedCountCredit": 0,
+        "newRawPublicRelease": false,
+        "noSilentLegalTextRepairs": true
+      },
+      "privacyAndDistributionTriage": {
+        "bodyScope": "extracted public product wording, not entire website resources or any issued customer policy",
+        "customerSpecificFilledPolicyObserved": false,
+        "obviousInternalOrRestrictedDistributionLabelObserved": false,
+        "notComprehensivePrivacyOrRedistributionClearance": true
+      },
+      "limitations": [
+        "Only the saved English product body text was read; no browser rendering, embedded-image content, CSS visibility, external linked documents or individual issued package was verified.",
+        "Public source identity and operative clause prose do not prove this is the currently sold version or a complete enforceable contract.",
+        "No missing wording, benefits table, schedule or numeric limit was invented or legally repaired.",
+        "A separate overlay must not rewrite frozen heading-only acquisition or prior formal-review states."
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "reviewId": "tugu-html-body-review-HK-tugu-hk-bacea455d08045c9cf-20261027",
+      "reviewedAt": "2026-10-27T21:19:25.863969+00:00",
+      "binding": {
+        "sourceObservationId": "HK-tugu-hk-bacea455d08045c9cf",
+        "sourceIssuerId": "HK-own-6010f73b4043dce8",
+        "exactSourceDocumentUrl": "https://www.tuguhk.com/tugu-product/detail?tugu_product_id=13&module=1",
+        "sourceRawHtmlSha256": "48d6413f56bfada14745c26886982a7f4b015f280d297cce58525ac8a6edd7a3",
+        "sourceParentProductUrl": "https://www.tuguhk.com/tugu-product/detail?tugu_product_id=13",
+        "sourceDocumentName": "Commercial Vehicle Insurance Policy",
+        "sourceParentProductName": "Motor Insurance",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "sourceDocumentRecordCollection": "documents-tugu-hk.jsonl",
+        "matchingRule": "Require exact observation ID, issuer ID, document URL and raw HTML SHA before enriching material index 0. No URL-only, name-only, module-stripped or reference-number fallback."
+      },
+      "documentIdentity": {
+        "mediaType": "text/html",
+        "rawHtmlSha256": "48d6413f56bfada14745c26886982a7f4b015f280d297cce58525ac8a6edd7a3",
+        "rawHtmlByteCount": 50924,
+        "extractedProductBodySha256": "d8e0523e535cd781b5fc590478e7634a8116ed94295c43b6cd69837fbf20ae59",
+        "hashDistinction": "Raw HTML bytes and normalized extracted body text are different hashes; neither is a PDF hash.",
+        "pageCount": null,
+        "language": "en",
+        "sourceMarket": "HK",
+        "sourcePublisher": "Tugu Insurance Company Limited",
+        "sourceStatedInsurer": "Tugu Insurance Company Limited",
+        "sourceStatedInsurerBasis": "operative_public_HTML_body",
+        "actualIssuedContractUnderwriterVerified": false,
+        "coverageTerritoryNote": "香港及指定海上载车运输；正文列香港法律及专属法院条款。",
+        "sourceStatedGoverningLaw": "Hong Kong",
+        "sourceStatedExclusiveCourt": "Hong Kong exclusive jurisdiction",
+        "publicationDate": null,
+        "effectiveDate": null,
+        "editionDate": null,
+        "sourceAcquiredAt": "2026-10-27T12:28:47.281657+00:00"
+      },
+      "reviewConclusion": {
+        "documentRole": "public_HTML_main_policy_wording_text",
+        "operativeMainClauseTextPresent": true,
+        "summary": "公开英文 HTML 含商用车损失和第三者责任主文，并区别综合与第三者选项、商业用途及拖车情形。授权签署附表、期间、车辆和限额未提供，不能认定完整签发合同。",
+        "coverageSummary": [
+          "两节保障的启用依附表选择；经营用途、承租人驾驶、乘客用途及拖头拖车定义有专门规则。",
+          "车损按市值和附表估值较低者及免赔处理；第三者责任限额亦依附表。"
+        ],
+        "exclusionSummary": [
+          "车损排除工具作业、超载、磨损及故障等；责任另有货物、工具作业、食品或治疗伤害等限制。",
+          "危险品运输合规、驾驶者、用途和地域均有条件，不能移植私家车规则。"
+        ],
+        "claimsAndConditionsSummary": [
+          "要求即时通知和提供索赔或诉讼文件；未经书面同意不得和解或承认责任。",
+          "取消和无赔款优惠条款仍依实际保单及一般短期费率，不构成当前费率确认。"
+        ],
+        "missingComponentsAndDependencies": [
+          "授权签署附表、投保声明、适用批注及保险证书未提供。",
+          "车辆、经营用途、保额和免赔等依附表；公司一般短期费率表未附。"
+        ],
+        "sourceDefectsOrAmbiguities": [
+          "HTML 233行重复出现诉讼处理或放弃处理字句，保留原文，不修改法律效果。"
+        ],
+        "fullIssuedContractPackageVerified": false,
+        "currentVersionOrSaleVerified": false,
+        "legalEnforceabilityAssessed": false,
+        "evidence": [
+          {
+            "topic": "签署及公司身份",
+            "segmentStart": 3,
+            "segmentEnd": 24,
+            "rawHtmlLineStart": 103,
+            "rawHtmlLineEnd": 128,
+            "documentHeading": "Commercial Vehicle Insurance Policy"
+          },
+          {
+            "topic": "保障用途及驾驶者",
+            "segmentStart": 25,
+            "segmentEnd": 44,
+            "rawHtmlLineStart": 131,
+            "rawHtmlLineEnd": 170,
+            "documentHeading": "Commercial Vehicle Insurance Policy"
+          },
+          {
+            "topic": "车损及免赔",
+            "segmentStart": 45,
+            "segmentEnd": 71,
+            "rawHtmlLineStart": 172,
+            "rawHtmlLineEnd": 212,
+            "documentHeading": "Commercial Vehicle Insurance Policy"
+          },
+          {
+            "topic": "第三者责任及例外",
+            "segmentStart": 72,
+            "segmentEnd": 115,
+            "rawHtmlLineStart": 215,
+            "rawHtmlLineEnd": 290,
+            "documentHeading": "Commercial Vehicle Insurance Policy"
+          },
+          {
+            "topic": "无赔款优惠及通用条件",
+            "segmentStart": 116,
+            "segmentEnd": 152,
+            "rawHtmlLineStart": 292,
+            "rawHtmlLineEnd": 350,
+            "documentHeading": "Commercial Vehicle Insurance Policy"
+          },
+          {
+            "topic": "重复语句",
+            "segmentStart": 83,
+            "segmentEnd": 83,
+            "rawHtmlLineStart": 233,
+            "rawHtmlLineEnd": 233,
+            "documentHeading": "Commercial Vehicle Insurance Policy"
+          }
+        ]
+      },
+      "reviewMethod": {
+        "method": "complete_semantic_read_of_offline_extracted_public_HTML_product_body",
+        "extractedBodySemanticReadComplete": true,
+        "extractedSegmentsRead": 153,
+        "extractedCharacterCount": 25462,
+        "rawSourceHashReverified": true,
+        "twoIndependentExtractorsAgree": true,
+        "renderedBrowserVisualReview": false,
+        "embeddedProductImagesReviewed": false,
+        "computedCSSVisibilityVerified": false,
+        "PDFReviewed": false,
+        "networkRecheckPerformed": false,
+        "locatorUnit": "one-based extracted segment plus raw UTF-8 HTML source text-token line span, not rendered page number"
+      },
+      "baselineRelation": {
+        "exactRawShaMatches": [
+          {
+            "catalogRecordId": "f802fd45a1a65b2b",
+            "region": "HK",
+            "rawSha256Equal": true,
+            "exactDocumentUrlEqual": true,
+            "priorReviewStatus": "needs_review",
+            "priorReviewMethodScope": "全文核读完成；按具体文档角色与适用范围记录，不代表个别签发合同完整。",
+            "priorFullContentReviewFlag": true
+          }
+        ],
+        "status": "exact_existing_formal_HTML_original",
+        "noMatchCaveat": null
+      },
+      "preservation": {
+        "frozenSourceAcquisitionStatusUnchanged": true,
+        "priorFormalReviewStatusUnchanged": true,
+        "newFormalOriginalCredit": 0,
+        "newPDFCredit": 0,
+        "newSKUCredit": 0,
+        "strictMainVerifiedCountCredit": 0,
+        "newRawPublicRelease": false,
+        "noSilentLegalTextRepairs": true
+      },
+      "privacyAndDistributionTriage": {
+        "bodyScope": "extracted public product wording, not entire website resources or any issued customer policy",
+        "customerSpecificFilledPolicyObserved": false,
+        "obviousInternalOrRestrictedDistributionLabelObserved": false,
+        "notComprehensivePrivacyOrRedistributionClearance": true
+      },
+      "limitations": [
+        "Only the saved English product body text was read; no browser rendering, embedded-image content, CSS visibility, external linked documents or individual issued package was verified.",
+        "Public source identity and operative clause prose do not prove this is the currently sold version or a complete enforceable contract.",
+        "No missing wording, benefits table, schedule or numeric limit was invented or legally repaired.",
+        "A separate overlay must not rewrite frozen heading-only acquisition or prior formal-review states."
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "reviewId": "tugu-html-body-review-HK-tugu-hk-cd4f02557ec9c14559-20261027",
+      "reviewedAt": "2026-10-27T21:19:25.863969+00:00",
+      "binding": {
+        "sourceObservationId": "HK-tugu-hk-cd4f02557ec9c14559",
+        "sourceIssuerId": "HK-own-6010f73b4043dce8",
+        "exactSourceDocumentUrl": "https://www.tuguhk.com/tugu-product/detail?tugu_product_id=23&module=0",
+        "sourceRawHtmlSha256": "154bd25215acb4ef96f04fa6a1a15b61f5ac491d3b6ca5bc87d6b1584c120a0f",
+        "sourceParentProductUrl": "https://www.tuguhk.com/tugu-product/detail?tugu_product_id=23",
+        "sourceDocumentName": "Golfer's Insurance Policy",
+        "sourceParentProductName": "Golfer's Insurance",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "sourceDocumentRecordCollection": "documents-tugu-hk.jsonl",
+        "matchingRule": "Require exact observation ID, issuer ID, document URL and raw HTML SHA before enriching material index 0. No URL-only, name-only, module-stripped or reference-number fallback."
+      },
+      "documentIdentity": {
+        "mediaType": "text/html",
+        "rawHtmlSha256": "154bd25215acb4ef96f04fa6a1a15b61f5ac491d3b6ca5bc87d6b1584c120a0f",
+        "rawHtmlByteCount": 48280,
+        "extractedProductBodySha256": "dd75668013b47a3674718ed850e6ab24b1cbca1ee2dcfbb637f41112aa7934eb",
+        "hashDistinction": "Raw HTML bytes and normalized extracted body text are different hashes; neither is a PDF hash.",
+        "pageCount": null,
+        "language": "en",
+        "sourceMarket": "HK",
+        "sourcePublisher": "Tugu Insurance Company Limited",
+        "sourceStatedInsurer": "Tugu Insurance Co. Ltd.",
+        "sourceStatedInsurerBasis": "operative_public_HTML_body",
+        "actualIssuedContractUnderwriterVerified": false,
+        "coverageTerritoryNote": "地域按缺失附表；第三者责任判决有香港首审限制，不能推断所有保障全球适用。",
+        "sourceStatedGoverningLaw": null,
+        "sourceStatedExclusiveCourt": null,
+        "publicationDate": null,
+        "effectiveDate": null,
+        "editionDate": null,
+        "sourceAcquiredAt": "2026-10-27T12:28:59.550884+00:00"
+      },
+      "reviewConclusion": {
+        "documentRole": "public_HTML_main_policy_wording_text",
+        "operativeMainClauseTextPresent": true,
+        "summary": "公开英文 HTML 含高尔夫第三者责任、意外、球具、个人物品及一杆入洞费用五节条款。年龄条款之间有需保留的范围差异，部分总限额及地域仍依附表，不是完整签发包。",
+        "coverageSummary": [
+          "五节涵盖打球或练习相关风险；球具特定往返途中与球场内个人物品范围不同。",
+          "意外节有列明给付表；其他节若干总限额和保险地域仍依附表或缺失限额。"
+        ],
+        "exclusionSummary": [
+          "责任排除家属或雇员伤害等但另列球童例外；意外排除既有缺陷、药酒及疾病等。",
+          "意外节排除未满18岁或超过65岁；通用条款另述16岁起保、年满65岁停止，不能自行统一年龄。"
+        ],
+        "claimsAndConditionsSummary": [
+          "及时通知和提交索赔资料；一杆入洞需计分卡及费用证明，未经同意不得承认责任。",
+          "条款涉及香港首审判决限制与香港仲裁，但不据此补写整份合同专属法院条款。"
+        ],
+        "missingComponentsAndDependencies": [
+          "投保声明、附表中的期间、地域及适用总限额未提供。",
+          "不同分节已给数值与仍引用附表的数值须分开，不能虚构完整限额表。"
+        ],
+        "sourceDefectsOrAmbiguities": [
+          "HTML 174行意外年龄限制与225行通用年龄起止范围不同，保留原始适用层级，不作法律消解。"
+        ],
+        "fullIssuedContractPackageVerified": false,
+        "currentVersionOrSaleVerified": false,
+        "legalEnforceabilityAssessed": false,
+        "evidence": [
+          {
+            "topic": "主文与公司",
+            "segmentStart": 2,
+            "segmentEnd": 4,
+            "rawHtmlLineStart": 100,
+            "rawHtmlLineEnd": 102,
+            "documentHeading": "Golfer's Insurance Policy"
+          },
+          {
+            "topic": "责任保障",
+            "segmentStart": 5,
+            "segmentEnd": 21,
+            "rawHtmlLineStart": 103,
+            "rawHtmlLineEnd": 124,
+            "documentHeading": "Golfer's Insurance Policy"
+          },
+          {
+            "topic": "意外给付与年龄",
+            "segmentStart": 22,
+            "segmentEnd": 50,
+            "rawHtmlLineStart": 126,
+            "rawHtmlLineEnd": 174,
+            "documentHeading": "Golfer's Insurance Policy"
+          },
+          {
+            "topic": "球具及物品",
+            "segmentStart": 51,
+            "segmentEnd": 73,
+            "rawHtmlLineStart": 177,
+            "rawHtmlLineEnd": 201,
+            "documentHeading": "Golfer's Insurance Policy"
+          },
+          {
+            "topic": "一杆入洞与判决地域",
+            "segmentStart": 74,
+            "segmentEnd": 77,
+            "rawHtmlLineStart": 202,
+            "rawHtmlLineEnd": 205,
+            "documentHeading": "Golfer's Insurance Policy"
+          },
+          {
+            "topic": "通用除外与年龄",
+            "segmentStart": 78,
+            "segmentEnd": 89,
+            "rawHtmlLineStart": 206,
+            "rawHtmlLineEnd": 226,
+            "documentHeading": "Golfer's Insurance Policy"
+          },
+          {
+            "topic": "索赔及条件",
+            "segmentStart": 90,
+            "segmentEnd": 101,
+            "rawHtmlLineStart": 228,
+            "rawHtmlLineEnd": 243,
+            "documentHeading": "Golfer's Insurance Policy"
+          }
+        ]
+      },
+      "reviewMethod": {
+        "method": "complete_semantic_read_of_offline_extracted_public_HTML_product_body",
+        "extractedBodySemanticReadComplete": true,
+        "extractedSegmentsRead": 102,
+        "extractedCharacterCount": 14137,
+        "rawSourceHashReverified": true,
+        "twoIndependentExtractorsAgree": true,
+        "renderedBrowserVisualReview": false,
+        "embeddedProductImagesReviewed": false,
+        "computedCSSVisibilityVerified": false,
+        "PDFReviewed": false,
+        "networkRecheckPerformed": false,
+        "locatorUnit": "one-based extracted segment plus raw UTF-8 HTML source text-token line span, not rendered page number"
+      },
+      "baselineRelation": {
+        "exactRawShaMatches": [],
+        "status": "no_exact_raw_SHA_match_in_formal_catalogs",
+        "noMatchCaveat": "Exact-byte nonmatch does not establish a new product, SKU, historical first acquisition, or absence of other editions and channels."
+      },
+      "preservation": {
+        "frozenSourceAcquisitionStatusUnchanged": true,
+        "priorFormalReviewStatusUnchanged": true,
+        "newFormalOriginalCredit": 0,
+        "newPDFCredit": 0,
+        "newSKUCredit": 0,
+        "strictMainVerifiedCountCredit": 0,
+        "newRawPublicRelease": false,
+        "noSilentLegalTextRepairs": true
+      },
+      "privacyAndDistributionTriage": {
+        "bodyScope": "extracted public product wording, not entire website resources or any issued customer policy",
+        "customerSpecificFilledPolicyObserved": false,
+        "obviousInternalOrRestrictedDistributionLabelObserved": false,
+        "notComprehensivePrivacyOrRedistributionClearance": true
+      },
+      "limitations": [
+        "Only the saved English product body text was read; no browser rendering, embedded-image content, CSS visibility, external linked documents or individual issued package was verified.",
+        "Public source identity and operative clause prose do not prove this is the currently sold version or a complete enforceable contract.",
+        "No missing wording, benefits table, schedule or numeric limit was invented or legally repaired.",
+        "A separate overlay must not rewrite frozen heading-only acquisition or prior formal-review states."
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "reviewId": "tugu-html-body-review-HK-tugu-hk-70e78f5bd3fce338d2-20261027",
+      "reviewedAt": "2026-10-27T21:19:25.863969+00:00",
+      "binding": {
+        "sourceObservationId": "HK-tugu-hk-70e78f5bd3fce338d2",
+        "sourceIssuerId": "HK-own-6010f73b4043dce8",
+        "exactSourceDocumentUrl": "https://www.tuguhk.com/tugu-product/detail?tugu_product_id=26&module=0",
+        "sourceRawHtmlSha256": "40f06fa64cce3226c9c78d55d69965d3e10490bdc21d0c40d2c36970d40d05a4",
+        "sourceParentProductUrl": "https://www.tuguhk.com/tugu-product/detail?tugu_product_id=26",
+        "sourceDocumentName": "Motor Trade Insurance Policy",
+        "sourceParentProductName": "Motor Trade Insurance",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "sourceDocumentRecordCollection": "documents-tugu-hk.jsonl",
+        "matchingRule": "Require exact observation ID, issuer ID, document URL and raw HTML SHA before enriching material index 0. No URL-only, name-only, module-stripped or reference-number fallback."
+      },
+      "documentIdentity": {
+        "mediaType": "text/html",
+        "rawHtmlSha256": "40f06fa64cce3226c9c78d55d69965d3e10490bdc21d0c40d2c36970d40d05a4",
+        "rawHtmlByteCount": 59228,
+        "extractedProductBodySha256": "08d2d3e226428b07348e16a92078622f3ed6274960fac21b939e33a7b6e7e792",
+        "hashDistinction": "Raw HTML bytes and normalized extracted body text are different hashes; neither is a PDF hash.",
+        "pageCount": null,
+        "language": "en",
+        "sourceMarket": "HK",
+        "sourcePublisher": "Tugu Insurance Company Limited",
+        "sourceStatedInsurer": "Tugu Insurance Company Limited",
+        "sourceStatedInsurerBasis": "operative_public_HTML_body",
+        "actualIssuedContractUnderwriterVerified": false,
+        "coverageTerritoryNote": "香港及指定海上载车运输；正文列香港法律与专属法院条款。",
+        "sourceStatedGoverningLaw": "Hong Kong",
+        "sourceStatedExclusiveCourt": "Hong Kong exclusive jurisdiction",
+        "publicationDate": null,
+        "effectiveDate": null,
+        "editionDate": null,
+        "sourceAcquiredAt": "2026-10-27T12:29:06.781094+00:00"
+      },
+      "reviewConclusion": {
+        "documentRole": "public_HTML_main_policy_wording_text",
+        "operativeMainClauseTextPresent": true,
+        "summary": "公开英文 HTML 含汽车贸易车损及第三者责任主文，贸易车牌、指定受保人及试车风险须依附表选择。车辆、驾驶者及营业用途条件不能视同一般商用车险。",
+        "coverageSummary": [
+          "贸易车牌或指定受保人模式、试车扩展、在途或途中临时停放范围分别定义。",
+          "综合选项含车损和责任，第三者选项仅责任；承保车辆和损失限额受附表及市值约束。"
+        ],
+        "exclusionSummary": [
+          "车损排除单独配件盗窃、超载及故障等；责任排除保管或运载财产与指定雇佣伤害等。",
+          "非贸易用途、非许可驾驶者、赛车、出租取酬及地域外事故等按原文限制。"
+        ],
+        "claimsAndConditionsSummary": [
+          "即时通知并转交诉讼文书，犯罪事件报案，未经同意不得承认或和解。",
+          "取消须结合保险证书及一般短期费率；未核验费率表或当前销售版本。"
+        ],
+        "missingComponentsAndDependencies": [
+          "授权签署附表、模式选择、试车扩展、投保声明、适用批注及保险证书未提供。",
+          "公司一般短期保费率表未附；不请求客户签发文件用于公开。"
+        ],
+        "sourceDefectsOrAmbiguities": [],
+        "fullIssuedContractPackageVerified": false,
+        "currentVersionOrSaleVerified": false,
+        "legalEnforceabilityAssessed": false,
+        "evidence": [
+          {
+            "topic": "签署与公司定义",
+            "segmentStart": 3,
+            "segmentEnd": 23,
+            "rawHtmlLineStart": 101,
+            "rawHtmlLineEnd": 127,
+            "documentHeading": "Motor Trade Insurance Policy"
+          },
+          {
+            "topic": "贸易模式及用途",
+            "segmentStart": 24,
+            "segmentEnd": 35,
+            "rawHtmlLineStart": 130,
+            "rawHtmlLineEnd": 149,
+            "documentHeading": "Motor Trade Insurance Policy"
+          },
+          {
+            "topic": "保障选择和车损",
+            "segmentStart": 36,
+            "segmentEnd": 59,
+            "rawHtmlLineStart": 154,
+            "rawHtmlLineEnd": 187,
+            "documentHeading": "Motor Trade Insurance Policy"
+          },
+          {
+            "topic": "第三者及限额",
+            "segmentStart": 60,
+            "segmentEnd": 96,
+            "rawHtmlLineStart": 189,
+            "rawHtmlLineEnd": 250,
+            "documentHeading": "Motor Trade Insurance Policy"
+          },
+          {
+            "topic": "通用除外",
+            "segmentStart": 97,
+            "segmentEnd": 111,
+            "rawHtmlLineStart": 251,
+            "rawHtmlLineEnd": 272,
+            "documentHeading": "Motor Trade Insurance Policy"
+          },
+          {
+            "topic": "索赔取消及法律",
+            "segmentStart": 112,
+            "segmentEnd": 120,
+            "rawHtmlLineStart": 273,
+            "rawHtmlLineEnd": 282,
+            "documentHeading": "Motor Trade Insurance Policy"
+          }
+        ]
+      },
+      "reviewMethod": {
+        "method": "complete_semantic_read_of_offline_extracted_public_HTML_product_body",
+        "extractedBodySemanticReadComplete": true,
+        "extractedSegmentsRead": 121,
+        "extractedCharacterCount": 21978,
+        "rawSourceHashReverified": true,
+        "twoIndependentExtractorsAgree": true,
+        "renderedBrowserVisualReview": false,
+        "embeddedProductImagesReviewed": false,
+        "computedCSSVisibilityVerified": false,
+        "PDFReviewed": false,
+        "networkRecheckPerformed": false,
+        "locatorUnit": "one-based extracted segment plus raw UTF-8 HTML source text-token line span, not rendered page number"
+      },
+      "baselineRelation": {
+        "exactRawShaMatches": [],
+        "status": "no_exact_raw_SHA_match_in_formal_catalogs",
+        "noMatchCaveat": "Exact-byte nonmatch does not establish a new product, SKU, historical first acquisition, or absence of other editions and channels."
+      },
+      "preservation": {
+        "frozenSourceAcquisitionStatusUnchanged": true,
+        "priorFormalReviewStatusUnchanged": true,
+        "newFormalOriginalCredit": 0,
+        "newPDFCredit": 0,
+        "newSKUCredit": 0,
+        "strictMainVerifiedCountCredit": 0,
+        "newRawPublicRelease": false,
+        "noSilentLegalTextRepairs": true
+      },
+      "privacyAndDistributionTriage": {
+        "bodyScope": "extracted public product wording, not entire website resources or any issued customer policy",
+        "customerSpecificFilledPolicyObserved": false,
+        "obviousInternalOrRestrictedDistributionLabelObserved": false,
+        "notComprehensivePrivacyOrRedistributionClearance": true
+      },
+      "limitations": [
+        "Only the saved English product body text was read; no browser rendering, embedded-image content, CSS visibility, external linked documents or individual issued package was verified.",
+        "Public source identity and operative clause prose do not prove this is the currently sold version or a complete enforceable contract.",
+        "No missing wording, benefits table, schedule or numeric limit was invented or legally repaired.",
+        "A separate overlay must not rewrite frozen heading-only acquisition or prior formal-review states."
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "reviewId": "tugu-html-body-review-HK-tugu-hk-22de4b571ee2d98794-20261027",
+      "reviewedAt": "2026-10-27T21:19:25.863969+00:00",
+      "binding": {
+        "sourceObservationId": "HK-tugu-hk-22de4b571ee2d98794",
+        "sourceIssuerId": "HK-own-6010f73b4043dce8",
+        "exactSourceDocumentUrl": "https://www.tuguhk.com/tugu-product/detail?tugu_product_id=27&module=0",
+        "sourceRawHtmlSha256": "e4714ea90b604d9953f6bae1ec3b3d47a0d9e3af081c81a7680f937b7165910d",
+        "sourceParentProductUrl": "https://www.tuguhk.com/tugu-product/detail?tugu_product_id=27",
+        "sourceDocumentName": "Personal Accident Insurance Policy",
+        "sourceParentProductName": "Personal Accident Insurance",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "sourceDocumentRecordCollection": "documents-tugu-hk.jsonl",
+        "matchingRule": "Require exact observation ID, issuer ID, document URL and raw HTML SHA before enriching material index 0. No URL-only, name-only, module-stripped or reference-number fallback."
+      },
+      "documentIdentity": {
+        "mediaType": "text/html",
+        "rawHtmlSha256": "e4714ea90b604d9953f6bae1ec3b3d47a0d9e3af081c81a7680f937b7165910d",
+        "rawHtmlByteCount": 33461,
+        "extractedProductBodySha256": "be35784b92758b2751c96c1540e9f77c08e953db4ffdf5c5f17adf2e70d366d4",
+        "hashDistinction": "Raw HTML bytes and normalized extracted body text are different hashes; neither is a PDF hash.",
+        "pageCount": null,
+        "language": "en",
+        "sourceMarket": "HK",
+        "sourcePublisher": "Tugu Insurance Company Limited",
+        "sourceStatedInsurer": "Tugu Insurance Company Limited",
+        "sourceStatedInsurerBasis": "operative_public_HTML_body",
+        "actualIssuedContractUnderwriterVerified": false,
+        "coverageTerritoryNote": "该正文未独立建立完整受保地域；HK仅为官方来源市场，不能等同全球或香港限定保障。",
+        "sourceStatedGoverningLaw": null,
+        "sourceStatedExclusiveCourt": null,
+        "publicationDate": null,
+        "effectiveDate": null,
+        "editionDate": null,
+        "sourceAcquiredAt": "2026-10-27T12:29:15.810000+00:00"
+      },
+      "reviewConclusion": {
+        "documentRole": "public_HTML_main_policy_wording_text",
+        "operativeMainClauseTextPresent": true,
+        "summary": "公开英文 HTML 含人身意外操作性主文、除外和索赔条件，但承诺给付引用的利益表未出现；附表也缺失。因此可确认条款正文存在，不能确认完整保障项目或金额。",
+        "coverageSummary": [
+          "主文以意外伤害及利益表决定给付，资本给付与同一伤害的结算有总额和终止规则。",
+          "劫机期间延续保障有期限，但利益表及期间等缺失，不能据此形成完整保障解读。"
+        ],
+        "exclusionSummary": [
+          "除外列危险活动、航空条件、酒药、未披露缺陷、妊娠、战争、自伤及核风险等。",
+          "列续保年龄停止条款，不能推断投保年龄全范围或当前续保承诺。"
+        ],
+        "claimsAndConditionsSummary": [
+          "要求尽快且14日内书面通知、按要求提供医疗及其他证明，并通知职业或健康变化。",
+          "列失踪推定、取消、争议及索赔期限；仅记录正文，不评断可执行性。"
+        ],
+        "missingComponentsAndDependencies": [
+          "Table of Benefits（利益表）在主文被多次引用，但提取的产品正文没有该表或其各项给付金额。",
+          "附表、投保声明和适用批注未提供；不能补造地域、保险期间、计划或保额。"
+        ],
+        "sourceDefectsOrAmbiguities": [
+          "主文依赖缺失利益表定义伤害或给付，第1至5项所指完整明细无法在正文中核对。"
+        ],
+        "fullIssuedContractPackageVerified": false,
+        "currentVersionOrSaleVerified": false,
+        "legalEnforceabilityAssessed": false,
+        "evidence": [
+          {
+            "topic": "公司与利益表依赖",
+            "segmentStart": 2,
+            "segmentEnd": 9,
+            "rawHtmlLineStart": 100,
+            "rawHtmlLineEnd": 111,
+            "documentHeading": "Personal Accident Insurance Policy"
+          },
+          {
+            "topic": "除外",
+            "segmentStart": 10,
+            "segmentEnd": 28,
+            "rawHtmlLineStart": 113,
+            "rawHtmlLineEnd": 160,
+            "documentHeading": "Personal Accident Insurance Policy"
+          },
+          {
+            "topic": "劫机定义",
+            "segmentStart": 29,
+            "segmentEnd": 31,
+            "rawHtmlLineStart": 166,
+            "rawHtmlLineEnd": 168,
+            "documentHeading": "Personal Accident Insurance Policy"
+          },
+          {
+            "topic": "附表和条件",
+            "segmentStart": 32,
+            "segmentEnd": 46,
+            "rawHtmlLineStart": 169,
+            "rawHtmlLineEnd": 204,
+            "documentHeading": "Personal Accident Insurance Policy"
+          },
+          {
+            "topic": "通知及证明",
+            "segmentStart": 47,
+            "segmentEnd": 54,
+            "rawHtmlLineStart": 209,
+            "rawHtmlLineEnd": 228,
+            "documentHeading": "Personal Accident Insurance Policy"
+          },
+          {
+            "topic": "续保取消及期限",
+            "segmentStart": 55,
+            "segmentEnd": 63,
+            "rawHtmlLineStart": 231,
+            "rawHtmlLineEnd": 249,
+            "documentHeading": "Personal Accident Insurance Policy"
+          }
+        ]
+      },
+      "reviewMethod": {
+        "method": "complete_semantic_read_of_offline_extracted_public_HTML_product_body",
+        "extractedBodySemanticReadComplete": true,
+        "extractedSegmentsRead": 65,
+        "extractedCharacterCount": 8795,
+        "rawSourceHashReverified": true,
+        "twoIndependentExtractorsAgree": true,
+        "renderedBrowserVisualReview": false,
+        "embeddedProductImagesReviewed": false,
+        "computedCSSVisibilityVerified": false,
+        "PDFReviewed": false,
+        "networkRecheckPerformed": false,
+        "locatorUnit": "one-based extracted segment plus raw UTF-8 HTML source text-token line span, not rendered page number"
+      },
+      "baselineRelation": {
+        "exactRawShaMatches": [],
+        "status": "no_exact_raw_SHA_match_in_formal_catalogs",
+        "noMatchCaveat": "Exact-byte nonmatch does not establish a new product, SKU, historical first acquisition, or absence of other editions and channels."
+      },
+      "preservation": {
+        "frozenSourceAcquisitionStatusUnchanged": true,
+        "priorFormalReviewStatusUnchanged": true,
+        "newFormalOriginalCredit": 0,
+        "newPDFCredit": 0,
+        "newSKUCredit": 0,
+        "strictMainVerifiedCountCredit": 0,
+        "newRawPublicRelease": false,
+        "noSilentLegalTextRepairs": true
+      },
+      "privacyAndDistributionTriage": {
+        "bodyScope": "extracted public product wording, not entire website resources or any issued customer policy",
+        "customerSpecificFilledPolicyObserved": false,
+        "obviousInternalOrRestrictedDistributionLabelObserved": false,
+        "notComprehensivePrivacyOrRedistributionClearance": true
+      },
+      "limitations": [
+        "Only the saved English product body text was read; no browser rendering, embedded-image content, CSS visibility, external linked documents or individual issued package was verified.",
+        "Public source identity and operative clause prose do not prove this is the currently sold version or a complete enforceable contract.",
+        "No missing wording, benefits table, schedule or numeric limit was invented or legally repaired.",
+        "A separate overlay must not rewrite frozen heading-only acquisition or prior formal-review states."
+      ]
+    }
+  ]
+}
