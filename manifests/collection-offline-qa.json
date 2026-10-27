@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "purpose": "offline-collection-qa",
+  "files": [
+    {
+      "path": "docs/COLLECTION_QA_PROTOCOL.md",
+      "bytes": 20694,
+      "sha256": "19b78551f050c3a1232a6576c104790732e1b148fa699b9ed8a41dd7f6f421d2"
+    },
+    {
+      "path": "scripts/collection_offline_qa.py",
+      "bytes": 22454,
+      "sha256": "01ca16987304aaebae250e6d5426aefda2e8410303becd237e11bbd4acaa4282"
+    },
+    {
+      "path": "tests/test_collection_offline_qa.py",
+      "bytes": 14208,
+      "sha256": "b12b4792d24110328b69ef3027341245cd8ea9bec7dc27cff4543544f8654e4a"
+    },
+    {
+      "path": "tests/fixtures/collection-offline-synthetic.json",
+      "bytes": 9758,
+      "sha256": "0d21dc43686aabe5094e00f87d27cffd700267d480ab58afc2f9395d3a65fb11"
+    },
+    {
+      "path": "examples/offline-collection/scope.json",
+      "bytes": 220,
+      "sha256": "935af766280d0513dd313bf944b9143b1b91be7278071fb2ad3553749e2f4f94"
+    },
+    {
+      "path": "examples/offline-collection/cached-response.json",
+      "bytes": 378,
+      "sha256": "39234c5393c2fb81a0cb35b3ad7677e65c60b7aed94c9d68996f16ffb30b0e8a"
+    }
+  ]
+}
