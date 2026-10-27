@@ -4,9 +4,11 @@
 
 这是既有保险产品资料库的**已发布的补采视图**，不是新网站，不是新闻页。沿用现有蓝白色设计、响应式布局和无依赖静态架构，提供 `coverage.html` 独立入口：地区 → 来源机构／品牌 → 观察条目 → 材料引用。原首页只加导航；原目录、旧审计视图和 25 个其余原运行文件不变。
 
-对应既有 Site：`appgprj_6ad9e50081d881919e1b20b3843c8426`。已于 2026-10-27 14:27 UTC 保存并成功部署为 Site 128，保持原公开受众；实际发布证据见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。公开源码不赋予接手人原站部署权限。
+对应既有 Site：`appgprj_6ad9e50081d881919e1b20b3843c8426`。首轮于 2026-10-27 14:27 UTC 成功部署为 Site 128，随后第五批刷新部署为 Site 129；保持原公开受众。后续当前版本和实际发布证据见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。公开源码不赋予接手人原站部署权限。
 
-## 固定输入与确定性方法
+以下输入基线记录首版模型；第五批累计替换与当前输入见 [REGIONAL_REFRESH_BATCH5.md](REGIONAL_REFRESH_BATCH5.md) 及 [LATEST.json](../coverage/LATEST.json)，不把初版观察总数当作永久当前值。
+
+## 初版固定输入与确定性方法
 
 - 输入基线：GitHub 已验证提交 `58fb5d5c5ab09e74c4f3be88d2c9fa1d7b8f144b` 的 313 文件公开交接仓库；在已验证的 264 文件基线上加入第四批 49 个新元数据文件，并替换 LATEST／README。具体源文件字节数及哈希固定在批准输入清单。
 - `website/config/coverage-approved-inputs.json` 固定该基线的公开 `coverage/` 文件字节数与 SHA-256；不是整个工作区的自动扫描入口。
@@ -73,7 +75,9 @@ npm start
 - 新增 17 组数据适配检查：输入／输出复现、旧计数不变、active feeds 与替换、共享归属、精确关系、实际材料类型、版本分层、空 URL／日期、检索、转义与失败关闭。
 - 新增 25 组 DOM-stub 行为检查：分地区加载、机构／材料搜索、类型筛选、分页、重复展开／关闭、深链接、前进后退、错误重试、迟到请求不覆盖新地区、空地区及可访问性／手机 CSS 结构。
 - `npm run build` 成功，产物与 `public/` 逐文件相同。未新装依赖。
-- **真实浏览器／移动端视觉 QA 未完成。** 已发现支持的 CUA 和已安装 Chromium，并尝试受支持的 managed preview；`sites-preview start` 启动超时，状态仍 stopped。停止该预览，未替换服务器、安装浏览器、改网络权限或访问账号。此为技术启动失败，不是网站访问拒绝。DOM stub 与 CSS 结构检查不冒充截图、真实触控、屏幕阅读器或浏览器布局测试。
+- **开发期 managed preview 未完成；后续生产桌面抽样 QA 已完成，移动端／触屏未测。** 已发现支持的 CUA 和已安装 Chromium，并尝试受支持的 managed preview；`sites-preview start` 启动超时，状态仍 stopped。停止该预览，未替换服务器、安装浏览器、改网络权限或访问账号。此为技术启动失败，不是网站访问拒绝。DOM stub 与 CSS 结构检查不冒充截图、真实触控、屏幕阅读器或浏览器布局测试。
 - 未重新请求全部官方外链，不证明链接当前有效；未再下载 PDF；无新的法律／合同内容核验结论。
 
 最终候选另做离线已知 held-locator 校验；私有注册表和匹配定位符不在仓库输出中。校验通过只证明未暴露已知禁发定位符，不等于所有未知文件的权利／隐私已获批准。
+
+Site 129 已在 1180×757 桌面浏览器完成范围内的入口、区域加载、筛选、隐藏候选／HOLD 区分和导航检查；这不扩大为移动端或全部外链验收。机器结果见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。

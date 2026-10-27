@@ -40,8 +40,12 @@
 
 保险公司文档及标识的权利不因源码交接改变；页面仅保留官方链接与最小元数据，原件的复制/再分发/商用许可需要单独判断。
 
-## 2026-10-27 补采视图源码增量与发布
+## 2026-10-27 首轮补采视图源码增量与发布（Site 128 历史）
 
 新增的 `coverage.html` 独立读取 `coverage-observations*.json`，不并入原 2,360 条目录。公开来源基线为GitHub 已验证提交 `58fb5d5c5ab09e74c4f3be88d2c9fa1d7b8f144b` 的独立批准 313 文件清单（原 264 文件及第四批 49 个新增文件，LATEST／README 替换）；只从固定批准清单中的明确 active-feed 文件生成。输入每次先校验 SHA-256 和字节数。输入元数据、转换代码、前端、测试和方法均可在仓库内接续，私有原件和私有 held-locator 注册表不进入输出。
 
-新视图已于 2026-10-27 14:27 UTC 成功部署到原站 Site 128，受众仍为 public。源提交为 `1589c3e915ce4341a11f338b51c7c705d810275b`；43 个运行文件与已核验 GitHub 源码逐字节一致，发布包另含 1 个托管配置文件。完整发布与测试边界见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。原 `website-source.json` 是原站来源历史；新源码清单另见 [website-regional-view.json](../manifests/website-regional-view.json)，该文件保留发布前开发验收快照，不将其历史状态当作当前部署状态。本轮真实浏览器验证因受支持的 managed preview 启动超时未完成；这不是访问拒绝。行为 DOM stub、HTTP、离线复现、构建及移动 CSS 结构检查的具体边界见 [REGIONAL_VIEW.md](REGIONAL_VIEW.md)。
+首轮新视图于 2026-10-27 14:27 UTC 成功部署到原站 Site 128，受众仍为 public。源提交为 `1589c3e915ce4341a11f338b51c7c705d810275b`；43 个运行文件与已核验 GitHub 源码逐字节一致，发布包另含 1 个托管配置文件。完整发布与测试边界见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。原 `website-source.json` 是原站来源历史；新源码清单另见 [website-regional-view.json](../manifests/website-regional-view.json)，该文件保留发布前开发验收快照，不将其历史状态当作当前部署状态。开发期 managed preview 启动超时，未完成当时的预览视觉检查；这不是访问拒绝。随后对已发布的 Site 128 和 Site 129 分别完成了生产桌面浏览器抽样验收，手机／触屏仍未测。行为 DOM stub、HTTP、离线复现、构建及移动 CSS 结构检查的具体边界见 [REGIONAL_VIEW.md](REGIONAL_VIEW.md)。
+
+## 后续累计刷新与当前状态
+
+第五批区域刷新已发布到 Site 129，源提交 `fd4a866a64521c452a8459f0c047ab0e0afbbe01`，20 个 active feeds／3,429 条混合来源观察。43 个运行文件与当批已核验 GitHub 源码逐字节一致；真实桌面生产流程已做限定抽样检查，移动端仍未验证。持续更新时以 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json) 为当前机器记录，上方初始与首轮记录保留其历史时点。

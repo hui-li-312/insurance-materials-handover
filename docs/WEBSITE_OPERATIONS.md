@@ -107,7 +107,7 @@ Windows 用户换成存在且可写的本机临时目录。日期标签只是例
 
 ## 6. 独立补采视图更新
 
-`coverage.html` 已随原站 Site 128 成功部署，与原已收录目录分开。当前发布证据见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。正常启动方式不变；`npm run build` 现在还会校验批准输入和已生成投影是否逐字节一致，失败时不会继续构建。
+`coverage.html` 首次随原站 Site 128 部署，后续持续更新，与原已收录目录分开。当前发布证据见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。正常启动方式不变；`npm run build` 现在还会校验批准输入和已生成投影是否逐字节一致，失败时不会继续构建。
 
 ```bash
 npm run coverage:import
