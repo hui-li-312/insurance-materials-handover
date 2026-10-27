@@ -1,0 +1,21 @@
+{
+  "issuer_id": "SG-own-e74881c12a4b4977",
+  "legal_name": "HL ASSURANCE PTE. LTD.",
+  "exact_origin": "https://www.hlas.com.sg",
+  "evidence_url": "https://www.hlas.com.sg/hlah-background-and-regional-subsidiaries/",
+  "source_date": null,
+  "checked_at": "2026-10-27T12:53:19.672838+00:00",
+  "source_access": "Official public text read through web tool; HTTP status not provided by that tool. No denial observed.",
+  "mapping_basis": "The official Singapore regional-subsidiary section explicitly identifies HL Assurance Pte Ltd and links www.hlas.com.sg; matching MAS direct-general legal entity already in census.",
+  "next_source_advertised_url": "https://www.hlas.com.sg/",
+  "public_page_navigation_scope": "14 personal and5 commercial navigation labels observed, not yet enumerated into products.",
+  "cached_identity_checked_at": "2026-10-27T12:54:13.773654+00:00",
+  "cached_identity_http_status": 200,
+  "cached_identity_sha256": "417b54363074f092339c8a10ec88ac20df41702fe243e42a20f696ceec11dbc1",
+  "regulator_legal_entity_source_url": "https://eservices.mas.gov.sg/fid/custom/printpartial?sector=Insurance",
+  "regulator_website_column": null,
+  "regulator_reference_date_original_field": "2026-10-27",
+  "regulator_source_publication_date": null,
+  "regulator_date_scope": "Original metadata reference date, not independently established regulator publication/effective date.",
+  "contract_document_reviewed": false
+}

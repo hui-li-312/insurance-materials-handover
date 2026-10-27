@@ -1,0 +1,24 @@
+{
+  "historical_or_alternate_paths": [
+    {
+      "url": "https://www.hlas.com.sg/personalinsurance/criticalillnessinsurance/",
+      "status": "source_advertised_old_path_not_requested_version_or_redirect_equivalence_unverified"
+    },
+    {
+      "url": "https://www.hlas.com.sg/personalinsurance/travelinsurance/",
+      "status": "source_advertised_old_path_not_requested_version_or_redirect_equivalence_unverified"
+    },
+    {
+      "url": "https://www.hlas.com.sg/personalinsurance/maidinsurance/",
+      "status": "source_advertised_old_path_not_requested_version_or_redirect_equivalence_unverified"
+    }
+  ],
+  "same_page_alias_handling": "Fragments and trailing-slash aliases compared only for existing-page reconciliation; no normalization changed request URL and no alias request repeated.",
+  "excluded_scopes": [
+    "Quote, BuyOnline, login, partner portal, app, application, contact submission and claim actions.",
+    "Blog/articles, provider/clinic directories, global subsidiaries and other-country products.",
+    "WordPress embed/metadata endpoints not requested; no inferred public/private API.",
+    "Policy/attachment file bodies not requested."
+  ],
+  "whole_issuer_product_catalog_complete": false
+}

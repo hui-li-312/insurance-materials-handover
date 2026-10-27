@@ -1,0 +1,90 @@
+{
+  "snapshot_at": "2026-10-27T13:07:26.959434+00:00",
+  "jurisdiction": "SG",
+  "issuer": "HL ASSURANCE PTE. LTD.",
+  "issuer_id": "SG-own-e74881c12a4b4977",
+  "products_status": "partial_wider_channels_legacy_variants_and_contracts_unclosed",
+  "C1": {
+    "status": "positive_official_site_legal_entity_identity",
+    "regulator_scope": "MAS direct general insurer; MAS website blank, exact origin grounded by official regional-subsidiary legal-name statement.",
+    "explicit_named_product_underwriter_statement_rows": 6,
+    "other_rows_scope": "Official source-publisher attribution, not independently established contract underwriter. Shared or mismatched Travel template text not transferred across offerings."
+  },
+  "C2": {
+    "selected_public_catalog_status": "exhausted_all25_pre_enumerated_marketing_targets_read",
+    "main_navigation_targets": 20,
+    "main_navigation_scope": {
+      "personal_insurance_paths": 14,
+      "corporate_employee_program_hub": 1,
+      "commercial_paths": 5
+    },
+    "additional_CEP_card_targets": 5,
+    "identity_context_targets": 1,
+    "request_events": 26,
+    "HTTP200": 26,
+    "failures": 0,
+    "pagination_evidence": "All first-level personal/commercial navigation targets and all five advertised Corporate Employee Program Find Out More cards read. Commercial category types appear directly as HTML headings, without separate detail href or continuation control. No numbered/next-page continuation in these selected card scopes; wider issuer closure not inferred.",
+    "exact_selected_queue_exhausted": true,
+    "wider_issuer_catalog_complete": false
+  },
+  "C3": {
+    "material_reference_count": 53,
+    "unique_publishable_material_urls": 46,
+    "material_role_counts": {
+      "brochure_reference": 1,
+      "historical_travel_or_claims_advisory": 4,
+      "promotion_terms": 8,
+      "policy_wording_reference": 20,
+      "provider_directory": 4,
+      "blank_claim_form": 6,
+      "benefits_summary_reference": 3,
+      "product_summary_reference": 2,
+      "exclusion_list_reference": 2,
+      "provider_or_medical_service_directory": 3
+    },
+    "product_related_link_reference_count": 28,
+    "zero_product_credit_service_promotion_advisory_reference_count": 25,
+    "file_content_and_contract_applicability_verified": false
+  },
+  "C4": {
+    "status": "not_started",
+    "PDFs_downloaded": 0,
+    "file_bodies_reviewed": 0,
+    "formal_new_material_files": 0
+  },
+  "observation_count": 48,
+  "role_counts": {
+    "product": 20,
+    "service": 3,
+    "catalog_category": 3,
+    "group": 1,
+    "coverage_class": 10,
+    "add_on": 11
+  },
+  "named_retail_business_product_rows": 15,
+  "CEP_same_family_or_legacy_name_channel_rows": 5,
+  "named_corporate_travel_group_rows": 1,
+  "generic_commercial_coverage_classes": 10,
+  "optional_addon_association_rows": 11,
+  "service_rows": 3,
+  "verified_unique_SKUs": 0,
+  "source_date_policy": "Publication/effective dates unknown and null; acquisition and metadata review times kept separately.",
+  "key_findings": [
+    "Corporate Employee Program is a distribution/discount service, not an independently established group policy.",
+    "CEP retains COVIDSafe Travel Protect360 naming; current retail uses Travel Protect360 Insurance. No automatic contract/version equivalence.",
+    "Business Packages is named Business Protect360; its six customer-sector headings are segments, not six extra products.",
+    "Casualty, Engineering and Commercial Property headings contribute ten coverage classes, not ten proven independent policies.",
+    "Travel, Car, Choice and Maid own pages explicitly name optional additions; exact rider structure remains unconfirmed. Two Six-Monthly Medical Examination entries are medical-service offerings, not insurance products.",
+    "Fraud plan table Signature/Elite and Choice tier labels are nested configuration evidence, not extra SKUs.",
+    "Multiple Maid wording URLs coexist with no explicit current issue-date boundary; current applicability remains unverified.",
+    "Materials are exact own-page href references with non-product roles separated. Parent materials not inherited by add-ons, services or category coverage components."
+  ],
+  "limits": [
+    "Other languages, separately hosted partners, unlinked older products, eligibility-specific variants, complete policies and precise current-sale availability unclosed.",
+    "No application, quote, login, purchase, contact, customer-data or claims submission performed.",
+    "No raw HTML, personal review/contact text, credentials, source code or private paths in candidate."
+  ],
+  "metadata_reviewed_at": "2026-10-27T21:16:52.836081+00:00",
+  "status": "bounded_metadata_reviewed_not_whole_market_complete",
+  "parent_edges_resolved_by_exact_name_and_source_page": 23
+}

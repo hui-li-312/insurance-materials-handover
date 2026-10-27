@@ -1,0 +1,10 @@
+{
+  "baseline_jurisdiction": "SG",
+  "baseline_formal_SHA_rows_matching_company_label": 16,
+  "baseline_unique_SHA_count": 16,
+  "exact_material_URL_overlap": 12,
+  "exact_name_row_matches": 13,
+  "normalized_source_page_row_matches": 22,
+  "active_supplemental_exact_source_ID_matches": 0,
+  "comparison_scope": "Metadata evidence only. Repeated names, pages and URLs do not establish identical policy editions, unique SKUs, new originals or transferable prior document-review credit."
+}

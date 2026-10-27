@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-10-27T21:16:52.836081+00:00",
+  "status": "reviewed_metadata_only",
+  "source_snapshot_manifest_sha256": "eeca4e43b2db2c5d49cc1320a2865424603b6f63018933708b09ed3f644f6ed9",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 1228,
+      "sha256": "2c72b1941522ca6f79664400ee77e36feb7aab35240234bc0d13cce084f0ec66"
+    },
+    {
+      "file": "baseline-reconciliation.json",
+      "bytes": 489,
+      "sha256": "97a96753990d5b1f22ebd5339a71e6e29c3ad5cdf76dfb77e1fe4698e2d742a6"
+    },
+    {
+      "file": "corrections.json",
+      "bytes": 1316,
+      "sha256": "d308918e3bd830ffc4fad6cd804078e9812ca2b1417a421e19e11d4cc4bccd63"
+    },
+    {
+      "file": "coverage-summary.json",
+      "bytes": 4790,
+      "sha256": "3d7b167ca8f9ef68ae040cac079f091da6408964567bb1d221fd403d816d1624"
+    },
+    {
+      "file": "issuer-origin-evidence.json",
+      "bytes": 1434,
+      "sha256": "72c44188bbaf4a4fc4a2c2490d3890dd34b9e277b2bf2e36504cd0c98b26d7ae"
+    },
+    {
+      "file": "products-sg-hlas.jsonl",
+      "bytes": 168351,
+      "sha256": "3afe81bc106d1c8023104025aa101d4384778aa53df814a3e8585d026d36d0c2"
+    },
+    {
+      "file": "source-attempts.json",
+      "bytes": 11937,
+      "sha256": "b21df176f0d1217982ec02de244f9ed6491ba844eed6aa00f7fac119900392d6"
+    },
+    {
+      "file": "sources.json",
+      "bytes": 11135,
+      "sha256": "9eed962683ae78954f6d65886620c7b6977f706a2666ffaac6d0b71ad8006826"
+    },
+    {
+      "file": "untraversed-scope.json",
+      "bytes": 1228,
+      "sha256": "9fc49e407fe003b29bfa7843f1e95452184b77ccbac7d727c8370dce97e08cad"
+    }
+  ]
+}

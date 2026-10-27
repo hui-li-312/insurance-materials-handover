@@ -1,0 +1,262 @@
+[
+  {
+    "source_url": "https://www.hlas.com.sg/hlah-background-and-regional-subsidiaries/",
+    "checked_at": "2026-10-27T12:54:13.773654+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/hlah-background-and-regional-subsidiaries/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 168636,
+    "content_sha256": "417b54363074f092339c8a10ec88ac20df41702fe243e42a20f696ceec11dbc1"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/travel-insurance/",
+    "checked_at": "2026-10-27T12:54:52.740349+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/travel-insurance/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 340819,
+    "content_sha256": "8305269ff69785a4b7f74a7681668e66161c61e3c52d7fefd9392316a22f3bb8"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/car-insurance/",
+    "checked_at": "2026-10-27T12:54:59.941169+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/car-insurance/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 246571,
+    "content_sha256": "9937807f26a17b1a890edb3a0db6c31baff1223f478c53f5dcc7fa625735fadd"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/choice-protect360/",
+    "checked_at": "2026-10-27T12:55:07.522813+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/choice-protect360/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 255230,
+    "content_sha256": "3b935e7ab5f5f3c2cb6fe3a2bd257eda05b12a25cf3c568b9df2a64fca682b92"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/hlas-corporate-employee-program/",
+    "checked_at": "2026-10-27T12:55:11.786246+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/hlas-corporate-employee-program/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 216457,
+    "content_sha256": "43474a39f6067ea4060d517d8f035e87a58b9d8bc92e1e284d4d36e160be1d28"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/critical-illness-insurance/",
+    "checked_at": "2026-10-27T12:55:16.063061+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/critical-illness-insurance/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 229907,
+    "content_sha256": "aba8d11191d7c8f507aaa7f7cef94c19c202b16cc72fef041fdf0230cca08ba7"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/early-critical-illness-insurance/",
+    "checked_at": "2026-10-27T12:55:20.111130+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/early-critical-illness-insurance/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 218520,
+    "content_sha256": "b4e15787eb1ff4d1cee0fd158e5755021f01a7ce8ca2f22ce02eee0ecb644d7e"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/fraud-protect360-plus/",
+    "checked_at": "2026-10-27T12:55:24.955373+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/fraud-protect360-plus/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 234708,
+    "content_sha256": "0426c99b4371313349ad0793d726d115061a21ce36bb71c24e287a16c81feead"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/fire-insurance/",
+    "checked_at": "2026-10-27T12:55:28.952100+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/fire-insurance/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 204274,
+    "content_sha256": "b639a0ea80a548c9a87826a4dabe05fba02facaa877987d517712851694603b4"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/home-protect360/",
+    "checked_at": "2026-10-27T12:55:33.735283+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/home-protect360/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 236951,
+    "content_sha256": "daad300d45ce08d5ea8220b32ce56017ed95c0cbfefbdce281552ae59bcaf95a"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/home-protectlite/",
+    "checked_at": "2026-10-27T12:55:37.789011+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/home-protectlite/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 220312,
+    "content_sha256": "fb7e0c603d92fd8b99bbe6b473b609ea3ea1eee37f1c1cf30e0080e8ea5f6e8a"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/hospital-protect360/",
+    "checked_at": "2026-10-27T12:55:41.591590+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/hospital-protect360/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 219100,
+    "content_sha256": "5fce65132584afe957a0339f2d040bf3228b18ff31f0173044be2c6e38aaf9a0"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/maid-insurance/",
+    "checked_at": "2026-10-27T12:55:45.402946+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/maid-insurance/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 318936,
+    "content_sha256": "9d59ca2d99b9c4a1857dbd5b15fdd95c8a3ba2d58374cefaebe1f1dd328465c8"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/mobile-phone-insurance/",
+    "checked_at": "2026-10-27T12:55:50.144996+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/mobile-phone-insurance/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 204051,
+    "content_sha256": "6ba33863d085f953e3c4b29d452ec6f4adf185fc5a55affc0d11fb3f0810b0d3"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/accident-protect360/",
+    "checked_at": "2026-10-27T12:55:54.165561+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/accident-protect360/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 201463,
+    "content_sha256": "7a023711640e145d7dd7c7e392396553be7fc7372f15d6d4b76b26bb8cdeb771"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/family-protect360/",
+    "checked_at": "2026-10-27T12:55:58.594780+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/family-protect360/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 215676,
+    "content_sha256": "245d2d9fbbc42dee578fa576dc735419221b11c45660c074a67fd0b1b1e7c031"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/businesspackages/",
+    "checked_at": "2026-10-27T12:56:02.714432+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/businesspackages/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 189400,
+    "content_sha256": "e3b1e0512fef782c855f6b75ea376fc847052aea9e515a0776da7244923a87a8"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/casualtyinsurance/",
+    "checked_at": "2026-10-27T12:56:06.771382+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/casualtyinsurance/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 174527,
+    "content_sha256": "963428f56ea5418c2fb57e1600fd012a97edf8941e918fbeff3fbc36171fd294"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/corporate-travel360/",
+    "checked_at": "2026-10-27T12:56:10.719519+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/corporate-travel360/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 217230,
+    "content_sha256": "8241467686efc7b58c8878c5b6be78991ee0a276c45243e32657add6e5bb0d05"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/engineeringinsurance/",
+    "checked_at": "2026-10-27T12:56:15.991052+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/engineeringinsurance/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 176804,
+    "content_sha256": "c3cf42282de29a7201e9ad4b05d4814e428c37fd45455d2579662f3b2810874c"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/propertyinsurance/",
+    "checked_at": "2026-10-27T12:56:20.377365+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/propertyinsurance/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 177299,
+    "content_sha256": "b45531f4d15dfe77fd86f9b650d5b5a0c5bbde3fe60aeb4dc31c74ba0e84882e"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personalinsurance/cep-travelinsurance/",
+    "checked_at": "2026-10-27T12:57:14.171745+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/cep-travelinsurance/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 285684,
+    "content_sha256": "497084840abac74889841779d61d923e11138858049585db9f6f745d8d36e86d"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personalinsurance/cep-maidinsurance/",
+    "checked_at": "2026-10-27T12:57:26.872293+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/cep-maidinsurance/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 292291,
+    "content_sha256": "cf06cdc139d906f7d8f8f31d2de46f2a02a31c8b5492a09ea819f280f3d3765c"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personalinsurance/cep-earlycriticalillnessinsurance/",
+    "checked_at": "2026-10-27T12:57:34.928271+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/cep-earlycriticalillnessinsurance/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 214216,
+    "content_sha256": "52529bc6459bc3489a4e72e2a66742eaf13a56f3436bb0b1ca96c5f472365056"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personalinsurance/cep-homecontentsinsurance/",
+    "checked_at": "2026-10-27T12:57:44.973671+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/cep-homecontentsinsurance/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 211349,
+    "content_sha256": "2ab984ed119f7429bc5f5d808b5710d69039aeeace58d8d8a91d256d07436c10"
+  },
+  {
+    "source_url": "https://www.hlas.com.sg/personal-insurance/personalaccident/cep-familyprotect360/",
+    "checked_at": "2026-10-27T12:57:53.781317+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlas.com.sg/personal-insurance/personalaccident/cep-familyprotect360/",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 195243,
+    "content_sha256": "a148479f5809f8213d27d9d8c1511d3782dd9a9dbf2962f717bf99adc5238b6e"
+  }
+]

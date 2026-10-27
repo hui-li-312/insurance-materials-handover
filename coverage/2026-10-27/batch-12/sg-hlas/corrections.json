@@ -1,0 +1,28 @@
+{
+  "source_snapshot_manifest_sha256": "eeca4e43b2db2c5d49cc1320a2865424603b6f63018933708b09ed3f644f6ed9",
+  "corrections": [
+    {
+      "observation_id": "SG-HLAS-observation-49f3311a4a23cdf8737d",
+      "url": "https://www.hlas.com.sg/wp-content/uploads/2025/03/CHOICE-PROTECT360-BENEFITS.pdf",
+      "old_type": "policy_wording_reference",
+      "new_type": "benefits_summary_reference",
+      "reason": "Exact anchor and adjacent Benefits Table label override mixed paragraph wording."
+    },
+    {
+      "observation_id": "SG-HLAS-observation-02614ab9aec4b5b78929",
+      "url": "https://www.hlas.com.sg/wp-content/uploads/2025/09/Early_Protect360_Plus_ProductSummary_24Jun25.pdf",
+      "old_type": "policy_wording_reference",
+      "new_type": "product_summary_reference",
+      "reason": "Exact anchor and adjacent Benefits Table label override mixed paragraph wording."
+    },
+    {
+      "observation_id": "SG-HLAS-observation-bfb80d2ba9081a3513d6",
+      "field": "issuer_mapping_status",
+      "reason": "Generic Travel Insurance wording does not explicitly name branded COVIDSafe offering."
+    }
+  ],
+  "parent_edge_resolution": 23,
+  "source_rows_preserved": 48,
+  "original_snapshot_unchanged": true,
+  "review_scope": "Cached official HTML metadata, not live availability or linked PDF content."
+}
