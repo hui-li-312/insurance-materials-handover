@@ -11,6 +11,7 @@ import {addThaiLifeCatalogs} from './thai-life-adapter.mjs';
 import {prepareDocumentReview} from './document-review-adapter.mjs';
 import {addMyTwoCatalog} from './my-two-catalog-adapter.mjs';
 import {addGreatEasternCatalog} from './great-eastern-adapter.mjs';
+import {readGreatEasternSourceLabels} from './ge-source-label-adapter.mjs';
 import {addSGThreeCatalogs} from './sg-three-catalog-adapter.mjs';
 import {addHKMYCatalogs} from './hk-my-catalog-adapter.mjs';
 import {addPhilippineMajorCatalogs} from './ph-major-catalog-adapter.mjs';
@@ -251,6 +252,8 @@ export function buildCoverage(){
  const aiaPHSummary=feedSummaries.find(f=>f.id==='aia_ph_source_catalog');aiaPHSummary.files.push(aiaPHPath+'material-links.jsonl',aiaPHPath+'identity-evidence.json',aiaPHPath+'sources.json');aiaPHSummary.materialLabelMentions=11;aiaPHSummary.unresolvedMaterialTargets=11;
  const myTwoContext=addMyTwoCatalog({feeds,rows,feedSummaries,add,read,lines,observation,facts,sha});
  const greatEasternContexts=addGreatEasternCatalog({feeds,rows,feedSummaries,add,read,lines,observation,material,facts,sha});
+ const geSourceLabelReview=readGreatEasternSourceLabels({read,rows});
+ feedSummaries.find(f=>f.id==='great_eastern_sg_my_catalog').associatedReviews=[geSourceLabelReview];
  const thaiLifeContexts=addThaiLifeCatalogs({feeds,rows,feedSummaries,add,read,lines,observation,material,facts,sha});
  const idTwoContext=addIndonesianCatalogs({feeds,rows,feedSummaries,add,read,observation,material,facts,sha});
  const phMajorContexts=addPhilippineMajorCatalogs({feeds,rows,feedSummaries,add,read,observation,material,facts,sha});
