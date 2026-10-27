@@ -1,0 +1,19 @@
+{
+  "frozen_at": "2026-10-27T14:44:39.947639+00:00",
+  "PDF_requests": 4,
+  "HTTP200": 4,
+  "private_originals": 4,
+  "bytes": 1451067,
+  "total_PDF_pages": 43,
+  "specific_visually_reviewed_pages": 8,
+  "proposed_exact_identity_patches": 4,
+  "patches_applied_to_catalog": 0,
+  "current_source_held_URL_or_SHA_matches": 0,
+  "active_hold_registry_alias_count": 61,
+  "sample_or_confidentiality_scope": "No markings seen on eight reviewed pages; no all-pages/privacy/reuse clearance. No new hold identity established.",
+  "full_contract_acceptances": 0,
+  "formal_file_credit": 0,
+  "verified_SKU_credit": 0,
+  "public_raw_release_authorized": false,
+  "source_date": null
+}

@@ -1,0 +1,36 @@
+{
+  "frozen_at": "2026-10-27T14:44:39.947639+00:00",
+  "status": "immutable_metadata_candidate_content_QA_pending",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 1705,
+      "sha256": "3c7afd6a1fff937d84ceac3f0314fbea8b98b7a70c3fd3548354e2a6b2ba6531"
+    },
+    {
+      "file": "finite-source-linked-queue.json",
+      "bytes": 4231,
+      "sha256": "fc1c202642e6db5c8271de42c541579ff610a3ece296d0b9ea78996dbe71cfc0"
+    },
+    {
+      "file": "private-intake-metadata.json",
+      "bytes": 12436,
+      "sha256": "0b507e97b28d64cb611106ca2905f20861b56197fe9d95f8999f1fd6c55e49a2"
+    },
+    {
+      "file": "proposed-observation-identity-patches.json",
+      "bytes": 4867,
+      "sha256": "c9b48128184f32eaa295b710a1e1fb99afcadd835478650578b297f22116c9ca"
+    },
+    {
+      "file": "publication-safety-gate.json",
+      "bytes": 238,
+      "sha256": "8d508688e4563cd19a820f7bf633fc8e2c93bdf2d918c65d815a86a935cfb868"
+    },
+    {
+      "file": "status.json",
+      "bytes": 674,
+      "sha256": "37f99a3671f896d4f0c5e960f5b4b3897176ce2b87f62dcc0abbabd5aa3f41fa"
+    }
+  ]
+}

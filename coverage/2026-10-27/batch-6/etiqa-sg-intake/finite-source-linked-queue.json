@@ -1,0 +1,64 @@
+{
+  "queue": [
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-b2130c1eaf52cb26c44f",
+      "official_name": "Cancer Insurance",
+      "source_product_url": "https://www.tiq.com.sg/product/cancer-insurance/",
+      "source_effective_product_url": "https://www.tiq.com.sg/product/cancer-insurance/",
+      "source_page_sha256": "30fdb7541af06138fc111b90e005bfd97be164ad06586c74c2c6880c635d4113",
+      "material_url": "https://www.tiq.com.sg/wp-content/uploads/2025/10/Cancer-Insurance_Policy-Contract-V2.25.pdf",
+      "source_material_label": "Cancer Insurance (From 26 Sep 2025)",
+      "material_type": "policy_wording_or_contract_candidate",
+      "purpose": "Resolve four source-publisher-only legal-underwriter observations from exact ordinary public linked wording. Limited identity-page review, not full-contract acceptance.",
+      "gate_status": "active61_no_locator_match",
+      "source_date": null,
+      "raw_release_authorized": false
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-44003c0bf34e9bba9538",
+      "official_name": "Enrich aspire VII",
+      "source_product_url": "https://www.tiq.com.sg/product/enrich-aspire-vii/",
+      "source_effective_product_url": "https://www.tiq.com.sg/product/enrich-aspire-vii/",
+      "source_page_sha256": "3a4a2d17d48cc674136aa9d3b0ed15375dcd2a8c8bb9bae888bb33c30cb164c3",
+      "material_url": "https://www.tiq.com.sg/wp-content/uploads/2025/09/Enrich-aspire-VII-Policy-Contract.pdf",
+      "source_material_label": "Enrich aspire VII",
+      "material_type": "policy_wording_or_contract_candidate",
+      "purpose": "Resolve four source-publisher-only legal-underwriter observations from exact ordinary public linked wording. Limited identity-page review, not full-contract acceptance.",
+      "gate_status": "active61_no_locator_match",
+      "source_date": null,
+      "raw_release_authorized": false
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-9972316730124a56b17b",
+      "official_name": "ePROTECT mortgage",
+      "source_product_url": "https://www.etiqa.com.sg/personal/home-insurance/eprotect-mortgage/",
+      "source_effective_product_url": "https://www.etiqa.com.sg/personal/home-insurance/eprotect-mortgage/",
+      "source_page_sha256": "d66bdf97ceeaa3855026c5ad6bed1b64482c58281cde5c74eb03c8fa0b5c742e",
+      "material_url": "https://www.etiqa.com.sg/wp-content/uploads/2024/01/Policy-Contract-for-ePROTECT-mortgage-v1.23.pdf",
+      "source_material_label": "Policy Contract",
+      "material_type": "policy_wording_or_contract_candidate",
+      "purpose": "Resolve four source-publisher-only legal-underwriter observations from exact ordinary public linked wording. Limited identity-page review, not full-contract acceptance.",
+      "gate_status": "active61_no_locator_match",
+      "source_date": null,
+      "raw_release_authorized": false
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-f2729337da2985189a71",
+      "official_name": "Pet Insurance",
+      "source_product_url": "https://tiq.com.sg/product/pet-insurance/",
+      "source_effective_product_url": "https://www.tiq.com.sg/product/pet-insurance/",
+      "source_page_sha256": "e1ac06be2c004e35b685f215ab7084bf1ddb7d46d9a7282cdd5200a400796001",
+      "material_url": "https://www.tiq.com.sg/wp-content/uploads/2025/03/Pet-Insurance-Policy-Wording.pdf",
+      "source_material_label": "View Full Policy Wording",
+      "material_type": "policy_wording_or_contract_candidate",
+      "purpose": "Resolve four source-publisher-only legal-underwriter observations from exact ordinary public linked wording. Limited identity-page review, not full-contract acceptance.",
+      "gate_status": "active61_no_locator_match",
+      "source_date": null,
+      "raw_release_authorized": false
+    }
+  ],
+  "request_cap": 4,
+  "guards": "No cookies/auth/nonce/redirects; active61 URL and held-SHA checks; 1GiB free reserve plus32MiB response/overhead before each request; private0600 original with magic/bytes/SHA/pdfinfo only, limited identity-page review, no raw publication or formal credit.",
+  "original_pre_acquisition_status": "proposed_not_requested",
+  "status": "four_exact_requests_completed_private_intake_only"
+}

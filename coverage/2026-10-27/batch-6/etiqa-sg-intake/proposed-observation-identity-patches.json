@@ -1,0 +1,86 @@
+[
+  {
+    "observation_id": "SG-Etiqa-expanded-observation-b2130c1eaf52cb26c44f",
+    "official_name": "Cancer Insurance",
+    "source_catalog_snapshot": "sg-etiqa-expanded-ready-20261027T143415Z-redacted-v2",
+    "proposal_status": "independent_QA_pending_not_applied_to_catalog",
+    "proposed_issuer": "ETIQA INSURANCE PTE. LTD.",
+    "proposed_issuer_id": "SG-own-f672d39a85aace2a",
+    "previous_mapping_status": "source_publisher_only_contract_underwriter_unresolved",
+    "proposed_mapping_status": "narrow_linked_policy_definition_page_explicit_legal_entity",
+    "evidence": {
+      "content_sha256": "0338f36699291fbd57ecfd272a3bc5f3001306dd45d358520687dc47300ca0b6",
+      "PDF_identity_page": 8,
+      "legal_entity": "ETIQA INSURANCE PTE. LTD.",
+      "evidence_scope": "Definition of We/Our/Us/the Company explicitly names Etiqa Insurance Pte. Ltd.; company identity only, not full contract interpretation or all-page privacy acceptance.",
+      "visually_reviewed_PDF_pages": [
+        1,
+        8
+      ]
+    },
+    "scope_limit": "Only this exact observation and linked document, not blanket brand/cross-channel/rider inheritance; material acquisition and complete-body review remain separate."
+  },
+  {
+    "observation_id": "SG-Etiqa-expanded-observation-44003c0bf34e9bba9538",
+    "official_name": "Enrich aspire VII",
+    "source_catalog_snapshot": "sg-etiqa-expanded-ready-20261027T143415Z-redacted-v2",
+    "proposal_status": "independent_QA_pending_not_applied_to_catalog",
+    "proposed_issuer": "ETIQA INSURANCE PTE. LTD.",
+    "proposed_issuer_id": "SG-own-f672d39a85aace2a",
+    "previous_mapping_status": "source_publisher_only_contract_underwriter_unresolved",
+    "proposed_mapping_status": "narrow_linked_policy_definition_page_explicit_legal_entity",
+    "evidence": {
+      "content_sha256": "b1d245baedba7f66d618b1efedb69bbe2f17877fbfd0f341697c6f88a18a2013",
+      "PDF_identity_page": 9,
+      "legal_entity": "ETIQA INSURANCE PTE. LTD.",
+      "evidence_scope": "Definition of We/Our/Us/the Company explicitly names Etiqa Insurance Pte. Ltd.; company identity only, not full contract interpretation or all-page privacy acceptance.",
+      "visually_reviewed_PDF_pages": [
+        1,
+        9
+      ]
+    },
+    "scope_limit": "Only this exact observation and linked document, not blanket brand/cross-channel/rider inheritance; material acquisition and complete-body review remain separate."
+  },
+  {
+    "observation_id": "SG-Etiqa-expanded-observation-9972316730124a56b17b",
+    "official_name": "ePROTECT mortgage",
+    "source_catalog_snapshot": "sg-etiqa-expanded-ready-20261027T143415Z-redacted-v2",
+    "proposal_status": "independent_QA_pending_not_applied_to_catalog",
+    "proposed_issuer": "ETIQA INSURANCE PTE. LTD.",
+    "proposed_issuer_id": "SG-own-f672d39a85aace2a",
+    "previous_mapping_status": "source_publisher_only_contract_underwriter_unresolved",
+    "proposed_mapping_status": "narrow_linked_policy_definition_page_explicit_legal_entity",
+    "evidence": {
+      "content_sha256": "842eda458b57a4a2f7b26b04df725031f1ac5c10905eef740ba635911d4bd8ba",
+      "PDF_identity_page": 10,
+      "legal_entity": "ETIQA INSURANCE PTE. LTD.",
+      "evidence_scope": "Definition of We/Our/Us/the Company explicitly names Etiqa Insurance Pte. Ltd.; company identity only, not full contract interpretation or all-page privacy acceptance.",
+      "visually_reviewed_PDF_pages": [
+        1,
+        10
+      ]
+    },
+    "scope_limit": "Only this exact observation and linked document, not blanket brand/cross-channel/rider inheritance; material acquisition and complete-body review remain separate."
+  },
+  {
+    "observation_id": "SG-Etiqa-expanded-observation-f2729337da2985189a71",
+    "official_name": "Pet Insurance",
+    "source_catalog_snapshot": "sg-etiqa-expanded-ready-20261027T143415Z-redacted-v2",
+    "proposal_status": "independent_QA_pending_not_applied_to_catalog",
+    "proposed_issuer": "ETIQA INSURANCE PTE. LTD.",
+    "proposed_issuer_id": "SG-own-f672d39a85aace2a",
+    "previous_mapping_status": "source_publisher_only_contract_underwriter_unresolved",
+    "proposed_mapping_status": "narrow_linked_policy_definition_page_explicit_legal_entity",
+    "evidence": {
+      "content_sha256": "157f7997856edf7b9ecc0b35e4a2eb8543ae771599f2ce61cc940c2525f8392e",
+      "PDF_identity_page": 4,
+      "legal_entity": "ETIQA INSURANCE PTE. LTD.",
+      "evidence_scope": "Definition of We/Our/Us/the Company explicitly names Etiqa Insurance Pte. Ltd.; company identity only, not full contract interpretation or all-page privacy acceptance.",
+      "visually_reviewed_PDF_pages": [
+        1,
+        4
+      ]
+    },
+    "scope_limit": "Only this exact observation and linked document, not blanket brand/cross-channel/rider inheritance; material acquisition and complete-body review remain separate."
+  }
+]
