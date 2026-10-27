@@ -1,0 +1,90 @@
+{
+  "frozen_at": "2026-10-27T16:52:04.856161+00:00",
+  "publication_status": "corrected_candidate_pending_independent_final_QA",
+  "scope": "Vietnam only, finite completed source/detail evidence; metadata observations, not complete current market or unique SKU universe.",
+  "C1": {
+    "issuer_or_candidate_records": 60,
+    "historical_regulator_named2024": 54,
+    "supplemental_candidates": 6,
+    "current2026_named_regulator_census_complete": false
+  },
+  "C2": {
+    "observation_count": 933,
+    "issuers_with_observations": 25,
+    "role_counts": {
+      "product_family_embedded_catalog_context": 1,
+      "coverage_class_context": 14,
+      "product_family": 424,
+      "group_product_family": 11,
+      "combination_package": 2,
+      "resource_only_product_candidate": 210,
+      "resource_only_group_product_candidate": 9,
+      "resource_only_accompanying_product_candidate": 67,
+      "resource_only_rider_candidate": 82,
+      "rider_or_accompanying_product": 31,
+      "product": 55,
+      "product_or_rider_candidate": 12,
+      "packaged_solution": 6,
+      "product_family_with_named_commercial_variants": 1,
+      "accompanying_product_candidate": 8
+    },
+    "current_legacy_status_counts": {
+      "publicly_listed_availability_and_contract_version_unconfirmed": 748,
+      "explicitly_current_in_source_section_as_observed": 32,
+      "explicitly_discontinued_in_source_section": 92,
+      "existing_in_force_service_context_new_business_unverified": 33,
+      "related_route_current_vs_legacy_unresolved": 14,
+      "publicly_returned_catalog_record_current_availability_contract_version_unconfirmed": 14
+    },
+    "named_resource_contexts_not_standalone_product_credit": 368,
+    "catalog_source_observations": 856,
+    "issuer_queue_status_counts": {
+      "terminal_blocked_target_source_or_issuer_alias_no_retry": 16,
+      "selected_observed_public_catalog_frontier_exhausted": 13,
+      "terminal_underdetermined_public_navigation_unavailable": 5,
+      "terminal_underdetermined_current_legal_issuer_origin": 10,
+      "currently_observed_public_model_and_HTML_frontier_exhausted_not_catalog_complete": 1,
+      "currently_observed_cached_HTML_frontier_exhausted_not_catalog_complete": 7,
+      "no_successful_public_body_terminal_failure": 3,
+      "partial_public_renderer_literal_scope_handled_count_mismatch_unresolved": 1,
+      "terminal_quarantine_uncertain_non_pdf_response_no_retry": 1,
+      "selected_observed_product_detail_frontier_exhausted": 1,
+      "selected_public_reinsurance_business_scope_exhausted": 2
+    },
+    "all_market_or_current_unique_sku_complete": false
+  },
+  "C3": {
+    "input_source_product_material_occurrences": 1997,
+    "source_observed_unique_valid_material_locators": 1696,
+    "product_context_material_occurrences": 1997,
+    "public_non_null_material_locator_occurrences": 1996,
+    "public_unique_material_locators": 1695,
+    "withheld_historical_hold_occurrences": 1,
+    "malformed_source_locator_occurrences": 0,
+    "source_level_material_observations_not_product_credit": 1335,
+    "generic_navigation_associations_removed": 0,
+    "visible_offer_credit_claim": "No comprehensive visual material availability count claimed; hidden-markup candidates explicitly marked where observed.",
+    "full_contract_verified_count": 0,
+    "nonproduct_privacy_reference_occurrences_retained": 14,
+    "nonproduct_privacy_source_only_reference_occurrences_retained": 1,
+    "privacy_reference_product_or_main_wording_credit": 0
+  },
+  "C4": {
+    "as_of": "2026-10-27T14:59:59Z",
+    "scope": "Fixed product-linked private acquisition summary only; per-issuer dedup counts may share files. Later18 bounded cap-continuations excluded.",
+    "privately_captured_targets": 1411,
+    "privately_captured_unique_sha256_global": 1308,
+    "full_content_safety_review_complete": 0,
+    "new_formally_verified_originals": 0,
+    "public_raw_files_released": 0
+  },
+  "source_safety": {
+    "active_historical_hold_alias_count": 61,
+    "matched_direct_locators_withheld_recursively": true,
+    "no_raw_source_bodies_or_binary_payloads": true,
+    "no_current_license_or_contract_claim_from_website_only": true,
+    "access_denials_closed_no_bypass": true
+  },
+  "source_v1_frozen_at": "2026-10-27T15:04:25.708902+00:00",
+  "qa_correction_scope": "Only source-label document roles, date semantics and discovery-era note scope;933 observations, all URLs/counts and fixed14:59:59Z C4 unchanged."
+}

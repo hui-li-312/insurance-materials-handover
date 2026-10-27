@@ -1,0 +1,3316 @@
+{
+  "frozen_at": "2026-10-27T16:52:04.856161+00:00",
+  "scope": "VN only; C1–C4 independent levels, not a market completeness assertion",
+  "issuers": [
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-c5d0171ec114",
+      "legal_name": "Tổng công ty Bảo hiểm Bảo Việt",
+      "C1": {
+        "census_legal_name": "Tổng công ty Bảo hiểm Bảo Việt",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://baovietonline.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-cf789feb66e0",
+      "legal_name": "Tổng công ty cổ phần Bảo Minh",
+      "C1": {
+        "census_legal_name": "Tổng công ty cổ phần Bảo Minh",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://www.baominh.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-4b3e5c1949d9",
+      "legal_name": "Tổng công ty Bảo hiểm PVI",
+      "C1": {
+        "census_legal_name": "Tổng công ty Bảo hiểm PVI",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://www.pvi.com.vn/vi",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-3619c7c091c8",
+      "legal_name": "Tổng công ty cổ phần bảo hiểm Petrolimex",
+      "C1": {
+        "census_legal_name": "Tổng công ty cổ phần bảo hiểm Petrolimex",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://www.pjico.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "selected_observed_public_catalog_frontier_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 48,
+        "role_counts": {
+          "product_family": 46,
+          "combination_package": 2
+        },
+        "remaining_requirement_or_scope_limit": "No additional eligible same-origin target in the inspected public HTML/renderer frontier; other undisclosed legacy/channel/contract versions remain unverified."
+      },
+      "C3": {
+        "product_context_material_occurrences": 26,
+        "public_non_null_locator_occurrences": 26,
+        "public_unique_material_locators": 24,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 28,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 20
+        },
+        "privately_captured_targets": 20,
+        "privately_captured_unique_sha256": 20,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-85b3598ffe23",
+      "legal_name": "Tổng công ty cổ phần bảo hiểm Toàn Cầu",
+      "C1": {
+        "census_legal_name": "Tổng công ty cổ phần bảo hiểm Toàn Cầu",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://toancauinsurance.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-792ab7e198f3",
+      "legal_name": "Công ty cổ phần bảo hiểm Viễn Đông",
+      "C1": {
+        "census_legal_name": "Công ty cổ phần bảo hiểm Viễn Đông",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://vass.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_public_navigation_unavailable",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Company homepage redirects to a social page; redirect not followed, no current official catalog established."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-c629fb144cb1",
+      "legal_name": "Tổng công ty cổ phần Bảo hiểm Bưu điện",
+      "C1": {
+        "census_legal_name": "Tổng công ty cổ phần Bảo hiểm Bưu điện",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://www.pti.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "selected_observed_public_catalog_frontier_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 54,
+        "role_counts": {
+          "product_family": 52,
+          "group_product_family": 2
+        },
+        "remaining_requirement_or_scope_limit": "No additional eligible same-origin target in the inspected public HTML/renderer frontier; other undisclosed legacy/channel/contract versions remain unverified."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-41e63b5f174a",
+      "legal_name": "Tổng công ty cổ phần Bảo hiểm Bảo Long",
+      "C1": {
+        "census_legal_name": "Tổng công ty cổ phần Bảo hiểm Bảo Long",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://baolonginsurance.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "selected_observed_public_catalog_frontier_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 40,
+        "role_counts": {
+          "product_family": 40
+        },
+        "remaining_requirement_or_scope_limit": "No additional eligible same-origin target in the inspected public HTML/renderer frontier; other undisclosed legacy/channel/contract versions remain unverified."
+      },
+      "C3": {
+        "product_context_material_occurrences": 11,
+        "public_non_null_locator_occurrences": 11,
+        "public_unique_material_locators": 11,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 38,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 8
+        },
+        "privately_captured_targets": 8,
+        "privately_captured_unique_sha256": 8,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-ec6dbbf972fb",
+      "legal_name": "Tổng công ty cổ phần bảo hiểm AAA",
+      "C1": {
+        "census_legal_name": "Tổng công ty cổ phần bảo hiểm AAA",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://www.aaa.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "selected_observed_public_catalog_frontier_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 14,
+        "role_counts": {
+          "product_family": 12,
+          "group_product_family": 2
+        },
+        "remaining_requirement_or_scope_limit": "No additional eligible same-origin target in the inspected public HTML/renderer frontier; other undisclosed legacy/channel/contract versions remain unverified."
+      },
+      "C3": {
+        "product_context_material_occurrences": 8,
+        "public_non_null_locator_occurrences": 8,
+        "public_unique_material_locators": 7,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 8,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 7
+        },
+        "privately_captured_targets": 7,
+        "privately_captured_unique_sha256": 7,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-e4cd55889768",
+      "legal_name": "Tổng công ty cổ phần Bảo hiểm Ngân hàng Đầu tư và Phát triển Việt Nam",
+      "C1": {
+        "census_legal_name": "Tổng công ty cổ phần Bảo hiểm Ngân hàng Đầu tư và Phát triển Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://bic.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-5b8ccfeb53f5",
+      "legal_name": "Công ty cổ phần bảo hiểm Ngân hàng Nông nghiệp",
+      "C1": {
+        "census_legal_name": "Công ty cổ phần bảo hiểm Ngân hàng Nông nghiệp",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://abic.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "selected_observed_public_catalog_frontier_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 73,
+        "role_counts": {
+          "product_family": 73
+        },
+        "remaining_requirement_or_scope_limit": "No additional eligible same-origin target in the inspected public HTML/renderer frontier; other undisclosed legacy/channel/contract versions remain unverified."
+      },
+      "C3": {
+        "product_context_material_occurrences": 95,
+        "public_non_null_locator_occurrences": 95,
+        "public_unique_material_locators": 81,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 168,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 72,
+          "size_limit_body_not_read": 1
+        },
+        "privately_captured_targets": 72,
+        "privately_captured_unique_sha256": 62,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-31e5c92034cc",
+      "legal_name": "Công ty cổ phần bảo hiểm Phú Hưng",
+      "C1": {
+        "census_legal_name": "Công ty cổ phần bảo hiểm Phú Hưng",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://www.baohiemphuhung.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "selected_observed_public_catalog_frontier_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 39,
+        "role_counts": {
+          "product_family": 39
+        },
+        "remaining_requirement_or_scope_limit": "No additional eligible same-origin target in the inspected public HTML/renderer frontier; other undisclosed legacy/channel/contract versions remain unverified."
+      },
+      "C3": {
+        "product_context_material_occurrences": 250,
+        "public_non_null_locator_occurrences": 250,
+        "public_unique_material_locators": 250,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 145
+        },
+        "privately_captured_targets": 145,
+        "privately_captured_unique_sha256": 137,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-0733454aef21",
+      "legal_name": "Tổng công ty cổ phần bảo hiểm Quân đội",
+      "C1": {
+        "census_legal_name": "Tổng công ty cổ phần bảo hiểm Quân đội",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://www.mic.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_public_navigation_unavailable",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Current exact origin is primary-parent supported; guarded homepage response503. No named public catalog body or product-zero inference."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-3f744d5acafb",
+      "legal_name": "Tổng Công ty Cổ phần Bảo hiểm Ngân hàng TMCP Công Thương Việt Nam",
+      "C1": {
+        "census_legal_name": "Tổng Công ty Cổ phần Bảo hiểm Ngân hàng TMCP Công Thương Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://myvbi.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "selected_observed_public_catalog_frontier_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 6,
+        "role_counts": {
+          "product_family": 6
+        },
+        "remaining_requirement_or_scope_limit": "No additional eligible same-origin target in the inspected public HTML/renderer frontier; other undisclosed legacy/channel/contract versions remain unverified."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-f457733b2c0f",
+      "legal_name": "Tổng công ty cổ phần bảo hiểm Hùng Vương",
+      "C1": {
+        "census_legal_name": "Tổng công ty cổ phần bảo hiểm Hùng Vương",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://bhv.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "selected_observed_public_catalog_frontier_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 40,
+        "role_counts": {
+          "product_family": 40
+        },
+        "remaining_requirement_or_scope_limit": "No additional eligible same-origin target in the inspected public HTML/renderer frontier; other undisclosed legacy/channel/contract versions remain unverified."
+      },
+      "C3": {
+        "product_context_material_occurrences": 24,
+        "public_non_null_locator_occurrences": 24,
+        "public_unique_material_locators": 20,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 24,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-fd67c18298c9",
+      "legal_name": "Tổng công ty cổ phần bảo hiểm Hàng Không",
+      "C1": {
+        "census_legal_name": "Tổng công ty cổ phần bảo hiểm Hàng Không",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://dbvi.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 45,
+        "role_counts": {
+          "product_family": 45
+        },
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 170,
+        "public_non_null_locator_occurrences": 170,
+        "public_unique_material_locators": 64,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 170,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "blocked_target_source_or_issuer_alias_no_retry": 58,
+          "403": 1
+        },
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-06985a61bfce",
+      "legal_name": "Tổng công ty cổ phần Bảo hiểm Sài Gòn - Hà Nội",
+      "C1": {
+        "census_legal_name": "Tổng công ty cổ phần Bảo hiểm Sài Gòn - Hà Nội",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://bshc.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_public_navigation_unavailable",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Public navigation unavailable, unresolved redirect or transport/server error; no product extraction credit."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-f066bcd0ce0f",
+      "legal_name": "Tổng công ty cổ phần bảo hiểm LPBank",
+      "C1": {
+        "census_legal_name": "Tổng công ty cổ phần bảo hiểm LPBank",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://lpbi.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_public_navigation_unavailable",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Public navigation unavailable, unresolved redirect or transport/server error; no product extraction credit."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-3bc6a8a8e263",
+      "legal_name": "Công ty bảo hiểm Liên Hiệp",
+      "C1": {
+        "census_legal_name": "Công ty bảo hiểm Liên Hiệp",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://uic.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-81cce5255eb1",
+      "legal_name": "Công ty TNHH bảo hiểm Tokio Marine Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH bảo hiểm Tokio Marine Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": null,
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_current_legal_issuer_origin",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Primary current legal-entity-to-website/status evidence; no guessed host or cross-entity allocation."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-205491ef74dc",
+      "legal_name": "Công ty TNHH bảo hiểm Samsung Vina",
+      "C1": {
+        "census_legal_name": "Công ty TNHH bảo hiểm Samsung Vina",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://svi.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_public_navigation_unavailable",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Public navigation unavailable, unresolved redirect or transport/server error; no product extraction credit."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-71ce1b1eaabc",
+      "legal_name": "Công ty Bảo hiểm QBE Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty Bảo hiểm QBE Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": null,
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_current_legal_issuer_origin",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Primary current legal-entity-to-website/status evidence; no guessed host or cross-entity allocation."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-0e47abd64917",
+      "legal_name": "Công ty TNHH bảo hiểm AIG Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH bảo hiểm AIG Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://www.aig.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "selected_observed_public_catalog_frontier_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 10,
+        "role_counts": {
+          "product_family_embedded_catalog_context": 1,
+          "product_family": 9
+        },
+        "remaining_requirement_or_scope_limit": "No additional eligible same-origin target in the inspected public HTML/renderer frontier; other undisclosed legacy/channel/contract versions remain unverified."
+      },
+      "C3": {
+        "product_context_material_occurrences": 7,
+        "public_non_null_locator_occurrences": 7,
+        "public_unique_material_locators": 7,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 7,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 7
+        },
+        "privately_captured_targets": 7,
+        "privately_captured_unique_sha256": 7,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-ecb64b40b76e",
+      "legal_name": "Công ty TNHH bảo hiểm Tasco",
+      "C1": {
+        "census_legal_name": "Công ty TNHH bảo hiểm Tasco",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://baohiemtasco.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-4c0ddc403608",
+      "legal_name": "Công ty TNHH bảo hiểm Liberty",
+      "C1": {
+        "census_legal_name": "Công ty TNHH bảo hiểm Liberty",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://www.libertyinsurance.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "selected_observed_public_catalog_frontier_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 40,
+        "role_counts": {
+          "product_family": 34,
+          "group_product_family": 6
+        },
+        "remaining_requirement_or_scope_limit": "No additional eligible same-origin target in the inspected public HTML/renderer frontier; other undisclosed legacy/channel/contract versions remain unverified."
+      },
+      "C3": {
+        "product_context_material_occurrences": 147,
+        "public_non_null_locator_occurrences": 147,
+        "public_unique_material_locators": 143,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 304,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 99,
+          "503": 4,
+          "size_limit_body_not_read": 4
+        },
+        "privately_captured_targets": 99,
+        "privately_captured_unique_sha256": 76,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-d9accce49ecd",
+      "legal_name": "Công ty TNHH bảo hiểm Chubb Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH bảo hiểm Chubb Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": null,
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_current_legal_issuer_origin",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Primary current legal-entity-to-website/status evidence; no guessed host or cross-entity allocation."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-851357414fb1",
+      "legal_name": "Công ty TNHH bảo hiểm Fubon (Việt Nam)",
+      "C1": {
+        "census_legal_name": "Công ty TNHH bảo hiểm Fubon (Việt Nam)",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://www.fubonins.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "selected_observed_public_catalog_frontier_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 17,
+        "role_counts": {
+          "product_family": 17
+        },
+        "remaining_requirement_or_scope_limit": "No additional eligible same-origin target in the inspected public HTML/renderer frontier; other undisclosed legacy/channel/contract versions remain unverified."
+      },
+      "C3": {
+        "product_context_material_occurrences": 98,
+        "public_non_null_locator_occurrences": 98,
+        "public_unique_material_locators": 89,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 98,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 72,
+          "non_pdf_response_not_retained": 1
+        },
+        "privately_captured_targets": 72,
+        "privately_captured_unique_sha256": 72,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-ff81ad334f04",
+      "legal_name": "Công ty TNHH bảo hiểm phi nhân thọ MSIG Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH bảo hiểm phi nhân thọ MSIG Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://www.msig.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-9a0fba0d7e58",
+      "legal_name": "Công ty TNHH bảo hiểm phi nhân thọ Cathay Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH bảo hiểm phi nhân thọ Cathay Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": null,
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_current_legal_issuer_origin",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Primary current legal-entity-to-website/status evidence; no guessed host or cross-entity allocation."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-f27945b69dc7",
+      "legal_name": "Chi nhánh Công ty Bảo hiểm Bảo lãnh Seoul tại Hà Nội",
+      "C1": {
+        "census_legal_name": "Chi nhánh Công ty Bảo hiểm Bảo lãnh Seoul tại Hà Nội",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://sgic.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "selected_observed_public_catalog_frontier_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 14,
+        "role_counts": {
+          "coverage_class_context": 14
+        },
+        "remaining_requirement_or_scope_limit": "No additional eligible same-origin target in the inspected public HTML/renderer frontier; other undisclosed legacy/channel/contract versions remain unverified."
+      },
+      "C3": {
+        "product_context_material_occurrences": 16,
+        "public_non_null_locator_occurrences": 16,
+        "public_unique_material_locators": 15,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 20,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 12
+        },
+        "privately_captured_targets": 12,
+        "privately_captured_unique_sha256": 12,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-5b62a097622d",
+      "legal_name": "Công ty cổ phần bảo hiểm OPES",
+      "C1": {
+        "census_legal_name": "Công ty cổ phần bảo hiểm OPES",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://opes.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-8d0b476ed650",
+      "legal_name": "Công ty TNHH bảo hiểm HD",
+      "C1": {
+        "census_legal_name": "Công ty TNHH bảo hiểm HD",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://www.hdinsurance.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-ca49f27c750c",
+      "legal_name": "Công ty Cổ phần Bảo hiểm Phi nhân thọ Techcom",
+      "C1": {
+        "census_legal_name": "Công ty Cổ phần Bảo hiểm Phi nhân thọ Techcom",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": "https://tcgi.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "selected_observed_public_catalog_frontier_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 6,
+        "role_counts": {
+          "product_family": 6
+        },
+        "remaining_requirement_or_scope_limit": "No additional eligible same-origin target in the inspected public HTML/renderer frontier; other undisclosed legacy/channel/contract versions remain unverified."
+      },
+      "C3": {
+        "product_context_material_occurrences": 6,
+        "public_non_null_locator_occurrences": 6,
+        "public_unique_material_locators": 6,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 6,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 6
+        },
+        "privately_captured_targets": 6,
+        "privately_captured_unique_sha256": 6,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-2b71b511b5ee",
+      "legal_name": "Tổng Công ty Bảo Việt nhân thọ",
+      "C1": {
+        "census_legal_name": "Tổng Công ty Bảo Việt nhân thọ",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://www.baovietnhantho.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-a1dc38ff4152",
+      "legal_name": "Công ty TNHH Bảo hiểm nhân thọ Prudential Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Bảo hiểm nhân thọ Prudential Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://www.prudential.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "currently_observed_public_model_and_HTML_frontier_exhausted_not_catalog_complete",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 104,
+        "role_counts": {
+          "resource_only_product_candidate": 44,
+          "resource_only_group_product_candidate": 9,
+          "resource_only_accompanying_product_candidate": 35,
+          "product": 9,
+          "rider_or_accompanying_product": 7
+        },
+        "remaining_requirement_or_scope_limit": "Review every explicit ordinary same-origin card detail target and record terminal outcomes. Stop on denial; no constructed CMS endpoints; cards alone never establish complete product or SKU coverage."
+      },
+      "C3": {
+        "product_context_material_occurrences": 330,
+        "public_non_null_locator_occurrences": 330,
+        "public_unique_material_locators": 242,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 60,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 239,
+          "size_limit_body_not_read": 3
+        },
+        "privately_captured_targets": 239,
+        "privately_captured_unique_sha256": 239,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-40040adec649",
+      "legal_name": "Công ty TNHH Manulife (Việt Nam)",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Manulife (Việt Nam)",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://www.manulife.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "currently_observed_cached_HTML_frontier_exhausted_not_catalog_complete",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 195,
+        "role_counts": {
+          "resource_only_product_candidate": 124,
+          "product": 5,
+          "resource_only_rider_candidate": 66
+        },
+        "remaining_requirement_or_scope_limit": "All eligible same-origin named HTML links found in this inspected finite cache set are terminal or separately recorded as aliases/exclusions; no claim that undiscovered/dynamic/channel catalogs are complete."
+      },
+      "C3": {
+        "product_context_material_occurrences": 263,
+        "public_non_null_locator_occurrences": 262,
+        "public_unique_material_locators": 244,
+        "historical_hold_withheld_occurrences": 1,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 4,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 240
+        },
+        "privately_captured_targets": 240,
+        "privately_captured_unique_sha256": 197,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-a6483abaa25f",
+      "legal_name": "Công ty TNHH Bảo hiểm nhân thọ AIA (Việt Nam)",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Bảo hiểm nhân thọ AIA (Việt Nam)",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://www.aia.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "currently_observed_cached_HTML_frontier_exhausted_not_catalog_complete",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 14,
+        "role_counts": {
+          "product_or_rider_candidate": 8,
+          "rider_or_accompanying_product": 2,
+          "packaged_solution": 1,
+          "product": 3
+        },
+        "remaining_requirement_or_scope_limit": "All eligible same-origin named HTML links found in this inspected finite cache set are terminal or separately recorded as aliases/exclusions; no claim that undiscovered/dynamic/channel catalogs are complete."
+      },
+      "C3": {
+        "product_context_material_occurrences": 83,
+        "public_non_null_locator_occurrences": 83,
+        "public_unique_material_locators": 74,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 257,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 74
+        },
+        "privately_captured_targets": 74,
+        "privately_captured_unique_sha256": 64,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-e1a55410013b",
+      "legal_name": "Công ty TNHH Bảo hiểm nhân thọ Chubb Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Bảo hiểm nhân thọ Chubb Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": null,
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_current_legal_issuer_origin",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Primary current legal-entity-to-website/status evidence; no guessed host or cross-entity allocation."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-fdd675872359",
+      "legal_name": "Công ty TNHH Bảo hiểm nhân thọ Mirae Asset Prévoir",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Bảo hiểm nhân thọ Mirae Asset Prévoir",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://www.map-life.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "no_successful_public_body_terminal_failure",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Preserve failed source outcomes; no retry initiated by this child. Parent decides whether any further independently evidenced public navigation is authorized, without denial bypass."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-efdedce2384d",
+      "legal_name": "Công ty TNHH bảo hiểm nhân thọ Daiichi Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH bảo hiểm nhân thọ Daiichi Việt Nam",
+        "regulator_id": "14/GPĐC33/KDBH",
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://dai-ichi-life.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "currently_observed_cached_HTML_frontier_exhausted_not_catalog_complete",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 67,
+        "role_counts": {
+          "resource_only_product_candidate": 21,
+          "resource_only_accompanying_product_candidate": 32,
+          "product": 3,
+          "rider_or_accompanying_product": 7,
+          "product_or_rider_candidate": 4
+        },
+        "remaining_requirement_or_scope_limit": "All eligible same-origin named HTML links found in this inspected finite cache set are terminal or separately recorded as aliases/exclusions; no claim that undiscovered/dynamic/channel catalogs are complete."
+      },
+      "C3": {
+        "product_context_material_occurrences": 128,
+        "public_non_null_locator_occurrences": 128,
+        "public_unique_material_locators": 115,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 67,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 14,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 115
+        },
+        "privately_captured_targets": 115,
+        "privately_captured_unique_sha256": 115,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-199366f142f0",
+      "legal_name": "Công ty TNHH Bảo hiểm nhân thọ Cathay Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Bảo hiểm nhân thọ Cathay Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://www.cathaylife.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "partial_public_renderer_literal_scope_handled_count_mismatch_unresolved",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 14,
+        "role_counts": {
+          "product_family": 5,
+          "group_product_family": 1,
+          "accompanying_product_candidate": 8
+        },
+        "remaining_requirement_or_scope_limit": "14 observed-ID detail responses complete within literal approved scope; list/count discrepancies and unrequested public tab models remain unresolved. No guessed IDs/query variants or whole-catalog claim."
+      },
+      "C3": {
+        "product_context_material_occurrences": 14,
+        "public_non_null_locator_occurrences": 14,
+        "public_unique_material_locators": 14,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 14
+        },
+        "privately_captured_targets": 14,
+        "privately_captured_unique_sha256": 14,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-ba0c0e3619d2",
+      "legal_name": "Công ty TNHH bảo hiểm nhân thọ FWD Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH bảo hiểm nhân thọ FWD Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://www.fwd.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-b3d56d6a6884",
+      "legal_name": "Công ty TNHH Bảo hiểm Hanwha Life Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Bảo hiểm Hanwha Life Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://hanwhalife.com.vn/vi",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "no_successful_public_body_terminal_failure",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Preserve failed source outcomes; no retry initiated by this child. Parent decides whether any further independently evidenced public navigation is authorized, without denial bypass."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-6efd434149f0",
+      "legal_name": "Công ty TNHH Bảo hiểm FWD Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Bảo hiểm FWD Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": null,
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_current_legal_issuer_origin",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Primary current legal-entity-to-website/status evidence; no guessed host or cross-entity allocation."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-1eb8bf2f7be6",
+      "legal_name": "Công ty TNHH Bảo hiểm nhân thọ Fubon Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Bảo hiểm nhân thọ Fubon Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://www.fubonlife.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "currently_observed_cached_HTML_frontier_exhausted_not_catalog_complete",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 12,
+        "role_counts": {
+          "resource_only_product_candidate": 4,
+          "product": 5,
+          "rider_or_accompanying_product": 3
+        },
+        "remaining_requirement_or_scope_limit": "All eligible same-origin named HTML links found in this inspected finite cache set are terminal or separately recorded as aliases/exclusions; no claim that undiscovered/dynamic/channel catalogs are complete."
+      },
+      "C3": {
+        "product_context_material_occurrences": 18,
+        "public_non_null_locator_occurrences": 18,
+        "public_unique_material_locators": 18,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 18
+        },
+        "privately_captured_targets": 18,
+        "privately_captured_unique_sha256": 17,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-1360bfdcb801",
+      "legal_name": "Công ty TNHH Bảo hiểm nhân thọ Generali Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Bảo hiểm nhân thọ Generali Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://generali.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "no_successful_public_body_terminal_failure",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Preserve failed source outcomes; no retry initiated by this child. Parent decides whether any further independently evidenced public navigation is authorized, without denial bypass."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-3b9b85794d1f",
+      "legal_name": "Công ty TNHH bảo hiểm nhân thọ MVI",
+      "C1": {
+        "census_legal_name": "Công ty TNHH bảo hiểm nhân thọ MVI",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://www.mvilife.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_quarantine_uncertain_non_pdf_response_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 33,
+        "role_counts": {
+          "resource_only_product_candidate": 17,
+          "resource_only_rider_candidate": 16
+        },
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 131,
+        "public_non_null_locator_occurrences": 131,
+        "public_unique_material_locators": 129,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 4,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 128,
+          "non_pdf_response_not_retained": 1
+        },
+        "privately_captured_targets": 128,
+        "privately_captured_unique_sha256": 127,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-be4282b7cd64",
+      "legal_name": "Công ty TNHH Bảo hiểm nhân thọ Sun Life Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Bảo hiểm nhân thọ Sun Life Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://www.sunlife.com.vn/vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-1a6b746bcbf4",
+      "legal_name": "Công ty Cổ phần bảo hiểm nhân thọ Phú Hưng",
+      "C1": {
+        "census_legal_name": "Công ty Cổ phần bảo hiểm nhân thọ Phú Hưng",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://www.phuhunglife.com/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "currently_observed_cached_HTML_frontier_exhausted_not_catalog_complete",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 9,
+        "role_counts": {
+          "rider_or_accompanying_product": 6,
+          "product": 3
+        },
+        "remaining_requirement_or_scope_limit": "All eligible same-origin named HTML links found in this inspected finite cache set are terminal or separately recorded as aliases/exclusions; no claim that undiscovered/dynamic/channel catalogs are complete."
+      },
+      "C3": {
+        "product_context_material_occurrences": 25,
+        "public_non_null_locator_occurrences": 25,
+        "public_unique_material_locators": 25,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 22
+        },
+        "privately_captured_targets": 22,
+        "privately_captured_unique_sha256": 21,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-7e3f617e133c",
+      "legal_name": "Công ty TNHH Bảo hiểm nhân thọ BIDV MetLife",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Bảo hiểm nhân thọ BIDV MetLife",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://www.bidvmetlife.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "selected_observed_product_detail_frontier_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 7,
+        "role_counts": {
+          "rider_or_accompanying_product": 4,
+          "product": 3
+        },
+        "remaining_requirement_or_scope_limit": "Seven canonical product details read; three old /homepage variants404; sales-guide entry404. Generic service/application form library excluded from product materials, not claimed empty."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-9cfc790f6fc7",
+      "legal_name": "Công ty TNHH Bảo hiểm nhân thọ MB Ageas",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Bảo hiểm nhân thọ MB Ageas",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://mblife.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "currently_observed_cached_HTML_frontier_exhausted_not_catalog_complete",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 25,
+        "role_counts": {
+          "packaged_solution": 5,
+          "product": 18,
+          "product_family_with_named_commercial_variants": 1,
+          "rider_or_accompanying_product": 1
+        },
+        "remaining_requirement_or_scope_limit": "All eligible same-origin named HTML links found in this inspected finite cache set are terminal or separately recorded as aliases/exclusions; no claim that undiscovered/dynamic/channel catalogs are complete."
+      },
+      "C3": {
+        "product_context_material_occurrences": 115,
+        "public_non_null_locator_occurrences": 115,
+        "public_unique_material_locators": 85,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 84,
+          "size_limit_body_not_read": 1
+        },
+        "privately_captured_targets": 84,
+        "privately_captured_unique_sha256": 82,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-6d5165b05087",
+      "legal_name": "Công ty TNHH Bảo hiểm Shinhan Life Việt Nam",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Bảo hiểm Shinhan Life Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://www.shinhanlifevn.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-b40fc0f0dac3",
+      "legal_name": "Tổng công ty cổ phần Tái bảo hiểm quốc gia Việt Nam",
+      "C1": {
+        "census_legal_name": "Tổng công ty cổ phần Tái bảo hiểm quốc gia Việt Nam",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "reinsurance"
+        ],
+        "official_website_record": "https://vinare.com.vn/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": true
+      },
+      "C2": {
+        "status": "selected_public_reinsurance_business_scope_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No public named retail-policy catalog identified in observed business-scope/site navigation; bespoke reinsurance solutions are not retail SKUs."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 4,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-e35a2fd0d1a9",
+      "legal_name": "Tổng công ty cổ phần Tái bảo hiểm Hà Nội",
+      "C1": {
+        "census_legal_name": "Tổng công ty cổ phần Tái bảo hiểm Hà Nội",
+        "regulator_id": null,
+        "licence_status_scope": "listed_in_2024_official_yearbook_current_status_unverified",
+        "insurance_classes": [
+          "reinsurance"
+        ],
+        "official_website_record": "https://www.hanoire.com/",
+        "roster_scope": "historical official annual-report 2024 appendix 1; not a 2026 census",
+        "roster_source_url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+        "roster_source_date": "2024",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": true
+      },
+      "C2": {
+        "status": "terminal_blocked_target_source_or_issuer_alias_no_retry",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No further requests to closed issuer/source aliases. Earlier successful observations retained; source closure does not invalidate historical cached metadata or establish current sale."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-56a32c82878d",
+      "legal_name": "Công ty Cổ phần bảo hiểm nhân thọ Kỹ thương",
+      "C1": {
+        "census_legal_name": "Công ty Cổ phần bảo hiểm nhân thọ Kỹ thương",
+        "regulator_id": "100/GP/KDBH",
+        "licence_status_scope": "licence_grant_announced",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": "https://www.techcomlife.com/",
+        "roster_scope": "individual supplemental licensing announcement; not a full 2026 census",
+        "roster_source_url": "https://vidi.mof.gov.vn/quan-ly-giam-sat-bao-hiem/thong-bao-2/bo-tai-chinh-cap-giay-phep-thanh-lap-va-hoat-dong-cho-cong-ty-co-phan-bao-hiem-nhan-tho-ky-thuong",
+        "roster_source_date": "2025-07-22",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "currently_observed_cached_HTML_frontier_exhausted_not_catalog_complete",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 7,
+        "role_counts": {
+          "product": 6,
+          "rider_or_accompanying_product": 1
+        },
+        "remaining_requirement_or_scope_limit": "All eligible same-origin named HTML links found in this inspected finite cache set are terminal or separately recorded as aliases/exclusions; no claim that undiscovered/dynamic/channel catalogs are complete."
+      },
+      "C3": {
+        "product_context_material_occurrences": 32,
+        "public_non_null_locator_occurrences": 32,
+        "public_unique_material_locators": 32,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 68,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {
+          "downloaded_private_unreviewed": 29,
+          "excluded_non_generic_or_transactional_no_request": 3
+        },
+        "privately_captured_targets": 29,
+        "privately_captured_unique_sha256": 27,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-d350145bfe32",
+      "legal_name": "Công ty cổ phần tái bảo hiểm Alpha",
+      "C1": {
+        "census_legal_name": "Công ty cổ phần tái bảo hiểm Alpha",
+        "regulator_id": "101/GP/KDBH",
+        "licence_status_scope": "licence_grant_announced",
+        "insurance_classes": [
+          "reinsurance"
+        ],
+        "official_website_record": "https://alphare.vn/",
+        "roster_scope": "individual supplemental licensing announcement; not a full 2026 census",
+        "roster_source_url": "https://mof.gov.vn/bo-tai-chinh/hoat-dong-cua-cac-to-chuc-co-so-dang/cap-giay-phep-thanh-lap-va-hoat-dong-cho-cong-ty-co-phan-tai-bao-hiem-alpha",
+        "roster_source_date": "2025-11-24",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": true
+      },
+      "C2": {
+        "status": "selected_public_reinsurance_business_scope_exhausted",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "No public named retail-policy catalog identified in observed business-scope/site navigation; bespoke reinsurance solutions are not retail SKUs."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-3e038acde591",
+      "legal_name": "Công ty cổ phần bảo hiểm nhân thọ Sacom",
+      "C1": {
+        "census_legal_name": "Công ty cổ phần bảo hiểm nhân thọ Sacom",
+        "regulator_id": "102/GP/KDBH",
+        "licence_status_scope": "licence_grant_announced",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": null,
+        "roster_scope": "individual supplemental licensing announcement; not a full 2026 census",
+        "roster_source_url": "https://mof.gov.vn/quan-ly-giam-sat-bao-hiem/ban-tin-thi-truong-bao-hiem-toan-cau/ban-tin-thi-truong-bao-hiem-thang-82026",
+        "roster_source_date": null,
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_current_legal_issuer_origin",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Primary current legal-entity-to-website/status evidence; no guessed host or cross-entity allocation."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-8fdec5b71e4e",
+      "legal_name": "Công ty Cổ phần Bảo hiểm VSI",
+      "C1": {
+        "census_legal_name": "Công ty Cổ phần Bảo hiểm VSI",
+        "regulator_id": "103/GP/KDBH",
+        "licence_status_scope": "licence_announced_by_issuer_parent_or_chamber_pending_regulator_reconciliation",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": null,
+        "roster_scope": "individual supplemental licensing announcement; not a full 2026 census",
+        "roster_source_url": "https://vcci.com.vn/tin-tuc/bvbank-gop-von-thanh-lap-cong-ty-bao-hiem",
+        "roster_source_date": "2026-09-09",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_current_legal_issuer_origin",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Primary current legal-entity-to-website/status evidence; no guessed host or cross-entity allocation."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-eb477f4df436",
+      "legal_name": "Công ty TNHH Bảo hiểm Phi Nhân thọ ACB",
+      "C1": {
+        "census_legal_name": "Công ty TNHH Bảo hiểm Phi Nhân thọ ACB",
+        "regulator_id": "104/GP/KDBH",
+        "licence_status_scope": "licence_announced_by_issuer_parent_or_chamber_pending_regulator_reconciliation",
+        "insurance_classes": [
+          "non_life"
+        ],
+        "official_website_record": null,
+        "roster_scope": "individual supplemental licensing announcement; not a full 2026 census",
+        "roster_source_url": "https://www.acbjobs.com.vn/news/acb-duoc-cap-phep-thanh-lap-cong-ty-bao-hiem-phi-nhan-tho-403",
+        "roster_source_date": "2026-09-04",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": null,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_current_legal_issuer_origin",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Primary current legal-entity-to-website/status evidence; no guessed host or cross-entity allocation."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    },
+    {
+      "region": "VN",
+      "issuer_id": "VN-issuer-f56025de0d95",
+      "legal_name": "Công ty cổ phần Bảo hiểm Nhân thọ Ngân hàng Việt Nam Thịnh Vượng",
+      "C1": {
+        "census_legal_name": "Công ty cổ phần Bảo hiểm Nhân thọ Ngân hàng Việt Nam Thịnh Vượng",
+        "regulator_id": null,
+        "licence_status_scope": "licence_announced_by_issuer_parent_or_chamber_pending_regulator_reconciliation",
+        "insurance_classes": [
+          "life"
+        ],
+        "official_website_record": null,
+        "roster_scope": "individual supplemental licensing announcement; not a full 2026 census",
+        "roster_source_url": "https://www.vpbank.com.vn/tin-tuc/thong-cao-bao-chi/2026/cong-ty-bao-hiem-cua-vpbank-duoc-cap-phep",
+        "roster_source_date": "2026-09-28",
+        "current_all_market_licence_denominator_complete": false,
+        "new_business_and_runoff_flags": {
+          "active_new_business": false,
+          "run_off": null
+        },
+        "is_reinsurer": false
+      },
+      "C2": {
+        "status": "terminal_underdetermined_current_legal_issuer_origin",
+        "named_selected_queue_terminal": true,
+        "all_public_product_catalog_complete": false,
+        "current_unique_SKU_count_claimed": false,
+        "inventory_observations_not_unique_products": 0,
+        "role_counts": {},
+        "remaining_requirement_or_scope_limit": "Primary current legal-entity-to-website/status evidence; no guessed host or cross-entity allocation."
+      },
+      "C3": {
+        "product_context_material_occurrences": 0,
+        "public_non_null_locator_occurrences": 0,
+        "public_unique_material_locators": 0,
+        "historical_hold_withheld_occurrences": 0,
+        "malformed_source_locator_occurrences": 0,
+        "source_level_material_observations_not_product_credit": 0,
+        "full_contract_verified_count": 0,
+        "nonproduct_privacy_reference_occurrences_retained": 0,
+        "privacy_reference_product_or_main_wording_credit": 0
+      },
+      "C4": {
+        "scope": "Only source targets linked to these fixed product-context observations, as of stated cutoff; no later size18 results absorbed. Source-level-only material captures are not added to this product-linked count.",
+        "as_of": "2026-10-27T14:59:59Z",
+        "latest_target_outcome_counts": {},
+        "privately_captured_targets": 0,
+        "privately_captured_unique_sha256": 0,
+        "full_content_safety_review_complete_count": 0,
+        "formally_verified_original_increment": 0,
+        "public_raw_release_count": 0
+      }
+    }
+  ]
+}

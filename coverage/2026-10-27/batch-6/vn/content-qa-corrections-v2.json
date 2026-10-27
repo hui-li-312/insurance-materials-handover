@@ -1,0 +1,602 @@
+{
+  "created_at": "2026-10-27T16:52:04.856161+00:00",
+  "base_snapshot_manifest_sha256": "b752864054f975a6bf5f6db57b44cc5af1ee52a7228bce07965ecdf904a21a39",
+  "scope": "Consolidated independent metadata-QA corrections only; no additional products, requests, bodies, material locators or later acquisition records.",
+  "correction_occurrence_counts": {
+    "product_occurrence_payment_request_form": 5,
+    "product_occurrence_application_claim_form_conflict": 1,
+    "product_occurrence_update_date": 8,
+    "product_occurrence_applicability_date": 1,
+    "product_occurrence_operational_information": 3,
+    "product_occurrence_privacy_notice": 14,
+    "product_occurrence_covered_illness_list": 1,
+    "product_occurrence_customer_important_information": 6,
+    "source_only_occurrence_payment_request_form": 5,
+    "source_only_occurrence_application_claim_form_conflict": 1,
+    "source_only_occurrence_privacy_notice": 1,
+    "identity_note_initial_no_company_fetch_scope": 120,
+    "identity_note_initial_no_download_scope": 120
+  },
+  "product_material_associations_changed": 39,
+  "source_only_associations_changed": 7,
+  "product_association_changes": [
+    {
+      "inventory_id": "VN-product-1d2b1f21d3842c97",
+      "material_ref_id": "material-c6bc0d4ed0839a7c2ff0",
+      "material_position": 1,
+      "changed_fields": [
+        "document_role",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-15b6cfd6734b2b08",
+      "material_ref_id": "material-b78d874f160d3755c799",
+      "material_position": 1,
+      "changed_fields": [
+        "document_role",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-55a2f14d8c001bba",
+      "material_ref_id": "material-c6bc0d4ed0839a7c2ff0",
+      "material_position": 1,
+      "changed_fields": [
+        "document_role",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-f6c00dc80da92b2e",
+      "material_ref_id": "material-c6bc0d4ed0839a7c2ff0",
+      "material_position": 1,
+      "changed_fields": [
+        "document_role",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-7f4c42897c1224b7",
+      "material_ref_id": "material-c6bc0d4ed0839a7c2ff0",
+      "material_position": 1,
+      "changed_fields": [
+        "document_role",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-da4bab2a0b5e3840",
+      "material_ref_id": "material-f4bf4f482a413719f8b3",
+      "material_position": 1,
+      "changed_fields": [
+        "document_role",
+        "main_policy_wording_credit",
+        "role",
+        "role_basis",
+        "source_role_conflict"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-10cb05a4de0aaaf8",
+      "material_ref_id": "material-d562e32b7d95a38b0293",
+      "material_position": 0,
+      "changed_fields": [
+        "date",
+        "date_basis",
+        "document_date",
+        "source_stated_update_date",
+        "source_stated_update_date_scope"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-7399b5ec0ff2cf5d",
+      "material_ref_id": "material-6e51572303b16ebfa1a6",
+      "material_position": 0,
+      "changed_fields": [
+        "date",
+        "date_basis",
+        "document_date",
+        "source_stated_update_date",
+        "source_stated_update_date_scope"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-2d0fda2664cadef7",
+      "material_ref_id": "material-42e91d5804fea5b4308a",
+      "material_position": 0,
+      "changed_fields": [
+        "date",
+        "date_basis",
+        "document_date",
+        "source_stated_update_date",
+        "source_stated_update_date_scope"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-0984174627879783",
+      "material_ref_id": "material-90c50e134f461762ff22",
+      "material_position": 0,
+      "changed_fields": [
+        "date",
+        "date_basis",
+        "document_date",
+        "source_stated_update_date",
+        "source_stated_update_date_scope"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-aa5e126c9dc78b60",
+      "material_ref_id": "material-42c6174cdd2b7af22267",
+      "material_position": 0,
+      "changed_fields": [
+        "date",
+        "date_basis",
+        "document_date",
+        "source_stated_update_date",
+        "source_stated_update_date_scope"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-61cb084db8db22f2",
+      "material_ref_id": "material-f108258fed1490f8106c",
+      "material_position": 0,
+      "changed_fields": [
+        "date",
+        "date_basis",
+        "document_date",
+        "source_stated_update_date",
+        "source_stated_update_date_scope"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-b185cf26d58d3b5a",
+      "material_ref_id": "material-508e966639d2370e8790",
+      "material_position": 0,
+      "changed_fields": [
+        "date",
+        "date_basis",
+        "document_date",
+        "source_stated_update_date",
+        "source_stated_update_date_scope"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-6d26c4ad3265f065",
+      "material_ref_id": "material-78efdc9e61f7bb23a61b",
+      "material_position": 0,
+      "changed_fields": [
+        "date",
+        "date_basis",
+        "document_date",
+        "source_stated_update_date",
+        "source_stated_update_date_scope"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-bd0089eb00262d56",
+      "material_ref_id": "material-4e381512c97dbcaeec29",
+      "material_position": 0,
+      "changed_fields": [
+        "applicability_date",
+        "applicability_date_basis",
+        "applicability_date_scope",
+        "date",
+        "date_basis",
+        "document_date"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-e4a118eec114ad10",
+      "material_ref_id": "material-9cbafe97c0fd47ef8a6a",
+      "material_position": 4,
+      "changed_fields": [
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-e4a118eec114ad10",
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "material_position": 6,
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-810d252826d142a3",
+      "material_ref_id": "material-a162331cdd17f6cc4028",
+      "material_position": 4,
+      "changed_fields": [
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-810d252826d142a3",
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "material_position": 6,
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-3f387b0af7239e84",
+      "material_ref_id": "material-2c48a6c90d7f586c8bdd",
+      "material_position": 4,
+      "changed_fields": [
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-3f387b0af7239e84",
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "material_position": 6,
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-11b341e86d0d3c90",
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "material_position": 3,
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-d5ad32f9e03b5434",
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "material_position": 3,
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-90a8ce3a8f86a8e5",
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "material_position": 3,
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-b866703baf27d8d7",
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "material_position": 3,
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-5daac4fc0761ceb0",
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "material_position": 5,
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-5387e6a284251129",
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "material_position": 3,
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-e18c817a428951f9",
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "material_position": 3,
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-8de692e618e5e97a",
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "material_position": 4,
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-2e35f83318720349",
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "material_position": 4,
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-6e76bc20b5b0182c",
+      "material_ref_id": "material-ffd8ed93fe5eb2bb4b41",
+      "material_position": 2,
+      "changed_fields": [
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-6e76bc20b5b0182c",
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "material_position": 4,
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-d91cf7c0257f6ad6",
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "material_position": 3,
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-c9851a0e7f538316",
+      "material_ref_id": "material-ab0aa8a9c64188213f59",
+      "material_position": 3,
+      "changed_fields": [
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-7b3eb4de88dc8ecc",
+      "material_ref_id": "material-63278bd54947f11a5715",
+      "material_position": 1,
+      "changed_fields": [
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-0fadccfcc65fd6a3",
+      "material_ref_id": "material-88cc1f40aa8feb546415",
+      "material_position": 2,
+      "changed_fields": [
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-4e72f4ba64cefa28",
+      "material_ref_id": "material-98cb13b6bc862594ce27",
+      "material_position": 2,
+      "changed_fields": [
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-370a7ced323d27bd",
+      "material_ref_id": "material-58fcd83e46bdc9dd2acc",
+      "material_position": 2,
+      "changed_fields": [
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "inventory_id": "VN-product-76c6387e41fe0acd",
+      "material_ref_id": "material-cc41f11dce7b346fe7d1",
+      "material_position": 2,
+      "changed_fields": [
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "role",
+        "role_basis"
+      ]
+    }
+  ],
+  "source_only_association_changes": [
+    {
+      "source_material_observation_position": 369,
+      "material_ref_id": "material-c6bc0d4ed0839a7c2ff0",
+      "source_page_url": "https://dbvi.com.vn/products/bao-hiem-suc-khoe-toan-dien",
+      "changed_fields": [
+        "document_role",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "source_material_observation_position": 555,
+      "material_ref_id": "material-b78d874f160d3755c799",
+      "source_page_url": "https://dbvi.com.vn/products/bao-hiem-con-nguoi-muc-trach-nhiem-cao-dbv-care",
+      "changed_fields": [
+        "document_role",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "source_material_observation_position": 598,
+      "material_ref_id": "material-c6bc0d4ed0839a7c2ff0",
+      "source_page_url": "https://dbvi.com.vn/products/bao-hiem-tai-nan-con-nguoi-24-gio",
+      "changed_fields": [
+        "document_role",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "source_material_observation_position": 642,
+      "material_ref_id": "material-c6bc0d4ed0839a7c2ff0",
+      "source_page_url": "https://dbvi.com.vn/products/bao-hiem-hoc-sinh-sinh-vien",
+      "changed_fields": [
+        "document_role",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "source_material_observation_position": 682,
+      "material_ref_id": "material-c6bc0d4ed0839a7c2ff0",
+      "source_page_url": "https://dbvi.com.vn/products/bao-hiem-tai-nan-ho-su-dung-dien",
+      "changed_fields": [
+        "document_role",
+        "role",
+        "role_basis"
+      ]
+    },
+    {
+      "source_material_observation_position": 794,
+      "material_ref_id": "material-f4bf4f482a413719f8b3",
+      "source_page_url": "https://www.fubonins.com.vn/product/bao-hiem-trach-nhiem",
+      "changed_fields": [
+        "document_role",
+        "main_policy_wording_credit",
+        "role",
+        "role_basis",
+        "source_role_conflict"
+      ]
+    },
+    {
+      "source_material_observation_position": 1262,
+      "material_ref_id": "material-85ab891091b59f975f46",
+      "source_page_url": "https://dai-ichi-life.com.vn/giai-phap-bao-hiem",
+      "changed_fields": [
+        "association_scope",
+        "classification_category",
+        "document_role",
+        "main_policy_wording_credit",
+        "product_material_credit",
+        "role",
+        "role_basis"
+      ]
+    }
+  ],
+  "interpretation": [
+    "Dai-ichi personal-data notices retain source references with zero product-material and main-wording credit.",
+    "DBV payment requests are claims/payment-request forms, not proposals to purchase insurance.",
+    "Dai-ichi operational information, MB important-information summaries and the88-illness list are not main policy wording.",
+    "Fubon liability-page application-label/claims-filename conflict stays unconfirmed; two other exact-target occurrences explicitly labeled claims retain their original claims role.",
+    "Manulife10 September2026 is policy applicability; Dai-ichi eight dates are source-stated updates. Generic publication/document dates are null.",
+    "Initial identity-discovery no-download/no-fetch notes are explicitly scoped to that historical step; fixed later C4 remains separate."
+  ],
+  "C4_cutoff": "2026-10-27T14:59:59Z",
+  "C4_privately_captured_targets_unchanged": 1411,
+  "C4_unique_SHA_unchanged": 1308,
+  "full_content_review_or_formal_original_increment": 0,
+  "public_raw_release": 0
+}

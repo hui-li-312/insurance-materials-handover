@@ -1,0 +1,23 @@
+{
+  "created_at": "2026-10-27T15:04:25.708902+00:00",
+  "scope": "New finite VN-only candidate; earlier four-region READY snapshots unchanged.",
+  "observed_product_context_inputs": {
+    "nonlife": 407,
+    "phu_renderer": 39,
+    "life": 473,
+    "cathay_renderer": 14
+  },
+  "material_role_conflict_reference_ids": [
+    "material-899aaafd43defe51bf57"
+  ],
+  "generic_navigation_removed_associations": [],
+  "malformed_locator_reference_ids": [],
+  "quality_notes": [
+    "Resource-only current/discontinued/in-force contexts remain separate from public detail offerings.",
+    "Same-name/routes/languages remain explicit relationships, not fuzzy legal-entity or SKU merges.",
+    "Global source-level catalogs remain unassigned; no product-specific main wording is inferred from a filename or footer.",
+    "Public wording/document labels are candidate roles only; no full content or contract applicability verification.",
+    "Cathay fourteen successful observed-ID details retain category count/record mismatch; embedded PDF bytes are duplicates, not new files.",
+    "C4 cutoff is fixed before the later18 bounded resource-cap continuation."
+  ]
+}

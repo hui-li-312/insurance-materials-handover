@@ -1,0 +1,876 @@
+[
+  {
+    "region": "VN",
+    "url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+    "source_type": "regulator_yearbook",
+    "source_date": "2024",
+    "source_date_precision": "year",
+    "checked_at": "2026-10-27T09:45:46.457955+00:00",
+    "pages": [
+      22,
+      23
+    ],
+    "counts": {
+      "non_life": 33,
+      "life": 19,
+      "reinsurance": 2
+    },
+    "coverage": "historical_not_current"
+  },
+  {
+    "region": "VN",
+    "url": "https://vidi.mof.gov.vn/quan-ly-giam-sat-bao-hiem/thong-bao-2/bo-tai-chinh-cap-giay-phep-thanh-lap-va-hoat-dong-cho-cong-ty-co-phan-bao-hiem-nhan-tho-ky-thuong",
+    "source_type": "regulator_licensing_notice",
+    "source_date": "2025-07-22",
+    "checked_at": "2026-10-27T09:54:55.536543+00:00",
+    "coverage": "individual_entity_update_not_denominator",
+    "notes": [
+      "MOF announcement states licence granted 2025-07-16. Direct HTML is JS shell; substantive regulatory text accessible via public web search index; saved web evidence."
+    ]
+  },
+  {
+    "region": "VN",
+    "url": "https://mof.gov.vn/bo-tai-chinh/hoat-dong-cua-cac-to-chuc-co-so-dang/cap-giay-phep-thanh-lap-va-hoat-dong-cho-cong-ty-co-phan-tai-bao-hiem-alpha",
+    "source_type": "regulator_licensing_notice",
+    "source_date": "2025-11-24",
+    "checked_at": "2026-10-27T09:54:55.536543+00:00",
+    "coverage": "individual_entity_update_not_denominator",
+    "notes": [
+      "MOF announcement states licence granted 2025-11-19. Direct HTML is JS shell; substantive regulatory text accessible via public web search index; saved web evidence."
+    ]
+  },
+  {
+    "region": "VN",
+    "url": "https://mof.gov.vn/quan-ly-giam-sat-bao-hiem/ban-tin-thi-truong-bao-hiem-toan-cau/ban-tin-thi-truong-bao-hiem-thang-82026",
+    "source_type": "regulator_licensing_notice",
+    "source_date": null,
+    "checked_at": "2026-10-27T09:54:55.536543+00:00",
+    "coverage": "individual_entity_update_not_denominator",
+    "notes": [
+      "LP Life licence granted 2026-06-01; MOF August 2026 bulletin states 102/GPĐC1/KDBH dated 2026-08-05 authorizes rename LP to Sacom. One entity, not two. Exact bulletin publication date not displayed in extracted evidence."
+    ]
+  },
+  {
+    "region": "VN",
+    "url": "https://vcci.com.vn/tin-tuc/bvbank-gop-von-thanh-lap-cong-ty-bao-hiem",
+    "source_type": "chamber_report_citing_issuer_filing",
+    "source_date": "2026-09-09",
+    "checked_at": "2026-10-27T09:54:55.536543+00:00",
+    "coverage": "individual_entity_update_not_denominator",
+    "notes": [
+      "VCCI reports licence dated 2026-07-21 based on BVBank interim financial statements. Supplemental candidate; original MOF notice not yet located. No current product inference."
+    ]
+  },
+  {
+    "region": "VN",
+    "url": "https://www.acbjobs.com.vn/news/acb-duoc-cap-phep-thanh-lap-cong-ty-bao-hiem-phi-nhan-tho-403",
+    "source_type": "issuer_parent_announcement",
+    "source_date": "2026-09-04",
+    "checked_at": "2026-10-27T09:54:55.536543+00:00",
+    "coverage": "individual_entity_update_not_denominator",
+    "notes": [
+      "ACB official careers/news page states licence granted 2026-08-12. Parent announcement, not regulator roster."
+    ]
+  },
+  {
+    "region": "VN",
+    "url": "https://www.vpbank.com.vn/tin-tuc/thong-cao-bao-chi/2026/cong-ty-bao-hiem-cua-vpbank-duoc-cap-phep",
+    "source_type": "issuer_parent_announcement",
+    "source_date": "2026-09-28",
+    "checked_at": "2026-10-27T09:54:55.536543+00:00",
+    "coverage": "individual_entity_update_not_denominator",
+    "notes": [
+      "VPBank announcement says licensed, scheduled to commence Q1 2027; licence number/date not specified in this primary source, so null. Treat prelaunch; existing AIA bank products are not VPLife products."
+    ]
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-c5d0171ec114",
+    "url": "https://baovietonline.com.vn/",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_homepage",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-c5d0171ec114",
+    "url": "https://baovietonline.com.vn/vi/tin-tuc/chi-tiet/267/thong-bao-cap-nhat-thong-tin-ban-dieu-hanh-tong-cong-ty-bao-hiem-bao-viet.html",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_homepage",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-c5d0171ec114",
+    "url": "https://www.baoviet.com.vn/sites/default/files/2024-09/BVH_IR2021_EN.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_homepage",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-cf789feb66e0",
+    "url": "https://tructuyen.baominh.vn/dieu-kien-va-dieu-khoan",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_ownership_statement",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-4b3e5c1949d9",
+    "url": "https://www.pvi.com.vn/vi/faq",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_faq",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-3619c7c091c8",
+    "url": "https://www.pjico.com.vn/wp-content/uploads/2024/03/20240319-PGI-Nghi-quyet-phien-hop-lan-thu-23.pdf",
+    "source_date": "2024-03-19",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_disclosure",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-3619c7c091c8",
+    "url": "https://www.pjico.com.vn/wp-content/uploads/2025/01/PGI-BCTC-2024-Ti%E1%BA%BFng-Anh.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_disclosure",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-85b3598ffe23",
+    "url": "https://toancauinsurance.com.vn/tin-tuc-thong-bao-va-khuyen-mai/thong-bao/thong-bao-thay-doi-ten-mien-email/",
+    "source_date": "2026-09-14",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_notice_new_brand_domain",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-792ab7e198f3",
+    "url": "https://vass.com.vn/wp-content/uploads/2025/08/QD-TGD-103-Vv-ban-hanh-Quy-tac-bieu-phi-bao-hiem-Binh-an-ca-nhan-1.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_public_product_document",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-c629fb144cb1",
+    "url": "https://www.pti.com.vn/ve-chung-toi",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_profile",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-c629fb144cb1",
+    "url": "https://media.pti.com.vn/1.%20Cong%20bo%20thong%20tin%20BCTC%20ban%20nien%202024.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_profile",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-41e63b5f174a",
+    "url": "https://baolonginsurance.com.vn/tin-tuc/tin-tuc-co-dong/dai-hoi-dong-co-dong-thuong-nien-tong-cong-ty-co-phan-bao-hiem-bao-long-nam-2026",
+    "source_date": "2026-06-26",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_disclosure",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-41e63b5f174a",
+    "url": "https://bctn2023.baolonginsurance.com.vn/wp-content/uploads/2024/05/20240506_-BLI-AR2023_EN-1.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_disclosure",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-ec6dbbf972fb",
+    "url": "https://www.aaa.com.vn/bao-hiem-aaa-chinh-thuc-doi-ten-thanh-tong-cong-ty-co-phan-bao-hiem-aaa",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "evidence_backed_legal_name_change_same_entity",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-e4cd55889768",
+    "url": "https://bic.vn/noi-dung/ban-tin-bic/bic-ra-mat-website-bao-hiem-mybic-vn-moi.html",
+    "source_date": "2025-08-15",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_official_channel_announcement",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-5b8ccfeb53f5",
+    "url": "https://abic.com.vn/vi/viec-lam",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_page",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-31e5c92034cc",
+    "url": "https://www.baohiemphuhung.vn/aboutus",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_profile",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-0733454aef21",
+    "url": "https://www.mic.vn/Uploads/Tai-lieu/Cong%20bo%20thong%20tin/2016/Ban%20cao%20bach%20Tong%20cong%20ty%20Co%20phan%20Bao%20hiem%20Quan%20doi%2020.5.2016%24%24%2420160609044050.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "historical_exact_legal_entity_primary_prospectus",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-0733454aef21",
+    "url": "https://baohiem.mic.vn/cam-nang-bao-hiem/thong-bao-tam-dung-bao-lanh-vien-phi-trong-2-ngay-tu-23-24052026",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "historical_exact_legal_entity_primary_prospectus",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-3f744d5acafb",
+    "url": "https://myvbi.vn/thong-bao-tim-don-vi-cung-cap-dich-vu-he-thong-du-phong-tham-hoa",
+    "source_date": "2026-05-11",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_current_public_notice",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-f457733b2c0f",
+    "url": "https://bhv.com.vn/gioi-thieu",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_profile",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-f457733b2c0f",
+    "url": "https://app-online.bhv.com.vn/tai-lieu?quy-tac-bao-hiem-tai-nan-2424-tieng-anh=",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_profile",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-fd67c18298c9",
+    "url": "https://dbvi.com.vn/bao-hiem-vni-doi-thuong-hieu-thanh-dbv-muc-tieu-gia-tang-trai-nghiem-so.html",
+    "source_date": "2025-05-06",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "evidence_backed_legal_name_change_same_entity",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-06985a61bfce",
+    "url": "https://bshc.com.vn/thong-tin-lien-he",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_page",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-f066bcd0ce0f",
+    "url": "https://lpbi.com.vn/lien-he",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-3bc6a8a8e263",
+    "url": "https://uic.vn/wp-content/uploads/2024/11/20024_2Q_UIC-Financial-Statement_rv.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-81cce5255eb1",
+    "url": "https://tokiomarine.com.vn/thong-bao-ve-dich-vu-bao-hiem-tren-moi-truong-mang.html?redirect-from=%2Fchinh-sach-doanh-nghiep%2Fdich-vu-bao-hiem-2f",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-81cce5255eb1",
+    "url": "https://isa.mof.gov.vn/webcenter/contentattachfile/idcplg?dDocName=MOFUCM245140&dID=247044&filename=Thong+tin+DNBH+phi+nhan+tho+va+Tai+bao+hiem.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-205491ef74dc",
+    "url": "https://shinhan.com.vn/en/news-media/shinhan-bank-vietnam-and-samsung-vina-insurance-sign-insurance-business-partnership.html",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_partner_bank_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-71ce1b1eaabc",
+    "url": "https://www.mof.gov.vn/api/mediafile/media-article/7143ad99-9e2b-4990-b7dc-866e4863976e/54787b7e-a534-4b3b-b74b-82e4696f8915.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "historical_regulator_identity_candidate_quarantined_related_denial",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-0e47abd64917",
+    "url": "https://www.aig.com.vn/home/gioi-thieu",
+    "source_date": "2023-11-15",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-0e47abd64917",
+    "url": "https://www.aig.com.vn/content/dam/aig/apac/vietnam/documents/travel-claims-procedure-eng-29052026.pdf.coredownload.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-ecb64b40b76e",
+    "url": "https://baohiemtasco.vn/gioi-thieu",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-4c0ddc403608",
+    "url": "https://www.libertyinsurance.com.vn/cong-ty-tnhh-bao-hiem-liberty-nhan-giay-phep-dieu-chinh-tu-bo-tai-chinh",
+    "source_date": "2026-06-26",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-d9accce49ecd",
+    "url": "https://www.chubb.com/vn-vn/about-chubb/chubb-non-life-in-vietnam.html",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-851357414fb1",
+    "url": "https://www.fubonins.com.vn/vi/gioi-thieu",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-851357414fb1",
+    "url": "https://www.fubonins.com.vn/en",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-ff81ad334f04",
+    "url": "https://www.msig.com.vn/sites/default/files/downloads/QUY%20T%E1%BA%AEC%20B%E1%BA%A2O%20HI%E1%BB%82M%20XE%20%C3%94%20T%C3%94%20TOYOTA%20-%20092025.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-9a0fba0d7e58",
+    "url": "https://isa.mof.gov.vn/webcenter/contentattachfile/idcplg?dDocName=MOFUCM245140&dID=247044&filename=Thong+tin+DNBH+phi+nhan+tho+va+Tai+bao+hiem.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "historical_regulator_exact_legal_entity_website",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-f27945b69dc7",
+    "url": "https://sgic.com.vn/en/news/announcement-on-recruitment-of-institutional-insurance-agency-partners-2/",
+    "source_date": "2026-02-26",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_branch_primary_company_announcement",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-5b62a097622d",
+    "url": "https://opes.com.vn/posts/business/bao-hiem-so-opes-lan-dau-duoc-vinh-danh-trong-top-500-doanh-nghiep-lon-nhat-viet-nam-1736479231",
+    "source_date": "2025-01-09",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-8d0b476ed650",
+    "url": "https://www.hdinsurance.com.vn/about-us-page/",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-8d0b476ed650",
+    "url": "https://www.hdinsurance.com.vn/general-terms-and-conditions-of-personal-data-protection/",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-ca49f27c750c",
+    "url": "https://tcgi.com.vn/pages/news",
+    "source_date": "2026-10-14",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-ca49f27c750c",
+    "url": "https://techcombank.com/content/dam/techcombank/public-site/documents/Techcombank-VAS-consolidated-financial-statements-4Q25-Searchable.pdf?lead=dgmkt",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-2b71b511b5ee",
+    "url": "https://www.baovietnhantho.com.vn/storage/9e9416cf-32d3-4d81-8c2f-53f2f9301dfe/BVNT---BAO-CAO-TAI-CHINH-2024.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_annual_report",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-a1dc38ff4152",
+    "url": "https://www.prudential.com.vn/vi/ve-chung-toi/prudential-viet-nam/",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-40040adec649",
+    "url": "https://www.manulife.com.vn/content/dam/insurance/vn/documents/about-us/bao-cao-thuong-nien-2025/MVL_Quy_Lien_Ket_Chung_2025.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-a6483abaa25f",
+    "url": "https://www.aia.com.vn/vi/dieu-khoan-dich-vu.html",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-e1a55410013b",
+    "url": "https://www.chubb.com/vn-vn/about-chubb/chubb-in-vietnam.html",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-fdd675872359",
+    "url": "https://www.map-life.com.vn/api/doc/product/2024_TTQTDK/Tom-tat-quy-tac-dieu-khoan-CancerCare-Lua-chon-B.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-efdedce2384d",
+    "url": "https://dai-ichi-life.com.vn/thong-bao-50/thong-bao-thay-doi-ten-cong-ty-4161",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "evidence_backed_legal_name_change_same_entity",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-199366f142f0",
+    "url": "https://www.cathaylife.com.vn/resource/public/image/files/Cathay%20Life_Universal%20Life%20Fund_31_12_2023V.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-ba0c0e3619d2",
+    "url": "https://www.fwd.com.vn/files/v3/assets/bltca0b25cb8321936d/blt8a95bd9ee6e932fd/668be8e6534a9d2c5cae0c38/Bang_minh_hoa_quyen_loi_bao_hiem_FWD_Bo_doi_tai_san_2.0_072024.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-b3d56d6a6884",
+    "url": "https://hanwhalife.com.vn/vi",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-6efd434149f0",
+    "url": "https://isa.mof.gov.vn/webcenter/contentattachfile/idcplg?dDocName=MOFUCM205214&dID=204077&filename=Phan+3.+Thong+tin+DNBH+nhan+tho+nam+2002.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "historical_regulator_distinct_fwd_entity_current_status_uncertain",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-1eb8bf2f7be6",
+    "url": "https://www.fubonlife.com.vn/media/financialstatements/2024/08/15/FBLVN_Bao_cao_tai_chinh_n%C4%83m_H12024_Vie.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-1360bfdcb801",
+    "url": "https://generali.vn/page/thu-vien-thong-tin/tai-lieu-bieu-mau/tai-lieu-gioi-thieu-san-pham-bao-hiem-suc-khoe-ca-nhan-2025",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-1360bfdcb801",
+    "url": "https://generali.vn/page/thong-bao/thong-bao-ngung-trien-khai-cac-san-pham-bao-hiem-tu-01-07-2025",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-3b9b85794d1f",
+    "url": "https://www.mvilife.com.vn/vi/Ve-chung-toi/Tin-tuc/Thong-bao-ten-thuong-hieu-moi.html",
+    "source_date": "2022-06-30",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "evidence_backed_aviva_to_mvi_rename_separate_from_manulife",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-3b9b85794d1f",
+    "url": "https://www.mvilife.com.vn/vi/Ve-chung-toi/Tin-tuc/MVI-Life-uu-tien-dam-bao-quyen-loi-cua-khach-hang-trong-moi-tinh-huong.html",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "evidence_backed_aviva_to_mvi_rename_separate_from_manulife",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-3b9b85794d1f",
+    "url": "https://www.mvilife.com.vn/vi/Ve-chung-toi/Tin-tuc.html",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "evidence_backed_aviva_to_mvi_rename_separate_from_manulife",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-3b9b85794d1f",
+    "url": "https://www.manulife.com/ph/about-us/news/manulife-reaches-agreement-to-sell-mvi-life-in-vietnam-to-asahi-life",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "evidence_backed_aviva_to_mvi_rename_separate_from_manulife",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-be4282b7cd64",
+    "url": "https://www.sunlife.com.vn/vn/ve-chung-toi/gioi-thieu-cong-ty/",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-be4282b7cd64",
+    "url": "https://www.sunlife.com.vn/vn/ve-chung-toi/nhan-dien-thuong-hieu-moi/",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-1a6b746bcbf4",
+    "url": "https://www.phuhunglife.com/media/ns2dwyyl/phl-31122024-fs-separate-v.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-7e3f617e133c",
+    "url": "https://www.bidvmetlife.com.vn/content/dam/metlifecom/vn/PDFs/forms-library-vn/reports-vn/financial-reports/Baocaothuongnien_2020.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "historical_exact_legal_entity_primary_annual_report",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-7e3f617e133c",
+    "url": "https://www.bidvmetlife.com.vn/",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "historical_exact_legal_entity_primary_annual_report",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-9cfc790f6fc7",
+    "url": "https://mblife.vn/chien-dich-thuong-hieu/mb-ageas-life-doi-ten-thanh-mb-life",
+    "source_date": "2025-08-04",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "evidence_backed_brand_alias_legal_name_retained",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-9cfc790f6fc7",
+    "url": "https://mblife.vn/goc-bao-chi/thong-cao-bao-chi-mb-life-buoc-chuyen-minh-chien-luoc-tren-hanh-trinh-10-nam-phat-trien",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "evidence_backed_brand_alias_legal_name_retained",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-6d5165b05087",
+    "url": "https://www.shinhanlifevn.com.vn/media/Financial_Report_Full_2024.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-b40fc0f0dac3",
+    "url": "https://vinare.com.vn/wp-content/uploads/2026/04/20260414_VNR_AR2025_VN.pdf",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-e35a2fd0d1a9",
+    "url": "https://www.hanoire.com/vi/cong-bo-thong-tin-giay-phep-dieu-chinh-ve-viec-doi-ten-pvi-re-thanh-hanoi-re",
+    "source_date": "2023-08-08",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "evidence_backed_pvi_re_to_hanoi_re_rename",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-56a32c82878d",
+    "url": "https://www.techcomlife.com/tin-tuc/techcom-life-cong-bo-thay-doi-co-dong-tu-ngay-90/",
+    "source_date": "2026-07-22",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-d350145bfe32",
+    "url": "https://alphare.vn/ve-alphare/",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-d350145bfe32",
+    "url": "https://www.alphare.vn/",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "exact_legal_entity_primary_company_evidence",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-3e038acde591",
+    "url": "https://mof.gov.vn/quan-ly-giam-sat-bao-hiem/ban-tin-thi-truong-bao-hiem-toan-cau/ban-tin-thi-truong-bao-hiem-thang-82026",
+    "source_date": null,
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "legal_entity_rename_confirmed_official_website_unknown",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-eb477f4df436",
+    "url": "https://www.acbjobs.com.vn/news/acb-duoc-cap-phep-thanh-lap-cong-ty-bao-hiem-phi-nhan-tho-403",
+    "source_date": "2026-09-04",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "primary_parent_legal_entity_confirmed_official_insurer_website_unknown",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  },
+  {
+    "region": "VN",
+    "issuer_id": "VN-issuer-f56025de0d95",
+    "url": "https://www.vpbank.com.vn/tin-tuc/thong-cao-bao-chi/2026/cong-ty-bao-hiem-cua-vpbank-duoc-cap-phep",
+    "source_date": "2026-09-28",
+    "checked_at": "2026-10-27T11:28:11.942994+00:00",
+    "source_type": "primary_public_search_identity_evidence",
+    "scope": "primary_parent_prelaunch_entity_official_insurer_website_unknown",
+    "public_safe_note": "Identity discovery metadata only; no raw source, contact details, downloaded material or independent current-licence claim."
+  }
+]

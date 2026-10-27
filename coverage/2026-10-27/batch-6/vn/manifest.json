@@ -1,0 +1,59 @@
+{
+  "frozen_at": "2026-10-27T16:52:04.856161+00:00",
+  "scope": "VN only, narrow consolidated metadata QA successor, no moving data or formal/raw-public credit; final independent QA pending",
+  "parent_manifest_sha256": "b752864054f975a6bf5f6db57b44cc5af1ee52a7228bce07965ecdf904a21a39",
+  "files": {
+    "README.md": {
+      "sha256": "53b6f8dd6044fe47d64237331c85badb008f307b77e6ac0c04667997ed3994bc",
+      "bytes": 2461
+    },
+    "catalog-observations.jsonl": {
+      "sha256": "75be181acc5d75369fa15e39d8c8fc469584b80c67af3fd4cbc2bf0bd225e7ff",
+      "bytes": 382462
+    },
+    "cathay-catalog-scope.json": {
+      "sha256": "8a6d0868d7d5fb92441c6696910f590fb1d3e0c9129e84f2780cc144c56b443c",
+      "bytes": 3995
+    },
+    "content-qa-corrections-v2.json": {
+      "sha256": "c22799a5f3e5f40be0a26afa71a7271a389ba67b95dae832bfdc37ac5fbf4361",
+      "bytes": 17826
+    },
+    "coverage-layers-status.json": {
+      "sha256": "83c712c66613484f5deaa52c2fad52cd849fb2796bdd59435f97926ee387d7a9",
+      "bytes": 162526
+    },
+    "identity-resolution.json": {
+      "sha256": "18100c88e2432d0115f8f4837391ef1fa00251ec41b6ffedbe207c3329a4cef7",
+      "bytes": 154460
+    },
+    "issuer-queue.jsonl": {
+      "sha256": "8729aa4fd7137b5e3858bfc5440c53175fe90c1e5020bf445cdcb08f51ce3140",
+      "bytes": 45902
+    },
+    "issuers.jsonl": {
+      "sha256": "62d3e4b44f19dcc59aa195f2d4d35787e40908a2f32d0ae52670bc9965c0d2b9",
+      "bytes": 155122
+    },
+    "material-source-observations.jsonl": {
+      "sha256": "5c9024a2bd8a7e7223e062bc6134d42f90a62c9aeee1cd79e7ffa399f8152407",
+      "bytes": 1837017
+    },
+    "products.jsonl": {
+      "sha256": "8320cfcce309f98f1360e9403383f514469207316b35482d142ef0cba4dc0230",
+      "bytes": 4560537
+    },
+    "projection-notes.json": {
+      "sha256": "b72427dc065d4eec33b898a0158f081fe3aec1a5f797b1b0a28bbcf654333212",
+      "bytes": 1156
+    },
+    "run-status.json": {
+      "sha256": "e33cecc40a8eef3c77d170a4715394cd5a89eea9867ea5b30d16c630e9fbc81b",
+      "bytes": 4461
+    },
+    "sources.json": {
+      "sha256": "756d02bef13ae82d72f27ab9b16cefdebdbe8c5497393d8aa267e78bcb43ff5e",
+      "bytes": 45674
+    }
+  }
+}
