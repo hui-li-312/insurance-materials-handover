@@ -1,0 +1,919 @@
+{
+  "regionFileHashes": {
+    "coverage-observations-HK.json": "cdbd2dd48d3ef1db806b039ee7e134b8b668a44269893409ff276e1084e6df59",
+    "coverage-observations-TH.json": "bcabb8700604e383695a586657d4888b4f48794ba0c273062475eeb41d39fa8d",
+    "coverage-observations-VN.json": "733f7d99356f45823bc0400f4434c149936863c8cf3504cb0a41d8b31fa91e45",
+    "coverage-observations-PH.json": "f55b682045256dbb1759af188675bf32f55e70b655082a2a2b433a534e03662c",
+    "coverage-observations-BN.json": "e02d7397b1a7226fbb9f9ce936b1ae304d95ef24ffc209262f68ad4625ba855e",
+    "coverage-observations-TL.json": "dff3fa895e36df2292212e8de4067de53852fa2b39d6756e7e0a94cef11e7347",
+    "coverage-observations-MY.json": "b735e4ba92dece342118c583c3d14a36b8c8bc3b16ffdebf86102c3cbed78c67",
+    "coverage-observations-LA.json": "7a9fb7c1266d4ca15ecee8059ff3c8659947dab78294c07c56770877cc18f791",
+    "coverage-observations-KH.json": "7bf68339bffacf833e42f6b1ee6f4a8c414d9a0f1fefe59859ee2dd1004fe93a",
+    "coverage-observations-MM.json": "04890159bfe8a364a97ee92e7e3f2cb9675051a0374918f67a27db9144939383",
+    "coverage-observations-SG.json": "84f8bd4e4cf82e2a9db528df8bc1cb6b3f498887bbb378c0b0d8a51bbf1712fb",
+    "coverage-observations-ID.json": "8fa157b66c987d66005bfc522a7ef8948af6a3568d35d18b3a68a0e6c929a6d1"
+  },
+  "feeds": [
+    {
+      "id": "hk_sg_my_catalog",
+      "path": "2026-10-27/batch-2/hk-sg-my/",
+      "source_observations": 435,
+      "supersedes": "2026-10-27/hk-sg-my/",
+      "unit": "mixed_named_products_riders_groups_categories_services_not_unique_skus",
+      "replacement_exclusions": [
+        {
+          "issuer_scope": "EQ Insurance Singapore",
+          "source_observations": 33,
+          "replaced_by": "sg_seven_catalog"
+        },
+        {
+          "issuer_scope": "Trinity Hong Kong",
+          "source_observations": 3,
+          "replaced_by": "hk_my_four_catalog"
+        }
+      ],
+      "aggregation_notice": "Retain historical snapshot but exclude these predecessor issuer observations when combining active feeds; source snapshot remains 435 rows.",
+      "inputRows": 435,
+      "displayRows": 399,
+      "files": [
+        "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl"
+      ]
+    },
+    {
+      "id": "bn_kh_catalog_and_regional_queues",
+      "path": "2026-10-27/batch-7/bn-kh-la-mm/",
+      "source_observations": 872,
+      "supersedes": "2026-10-27/batch-5/bn-kh-la-mm/",
+      "unit": "BN145_KH386_LA109_MM232_mixed_catalog_language_and_resource_contexts_not_unique_skus",
+      "source_material_occurrences": 1183,
+      "publicly_exposed_occurrences": 1151,
+      "withheld_occurrences": 32,
+      "source_unique_material_urls": 939,
+      "publicly_exposed_unique_material_urls": 916,
+      "matched_historical_held_identities": 20,
+      "hidden_markup_material_occurrences": 16,
+      "hidden_markup_visible_offer_credit": 0,
+      "aggregation_notice": "Cumulative replacement: 872 replaces prior 706 (+166), never 706+872. All 706 prior source identities and historical sidecars remain; 16 GGI hidden references have zero visible/current offer credit. VN933 remains a separate unchanged feed.",
+      "issuer_candidates": 89,
+      "source_only_material_observations": 21,
+      "source_only_material_rule": "Retained source-level contexts, not extra product observations or product-material coverage.",
+      "frozen_acquisition_as_of": "2026-10-27T16:11:11.532978+00:00",
+      "acquisition_scope": "Frozen finite queues including source-only contexts; 705 targets / 695 private captures / 674 unique hashes including one held; no full-content clearance, formal-original credit or public raw release.",
+      "accepted_source_manifest_sha256": "a7477213c044a80ea8e5fef5a59d1bb5bcbf8f57c123c7f1109539d934a4c197",
+      "inputRows": 872,
+      "displayRows": 872,
+      "files": [
+        "coverage/2026-10-27/batch-7/bn-kh-la-mm/products.jsonl",
+        "coverage/2026-10-27/batch-7/bn-kh-la-mm/source-only-material-observations.jsonl"
+      ],
+      "sourceOnlyMaterialContexts": 21,
+      "sourceOnlyDisplayRows": 0
+    },
+    {
+      "id": "ocean_life_selected_catalog",
+      "path": "2026-10-27/batch-2/ocean-life/",
+      "named_observations": 59,
+      "unit": "42_product_observations_base_role_unconfirmed_14_riders_3_packages",
+      "inputRows": 59,
+      "displayRows": 59,
+      "files": [
+        "coverage/2026-10-27/batch-2/ocean-life/products.jsonl"
+      ]
+    },
+    {
+      "id": "ocean_life_group_supplement",
+      "path": "2026-10-27/batch-2/ocean-group/",
+      "named_observations": 2,
+      "unit": "2_named_group_plans_with_4_nonproduct_coverage_classes",
+      "inputRows": 2,
+      "displayRows": 2,
+      "files": [
+        "coverage/2026-10-27/batch-2/ocean-group/products.jsonl"
+      ]
+    },
+    {
+      "id": "hk_vhis_scheme_registry",
+      "path": "2026-10-27/batch-2/vhis-registry/",
+      "latest_group_records": 103,
+      "historical_group_records": 326,
+      "variant_version_ids": 2589,
+      "unit": "scheme_registry_groups_versions_variants_not_unique_current_sale_products",
+      "overlap_notice": "May overlap other HK catalogue observations. Scheme scope only, not all HK licences or products.",
+      "source_observed_document_reference_urls": 7323,
+      "publicly_exposed_document_urls": 7299,
+      "withheld_historical_locator_records": 24,
+      "inputRows": 441,
+      "displayRows": 441,
+      "files": [
+        "coverage/2026-10-27/batch-2/vhis-registry/hk-vhis-latest-plan-observations.jsonl",
+        "coverage/2026-10-27/batch-2/vhis-registry/hk-vhis-historical-plan-observations.jsonl",
+        "coverage/2026-10-27/batch-2/vhis-registry/hk-vhis-supplementary-information.jsonl"
+      ]
+    },
+    {
+      "id": "krungthai_axa_catalog",
+      "path": "2026-10-27/krungthai-axa/",
+      "main_catalog_cards": 29,
+      "directory_ids_including_separate_scopes": 43,
+      "locale_records": 86,
+      "unit": "main_catalog_plus_separately_labelled_group_and_component_scopes",
+      "inputRows": 86,
+      "displayRows": 86,
+      "files": [
+        "coverage/2026-10-27/krungthai-axa/products.jsonl"
+      ]
+    },
+    {
+      "id": "th_id_ph_initial_observations",
+      "path": "2026-10-27/th-id-ph/",
+      "source_observations": 13,
+      "unit": "bounded_initial_two_issuer_observations_and_dated_regional_census",
+      "inputRows": 13,
+      "displayRows": 13,
+      "files": [
+        "coverage/2026-10-27/th-id-ph/products.jsonl"
+      ]
+    },
+    {
+      "id": "ocean_material_probe",
+      "path": "2026-10-27/batch-3/ocean-material-probe/",
+      "document_observations": 2,
+      "new_product_observations": 0,
+      "unit": "19_page_conditions_bundle_and_4_page_brochure_not_complete_individualized_contract",
+      "raw_files_included": false,
+      "inputRows": 2,
+      "displayRows": 0,
+      "enrichedExistingMaterials": 2,
+      "files": [
+        "coverage/2026-10-27/batch-3/ocean-material-probe/materials.jsonl"
+      ]
+    },
+    {
+      "id": "samsung_life_catalog",
+      "path": "2026-10-27/batch-3/samsung-life/",
+      "source_observations": 53,
+      "unit": "named_catalog_observations_including_riders_and_packages_not_verified_skus",
+      "supplement_feed": "samsung888_supplement",
+      "inputRows": 53,
+      "displayRows": 53,
+      "files": [
+        "coverage/2026-10-27/batch-3/samsung-life/products.jsonl"
+      ]
+    },
+    {
+      "id": "samsung888_supplement",
+      "path": "2026-10-27/batch-3/samsung888/",
+      "source_observations": 1,
+      "combined_samsung_named_observations": 54,
+      "unit": "one_additional_named_observation_and_separate_image_candidates_not_downloads",
+      "inputRows": 1,
+      "displayRows": 1,
+      "files": [
+        "coverage/2026-10-27/batch-3/samsung888/products.jsonl"
+      ]
+    },
+    {
+      "id": "sg_seven_catalog",
+      "path": "2026-10-27/batch-3/sg-seven/",
+      "source_observations": 604,
+      "replaces_prior_observations": 33,
+      "net_additional_observations": 571,
+      "unit": "mixed_source_observations_not_unique_skus",
+      "inputRows": 604,
+      "displayRows": 604,
+      "files": [
+        "coverage/2026-10-27/batch-3/sg-seven/products-sg-aia.jsonl",
+        "coverage/2026-10-27/batch-3/sg-seven/products-sg-chubb.jsonl",
+        "coverage/2026-10-27/batch-3/sg-seven/products-sg-eq.jsonl",
+        "coverage/2026-10-27/batch-3/sg-seven/products-sg-hsbc.jsonl",
+        "coverage/2026-10-27/batch-3/sg-seven/products-sg-manulife.jsonl",
+        "coverage/2026-10-27/batch-3/sg-seven/products-sg-singlife.jsonl",
+        "coverage/2026-10-27/batch-3/sg-seven/products-sg-taiping.jsonl"
+      ]
+    },
+    {
+      "id": "manulife_my_catalog",
+      "path": "2026-10-27/batch-3/manulife-my/",
+      "source_observations": 65,
+      "unit": "mixed_offering_rider_component_observations_not_unique_skus",
+      "inputRows": 65,
+      "displayRows": 65,
+      "files": [
+        "coverage/2026-10-27/batch-3/manulife-my/products-manulife-my.jsonl"
+      ]
+    },
+    {
+      "id": "hk_my_four_catalog",
+      "path": "2026-10-27/batch-3/hk-my-four/",
+      "source_observations": 283,
+      "replaces_prior_observations": 3,
+      "net_additional_observations": 280,
+      "unit": "mixed_source_observations_not_unique_skus",
+      "inputRows": 283,
+      "displayRows": 283,
+      "files": [
+        "coverage/2026-10-27/batch-3/hk-my-four/products-liberty-my.jsonl",
+        "coverage/2026-10-27/batch-3/hk-my-four/products-progressive-my.jsonl",
+        "coverage/2026-10-27/batch-3/hk-my-four/products-tahoe-hk.jsonl",
+        "coverage/2026-10-27/batch-3/hk-my-four/products-trinity-hk.jsonl"
+      ]
+    },
+    {
+      "id": "sunlife_my_shared_catalog",
+      "path": "2026-10-27/batch-3/sunlife-my/",
+      "offering_observations": 61,
+      "document_observations": 218,
+      "legal_issuer_assignment": "offering_rows_unresolved_shared_site_document_rows_heading_scoped",
+      "unit": "separate_offering_and_document_observations_not_unique_products",
+      "inputRows": 279,
+      "displayRows": 279,
+      "files": [
+        "coverage/2026-10-27/batch-3/sunlife-my/products-sunlife-my.jsonl",
+        "coverage/2026-10-27/batch-3/sunlife-my/documents-sunlife-my.jsonl"
+      ]
+    },
+    {
+      "id": "generali_my_shared_catalog",
+      "path": "2026-10-27/batch-3/generali-my/",
+      "offering_component_category_observations": 84,
+      "document_observations": 46,
+      "unit": "mixed_source_observations_with_scoped_or_unresolved_legal_underwriter_not_unique_products",
+      "inputRows": 130,
+      "displayRows": 130,
+      "files": [
+        "coverage/2026-10-27/batch-3/generali-my/products-generali-my.jsonl",
+        "coverage/2026-10-27/batch-3/generali-my/documents-generali-my.jsonl"
+      ]
+    },
+    {
+      "id": "aia_my_catalog",
+      "path": "2026-10-27/batch-4/aia-my/",
+      "catalog_observations": 190,
+      "separate_document_observations": 59,
+      "hidden_variant_observations": 8,
+      "legal_assignment": {
+        "assigned_catalog_rows": 16,
+        "unresolved_catalog_rows": 174
+      },
+      "unit": "mixed_catalog_and_separate_document_variant_observations_not_unique_skus",
+      "material_review_feed": "aia_my_material_review",
+      "narrow_corrections": "Three stable IDs corrected using material evidence; CI Insure is group coverage. Prior unpublished v2 is not a separate feed.",
+      "inputRows": 257,
+      "displayRows": 257,
+      "files": [
+        "coverage/2026-10-27/batch-4/aia-my/products-aia-my.jsonl",
+        "coverage/2026-10-27/batch-4/aia-my/documents-aia-my.jsonl",
+        "coverage/2026-10-27/batch-4/aia-my/hidden-source-metadata.jsonl"
+      ]
+    },
+    {
+      "id": "chinalife_hk_catalog",
+      "path": "2026-10-27/batch-4/chinalife-hk/",
+      "source_observations": 49,
+      "distinct_material_references": 69,
+      "unit": "mixed_named_pages_groups_families_variants_rider_categories_not_unique_skus",
+      "material_review_feed": "chinalife_hk_material_review",
+      "inputRows": 49,
+      "displayRows": 49,
+      "files": [
+        "coverage/2026-10-27/batch-4/chinalife-hk/products-chinalife-hk.jsonl"
+      ]
+    },
+    {
+      "id": "aia_my_material_review",
+      "path": "2026-10-27/batch-4/aia-my-material-review/",
+      "material_observations": 4,
+      "private_pdf_pages": 113,
+      "unit": "private_pdf_capture_and_selected_page_role_legalissuer_evidence_not_four_new_products",
+      "full_all_pages_review": false,
+      "raw_files_included": false,
+      "inputRows": 4,
+      "displayRows": 0,
+      "enrichedExistingMaterials": 4,
+      "files": [
+        "coverage/2026-10-27/batch-4/aia-my-material-review/private-original-intake-metadata.json"
+      ]
+    },
+    {
+      "id": "chinalife_hk_material_review",
+      "path": "2026-10-27/batch-4/chinalife-hk-material-review/",
+      "material_observations": 6,
+      "private_pdf_pages": 356,
+      "unit": "six_specimen_policy_terms_files_with_first_page_visual_review_not_full_clause_review",
+      "all_six_specimen_watermarks_observed": true,
+      "full_all_pages_review": false,
+      "raw_files_included": false,
+      "inputRows": 6,
+      "displayRows": 0,
+      "enrichedExistingMaterials": 6,
+      "files": [
+        "coverage/2026-10-27/batch-4/chinalife-hk-material-review/private-intake-metadata.json"
+      ]
+    },
+    {
+      "id": "ph_master_policy_samples",
+      "path": "2026-10-27/batch-4/ph-master-policy-samples/",
+      "material_observations": 2,
+      "pdf_pages": 21,
+      "unit": "two_genuine_sample_master_policy_wordings_not_brochures_or_executed_customer_policies",
+      "all_pages_visual_review": true,
+      "substantive_clause_verification_complete": false,
+      "raw_files_included": false,
+      "inputRows": 2,
+      "displayRows": 2,
+      "files": [
+        "coverage/2026-10-27/batch-4/ph-master-policy-samples/materials.jsonl"
+      ]
+    },
+    {
+      "id": "etiqa_sg_catalog",
+      "path": "2026-10-27/batch-6/etiqa-sg/",
+      "catalog_observations": 127,
+      "separate_document_observations": 58,
+      "source_material_occurrences": 399,
+      "source_unique_material_urls": 268,
+      "public_unique_material_urls": 266,
+      "withheld_occurrences": 2,
+      "hidden_markup_material_occurrences": 29,
+      "hidden_component_candidates": 1,
+      "hidden_document_directory_rows": 5,
+      "unit": "mixed_offering_category_component_and_separate_document_contexts_not_unique_products",
+      "aggregation_notice": "No Etiqa issuer rows exist in the active 435-row predecessor. Import 127+58 once; the unpublished earlier 47-row candidate is not a feed.",
+      "material_review_feed": "etiqa_sg_material_review",
+      "inputRows": 185,
+      "displayRows": 185,
+      "files": [
+        "coverage/2026-10-27/batch-6/etiqa-sg/products-sg-etiqa-expanded.jsonl",
+        "coverage/2026-10-27/batch-6/etiqa-sg/documents-sg-etiqa-expanded.jsonl"
+      ]
+    },
+    {
+      "id": "etiqa_my_catalog",
+      "path": "2026-10-27/batch-6/etiqa-my/",
+      "catalog_observations": 89,
+      "source_material_occurrences": 273,
+      "source_unique_material_urls": 166,
+      "legal_assignment": {
+        "assigned_catalog_rows": 4,
+        "unresolved_catalog_rows": 85
+      },
+      "related_car_material_occurrences": 8,
+      "unit": "shared_site_mixed_offering_category_component_contexts_not_unique_products",
+      "document_index_rule": "166-document index describes the same 273 associations, not 166 additional observation rows.",
+      "private_intake_enrichment_records": 7,
+      "raw_files_included": false,
+      "inputRows": 89,
+      "displayRows": 89,
+      "files": [
+        "coverage/2026-10-27/batch-6/etiqa-my/products-etiqa-my.jsonl",
+        "coverage/2026-10-27/batch-6/etiqa-my/private-intake-metadata.json"
+      ],
+      "enrichedExistingMaterials": 7
+    },
+    {
+      "id": "etiqa_sg_material_review",
+      "path": "2026-10-27/batch-6/etiqa-sg-intake/",
+      "material_observations": 4,
+      "private_pdf_pages": 43,
+      "visually_reviewed_pages": 8,
+      "unit": "exact_existing_material_identity_page_enrichment_not_new_rows",
+      "raw_files_included": false,
+      "full_all_pages_review": false,
+      "inputRows": 4,
+      "displayRows": 0,
+      "enrichedExistingMaterials": 4,
+      "files": [
+        "coverage/2026-10-27/batch-6/etiqa-sg-intake/private-intake-metadata.json"
+      ]
+    },
+    {
+      "id": "vn_catalog_contexts",
+      "path": "2026-10-27/batch-6/vn/",
+      "source_observations": 933,
+      "resource_only_contexts": 368,
+      "source_material_occurrences": 1997,
+      "source_unique_material_urls": 1696,
+      "public_unique_material_urls": 1695,
+      "withheld_occurrences": 1,
+      "source_only_material_observations": 1335,
+      "issuer_candidates": 60,
+      "issuer_records_with_observations": 25,
+      "unit": "offering_family_coverage_rider_package_and_resource_contexts_not_unique_products",
+      "aggregation_notice": "Supersedes VN identity/status context in the older regional queue, not an additional 60 issuer/product rows. No fuzzy alias merge, source-only material rows or embedded PDF duplicates become new products/originals.",
+      "identity_context_supersedes": "2026-10-27/batch-5/bn-kh-la-mm/ (VN context only; BN/KH/LA/MM unchanged)",
+      "inputRows": 933,
+      "displayRows": 933,
+      "files": [
+        "coverage/2026-10-27/batch-6/vn/products.jsonl"
+      ]
+    },
+    {
+      "id": "prudential_sg_catalog",
+      "path": "2026-10-27/batch-8/prudential-sg/",
+      "regions": [
+        "SG"
+      ],
+      "source_observations": 128,
+      "unit": "source_scoped_catalog_observations_not_unique_contracts_or_SKUs",
+      "source_material_occurrences": 75,
+      "source_unique_material_urls": 69,
+      "renderer_card_rows_nonadditive": 49,
+      "document_index_rows_nonadditive": 69,
+      "source_publisher": "Prudential Assurance Company Singapore (Pte) Limited",
+      "catalog_coverage_owner_issuer_id": "SG-own-40bf6a1dd276af06",
+      "source_origin_scope": "Selected English retail and enterprise public Prudential HTML frontier and exact anonymous public selector models only; not all channels or Income own-site catalog.",
+      "whole_issuer_catalog_closed": false,
+      "PDF_requests": 0,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "accepted_source_manifest_sha256": "ee8dbe85db33150042fe8919dede049fa972c37e7c4602796b80dcfbe2c0d5e2",
+      "aggregation_notice": "128 observations added once; 49 selector cards and 69 document-index records are non-additive provenance. Care Secure is Income-underwritten and Prudential-distributed, not Prudential-underwritten or Income own-catalog closure.",
+      "inputRows": 128,
+      "displayRows": 128,
+      "files": [
+        "coverage/2026-10-27/batch-8/prudential-sg/products-prudential-sg.jsonl",
+        "coverage/2026-10-27/batch-8/prudential-sg/documents-prudential-sg.jsonl",
+        "coverage/2026-10-27/batch-8/prudential-sg/prudential-sg-selector-source-card-observations.json",
+        "coverage/2026-10-27/batch-8/prudential-sg/prudential-sg-source-scoped-dates.json"
+      ],
+      "nonadditiveDocumentIndexRows": 69,
+      "nonadditiveRendererCards": 49
+    },
+    {
+      "id": "aia_ph_source_catalog",
+      "path": "2026-10-27/batch-8/aia-ph/",
+      "regions": [
+        "PH"
+      ],
+      "source_observations": 56,
+      "unit": "source_company_named_observations_not_distinct_policy_contracts_or_SKUs",
+      "source_material_mentions": 11,
+      "resolved_material_URLs": 0,
+      "source_company_brand": "AIA Philippines",
+      "source_origin_scope": "Only exact AIA Philippines public crawled-text source frontier. Own brand, roster association and product-contract underwriter remain separate; not AIA Thailand or BPI AIA.",
+      "whole_issuer_catalog_closed": false,
+      "public_web_tool_operations": 30,
+      "unique_requested_web_urls": 29,
+      "source_text_captures": 29,
+      "web_cache_miss_gaps": 1,
+      "catalog_shell_gaps": 9,
+      "underlying_HTTP_requests": null,
+      "source_snapshot_at": "2026-10-27T18:20:31.247477+00:00",
+      "qa_revision_at": "2026-10-27T18:29:02.792313+00:00",
+      "accepted_source_manifest_sha256": "fb28d1e5df7645985da5b7f890071c5c6a79b6abc9cbcd3417b5b543ac562ad4",
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "aggregation_notice": "56 rows added once; 11 brochure-label mentions join exact product IDs and retain null unresolved URLs, not HOLD. Source text operations are not HTTP request counts or product counts.",
+      "inputRows": 56,
+      "displayRows": 56,
+      "files": [
+        "coverage/2026-10-27/batch-8/aia-ph/products.jsonl",
+        "coverage/2026-10-27/batch-8/aia-ph/material-links.jsonl",
+        "coverage/2026-10-27/batch-8/aia-ph/identity-evidence.json",
+        "coverage/2026-10-27/batch-8/aia-ph/sources.json"
+      ],
+      "materialLabelMentions": 11,
+      "unresolvedMaterialTargets": 11
+    },
+    {
+      "id": "my_two_publisher_catalog",
+      "path": "2026-10-27/batch-10/my-two-catalog/",
+      "regions": [
+        "MY"
+      ],
+      "source_observations": 129,
+      "nonadditive_source_contexts": 20,
+      "unit": "typed_source_products_groups_riders_packages_variants_unknown_not_independent_contracts_or_SKUs",
+      "source_company_ids": [
+        "MY-own-447346ca30a0a5f2",
+        "MY-own-cce842ed63b41679"
+      ],
+      "contractual_issuer_mapping": "unverified_all_contractual_fields_null",
+      "source_material_occurrences": 0,
+      "nonadditive_source_level_unread_material_references": 95,
+      "selector_memberships": 64,
+      "selector_distinct_origin_raw_link_pairs": 63,
+      "accepted_source_manifest_sha256": "548975cfaf4a1a14fed80543b28c38334329b5f7c865b02a842b3af8a69d79c3",
+      "whole_issuer_catalog_closed": false,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "aggregation_notice": "Import 129 stable typed observations once; keep 20 contexts, selector memberships and source-level unread references separate and non-additive. Publisher identity is not contractual issuer verification; no inherited product materials.",
+      "inputRows": 129,
+      "displayRows": 129,
+      "files": [
+        "coverage/2026-10-27/batch-10/my-two-catalog/README.md",
+        "coverage/2026-10-27/batch-10/my-two-catalog/context-my-two-catalog.jsonl",
+        "coverage/2026-10-27/batch-10/my-two-catalog/context-only-named-mentions.json",
+        "coverage/2026-10-27/batch-10/my-two-catalog/frontier-summary.json",
+        "coverage/2026-10-27/batch-10/my-two-catalog/manifest.json",
+        "coverage/2026-10-27/batch-10/my-two-catalog/products-my-two-catalog.jsonl",
+        "coverage/2026-10-27/batch-10/my-two-catalog/public-metadata-allowlist.json",
+        "coverage/2026-10-27/batch-10/my-two-catalog/publisher-origin-evidence.json",
+        "coverage/2026-10-27/batch-10/my-two-catalog/source-level-unread-material-references.jsonl",
+        "coverage/2026-10-27/batch-10/my-two-catalog/sources.json",
+        "coverage/2026-10-27/batch-10/my-two-catalog/status.json"
+      ],
+      "nonadditiveSourceContexts": 20,
+      "nonadditiveUnreadSourceReferences": 95,
+      "nonadditiveUniqueSelectorMemberships": 64,
+      "contractualIssuerConfirmedRows": 0
+    },
+    {
+      "id": "great_eastern_sg_my_catalog",
+      "path": "2026-10-27/batch-10/great-eastern-sg-my/",
+      "regions": [
+        "SG",
+        "MY"
+      ],
+      "source_observations": 272,
+      "observations_by_region": {
+        "SG": 126,
+        "MY": 146
+      },
+      "unit": "typed_shared_source_products_families_riders_packages_variants_components_audience_not_verified_contracts_or_SKUs",
+      "source_material_occurrences": 544,
+      "source_unique_material_urls": 357,
+      "nonadditive_document_index_rows": 357,
+      "official_page_underwritten_by_statements": 6,
+      "official_page_policy_issuer_statements": 58,
+      "actual_contract_body_reviews": 0,
+      "accepted_source_manifest_sha256": "5ee33f778f1f406e626974aa698a1cc4b6f8aaf3776b3019a8a33cdd94e15c55",
+      "whole_issuer_catalog_closed": false,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "aggregation_notice": "Append exact source IDs once in supplemental observations; document/card/date indexes are nonadditive. Keep 6 webpage underwritten-by statements distinct from 58 webpage policy-issuer statements; actual contract underwriter is unverified. Children inherit neither entity nor material. Legacy overlaps do not authorize product merge, new SKU or reused PDF review.",
+      "inputRows": 272,
+      "displayRows": 272,
+      "files": [
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/README.md",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/all-successful-source-evidence.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/documents-great-eastern-sg-my.jsonl",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/finite-source-queues.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/ge-baseline-overlap.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/ge-excluded-query-document-references.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/ge-inventory-gaps.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/ge-inventory-traversal.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/ge-metadata-corrections.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/ge-my-HTML-source-card-counts.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/ge-my-HTML-source-info-link-observations.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/ge-my-neutral-JSON-source-cards.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/ge-nonproduct-HTML-frontier-exclusions.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/ge-policy-issuer-evidence.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/ge-sg-source-card-counts.phase1.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/ge-sg-source-card-observations.phase1.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/ge-source-evidence.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/ge-source-scoped-dates.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/independent-content-QA-summary.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/issuer-origin-evidence.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/issuer-specific-status.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/manifest.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/pagination-and-route-evidence.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-my.jsonl",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/publication-safety-gate.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/remaining-nonproduct-source-frontier.json",
+        "coverage/2026-10-27/batch-10/great-eastern-sg-my/source-attempts.json"
+      ],
+      "nonadditiveDocumentIndexRows": 357,
+      "literalMaterialAssociations": 544,
+      "ownPageUnderwrittenByStatements": 6,
+      "ownPagePolicyIssuerStatements": 58,
+      "actualContractUnderwriterConfirmedRows": 0,
+      "nonadditiveLegacySourceOverlapRows": 30
+    },
+    {
+      "id": "muangthai_life_th_catalog",
+      "path": "2026-10-27/batch-9/muangthai-life-th/",
+      "regions": [
+        "TH"
+      ],
+      "source_observations": 56,
+      "unit": "named_source_observations_not_verified_contracts_or_SKUs",
+      "issuer_id": "own-th-1489116e8845",
+      "source_material_occurrences": 109,
+      "unreviewed_image_reference_occurrences": 0,
+      "accepted_source_manifest_sha256": "5592414568f50b56f3bcd1c3d66239a1a3dd9c5894529fbec6d2977a25163044",
+      "whole_issuer_catalog_closed": false,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "aggregation_notice": "Import named observations once by issuer and stable source record ID; subordinate components, variants, generic classes, audience and comparison routes, and unvisited channels are non-additive. Document/image references are unreviewed, not complete policy wordings.",
+      "inputRows": 56,
+      "displayRows": 56,
+      "files": [
+        "coverage/2026-10-27/batch-9/muangthai-life-th/products.jsonl",
+        "coverage/2026-10-27/batch-9/muangthai-life-th/freeze-manifest.json",
+        "coverage/2026-10-27/batch-9/muangthai-life-th/README.md",
+        "coverage/2026-10-27/batch-9/muangthai-life-th/sources.json",
+        "coverage/2026-10-27/batch-9/muangthai-life-th/run-status.json",
+        "coverage/2026-10-27/batch-9/muangthai-life-th/issuer-frontier.jsonl",
+        "coverage/2026-10-27/batch-9/muangthai-life-th/visited-pages.jsonl",
+        "coverage/2026-10-27/batch-9/muangthai-life-th/component-and-variant-references.jsonl",
+        "coverage/2026-10-27/batch-9/muangthai-life-th/alternate-audience-pages.jsonl",
+        "coverage/2026-10-27/batch-9/muangthai-life-th/coverage-classes.jsonl"
+      ],
+      "subordinateNonadditiveReferences": 16
+    },
+    {
+      "id": "bangkok_life_th_catalog",
+      "path": "2026-10-27/batch-9/bangkok-life-th/",
+      "regions": [
+        "TH"
+      ],
+      "source_observations": 59,
+      "unit": "named_source_observations_not_verified_contracts_or_SKUs",
+      "issuer_id": "own-th-0b8588486bb9",
+      "source_material_occurrences": 9,
+      "unreviewed_image_reference_occurrences": 227,
+      "accepted_source_manifest_sha256": "ae78cc9edfebfb44744334bdb12f55c5977d103b4c4008e4ca0f2c78805bb976",
+      "whole_issuer_catalog_closed": false,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "aggregation_notice": "Import named observations once by issuer and stable source record ID; subordinate components, variants, generic classes, audience and comparison routes, and unvisited channels are non-additive. Document/image references are unreviewed, not complete policy wordings.",
+      "inputRows": 59,
+      "displayRows": 59,
+      "files": [
+        "coverage/2026-10-27/batch-9/bangkok-life-th/products.jsonl",
+        "coverage/2026-10-27/batch-9/bangkok-life-th/freeze-manifest.json",
+        "coverage/2026-10-27/batch-9/bangkok-life-th/README.md",
+        "coverage/2026-10-27/batch-9/bangkok-life-th/sources.json",
+        "coverage/2026-10-27/batch-9/bangkok-life-th/run-status.json",
+        "coverage/2026-10-27/batch-9/bangkok-life-th/issuer-frontier.jsonl",
+        "coverage/2026-10-27/batch-9/bangkok-life-th/visited-pages.jsonl",
+        "coverage/2026-10-27/batch-9/bangkok-life-th/components.jsonl",
+        "coverage/2026-10-27/batch-9/bangkok-life-th/comparison-pages.jsonl",
+        "coverage/2026-10-27/batch-9/bangkok-life-th/coverage-classes.jsonl",
+        "coverage/2026-10-27/batch-9/bangkok-life-th/unvisited-channel-references.jsonl",
+        "coverage/2026-10-27/batch-9/bangkok-life-th/image-candidates.jsonl"
+      ],
+      "subordinateNonadditiveReferences": 28,
+      "unreviewedImageReferences": 227,
+      "uniqueUnreviewedImageURLs": 183
+    }
+  ],
+  "regionContextHashes": {
+    "BN": "610f4507fe9205e8ffae233e329502121ae76eb826b304983371a7655cf6983b",
+    "KH": "c4e12a48ac19723b47b32b7bc74b93c2cad8e888c8807bf9d153e9fa25fd7414",
+    "LA": "9e441f1abce8c5e1855f12f803ed54906ec61f43fa3c5564e5335a60325fc190",
+    "MM": "ae2cc7f07991b49ed73fc0b6badc3e830f95127d3df45877eb16a161fe0f8999",
+    "VN": "1495afe75f708e4766d29ee262790c89811fd6ccef7ad65b13385adfe60cbd62",
+    "SG": "5020b815ccbf0114203d277716262a7066aad6807fafb7e133f77dcad0be02ff",
+    "TH": "918a5d626ef890cb01a5b802723e4611a3719137b767b62801ef921b5e1b60da",
+    "ID": "b3333661bb846b45499856433db48fe6cb0dc98bc97da726fccd3453970d64c6",
+    "PH": "2de337505b869b7390e1241884000d096132f8bf0bf7e8c3e4dfcb867c587ff9",
+    "MY": "98fa4546bc1c7c79dc07d0e830e46fd588b8b252df0611889f6122bb05816946"
+  },
+  "replacements": [
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 400,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 401,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 402,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 403,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 404,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 405,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 406,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 407,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 408,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 409,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 410,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 411,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 412,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 413,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 414,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 415,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 416,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 417,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 418,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 419,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 420,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 421,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 422,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 423,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 424,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 425,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 426,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 427,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 428,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 429,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 430,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 431,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 432,
+      "issuer": "EQ INSURANCE COMPANY LTD.",
+      "replacedBy": "sg_seven_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 433,
+      "issuer": "Trinity General Insurance Company Limited",
+      "replacedBy": "hk_my_four_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 434,
+      "issuer": "Trinity General Insurance Company Limited",
+      "replacedBy": "hk_my_four_catalog"
+    },
+    {
+      "feed": "hk_sg_my_catalog",
+      "path": "coverage/2026-10-27/batch-2/hk-sg-my/observed-products.jsonl",
+      "line": 435,
+      "issuer": "Trinity General Insurance Company Limited",
+      "replacedBy": "hk_my_four_catalog"
+    }
+  ]
+}
