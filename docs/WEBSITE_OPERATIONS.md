@@ -45,13 +45,13 @@ tar -czf ../insurance-website.tar.gz -C dist .
 tar -tzf ../insurance-website.tar.gz
 ```
 
-解压内容应直接位于网站 document root，不能多嵌套一层 `dist/`。上面的构建、服务与打包是本地命令；新托管账号、DNS、HTTPS、访问控制及远程发布仍需目标平台授权。本次没有创建新托管、改 DNS 或重新部署原站。普通托管的登录/权限不会从 GitHub 私有仓库自动继承；必须单独检查目标网站可见性。
+解压内容应直接位于网站 document root，不能多嵌套一层 `dist/`。上面的构建、服务与打包是本地命令；新托管账号、DNS、HTTPS、访问控制及远程发布仍需目标平台授权。本次没有创建新托管、改 DNS 或重新部署原站。普通托管的登录/权限不会从 GitHub 公开仓库自动继承；必须单独检查目标网站可见性。
 
 发布检查：主页返回 200；`product-library.json` 是 JSON；搜索、地区切换、展开/收起、前进/后退及 `legacy.html` 均可用；检查手机布局与浏览器控制台。保存发布所用 Git 提交和产物校验值，回滚时重新构建并发布上一个确认过的提交，不手工混合两个版本的 JSON。
 
 ## 3. 继续维护原有 ChatGPT Sites（单独授权）
 
-原项目 ID、精确提交及配置见 [来源清单](../manifests/website-source.json)。它当前是公开 Site；GitHub 仓库保持私有不等于 Site 私有。
+原项目 ID、精确提交及配置见 [来源清单](../manifests/website-source.json)。它当前是公开 Site，GitHub 仓库也已公开；两者的可见性及写入/发布权限仍分别管理。
 
 原 Sites 的所有权、编辑权、发布权限不随 GitHub 源码转移。接手人必须通过原项目拥有者授予的正常权限维护；不能通过本仓库绕过登录。不要新建一个同名项目冒充原项目。
 

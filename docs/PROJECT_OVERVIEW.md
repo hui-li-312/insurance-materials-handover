@@ -4,13 +4,13 @@
 
 ## 项目入口
 
-- 私有仓库：https://github.com/hui-li-312/insurance-materials-handover
+- 公开仓库：https://github.com/hui-li-312/insurance-materials-handover
 - 原件版本包：https://github.com/hui-li-312/insurance-materials-handover/releases/tag/v2026.10.27
 - 已部署公开目录：https://hong-kong-insurance-library.balabalaniuniu.chatgpt.site
 - [网站代码入口](../website/README.md)；[启动与部署](WEBSITE_OPERATIONS.md)；[部署源码来源](WEBSITE_PROVENANCE.md)。
 - [交接边界](HANDOVER.md)；[原件恢复](RESTORE.md)；[采集核验方法](METHODOLOGY.md)；[下一步任务](BACKLOG.md)；[贡献与发布规则](../CONTRIBUTING.md)。
 
-仓库和 Release 是私有的，公开网站是资料目录。持有链接不等于获得私有仓库、原账号归档或原部署平台的权限；由所有者另行添加所需成员，不共享账号密码。
+仓库和现有 18 个普通原件包已按所有者确认公开，读取、克隆和下载无需邀请；公开网站是资料目录。写入、合并、发布与部署仍须相应授权，原账号私有归档及原 Sites 权限不随之开放，不共享账号密码。
 
 ## 已完成的工作
 
@@ -68,6 +68,6 @@
 - Git：小型目录、清单、脚本、台账、网站运行文件与维护文档。
 - Release：按 SHA 定位、未经改写的普通原件包；以 manifest 和 GitHub 附件摘要核对。
 - 不包含：51 份隔离原件、客户个性化签发资料、账号密钥、完整历史执行环境及全部过程性归档。
-- 原始版权和使用限制仍属于来源机构；私有留存不自动赋予公开转载、训练或再授权许可。
+- 原始版权和使用限制仍属于来源机构；公开可访问不自动赋予公开转载、训练或再授权许可，也不自动授权新增或隔离资料的公开传播。
 
 仓库交接是一个可复核、可继续维护的工程基线，不是对历史审读结论的法律背书。

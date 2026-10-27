@@ -1,6 +1,6 @@
 # 恢复底层文件
 
-Git 保存小型索引、交接文档、校验脚本和台账；大量原件使用私有 GitHub Release 附件。仓库链接不是原件已经上传的证明，附件发布和远端读回核验由实际发布记录另行确认。
+Git 保存小型索引、交接文档、校验脚本和台账；大量普通原件使用公开 GitHub Release 附件，读取和下载无需邀请。仓库链接不是原件已经上传的证明，附件发布和远端读回核验由实际发布记录另行确认。
 
 1. 下载 `manifests/release-assets.json` 所列普通原件附件到同一目录。
 2. 运行：`python3 scripts/verify_and_restore.py --assets /path/to/downloaded-assets --output /path/to/restored-originals`
@@ -12,6 +12,6 @@ Git 保存小型索引、交接文档、校验脚本和台账；大量原件使�
 
 脚本不联网、不运行 PDF 内的脚本、不解析或更改原件正文、不安装软件、不读取凭据。输出目录应由接手人自行选择；若存在同路径不同字节文件，立即停止而不是覆盖。
 
-没有权限取得私有 Release 附件时，应由仓库所有者明确授权访问，不共享个人登录凭据。个人私有仓库的协作者权限包含写入，不能设为只读；邀请前需确认该权限范围。参见 [GitHub 官方权限说明](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/permission-levels-for-a-personal-account-repository)。
+仓库和现有 18 个普通原件包已公开，可直接读取、克隆和下载，无需协作者邀请。下载失败时先核对链接、网络及具体错误，不索取或共享个人登录凭据。公开读取不授予写入、合并、发布或部署权限；这些操作仍须所有者授权。公开可访问也不等于获得第三方原件的再分发或商业使用许可。
 
 隔离材料并未逐一重新完成个人信息排查。其中有一项原核验记录提示“疑似标识符形态的隐藏文字，真实性未知”；哈希一致不代表无个人信息或可公开传播。
