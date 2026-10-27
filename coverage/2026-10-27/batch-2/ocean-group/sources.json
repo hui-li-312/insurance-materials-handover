@@ -1,0 +1,23 @@
+{
+  "issuer_id": "own-th-e8f8423e8616",
+  "regulator_url": "https://smart.oic.or.th/EService/Menu12",
+  "official_website": "https://www.ocean.co.th",
+  "source_date": null,
+  "catalog_pages": [
+    {
+      "url": "https://www.ocean.co.th/group-insurance",
+      "checked_at": "2026-10-27T10:49:27.198766+00:00",
+      "html_sha256": "a836c4cf7bd44f6611c817a508df6c03a718fe87224365072b2af01be895a98b",
+      "status": "retrieved"
+    },
+    {
+      "url": "https://www.ocean.co.th/group-insurance/product",
+      "checked_at": "2026-10-27T10:50:20.093125+00:00",
+      "html_sha256": "bd6c2b7daad0cbc047c5fd98a12c941b995f9c5910dbc916958f1e3262544d2c",
+      "status": "retrieved"
+    }
+  ],
+  "group_catalog_cards_enumerated": 2,
+  "group_catalog_pagination": "No pagination control present in the retrieved group product catalog.",
+  "prior_individual_catalog_snapshot_manifest_sha256": "b3b50f0c96e472f9c5639dcb7c41bde8177983c42d7d6cb7ec6c65c77971354f"
+}

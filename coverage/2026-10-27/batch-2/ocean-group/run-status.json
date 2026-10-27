@@ -1,0 +1,15 @@
+{
+  "snapshot_at": "2026-10-27T10:56:38.186123+00:00",
+  "catalog_pages_checked": 2,
+  "named_group_plan_entries": 2,
+  "detail_pages_verified": 2,
+  "coverage_classes_not_counted_as_products": 4,
+  "material_links": 2,
+  "material_files_requested": 0,
+  "new_formal_original_files": 0,
+  "selected_thai_group_product_catalog_complete": true,
+  "issuer_all_public_catalogs_complete": false,
+  "all_skus_complete": false,
+  "all_wordings_complete": false,
+  "status": "ready_for_QA_not_publication"
+}

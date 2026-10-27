@@ -1,0 +1,30 @@
+{
+  "snapshot_at": "2026-10-27T10:56:38.186123+00:00",
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "05d349e6adf8013f032c76fae72d27541731d2984053600e5ae939b8e3db2371",
+      "bytes": 474
+    },
+    {
+      "file": "coverage-classes.jsonl",
+      "sha256": "950700a0868b882ec3c0ffb3774fa1d0cfff2cd59c3259281219924e95ddbe46",
+      "bytes": 1304
+    },
+    {
+      "file": "products.jsonl",
+      "sha256": "4079167ae37bad15c3462d5984c59faff094c6364c172e0c75b51b71b741a36d",
+      "bytes": 4648
+    },
+    {
+      "file": "run-status.json",
+      "sha256": "76c377c4fffc97fd29893e8086efdc4a253a2500669e3fe639f707ad1c472de0",
+      "bytes": 500
+    },
+    {
+      "file": "sources.json",
+      "sha256": "8982a7b2d0760c8b8d65623ca1b18f2fd7b2f1f543b5a94dc823dfc700ff2116",
+      "bytes": 957
+    }
+  ]
+}
