@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "compiled_at": "2026-10-27T20:57:08.251841+00:00",
+  "compiled_at": "2026-10-27T21:42:54.587919+00:00",
   "status": "in_progress_not_all_market_complete",
   "formal_original_baseline": 4713,
   "new_formal_original_credit": 0,
@@ -463,6 +463,67 @@
       "new_verified_SKU_credit": 0,
       "accepted_source_manifest_sha256": "66d2866792a12fa139d878372c8436eb4fe31360f52b2cb14d55d4a48b33b025",
       "aggregation_notice": "Each exact source-company pool imported once. The 42-route language frontier is nonadditive; newer gap dispositions do not rewrite the frozen source acquisition results."
+    },
+    {
+      "id": "hk_four_general_catalog",
+      "path": "2026-10-27/batch-12/hk-four-general/",
+      "typed_observations": 81,
+      "unit": "typed_catalog_observations_not_unique_products",
+      "source_only_document_contexts": 85,
+      "new_formal_original_credit": 0
+    },
+    {
+      "id": "hongleong_my_catalog",
+      "path": "2026-10-27/batch-12/hongleong-my/",
+      "typed_observations": 94,
+      "unit": "typed_catalog_observations_not_unique_products",
+      "source_only_document_contexts": 214,
+      "new_formal_original_credit": 0
+    },
+    {
+      "id": "sg_uoi_catalog",
+      "path": "2026-10-27/batch-12/sg-uoi/",
+      "typed_observations": 32,
+      "source_only_document_contexts": 16,
+      "unit": "typed_source_observations_not_unique_products",
+      "new_formal_original_credit": 0
+    },
+    {
+      "id": "sg_hlas_catalog",
+      "path": "2026-10-27/batch-12/sg-hlas/",
+      "typed_observations": 48,
+      "source_only_document_contexts": 0,
+      "unit": "typed_source_observations_not_unique_products",
+      "new_formal_original_credit": 0
+    },
+    {
+      "id": "sg_chinalife_catalog",
+      "path": "2026-10-27/batch-12/sg-chinalife/",
+      "typed_observations": 36,
+      "source_only_document_contexts": 0,
+      "unit": "typed_source_observations_not_unique_products",
+      "new_formal_original_credit": 0
+    },
+    {
+      "id": "thai_life_th_catalog",
+      "path": "2026-10-27/batch-12/thailife-batch-v2/",
+      "typed_observations": 47,
+      "unit": "named_source_observations_not_unique_products",
+      "new_formal_original_credit": 0
+    },
+    {
+      "id": "phillip_life_th_catalog",
+      "path": "2026-10-27/batch-12/philliplife-th-catalog-batch/",
+      "typed_observations": 24,
+      "unit": "named_source_observations_not_unique_products",
+      "new_formal_original_credit": 0
+    },
+    {
+      "id": "id_four_catalog",
+      "path": "2026-10-27/batch-12/id-four/",
+      "typed_observations": 33,
+      "unit": "named_source_observations_not_unique_products",
+      "new_formal_original_credit": 0
     }
   ],
   "public_projection_rule": "Known historical or already-held raw locators are withheld; observed source-reference counts are not the count of exposed download URLs. No current-file confidentiality finding or fresh-byte verification is inferred.",
