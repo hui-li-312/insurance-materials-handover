@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "compiled_at": "2026-10-27T11:53:35.171405+00:00",
+  "compiled_at": "2026-10-27T13:19:07.972794+00:00",
   "status": "in_progress_not_all_market_complete",
   "formal_original_baseline": 4713,
   "new_formal_original_credit": 0,
@@ -20,10 +20,10 @@
       "supersedes": "2026-10-27/vn-bn-kh-la-mm/",
       "unit": "BN144_plus_KH284_mixed_catalog_observations_not_unique_skus",
       "source_material_occurrences": 581,
-      "publicly_exposed_occurrences": 559,
-      "withheld_occurrences": 22,
+      "publicly_exposed_occurrences": 557,
+      "withheld_occurrences": 24,
       "source_unique_material_urls": 472,
-      "publicly_exposed_unique_material_urls": 459,
+      "publicly_exposed_unique_material_urls": 457,
       "matched_historical_held_identities": 13
     },
     {
@@ -65,5 +65,6 @@
       "unit": "bounded_initial_two_issuer_observations_and_dated_regional_census"
     }
   ],
-  "public_projection_rule": "Known historical or already-held raw locators are withheld; observed source-reference counts are not the count of exposed download URLs. No current-file confidentiality finding or fresh-byte verification is inferred."
+  "public_projection_rule": "Known historical or already-held raw locators are withheld; observed source-reference counts are not the count of exposed download URLs. No current-file confidentiality finding or fresh-byte verification is inferred.",
+  "last_projection_correction": "Two newly fetched URL aliases match an already-held original by SHA; raw locators withheld without adding originals/products."
 }
