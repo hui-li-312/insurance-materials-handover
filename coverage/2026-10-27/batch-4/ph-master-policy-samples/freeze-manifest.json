@@ -1,0 +1,25 @@
+{
+  "snapshot_at": "2026-10-27T13:41:30.815532+00:00",
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "8905999fb80f6becf0ec1dc7869e2dcecdff1df69209e3fbe5f16d4a0a048a07",
+      "bytes": 1316
+    },
+    {
+      "file": "materials.jsonl",
+      "sha256": "a213a30cccc92807cd66e14841b462f3f7ce0f54155f3b0b5103e137d44febca",
+      "bytes": 6419
+    },
+    {
+      "file": "run-status.json",
+      "sha256": "42baaad494d2ef659a599c6127402664c5f509d001f3ba87394218e5012c9358",
+      "bytes": 639
+    },
+    {
+      "file": "sources.json",
+      "sha256": "e39fb58c0f873f2113a021c9efc8050e763fbea45b86010e31342c4caabb58e2",
+      "bytes": 1361
+    }
+  ]
+}

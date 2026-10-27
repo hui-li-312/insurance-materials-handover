@@ -1,0 +1,21 @@
+{
+  "snapshot_at": "2026-10-27T13:41:30.815532+00:00",
+  "requests": 2,
+  "http200": 2,
+  "redirects_followed": 0,
+  "denials": 0,
+  "retries": 0,
+  "material_files_downloaded": 2,
+  "distinct_pdf_hashes": 2,
+  "bytes_total": 493413,
+  "pages_total": 21,
+  "first_pass_visually_reviewed_pages": 21,
+  "sample_master_policy_templates": 2,
+  "known_prior_hold_locator_matches": 0,
+  "known_prior_hold_sha_matches": 0,
+  "files_publicly_released": 0,
+  "formal_original_count_credit": 0,
+  "new_product_records": 0,
+  "full_individualized_contracts": 0,
+  "status": "private_sample_wording_files_first_pass_reviewed_independent_QA_pending"
+}

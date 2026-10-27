@@ -1,0 +1,26 @@
+{
+  "sources": [
+    {
+      "issuer_id": "own-ph-28d6fe61af83",
+      "first_party_product_url": "https://manilabankerslife.com/cic.html",
+      "first_party_page_sha256": "30ce5662a7e935bf40d62f0f21ce6c641aae706e4a53cf0504f4b27162d78a76",
+      "actual_link_label": "Master Policy",
+      "requested_material_url": "https://uploads-pub.drc.zone/171cf9fa-0a63-4f94-bc05-913000afd4cc",
+      "request_scope": "One exact publicly advertised document GET, no redirect or origin enumeration.",
+      "http_status": 200,
+      "checked_at": "2026-10-27T13:37:22.521386+00:00"
+    },
+    {
+      "issuer_id": "own-ph-72dfc24f6e3b",
+      "first_party_product_url": "https://www.paramount.com.ph/ofw-insurance",
+      "first_party_page_sha256": "3a002cd844972c963e43420c9fd9265addd1b7a7847393f4c46221b13e6d1c9c",
+      "actual_link_label": "PLGIC OFW Master Policy",
+      "requested_material_url": "https://plgic-production.s3.ap-southeast-1.amazonaws.com/2023+Corporate+Website+Asset+Update/OFW+Page/Paramount+OFW+Policy.pdf.pdf",
+      "request_scope": "One exact publicly advertised document GET, no redirect or origin enumeration.",
+      "http_status": 200,
+      "checked_at": "2026-10-27T13:37:22.532454+00:00"
+    }
+  ],
+  "source_date": null,
+  "association_scope": "Exact first-party advertised hrefs only; no entire-storage-origin ownership inference."
+}
