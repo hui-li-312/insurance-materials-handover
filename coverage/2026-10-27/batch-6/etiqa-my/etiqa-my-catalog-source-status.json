@@ -1,0 +1,669 @@
+[
+  {
+    "url": "https://www.etiqa.com.my/travel",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-f5dc3ed662a44f3d606d",
+    "role": "catalog_category",
+    "official_name": "Travel Insurance and Takaful",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/car",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-a23b16b94019f1419029",
+    "role": "catalog_category",
+    "official_name": "Car Insurance and Takaful",
+    "material_link_count": 2,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/life-and-family",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-cfe967afb4e25b253aa9",
+    "role": "catalog_category",
+    "official_name": "Family and Life Insurance Coverage Plans",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/motorcycle",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-659c4d0af597fec91aa2",
+    "role": "catalog_category",
+    "official_name": "Motorcycle Insurance and Takaful",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-abeb7fb9b7f26a0e8b9d",
+    "role": "catalog_category",
+    "official_name": "Personal Accident Insurance and Takaful",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/health",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-072751bd6a7ae86b72e5",
+    "role": "catalog_category",
+    "official_name": "Malaysia Health Insurance Plan",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/commercial-vehicle",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-fd5f4b8da06411a037b2",
+    "role": "catalog_category",
+    "official_name": "Commercial Vehicle Insurance & Takaful in Malaysia",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/home",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-287e87d6f45d5ac16f2b",
+    "role": "catalog_category",
+    "official_name": "Home Insurance and Takaful",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/car-ev",
+    "status": "source_read_empty_category_gap",
+    "observation_id": "MY-Etiqa-observation-18a265c64b6f64227436",
+    "role": "catalog_category",
+    "official_name": "Electric Vehicle",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/savings",
+    "status": "source_read_empty_category_gap",
+    "observation_id": "MY-Etiqa-observation-35d6884cafd7c6b3a98b",
+    "role": "catalog_category",
+    "official_name": "Savings",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/life-and-family/etiqa-term-plus-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-8a8ad9dc8fcd0056ace5",
+    "role": "product",
+    "official_name": "Etiqa Term Plus: KWSP Life Insurance",
+    "material_link_count": 7,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/health/critical-care-plus-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-37c3f6d61dc3e3a34ef0",
+    "role": "product",
+    "official_name": "Etiqa Critical Care Plus: Critical Illness Coverage",
+    "material_link_count": 7,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/health/i-medicalcard-elite",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-b21a70445568228fd409",
+    "role": "product",
+    "official_name": "i-MedicalCard Elite",
+    "material_link_count": 9,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/health/ezymedical",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-120a73bdfb0e1c05b94c",
+    "role": "product",
+    "official_name": "EzyMedical: Comprehensive Medical Plan with Mental Health Coverage",
+    "material_link_count": 7,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/car/comprehensive-car-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-f94c80c8e9a5f6fa1e20",
+    "role": "product",
+    "official_name": "Comprehensive Private Car Insurance",
+    "material_link_count": 11,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/car/comprehensive-car-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-6fc75ddca9df2f32b407",
+    "role": "product",
+    "official_name": "Comprehensive Private Car Takaful",
+    "material_link_count": 13,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/car-ev/premium-car-ev-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-c2982aa3b69b1335fdd6",
+    "role": "add_on",
+    "official_name": "EV Home Charger Coverage",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/car-ev/premium-car-ev-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-4ae98cddf9e8f11697d4",
+    "role": "add_on",
+    "official_name": "EV Home Charger Takaful Coverage",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/motorcycle/comprehensive-motorcycle-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-4b7754a8a26222fa8f27",
+    "role": "product",
+    "official_name": "Comprehensive Motorcycle Insurance",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/motorcycle/comprehensive-motorcycle-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-dfed7093b5c391f46ec3",
+    "role": "product",
+    "official_name": "Comprehensive Motorcycle Takaful",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/health/onemedical",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-4593c3b8daef2a727e6a",
+    "role": "product",
+    "official_name": "OneMedical: Family Medical Plan",
+    "material_link_count": 7,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/health/onemedical-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-c133c46b759e7eb63053",
+    "role": "product",
+    "official_name": "OneMedical Takaful",
+    "material_link_count": 8,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/health/cancer-shield-insurance",
+    "status": "HTTP404_source_link_unavailable_no_retry",
+    "role": "unresolved_source",
+    "official_name": "Cancer Shield Insurance",
+    "material_link_count": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/buddy-pa-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-b82f0c3e7ef76d7d0371",
+    "role": "product_family",
+    "official_name": "Buddy PA Insurance",
+    "material_link_count": 13,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/buddy-pa-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-1216836543e7c753330d",
+    "role": "product_family",
+    "official_name": "Buddy PA Takaful",
+    "material_link_count": 13,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/home/hohh-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-946d57f75938908ccc63",
+    "role": "product",
+    "official_name": "Houseowner/Householder Insurance",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/home/hohh-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-a423948f45aaa7078441",
+    "role": "product",
+    "official_name": "Houseowner/Householder Takaful",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/savings/triple-growth-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-3f8d4e8b32513d57a509",
+    "role": "product",
+    "official_name": "Triple Growth Insurance",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/savings/harmoni-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-4cd5fde417be634849e0",
+    "role": "product",
+    "official_name": "Harmoni Takaful",
+    "material_link_count": 6,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/investment-linked",
+    "status": "source_read_empty_category_gap",
+    "observation_id": "MY-Etiqa-observation-ea28a46bd3fd897df439",
+    "role": "catalog_category",
+    "official_name": "Investment-Linked Plans",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/education",
+    "status": "source_read_empty_category_gap",
+    "observation_id": "MY-Etiqa-observation-e710122b3b8021da9f1a",
+    "role": "catalog_category",
+    "official_name": "Education Insurance",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/travel/tripcare-360-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-7bdaadc8e530837cb92a",
+    "role": "product",
+    "official_name": "TripCare 360 Insurance",
+    "material_link_count": 5,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/travel/tripcare-360-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-1192e492c63a07523d03",
+    "role": "product",
+    "official_name": "TripCare 360 Takaful",
+    "material_link_count": 5,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/employee-benefits",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-a48df02ff5cbf31dc53b",
+    "role": "catalog_category",
+    "official_name": "Employee Benefits",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/commercial-vehicle-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-00ef478afddb1177f8a6",
+    "role": "product",
+    "official_name": "Commercial Vehicle Insurance",
+    "material_link_count": 4,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/commercial-vehicle-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-1794db5c0cfc2d7c9c27",
+    "role": "product",
+    "official_name": "Commercial Vehicle Takaful",
+    "material_link_count": 4,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/life-and-family/etiqa-term-plus-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-14532ec1fa93e3945c46",
+    "role": "product",
+    "official_name": "Etiqa Term Takaful Plus",
+    "material_link_count": 7,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/life-and-family/icareoku",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-49ed649fc354934ab029",
+    "role": "product",
+    "official_name": "i-Care OKU",
+    "material_link_count": 5,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/life-and-family/etiqa-e-takaful-hayat",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-f04883740f0df800c242",
+    "role": "product",
+    "official_name": "e-Takaful Hayat",
+    "material_link_count": 7,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/motorcycle/myRider-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-995f3766d419533ad5e3",
+    "role": "add_on_family",
+    "official_name": "MyRider and MyRider Plus Add-On (Insurance)",
+    "material_link_count": 6,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/motorcycle/myRider-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-56b8ba2fc1e9a46e8cd0",
+    "role": "add_on_family",
+    "official_name": "MyRider and MyRider Plus Add-On (Takaful)",
+    "material_link_count": 6,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/domestic-maid-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-cbfd98a7f827d7b7f4f2",
+    "role": "product",
+    "official_name": "Domestic Maid Insurance",
+    "material_link_count": 4,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/domestic-servant-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-0b9149eb48b44bbc0b34",
+    "role": "product",
+    "official_name": "Domestic Servant Takaful",
+    "material_link_count": 4,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/weekend-warrior-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-b67893794e93d23a09da",
+    "role": "plan_variant",
+    "official_name": "Buddy PA Insurance – Weekend Warrior",
+    "material_link_count": 4,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/weekend-warrior-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-4583cc4c41e4a409f00d",
+    "role": "plan_variant",
+    "official_name": "Buddy PA Takaful - Weekend Warrior",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/crime-shield-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-5335681cf5e1529f2f19",
+    "role": "plan_variant",
+    "official_name": "Buddy PA Insurance – Crime Shield",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/crime-shield-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-6549df842d2cebae02e5",
+    "role": "plan_variant",
+    "official_name": "Buddy PA Takaful – Crime Shield",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/eve-protect-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-3cb3b3bfb050f4fc7110",
+    "role": "plan_variant",
+    "official_name": "Buddy PA Insurance - Eve Protect",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/eve-protect-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-54eec76c3e5d652bbb69",
+    "role": "plan_variant",
+    "official_name": "Buddy PA Takaful - Eve Protect",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/lifeline-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-313e6c34dba02072c111",
+    "role": "plan_variant",
+    "official_name": "Buddy PA Insurance – Lifeline",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/lifeline-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-c4186b7e970983099b8e",
+    "role": "plan_variant",
+    "official_name": "Buddy PA Takaful – Lifeline",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/oto-360-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-fb3a353bf8d2ba2ec596",
+    "role": "product",
+    "official_name": "OTO 360 Takaful",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/oto-360-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-93ec8cef16eef4ccd0b8",
+    "role": "product",
+    "official_name": "OTO 360 Insurance",
+    "material_link_count": 3,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/health/critical-care-plus-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-786d4992d6555ff7bdac",
+    "role": "product",
+    "official_name": "Etiqa Critical Care Takaful Plus",
+    "material_link_count": 7,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/commercial-vehicle/commercial-vehicle-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-6c9c91905f370ff1a97b",
+    "role": "product",
+    "official_name": "Comprehensive Commercial Vehicle Insurance",
+    "material_link_count": 4,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/commercial-vehicle/commercial-vehicle-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-95310d4a2e0b445cb00b",
+    "role": "product",
+    "official_name": "Shariah Compliant Commercial Vehicle Takaful",
+    "material_link_count": 4,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/home/myrumah-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-2833af1dbfd2e0e11e14",
+    "role": "product",
+    "official_name": "MyRumah Insurance",
+    "material_link_count": 4,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/home/myrumah-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-1f1530cda8b3a855c78d",
+    "role": "product",
+    "official_name": "MyRumah Takaful",
+    "material_link_count": 4,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-5bc2b0b9f1d972fa536b",
+    "role": "catalog_category",
+    "official_name": "Corporate Insurance and Takaful",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/employee-benefits/medicmate-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-f93b42df9b051d2c43e9",
+    "role": "product",
+    "official_name": "Etiqa MedicMate Takaful",
+    "material_link_count": 2,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/employee-benefits/smecare-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-b26e8cd0c63c8a2f33ae",
+    "role": "group",
+    "official_name": "SME Care Insurance",
+    "material_link_count": 2,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/employee-benefits/smecare-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-ca5e6ea7dc76d4f0880b",
+    "role": "group",
+    "official_name": "SME Care Takaful",
+    "material_link_count": 2,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/asset-and-liability-protection",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-5bd941761060f053420d",
+    "role": "catalog_category",
+    "official_name": "Asset & Liability Protection",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/commercial-vehicle",
+    "status": "source_read_empty_category_gap",
+    "observation_id": "MY-Etiqa-observation-4c434f99ca9899ac39a5",
+    "role": "catalog_category",
+    "official_name": "Commercial Vehicle",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/risk-advice-protect",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-485fcea2193070455df7",
+    "role": "service",
+    "official_name": "Risk, Advice & Protect",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/group-personal-accident-insurance",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-ebe18d2ed5038d682c42",
+    "role": "group",
+    "official_name": "Group Personal Accident Insurance",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/group-personal-accident-takaful",
+    "status": "source_read",
+    "observation_id": "MY-Etiqa-observation-4c6ce057372736155a11",
+    "role": "group",
+    "official_name": "Group Personal Accident Takaful",
+    "material_link_count": 1,
+    "pagination_evidence": "No explicit next-page control found in selected own source; HTML-only check, not hidden runtime/channel completion.",
+    "explicit_next_page_controls": 0
+  }
+]

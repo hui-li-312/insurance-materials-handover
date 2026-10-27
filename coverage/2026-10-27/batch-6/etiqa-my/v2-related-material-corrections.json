@@ -1,0 +1,81 @@
+{
+  "prior_snapshot": "etiqa-my-ready-20261027T141350Z",
+  "prior_manifest_sha256": "4202f2f3ffa78d8e3afb5b5d29dbd3fb0072a122f7775d5e1414db88013629d5",
+  "revision_at": "2026-10-27T15:28:35.625621+00:00",
+  "corrections": [
+    {
+      "observation_id": "MY-Etiqa-observation-f94c80c8e9a5f6fa1e20",
+      "material_index": 4,
+      "label": "Product Disclosure Sheet Woman Driver Window Snatch Theft Insurance",
+      "document_observation_id": "MY-Etiqa-document-2c0cf4637ab1233097f0",
+      "association_role": "related_named_add_on_reference",
+      "parent_main_policy_wording_credit": 0,
+      "scope": "Source association and material type retained; no separate row, new file, whole-document review or blanket underwriter inference."
+    },
+    {
+      "observation_id": "MY-Etiqa-observation-f94c80c8e9a5f6fa1e20",
+      "material_index": 5,
+      "label": "Product Disclosure Sheet Third Party Fire and Theft",
+      "document_observation_id": "MY-Etiqa-document-b612112d20a4612c1867",
+      "association_role": "different_named_coverage_option_reference",
+      "parent_main_policy_wording_credit": 0,
+      "scope": "Source association and material type retained; no separate row, new file, whole-document review or blanket underwriter inference."
+    },
+    {
+      "observation_id": "MY-Etiqa-observation-f94c80c8e9a5f6fa1e20",
+      "material_index": 8,
+      "label": "Policy Wording OTO 360",
+      "document_observation_id": "MY-Etiqa-document-b7f86ffea7d5b345f9fe",
+      "association_role": "optional_additional_coverage_reference",
+      "parent_main_policy_wording_credit": 0,
+      "scope": "Source association and material type retained; no separate row, new file, whole-document review or blanket underwriter inference."
+    },
+    {
+      "observation_id": "MY-Etiqa-observation-f94c80c8e9a5f6fa1e20",
+      "material_index": 9,
+      "label": "Product Disclosure Sheet OTO 360",
+      "document_observation_id": "MY-Etiqa-document-0ab06e2abbc5c1a63d2e",
+      "association_role": "optional_additional_coverage_reference",
+      "parent_main_policy_wording_credit": 0,
+      "scope": "Source association and material type retained; no separate row, new file, whole-document review or blanket underwriter inference."
+    },
+    {
+      "observation_id": "MY-Etiqa-observation-6fc75ddca9df2f32b407",
+      "material_index": 6,
+      "label": "Product Disclosure Sheet Woman Driver Window Snatch Theft Takaful",
+      "document_observation_id": "MY-Etiqa-document-8e93f844936c9111eee7",
+      "association_role": "related_named_add_on_reference",
+      "parent_main_policy_wording_credit": 0,
+      "scope": "Source association and material type retained; no separate row, new file, whole-document review or blanket underwriter inference."
+    },
+    {
+      "observation_id": "MY-Etiqa-observation-6fc75ddca9df2f32b407",
+      "material_index": 7,
+      "label": "Product Disclosure Sheet Third Party Fire and Theft",
+      "document_observation_id": "MY-Etiqa-document-dabf800f1c8beab54e03",
+      "association_role": "different_named_coverage_option_reference",
+      "parent_main_policy_wording_credit": 0,
+      "scope": "Source association and material type retained; no separate row, new file, whole-document review or blanket underwriter inference."
+    },
+    {
+      "observation_id": "MY-Etiqa-observation-6fc75ddca9df2f32b407",
+      "material_index": 10,
+      "label": "Certificate Wording OTO 360 Takaful",
+      "document_observation_id": "MY-Etiqa-document-4bb3ae4b1503d836c32d",
+      "association_role": "optional_additional_coverage_reference",
+      "parent_main_policy_wording_credit": 0,
+      "scope": "Source association and material type retained; no separate row, new file, whole-document review or blanket underwriter inference."
+    },
+    {
+      "observation_id": "MY-Etiqa-observation-6fc75ddca9df2f32b407",
+      "material_index": 11,
+      "label": "Product Disclosure Sheet OTO 360 Takaful",
+      "document_observation_id": "MY-Etiqa-document-fdd4fa6db7538c183e21",
+      "association_role": "optional_additional_coverage_reference",
+      "parent_main_policy_wording_credit": 0,
+      "scope": "Source association and material type retained; no separate row, new file, whole-document review or blanket underwriter inference."
+    }
+  ],
+  "network_requests": 0,
+  "changes_outside_exact_related_association_context": false
+}

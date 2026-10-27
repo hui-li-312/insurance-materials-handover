@@ -1,0 +1,91 @@
+{
+  "frozen_at": "2026-10-27T15:28:35.625621+00:00",
+  "status": "immutable_metadata_candidate_narrow_final_delta_QA_pending",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 3539,
+      "sha256": "2459e28deb8e46d69b65e0a6ff695d377e1db76f3894f4ba9d23b9d6ab73957b"
+    },
+    {
+      "file": "documents-etiqa-my.jsonl",
+      "bytes": 171747,
+      "sha256": "baee4d9f593276f7a832526921c91d38bffe6b666e22c1fb31b5421e76f05e4c"
+    },
+    {
+      "file": "etiqa-my-catalog-source-status.json",
+      "bytes": 31099,
+      "sha256": "479d69495d95faa2502703c7ff495049707289d4c7d7382995f727fee7951bb6"
+    },
+    {
+      "file": "etiqa-my-phase1-queue.json",
+      "bytes": 10651,
+      "sha256": "f15d57e11a70fd62e3d7c3c57982c9e6c872204f3f7b40d138566b5d6cf1ee97"
+    },
+    {
+      "file": "etiqa-my-phase2-queue.json",
+      "bytes": 7905,
+      "sha256": "6d4378eda57f86b01bc02acb7d7dfb911ec141ee0d2eb9cf6b914cd004784a98"
+    },
+    {
+      "file": "etiqa-my-phase3-queue.json",
+      "bytes": 967,
+      "sha256": "026988d57f1c80e1d4d6773afbe1a36f4b2e4b92aac9af320de380b7726e8f76"
+    },
+    {
+      "file": "etiqa-my-positive-origin-evidence.json",
+      "bytes": 1068,
+      "sha256": "53e12a04d8b9a0debba6e39b51cb40e1d8b7913bfeeb5e822d783035160ed0e6"
+    },
+    {
+      "file": "etiqa-my-separate-service-hrefs.json",
+      "bytes": 340,
+      "sha256": "91e54c3a2a76c8a732e6d57fb4c14e351cbe422ed6da1f9c6435a804c590c070"
+    },
+    {
+      "file": "etiqa-my-source-metadata.json",
+      "bytes": 18685,
+      "sha256": "03f41f49dc91f8f2d19f0a89e0eba0cc469bcc412f00fe10fed21af829b979d6"
+    },
+    {
+      "file": "etiqa-my-traversal.json",
+      "bytes": 3203,
+      "sha256": "b425180254b62ba6c7cd755df4d67c3be4493ee98c129155642a10366f4fedd8"
+    },
+    {
+      "file": "intake-status.json",
+      "bytes": 1051,
+      "sha256": "3bbb33c8c0fb5a3ae98234a28fe55ca085658e584f2722c33d0475280523df92"
+    },
+    {
+      "file": "issuer-specific-status.json",
+      "bytes": 3301,
+      "sha256": "b8df4c2276c5dd341b74df1a468eb140cfb2dce3a9f5d91596e004eb011857c5"
+    },
+    {
+      "file": "merge-map.json",
+      "bytes": 655,
+      "sha256": "d75cd63ab3a1ba284f345f38671816ca289e8e7cebfa9d5db36e5597000cdfeb"
+    },
+    {
+      "file": "private-intake-metadata.json",
+      "bytes": 16991,
+      "sha256": "4ee5879b7de5ee63209ed287e1c83482f0e002fe909cd55b475b4e384971bf40"
+    },
+    {
+      "file": "products-etiqa-my.jsonl",
+      "bytes": 281642,
+      "sha256": "20bec425751f641069022c974b82bd111f56873ff13f8fc6fc70507258db86de"
+    },
+    {
+      "file": "publication-safety-gate.json",
+      "bytes": 238,
+      "sha256": "8d508688e4563cd19a820f7bf633fc8e2c93bdf2d918c65d815a86a935cfb868"
+    },
+    {
+      "file": "v2-related-material-corrections.json",
+      "bytes": 4382,
+      "sha256": "2e39b6c75b1a8febd43ceb6437f431ff40b6a3fd622db2fabde4617bd620f173"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "action": "new_shared_brand_scoped_observations_not_four_copies",
+  "new_observations": 89,
+  "distinct_document_URL_observations": 166,
+  "private_intake_records": 7,
+  "same_offering_scope": "Buddy PA parent/options, MyRider families/options, duplicate commercial channel paths and repeated material associations remain explicitly related observations, not independently counted SKUs.",
+  "existing_freezes_modified": false,
+  "existing_material_file_index_action": "no_change_zero_formal_file_credit",
+  "integration_status": "source_content_QA_complete_narrow_delta_verification_pending",
+  "replaces_snapshot": "etiqa-my-ready-20261027T141350Z"
+}

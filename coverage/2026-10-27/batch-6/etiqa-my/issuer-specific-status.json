@@ -1,0 +1,106 @@
+[
+  {
+    "issuer_id": "MY-own-208241b5515accba",
+    "legal_name": "Etiqa General Insurance Berhad",
+    "products_status": "partial_shared_brand_catalog_legal_allocation_unresolved",
+    "C1": "Official MOTAC exact legal-entity website rows plus own successful shared origin.",
+    "C2": {
+      "shared_selected_source_targets": 67,
+      "HTTP200": 66,
+      "HTTP404": 1,
+      "blank_category_gaps": 5,
+      "whole_issuer_catalog_closed": false,
+      "unassigned_shared_observations_not_copied_into_each_entity": 85
+    },
+    "C3": {
+      "assigned_observations": 1,
+      "assigned_role_counts": {
+        "coverage_class": 1
+      },
+      "shared_site_unique_material_URLs_not_per_entity": 166
+    },
+    "C4": {
+      "shared_private_originals": 7,
+      "full_body_reviews": 0,
+      "formal_file_credit": 0
+    }
+  },
+  {
+    "issuer_id": "MY-own-ace14597c6162723",
+    "legal_name": "Etiqa Life Insurance Berhad",
+    "products_status": "partial_shared_brand_catalog_legal_allocation_unresolved",
+    "C1": "Official MOTAC exact legal-entity website rows plus own successful shared origin.",
+    "C2": {
+      "shared_selected_source_targets": 67,
+      "HTTP200": 66,
+      "HTTP404": 1,
+      "blank_category_gaps": 5,
+      "whole_issuer_catalog_closed": false,
+      "unassigned_shared_observations_not_copied_into_each_entity": 85
+    },
+    "C3": {
+      "assigned_observations": 1,
+      "assigned_role_counts": {
+        "product": 1
+      },
+      "shared_site_unique_material_URLs_not_per_entity": 166
+    },
+    "C4": {
+      "shared_private_originals": 7,
+      "full_body_reviews": 0,
+      "formal_file_credit": 0
+    }
+  },
+  {
+    "issuer_id": "MY-own-6d269c15ec6b7203",
+    "legal_name": "Etiqa Family Takaful Berhad",
+    "products_status": "partial_shared_brand_catalog_legal_allocation_unresolved",
+    "C1": "Official MOTAC exact legal-entity website rows plus own successful shared origin.",
+    "C2": {
+      "shared_selected_source_targets": 67,
+      "HTTP200": 66,
+      "HTTP404": 1,
+      "blank_category_gaps": 5,
+      "whole_issuer_catalog_closed": false,
+      "unassigned_shared_observations_not_copied_into_each_entity": 85
+    },
+    "C3": {
+      "assigned_observations": 1,
+      "assigned_role_counts": {
+        "product": 1
+      },
+      "shared_site_unique_material_URLs_not_per_entity": 166
+    },
+    "C4": {
+      "shared_private_originals": 7,
+      "full_body_reviews": 0,
+      "formal_file_credit": 0
+    }
+  },
+  {
+    "issuer_id": "MY-own-6f1a17a3e3728cb3",
+    "legal_name": "Etiqa General Takaful Berhad",
+    "products_status": "partial_shared_brand_catalog_legal_allocation_unresolved",
+    "C1": "Official MOTAC exact legal-entity website rows plus own successful shared origin.",
+    "C2": {
+      "shared_selected_source_targets": 67,
+      "HTTP200": 66,
+      "HTTP404": 1,
+      "blank_category_gaps": 5,
+      "whole_issuer_catalog_closed": false,
+      "unassigned_shared_observations_not_copied_into_each_entity": 85
+    },
+    "C3": {
+      "assigned_observations": 1,
+      "assigned_role_counts": {
+        "product": 1
+      },
+      "shared_site_unique_material_URLs_not_per_entity": 166
+    },
+    "C4": {
+      "shared_private_originals": 7,
+      "full_body_reviews": 0,
+      "formal_file_credit": 0
+    }
+  }
+]

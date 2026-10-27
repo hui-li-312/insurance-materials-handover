@@ -1,0 +1,254 @@
+[
+  {
+    "url": "https://www.etiqa.com.my/travel",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "-25%Travel",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/car",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "-10%Car",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/life-and-family",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Life & Family",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/motorcycle",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "-10%Motorcycle",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "-25%Personal Accident",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/health",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Medical",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/commercial-vehicle",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Commercial Vehicle",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/home",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Earthquake Cover-15%Home",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/car-ev",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "-10%Electric Vehicle",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/savings",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Savings",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/life-and-family/etiqa-term-plus-insurance",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Find Out More",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/health/critical-care-plus-insurance",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Find Out More",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/health/i-medicalcard-elite",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Learn More",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/health/ezymedical",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Learn More",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/car/comprehensive-car-insurance",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Car Insurance",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/car/comprehensive-car-takaful",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Car Takaful",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/car-ev/premium-car-ev-insurance",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "EV Car Insurance",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/car-ev/premium-car-ev-takaful",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "EV Car Takaful",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/motorcycle/comprehensive-motorcycle-insurance",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Motorcycle Insurance",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/motorcycle/comprehensive-motorcycle-takaful",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Motorcycle Takaful",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/health/onemedical",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Medical Insurance",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/health/onemedical-takaful",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Medical Takaful",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/health/cancer-shield-insurance",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Cancer Shield Insurance",
+    "status": "failed_or_quarantined",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/buddy-pa-insurance",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Personal Accident Insurance",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/personal-accident/buddy-pa-takaful",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Personal Accident Takaful",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/home/hohh-insurance",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Home Insurance",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/home/hohh-takaful",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Home Takaful",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/savings/triple-growth-insurance",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Savings Insurance",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/savings/harmoni-takaful",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Savings Takaful",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/investment-linked",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Investment-Linked Plans",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/education",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Education Insurance",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/travel/tripcare-360-insurance",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Travel Insurance",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/travel/tripcare-360-takaful",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Travel Takaful",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/employee-benefits",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Employee Benefits",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/commercial-vehicle-insurance",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Commercial Vehicle Ins.",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/commercial-vehicle-takaful",
+    "source_url": "https://www.etiqa.com.my/",
+    "label": "Commercial Vehicle Tak.",
+    "status": "read",
+    "scope": "Public product/category cards only; no quotes, transactions, claims, forms, applications or other origin."
+  }
+]

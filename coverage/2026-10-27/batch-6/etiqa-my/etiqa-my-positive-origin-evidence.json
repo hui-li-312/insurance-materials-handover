@@ -1,0 +1,27 @@
+{
+  "origin": "https://www.etiqa.com.my",
+  "legal_names": [
+    "Etiqa General Insurance Berhad",
+    "Etiqa Life Insurance Berhad",
+    "Etiqa Family Takaful Berhad",
+    "Etiqa General Takaful Berhad"
+  ],
+  "issuer_ids": [
+    "MY-own-208241b5515accba",
+    "MY-own-ace14597c6162723",
+    "MY-own-6d269c15ec6b7203",
+    "MY-own-6f1a17a3e3728cb3"
+  ],
+  "evidence_url": "https://www.motac.gov.my/wp-content/uploads/2025/12/List-of-Insurance-Company.pdf",
+  "source_rows": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "source_sha256": "564df3f9113663bed5b31b78ffbbd11566ab31e699ff19899a40d3017405ca2f",
+  "own_homepage_url": "https://www.etiqa.com.my/",
+  "own_homepage_sha256": "b208c58f9744fcd46e37a37d15a2b66c43fcfd463460a59fc2fd27eb252cce9f",
+  "mapping_basis": "Independent official MOTAC insurer reference list maps all four exact legal entities to www.etiqa.com.my; cached successful HTTPS brand homepage confirms technical origin. Product-specific underwriter remains unresolved until own-page/PDS evidence.",
+  "reviewed_at": "2026-10-27T13:28:13.589302+00:00"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.etiqa.com.my/corporates/asset-and-liability-protection",
+    "label": "Asset & Liability Protection",
+    "source_url": "https://www.etiqa.com.my/corporates",
+    "status": "read"
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/commercial-vehicle",
+    "label": "Commercial Vehicle",
+    "source_url": "https://www.etiqa.com.my/corporates",
+    "status": "read"
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/risk-advice-protect",
+    "label": "Risk Advisory",
+    "source_url": "https://www.etiqa.com.my/corporates",
+    "status": "read"
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/group-personal-accident-insurance",
+    "label": "",
+    "source_url": "https://www.etiqa.com.my/corporates",
+    "status": "read"
+  },
+  {
+    "url": "https://www.etiqa.com.my/corporates/group-personal-accident-takaful",
+    "label": "",
+    "source_url": "https://www.etiqa.com.my/corporates",
+    "status": "read"
+  }
+]

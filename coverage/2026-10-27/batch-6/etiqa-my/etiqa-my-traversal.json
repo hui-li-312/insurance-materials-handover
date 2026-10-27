@@ -1,0 +1,81 @@
+{
+  "checked_at": "2026-10-27T14:11:49.356411+00:00",
+  "scope": "Selected English public Etiqa Malaysia personal/corporate source queues; shared four-entity website, not four separate complete catalogs.",
+  "legal_entities": [
+    "Etiqa General Insurance Berhad",
+    "Etiqa Life Insurance Berhad",
+    "Etiqa Family Takaful Berhad",
+    "Etiqa General Takaful Berhad"
+  ],
+  "source_targets": 67,
+  "HTTP200": 66,
+  "HTTP404": 1,
+  "observations": 89,
+  "role_counts": {
+    "catalog_category": 16,
+    "product": 32,
+    "add_on": 6,
+    "product_family": 2,
+    "rider": 2,
+    "group": 11,
+    "add_on_family": 2,
+    "plan_variant": 8,
+    "coverage_class": 9,
+    "service": 1
+  },
+  "assigned_legal_entity_observations": 4,
+  "unresolved_legal_entity_observations": 85,
+  "material_references": 273,
+  "unique_material_URLs": 166,
+  "material_type_reference_counts": {
+    "general_consumer_information": 66,
+    "promotion_terms": 9,
+    "brochure_or_flyer_candidate": 35,
+    "policy_or_certificate_wording_candidate": 50,
+    "product_disclosure_candidate": 62,
+    "premium_or_contribution_schedule": 15,
+    "product_FAQ_candidate": 14,
+    "general_takaful_operating_information": 5,
+    "ancillary_claim_service_information": 2,
+    "add_on_coverage_document_candidate": 2,
+    "benefit_or_coverage_schedule": 11,
+    "claims_and_hospitalisation_service_guide": 2
+  },
+  "material_type_unique_URL_counts": {
+    "general_consumer_information": 1,
+    "promotion_terms": 7,
+    "brochure_or_flyer_candidate": 29,
+    "policy_or_certificate_wording_candidate": 36,
+    "product_disclosure_candidate": 46,
+    "premium_or_contribution_schedule": 13,
+    "product_FAQ_candidate": 12,
+    "general_takaful_operating_information": 5,
+    "ancillary_claim_service_information": 2,
+    "add_on_coverage_document_candidate": 2,
+    "benefit_or_coverage_schedule": 11,
+    "claims_and_hospitalisation_service_guide": 2
+  },
+  "explicit_empty_category_gaps": 5,
+  "remaining_product_catalog_href_delta": 0,
+  "separate_ancillary_service_hrefs_unrequested": 1,
+  "selected_queue_accounted": true,
+  "whole_issuer_catalog_complete": false,
+  "private_PDFs_acquired": 7,
+  "PDF_body_review": "Seven identity/first-page scopes only; complete-body/privacy/contract QA pending.",
+  "verified_SKUs": 0,
+  "formal_material_file_credit": 0,
+  "scope_limits": [
+    "Cancer Shield advertised source returned404; no retry or zero-market inference.",
+    "Five category pages had no own detail body; unknown alternate channel/runtime content remains.",
+    "Current and historical premium/wording applicability retained only from explicit source labels, not filenames.",
+    "Source cards, families, options, add-ons, riders, groups and coverage classes are observations, not additive independent products.",
+    "Generic PIDM/operating/service/promotion information has zero product-specific material credit."
+  ],
+  "narrow_QA_related_material_revision": {
+    "revision_at": "2026-10-27T15:28:35.625621+00:00",
+    "related_add_on_different_option_associations": 8,
+    "matching_document_index_associations": 8,
+    "all_counts_types_links_source_dates_unchanged": true,
+    "new_network_requests": 0
+  }
+}
