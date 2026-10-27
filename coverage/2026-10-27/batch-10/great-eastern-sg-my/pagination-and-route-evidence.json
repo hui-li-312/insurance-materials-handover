@@ -1,0 +1,28 @@
+{
+  "SG_category_card_occurrences": 158,
+  "SG_unique_information_URLs": 51,
+  "MY_root_leo_card_nodes": 15,
+  "MY_root_named_LearnMore_cards": 12,
+  "MY_root_nonoffering_nodes": {
+    "filter_wrappers": 2,
+    "calculator": 1
+  },
+  "MY_LoadMore": "Own script only reveals9additional existingDOM nodes; no server pagination.",
+  "MY_neutral_JSON_response_keys": [
+    "result",
+    "title",
+    "list"
+  ],
+  "MY_neutral_JSON_result": 200,
+  "MY_neutral_JSON_array_length": 56,
+  "MY_neutral_JSON_unique_information_URLs": 56,
+  "MY_neutral_JSON_all56_HTTP200": true,
+  "public_script_reads": 2,
+  "public_JSON_requests": 2,
+  "JSON_first_attempt": "One301 to actual same-origin canonical public route; not followed.",
+  "HTML_requests": 154,
+  "HTML_HTTP200": 145,
+  "HTML_HTTP302_no_follow": 9,
+  "actual_HTTP_or_application_denials_in_this_new_finite_scope": 0,
+  "no_general_origin_access_claim": true
+}

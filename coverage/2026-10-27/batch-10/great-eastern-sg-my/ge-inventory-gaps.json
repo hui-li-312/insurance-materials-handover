@@ -1,0 +1,40 @@
+[
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/easi-shield.html",
+    "http_status": 302,
+    "status": "literal_product_info_link_redirects_to_explicit_same_origin404_unfollowed",
+    "current_offering_verified": false
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth.html",
+    "http_status": 302,
+    "status": "observed_same_origin_redirect_to_already_read_product_page_not_followed",
+    "current_offering_verified": false,
+    "actual_Location": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-main.html",
+    "cached_target_body_reused_as_related_evidence": true
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-wealth-multiplier-2.html",
+    "http_status": 302,
+    "status": "observed_same_origin_redirect_to_already_read_product_page_not_followed",
+    "current_offering_verified": false,
+    "actual_Location": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-wealth-multiplier.html",
+    "cached_target_body_reused_as_related_evidence": true
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medivalue-great-medivalue-plus.html",
+    "http_status": 302,
+    "status": "literal_product_info_link_redirects_to_explicit_same_origin404_unfollowed",
+    "current_offering_verified": false
+  },
+  {
+    "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-advantage-4-plus.html",
+    "unconfirmed_name_candidate": "Accidental Permanent Disablement Provision",
+    "status": "not_literal_in_normalized_source_name_no_observation_created"
+  },
+  {
+    "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-advantage.html",
+    "unconfirmed_name_candidate": "Accidental Permanent Disablement Provision",
+    "status": "not_literal_in_normalized_source_name_no_observation_created"
+  }
+]

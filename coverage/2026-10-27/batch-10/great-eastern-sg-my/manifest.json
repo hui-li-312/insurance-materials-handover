@@ -1,0 +1,147 @@
+{
+  "frozen_at": "2026-10-27T16:54:40.283816+00:00",
+  "content_QA_completed_at": "2026-10-27T19:40:12Z",
+  "public_export_created_at": "2026-10-27T19:51:55Z",
+  "status": "immutable_public_source_metadata_export_offline_checked",
+  "content_source_manifest_sha256": "5fe6fe5e82ea0e346478731e990cce9cb0ba0f82986a0d94877cd9202e2ac260",
+  "export_scope": "Public source facts, source-derived classifications and offline content-verification results only; internal execution approvals, private coordination and acquisition-control instructions excluded.",
+  "source_observation_timestamps_unchanged": true,
+  "business_content_records_unchanged": true,
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 5280,
+      "sha256": "38f12ae20c2f85f40b15a2ab66c3567153616e3b7b6a5b1274093df89dffc6b9"
+    },
+    {
+      "file": "all-successful-source-evidence.json",
+      "bytes": 55195,
+      "sha256": "5471d7a10d930283ef99532cc193262b154009e7a91ce73c9f854b34fbdd5820"
+    },
+    {
+      "file": "documents-great-eastern-sg-my.jsonl",
+      "bytes": 532984,
+      "sha256": "4861cca4999fbdf391b4760f453fd7710302bca86bdf0f017e25532186c9fa4a"
+    },
+    {
+      "file": "finite-source-queues.json",
+      "bytes": 118121,
+      "sha256": "3aa8e642ea4484cc53ca5e1cae1db272b1f14245611ba9287141bd62977870ea"
+    },
+    {
+      "file": "ge-baseline-overlap.json",
+      "bytes": 13779,
+      "sha256": "6ed6cbd2a18d2177c2091b06a9a86d8113c2af2b8bc8e912f5a8a2f50291e9ad"
+    },
+    {
+      "file": "ge-excluded-query-document-references.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "file": "ge-inventory-gaps.json",
+      "bytes": 2200,
+      "sha256": "3d6949a63b183d7a48c4e9adc71b046311516e6088a69a609592c2166ac67720"
+    },
+    {
+      "file": "ge-inventory-traversal.json",
+      "bytes": 2278,
+      "sha256": "3a66cae9d22cd3b92e0cf79e2d7b5d8f4333c54042285bb7ceaaf290559f0dc7"
+    },
+    {
+      "file": "ge-metadata-corrections.json",
+      "bytes": 1964,
+      "sha256": "b7c6ba159eea11c683dfdbd96a97dc0b8fa07f49f8ad5f297a85c3286b47fc7b"
+    },
+    {
+      "file": "ge-my-HTML-source-card-counts.json",
+      "bytes": 1114,
+      "sha256": "4dd66f1e8c0b614b0332243f5e8fa1be81c919c4a5464acb35bd41c3da78f75f"
+    },
+    {
+      "file": "ge-my-HTML-source-info-link-observations.json",
+      "bytes": 27143,
+      "sha256": "7ac5b7bc283f71e2d03a8643c6e245e8af91c0c9a7b4860ac1f37f1951dea8da"
+    },
+    {
+      "file": "ge-my-neutral-JSON-source-cards.json",
+      "bytes": 45252,
+      "sha256": "0a07e71a0b1c68201f196bf282cb9554bd8a1a8ac0cf7e73eabd052738d65023"
+    },
+    {
+      "file": "ge-nonproduct-HTML-frontier-exclusions.json",
+      "bytes": 8300,
+      "sha256": "b1c25e6fec1269307b7628c1739b4efc00a79db78cb6dace36702f1e25f2b92f"
+    },
+    {
+      "file": "ge-policy-issuer-evidence.json",
+      "bytes": 64842,
+      "sha256": "f0793901a61c8295aa57dc4602f8c76d6f3861c0987f02d44f12201a8b97a2f8"
+    },
+    {
+      "file": "ge-sg-source-card-counts.phase1.json",
+      "bytes": 1287,
+      "sha256": "62514faa1e9c310e529a4c0e9000415f2a3090de02be7dadac75cf9cdcfa86e0"
+    },
+    {
+      "file": "ge-sg-source-card-observations.phase1.json",
+      "bytes": 92728,
+      "sha256": "1538de641010655a37b56021d51e7b54679a03a8a505b761e8eede3a79546aea"
+    },
+    {
+      "file": "ge-source-evidence.json",
+      "bytes": 51157,
+      "sha256": "92889fbb1866bd43d8ecbfaf95a3748ffed194f32e87e8637f7736407ac6f376"
+    },
+    {
+      "file": "ge-source-scoped-dates.json",
+      "bytes": 73965,
+      "sha256": "0c30734d67daa5db0498ba5c478a2030573381ea80b9a81810bd9530ca1bb27b"
+    },
+    {
+      "file": "independent-content-QA-summary.json",
+      "bytes": 3935,
+      "sha256": "c62a87ee1fe262952c1ce03f9def733dc87b42f267267cd308cada3b6a1d6ccf"
+    },
+    {
+      "file": "issuer-origin-evidence.json",
+      "bytes": 1567,
+      "sha256": "6aaefa09453aeb16c83b2951e9bc2648a39f2fcd05dc18f353e44fb47649d7b3"
+    },
+    {
+      "file": "issuer-specific-status.json",
+      "bytes": 8487,
+      "sha256": "2ea3175038231ec958d15db854f99426b39036f4939039dd1c783561b7ee84de"
+    },
+    {
+      "file": "pagination-and-route-evidence.json",
+      "bytes": 909,
+      "sha256": "a4b485c91d08d7a8cfe2c4f04fecd5945d0dddf20126789e562cdaeb2963a52b"
+    },
+    {
+      "file": "products-great-eastern-my.jsonl",
+      "bytes": 674881,
+      "sha256": "0a7e97a97f845a8d33f1ebc887e59adacd3ff3278b5233485e690a0af463fcf9"
+    },
+    {
+      "file": "products-great-eastern-sg.jsonl",
+      "bytes": 256441,
+      "sha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d"
+    },
+    {
+      "file": "publication-safety-gate.json",
+      "bytes": 239,
+      "sha256": "c26a27715caff2066879240e0503e67f172c2600a769aefd18d8773652fbd524"
+    },
+    {
+      "file": "remaining-nonproduct-source-frontier.json",
+      "bytes": 1859,
+      "sha256": "81096f34ecd064de83201b1d74ce2c0b3b208c181069b3a5da67434c0a2578c8"
+    },
+    {
+      "file": "source-attempts.json",
+      "bytes": 98963,
+      "sha256": "3de9270f4908b632d07ce7433b134fb488141bca331ebb44bb6b39fa1dd25b50"
+    }
+  ]
+}

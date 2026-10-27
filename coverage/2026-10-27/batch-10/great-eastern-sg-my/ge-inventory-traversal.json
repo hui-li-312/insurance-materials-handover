@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-10-27T16:52:17.139855+00:00",
+  "observations": 272,
+  "by_jurisdiction": {
+    "SG": 126,
+    "MY": 146
+  },
+  "roles": {
+    "product": 97,
+    "product_family": 11,
+    "audience_information_page": 3,
+    "rider": 117,
+    "plan_variant": 19,
+    "supplementary_plan": 1,
+    "bundle_variant": 1,
+    "rider_family": 2,
+    "group": 14,
+    "group_plan_component": 2,
+    "document_linked_variant_candidate": 5
+  },
+  "material_associations": 544,
+  "exposed_unique_material_URLs": 357,
+  "withheld_historical_SHA_identities": 0,
+  "material_types": {
+    "brochure_candidate": 127,
+    "policy_wording_candidate": 18,
+    "general_consumer_information": 76,
+    "service_guide": 10,
+    "sample_policy_wording_candidate": 8,
+    "benefit_schedule_or_comparison": 2,
+    "product_summary": 2,
+    "terms_reference_scope_unverified": 2,
+    "blank_application_or_service_form": 8,
+    "product_disclosure_sheet": 259,
+    "document_reference_unclassified": 31,
+    "frequently_asked_questions": 1
+  },
+  "related_rider_material_associations_not_parent_main_wording": 141,
+  "source_pages_material_inventory": 124,
+  "SG_source_card_occurrences": 158,
+  "SG_unique_card_infoURLs": 51,
+  "MY_source_info_link_occurrences": 43,
+  "MY_unique_card_infoURLs": 35,
+  "MY_root_offering_LearnMore_cards": 12,
+  "MY_root_total_leo_card_nodes": 15,
+  "MY_root_nonoffering_nodes": {
+    "filter_wrappers": 2,
+    "calculator": 1
+  },
+  "MY_neutral_JSON_catalog_card_rows": 56,
+  "MY_neutral_JSON_catalog_unique_infoURLs": 56,
+  "MY_neutral_JSON_all56_infoURLs_HTTP200": true,
+  "MY_LoadMore": "client_side_reveals_existing_DOM_cards_increment9_not_server_pagination",
+  "PDF_requests": 0,
+  "full_body_review": 0,
+  "formal_file_credit": 0,
+  "verified_SKUs": 0,
+  "all_channels_languages_closed": false,
+  "whole_issuer_catalog_closed": false,
+  "entity_evidence_counts": {
+    "official_page_underwritten_by_statements": 6,
+    "official_page_policy_issuer_statements_actual_contract_unreviewed": 58,
+    "rows_without_either_direct_entity_evidence": 208,
+    "policy_issuer_not_automatically_contract_underwriter": true
+  },
+  "additional_related_package_variant_material_associations_not_parent_main_wording": 10,
+  "QA_corrected_at": "2026-10-27T19:40:12Z"
+}

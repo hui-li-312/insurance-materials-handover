@@ -1,0 +1,142 @@
+[
+  {
+    "issuer_id": "SG-own-3ed42bb5f9a4950f",
+    "legal_name": "GREAT EASTERN GENERAL INSURANCE LIMITED",
+    "products_status": "partial_shared_brand_selected_catalog_inventoried_legal_mapping_and_other_channels_unresolved",
+    "C1": "Official MAS/PIDM named-entity website plus literal own-site public navigation; shared site does not prove product underwriter.",
+    "C2": {
+      "selected_shared_jurisdiction_observations": 126,
+      "shared_pool_not_to_duplicate_into_each_legal_entity": true,
+      "SG_scope": "51unique personal card infoURLs plus separately linked DPS,3audience pages and2corporate source hubs.",
+      "MY_scope": null,
+      "selected_named_information_URL_queue_accounted": true,
+      "whole_issuer_catalog_closed": false,
+      "unrequested_channels": "Other languages, non-default commercial distribution/partner channels, customer/account content, fund dashboards and quotation/application forms not traversed.",
+      "known_route_gaps": "Easi-Shield and old MediValuePlus lead to explicit404 paths; two oldSG routes point to already-read current pages; redirects not followed.",
+      "own_page_underwritten_by_statement_observations": 6,
+      "own_page_explicit_policy_issuer_statement_observations": 0,
+      "actual_contract_underwriter_body_reviews": 0,
+      "policy_issuer_not_automatically_contract_underwriter": true
+    },
+    "C3": {
+      "shared_jurisdiction_material_associations": 99,
+      "own_assigned_material_associations": 10,
+      "all_material_bodies_unrequested": true,
+      "related_rider_refs": "Explicit Rider-table materials scoped to named rider, not parent main policy.",
+      "own_page_policy_issuer_evidence_material_associations": 0,
+      "policy_issuer_page_links_not_verified_contract_authorship": true,
+      "related_package_variant_refs": "10 brochure/PDS references are scoped to named Business Care package variants, not a parent family main contract."
+    },
+    "C4": {
+      "PDF_requests": 0,
+      "full_body_reviews": 0,
+      "formal_files": 0,
+      "verified_SKUs": 0
+    }
+  },
+  {
+    "issuer_id": "SG-own-effcbd0463a6ae78",
+    "legal_name": "THE GREAT EASTERN LIFE ASSURANCE COMPANY LIMITED",
+    "products_status": "partial_shared_brand_selected_catalog_inventoried_legal_mapping_and_other_channels_unresolved",
+    "C1": "Official MAS/PIDM named-entity website plus literal own-site public navigation; shared site does not prove product underwriter.",
+    "C2": {
+      "selected_shared_jurisdiction_observations": 126,
+      "shared_pool_not_to_duplicate_into_each_legal_entity": true,
+      "SG_scope": "51unique personal card infoURLs plus separately linked DPS,3audience pages and2corporate source hubs.",
+      "MY_scope": null,
+      "selected_named_information_URL_queue_accounted": true,
+      "whole_issuer_catalog_closed": false,
+      "unrequested_channels": "Other languages, non-default commercial distribution/partner channels, customer/account content, fund dashboards and quotation/application forms not traversed.",
+      "known_route_gaps": "Easi-Shield and old MediValuePlus lead to explicit404 paths; two oldSG routes point to already-read current pages; redirects not followed.",
+      "own_page_underwritten_by_statement_observations": 0,
+      "own_page_explicit_policy_issuer_statement_observations": 0,
+      "actual_contract_underwriter_body_reviews": 0,
+      "policy_issuer_not_automatically_contract_underwriter": true
+    },
+    "C3": {
+      "shared_jurisdiction_material_associations": 99,
+      "own_assigned_material_associations": 0,
+      "all_material_bodies_unrequested": true,
+      "related_rider_refs": "Explicit Rider-table materials scoped to named rider, not parent main policy.",
+      "own_page_policy_issuer_evidence_material_associations": 0,
+      "policy_issuer_page_links_not_verified_contract_authorship": true,
+      "related_package_variant_refs": "10 brochure/PDS references are scoped to named Business Care package variants, not a parent family main contract."
+    },
+    "C4": {
+      "PDF_requests": 0,
+      "full_body_reviews": 0,
+      "formal_files": 0,
+      "verified_SKUs": 0
+    }
+  },
+  {
+    "issuer_id": "MY-own-456adbea3202c8f1",
+    "legal_name": "Great Eastern General Insurance (Malaysia) Berhad",
+    "products_status": "partial_shared_brand_selected_catalog_inventoried_legal_mapping_and_other_channels_unresolved",
+    "C1": "Official MAS/PIDM named-entity website plus literal own-site public navigation; shared site does not prove product underwriter.",
+    "C2": {
+      "selected_shared_jurisdiction_observations": 146,
+      "shared_pool_not_to_duplicate_into_each_legal_entity": true,
+      "SG_scope": null,
+      "MY_scope": "Neutral public search result56rows/56unique infoURLs allHTTP200; root12offeringcards, corporate5general+group pages, explicit rider tables and related rider pages separately traversed.",
+      "selected_named_information_URL_queue_accounted": true,
+      "whole_issuer_catalog_closed": false,
+      "unrequested_channels": "Other languages, non-default commercial distribution/partner channels, customer/account content, fund dashboards and quotation/application forms not traversed.",
+      "known_route_gaps": "Easi-Shield and old MediValuePlus lead to explicit404 paths; two oldSG routes point to already-read current pages; redirects not followed.",
+      "own_page_underwritten_by_statement_observations": 0,
+      "own_page_explicit_policy_issuer_statement_observations": 21,
+      "actual_contract_underwriter_body_reviews": 0,
+      "policy_issuer_not_automatically_contract_underwriter": true
+    },
+    "C3": {
+      "shared_jurisdiction_material_associations": 445,
+      "own_assigned_material_associations": 0,
+      "all_material_bodies_unrequested": true,
+      "related_rider_refs": "Explicit Rider-table materials scoped to named rider, not parent main policy.",
+      "own_page_policy_issuer_evidence_material_associations": 59,
+      "policy_issuer_page_links_not_verified_contract_authorship": true,
+      "related_package_variant_refs": "10 brochure/PDS references are scoped to named Business Care package variants, not a parent family main contract."
+    },
+    "C4": {
+      "PDF_requests": 0,
+      "full_body_reviews": 0,
+      "formal_files": 0,
+      "verified_SKUs": 0
+    }
+  },
+  {
+    "issuer_id": "MY-own-054d314f45c6814e",
+    "legal_name": "Great Eastern Life Assurance (Malaysia) Berhad",
+    "products_status": "partial_shared_brand_selected_catalog_inventoried_legal_mapping_and_other_channels_unresolved",
+    "C1": "Official MAS/PIDM named-entity website plus literal own-site public navigation; shared site does not prove product underwriter.",
+    "C2": {
+      "selected_shared_jurisdiction_observations": 146,
+      "shared_pool_not_to_duplicate_into_each_legal_entity": true,
+      "SG_scope": null,
+      "MY_scope": "Neutral public search result56rows/56unique infoURLs allHTTP200; root12offeringcards, corporate5general+group pages, explicit rider tables and related rider pages separately traversed.",
+      "selected_named_information_URL_queue_accounted": true,
+      "whole_issuer_catalog_closed": false,
+      "unrequested_channels": "Other languages, non-default commercial distribution/partner channels, customer/account content, fund dashboards and quotation/application forms not traversed.",
+      "known_route_gaps": "Easi-Shield and old MediValuePlus lead to explicit404 paths; two oldSG routes point to already-read current pages; redirects not followed.",
+      "own_page_underwritten_by_statement_observations": 0,
+      "own_page_explicit_policy_issuer_statement_observations": 37,
+      "actual_contract_underwriter_body_reviews": 0,
+      "policy_issuer_not_automatically_contract_underwriter": true
+    },
+    "C3": {
+      "shared_jurisdiction_material_associations": 445,
+      "own_assigned_material_associations": 0,
+      "all_material_bodies_unrequested": true,
+      "related_rider_refs": "Explicit Rider-table materials scoped to named rider, not parent main policy.",
+      "own_page_policy_issuer_evidence_material_associations": 357,
+      "policy_issuer_page_links_not_verified_contract_authorship": true,
+      "related_package_variant_refs": "10 brochure/PDS references are scoped to named Business Care package variants, not a parent family main contract."
+    },
+    "C4": {
+      "PDF_requests": 0,
+      "full_body_reviews": 0,
+      "formal_files": 0,
+      "verified_SKUs": 0
+    }
+  }
+]

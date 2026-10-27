@@ -1,0 +1,979 @@
+{
+  "page_information_as_of_labels": [
+    {
+      "evidence_id": "GE-page-information-as-of-06a27a97cc4cc7bceebc",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-advantage-4-plus.html",
+      "source_sha256": "2aebc2bec66c3ab2a62c8bdcdaead670a4f7bfa7047000e6c91f470048d5817d",
+      "source_checked_at": "2026-10-27T16:05:56.347138+00:00",
+      "source_label": "Information correct as at 21 October 2026.",
+      "information_as_of_date": "2026-10-21",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[4]/div/div/div/div[2]/div[2]/div/div/p[10]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-b0b11213a25a56f86152",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-term.html",
+      "source_sha256": "6a23388d5950fec269010868881cdca864ba91d0278687d9903d9d4778671706",
+      "source_checked_at": "2026-10-27T16:06:04.196673+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-1a7b92c22735fe7e650d",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-multiplier.html",
+      "source_sha256": "532fadf4198b50b092604233bcd6a90116303f2bad7acfc8ea55c61eee90e311",
+      "source_checked_at": "2026-10-27T16:06:08.907296+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[5]/div/div/div/div[2]/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-cd6b751f54c309a6657a",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/prestige-legacy-index.html",
+      "source_sha256": "cc63b31de6861f6cc32ca1fa45944ed07afcfe78e1bb775b99f278c552bb825a",
+      "source_checked_at": "2026-10-27T16:06:14.181169+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-256296365bf325c3de8c",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-advantage.html",
+      "source_sha256": "1cd7e45e6b86ab04b02eb8d7d47afe431e908c21d97127b374be74f51813e355",
+      "source_checked_at": "2026-10-27T16:06:18.720328+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[4]/div/div/div/div[2]/div[2]/div/div/p[10]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-e7a570d32ec2a7a16bf5",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/prestige-life-gold.html",
+      "source_sha256": "514921f9a4ef8fe13577dcd7cb8d3f41bd7becad1593762a9ca809794712c6e2",
+      "source_checked_at": "2026-10-27T16:06:22.919012+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[2]/div/div/div/div[2]/div[2]/div",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-58c67a2d751e635f74a8",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/gogreat-term-life.html",
+      "source_sha256": "7530a8cfcf06c2c38763dcd74ef4ad1365fa8e9a5d36af66295a8ef2b61f3145",
+      "source_checked_at": "2026-10-27T16:06:29.710973+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[10]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-e80067b83b11433bdf24",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/direct-great-term.html",
+      "source_sha256": "4aeb518b7eb384143f51fcb3b8f6d1fd2a76b11318c911a0188929861195b226",
+      "source_checked_at": "2026-10-27T16:06:34.492808+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-17ef9f48d1226c90dbc9",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/direct-great-life-2.html",
+      "source_sha256": "7980327d3a364717a721fbb66de4432d1a68ec0cb0b7bdc8beae519eebf8b3d6",
+      "source_checked_at": "2026-10-27T16:06:40.459436+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-603193e51f1a624f41ea",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-eastern-cares-term-plan.html",
+      "source_sha256": "911a757178741bfe31fb9d8884656b15a1e071f8d1a429e97eb484bca785befc",
+      "source_checked_at": "2026-10-27T16:06:45.841024+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-d87b2049b2abaf9fe943",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-main.html",
+      "source_sha256": "dab83a4a99888482aa97ac478ccb60c07c2a26c77720ffc0aaee454f01bf7214",
+      "source_checked_at": "2026-10-27T16:06:50.129865+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[5]/div/div/div/div[2]/div/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-c6754698fada2ff340cd",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-careshield.html",
+      "source_sha256": "7741997ce77761a4162f05d07cb4948b3b8cbb2b41ebfce70b7d7108bc8df4df",
+      "source_checked_at": "2026-10-27T16:06:56.831894+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[5]/div/div/div/div[2]/div[2]/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-55b57bb213753c03df49",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/cancer-guard.html",
+      "source_sha256": "b967cf2c67a82e9d562cb4cd7b137dcc091167cb01822e50a161ba09f37dbdd3",
+      "source_checked_at": "2026-10-27T16:07:02.246537+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[2]/div/div/div/div[2]/div[2]/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-754c691cad7ebd9becea",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/maternity-protect.html",
+      "source_sha256": "baaccceecc2324fb13a00922adaa27a392fc491140a4060df4d12147c6b34eeb",
+      "source_checked_at": "2026-10-27T16:07:08.913340+00:00",
+      "source_label": "Information correct as at 6 October 2026.",
+      "information_as_of_date": "2026-10-06",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[4]/div/div/div/div[2]/div[2]/div/div/p[7]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-2ac2b1942c4dc2e8f838",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-critical-cover.html",
+      "source_sha256": "9bdaae25747962068f78d7c1542376f3770f18450edf28ce4a65f4b18004c0f7",
+      "source_checked_at": "2026-10-27T16:07:14.848952+00:00",
+      "source_label": "Information correct as of 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[4]/div/div/div/div[2]/div[2]/div/div/p[6]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-322a9c73c83be291945a",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-hospital-cash.html",
+      "source_sha256": "ddbd63c6d29efccc675974bf05f40f8f1b876a79f67115ceb09b30c48e9906ac",
+      "source_checked_at": "2026-10-27T16:07:24.591576+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[4]/div/div/div/div[2]/div[2]/div/div/p[6]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-96b9fd16ee860561b03c",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/pay-assure.html",
+      "source_sha256": "f588be45c1bc93b8209a2887c24fde30c8ee688c6e14ed039bfb06fae5b4633d",
+      "source_checked_at": "2026-10-27T16:07:30.096816+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[2]/div/div/div/div[2]/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-8cd83930166fe1e7dd07",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/lifesecure.html",
+      "source_sha256": "63ee854f23f6013863b6cfcef8de66f1fcc039bd26ea05fa5020b851a35c8338",
+      "source_checked_at": "2026-10-27T16:07:34.796258+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[2]/div/div/div/div[2]/div[2]/div/div/p[15]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-5e8d2fbe5b1ea73e6f90",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/prestigeglobalhealthoptions.html",
+      "source_sha256": "b24180263cd1e826620a57c20ab9bcdab9baa96ed88508c6d1035f266e7cd1b7",
+      "source_checked_at": "2026-10-27T16:07:39.985963+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[2]/div/div/div/div[2]/div/div/div/p[6]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-9ebe65e4a5d8d76c0ee7",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/great-protector-active.html",
+      "source_sha256": "ae49ff564aa8586fb61b63d240d6ab882a68e0ae859ed9a45ebf5ca3b42ef8f9",
+      "source_checked_at": "2026-10-27T16:07:46.937012+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-832532a8736f71bc036c",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/great-junior-protector.html",
+      "source_sha256": "fb234a68eb1aadecc87bd1edf381facc253269b8a4115ad6d1d31ecdb39464d7",
+      "source_checked_at": "2026-10-27T16:07:57.563254+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[4]/div/div/div/div[2]/div[2]/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-2c96a21ccd27bea2bf05",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/great-golden-protector.html",
+      "source_sha256": "6909c5700fef0fe42fe2c2f72004077dd04b196f4b232e12039c56fe61165808",
+      "source_checked_at": "2026-10-27T16:08:03.210583+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-079facc67559170da338",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/prestige-pacare.html",
+      "source_sha256": "f7f72094040cda7a9c5d903f756b246157d0adfae8cad24e458b24fd652be849",
+      "source_checked_at": "2026-10-27T16:08:07.084396+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-3ded0065cd29e6ba5e62",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/pa-supreme.html",
+      "source_sha256": "8363fac920cee2d7fd04c298460d8e5321d5fd8b8f4d3c5ad8aefd10f9f32cba",
+      "source_checked_at": "2026-10-27T16:08:11.062706+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[1]/div/div/div/div[2]/div/div/div/p[7]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-c457ee18036cc2ee5632",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/accidentcare-plus-2.html",
+      "source_sha256": "69114dd724a4000bf5d064b37034d78cc17e3098fff61afe61fdb5a932e57cad",
+      "source_checked_at": "2026-10-27T16:08:15.926532+00:00",
+      "source_label": "Information correct as on 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[4]/div/div/div/div[2]/div[2]/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-fbb21f7a553b83fcde4a",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income/lifetime-boost.html",
+      "source_sha256": "f29f46a85c523453f62d2bd89529140b09493121b9dc2f45af05d60318b53203",
+      "source_checked_at": "2026-10-27T16:08:19.740281+00:00",
+      "source_label": "Information correct as at 6 October 2026.",
+      "information_as_of_date": "2026-10-06",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[4]/div/div/div/div[2]/div[2]/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-5000d796dd5aa1c809f0",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income/great-lifetime-payout.html",
+      "source_sha256": "62b1b09ae24f9318cfbf1661a4318641ab9b989ef46d8089758905d7ceff82f1",
+      "source_checked_at": "2026-10-27T16:08:23.629888+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-1e589d46ac4592b32e9f",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income/great-prime-rewards.html",
+      "source_sha256": "c5ae4e9d8c8688e8668045ae81e5b17f1d4bd19f82a9f43515ae4baa6a2f5d43",
+      "source_checked_at": "2026-10-27T16:08:27.487709+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-8f465afd2bed9432b14e",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income/great-retire-income.html",
+      "source_sha256": "7cad864e9a004a1ceea83c002de7e1e228bbbebc4a12c5df5106290385433b8c",
+      "source_checked_at": "2026-10-27T16:08:31.403773+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[4]/div/div/div/div[2]/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-004ee8f278ff3cd67e6f",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/lifetime-boost.html",
+      "source_sha256": "46fe19992eefeee31b921a56279a4b8f75d4cc4eea99668346e80f6837c16da1",
+      "source_checked_at": "2026-10-27T16:08:35.497091+00:00",
+      "source_label": "Information correct as at 6 October 2026.",
+      "information_as_of_date": "2026-10-06",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[4]/div/div/div/div[2]/div[2]/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-4142a0b61fe340dc947d",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-advantage.html",
+      "source_sha256": "c31440b798b9b5f71a480159d993f24cd66db6b935032efec79b6c94cb416546",
+      "source_checked_at": "2026-10-27T16:08:39.754122+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-c3a43f6eb95a415df0ad",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-wealth-advantage.html",
+      "source_sha256": "e991f932fb178a5c64e5755aaffb92bddc7d63fe9493144883022234692fdc1d",
+      "source_checked_at": "2026-10-27T16:08:44.181785+00:00",
+      "source_label": "Information correct as at 13 September 2026.",
+      "information_as_of_date": "2026-09-13",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[10]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-207ac67d658befb2b4bf",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/legacy-income.html",
+      "source_sha256": "34264d5454153997901689f967eadbdd80e31a4b50bb0678fac74a48cc14d3d5",
+      "source_checked_at": "2026-10-27T16:08:49.334726+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[6]/div/div/div/div[2]/div[2]/div/div/p[7]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-e07e11a463595eb3dbe3",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/index-income.html",
+      "source_sha256": "9be1746b973b7ecc7c5ea9fda92c8e4fe7d67004cb9611e24d5cf01062e66e4c",
+      "source_checked_at": "2026-10-27T16:08:53.527320+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-b30d6d35ac862a5ccd61",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-life-rewards-series.html",
+      "source_sha256": "5ec70d731562db2e85612f5a1ee0bcce19b243e5ac1a153cbc45c985d1753a9b",
+      "source_checked_at": "2026-10-27T16:08:58.348247+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-1b660f91e5d2ff4d1620",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-wealth-legacy.html",
+      "source_sha256": "d69450d794f24dca009c0ff5fa7b2afa08f30da3619dfcfde1d1c25324d5239e",
+      "source_checked_at": "2026-10-27T16:09:02.901978+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-2ed5aa7fb22184d2b409",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-index-income.html",
+      "source_sha256": "ae2c42bb561a79358edcd61e7f75dd9ce060c14e712ff01ddd8f72e7a2757cf9",
+      "source_checked_at": "2026-10-27T16:09:07.809006+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[7]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-2949449b278e1707ee86",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-invest-advantage.html",
+      "source_sha256": "e10a07078ceebaadea6432d78e7470c796c710e7830ca1401bf42d6214f21705",
+      "source_checked_at": "2026-10-27T16:09:12.760343+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[4]/div/div/div/div[2]/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-5b1de47afbdb14330580",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-wealth-multiplier.html",
+      "source_sha256": "676cfcf36be8513e4742e9003a20cc71f3eb95750eb63936f2455574990e3928",
+      "source_checked_at": "2026-10-27T16:09:16.981050+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-4b5f8ce70f4a1f4f6a4d",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-portfolio.html",
+      "source_sha256": "3fcb5b435e1455e30f8ea358900a563fee3a4ac84b75550a2ecedefe2452a2ae",
+      "source_checked_at": "2026-10-27T16:09:20.979156+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-efa677d540173738ef8a",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-sp.html",
+      "source_sha256": "786fc0f3fec41201f5599d92ace2b304150e8e61cdb11665e20082bf443e6a0b",
+      "source_checked_at": "2026-10-27T16:09:25.401218+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[2]/div/div/div/div[2]/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-fa47f403feef7e9fbc02",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-sp-usd.html",
+      "source_sha256": "c7f79c9d7fdf6f4de0c833806adf1dd97f6bef7a2f00f63a848558e6e493027b",
+      "source_checked_at": "2026-10-27T16:09:30.112794+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[7]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-bbcc9e4668c83dfb329f",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-cashback.html",
+      "source_sha256": "571d1970223d01fd191d000dbb5b8e23a074672130c3a6bf661b8e11fe1c09b3",
+      "source_checked_at": "2026-10-27T16:09:35.334596+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-2065a74247d15d1b9d15",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-goal.html",
+      "source_sha256": "07835509aba7aa7dab4b7fe52242592d6b1f9b3b9f4a799c86c75b88736e0fca",
+      "source_checked_at": "2026-10-27T16:09:41.697469+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-8258ff5085fadc2f9eab",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-saver.html",
+      "source_sha256": "11b2d08c9c539446724a0963ad3f202e15b4ccde1cf8fd3eaf3741965a1f6c57",
+      "source_checked_at": "2026-10-27T16:09:46.276510+00:00",
+      "source_label": "Information correct as at 1 October 2026.",
+      "information_as_of_date": "2026-10-01",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[5]/div/div/div/div[2]/div[2]/div/div/p[6]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-9adda25f44c7217307da",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-sp-special.html",
+      "source_sha256": "a3fd2cdb26595e6a9125fbfb3cae84b0711d0a9d47ab5fef810fb09fea4e762d",
+      "source_checked_at": "2026-10-27T16:09:55.588711+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div",
+      "scope": "As-of label scoped to Main product information/disclaimer only; not a single whole-page date, publication date, policy effective date, current-sale guarantee or PDF version date.",
+      "source_section": "Main product information/disclaimer"
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-2147ae6ea8352beaaaa1",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-sp-special.html",
+      "source_sha256": "a3fd2cdb26595e6a9125fbfb3cae84b0711d0a9d47ab5fef810fb09fea4e762d",
+      "source_checked_at": "2026-10-27T16:09:55.588711+00:00",
+      "source_label": "Information correct as at 22 April 2026.",
+      "information_as_of_date": "2026-04-22",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[3]/div",
+      "scope": "As-of label scoped to Exclusive Maturity Offer campaign terms only; not a single whole-page date, publication date, policy effective date, current-sale guarantee or PDF version date.",
+      "source_section": "Exclusive Maturity Offer campaign terms"
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-17f78b1204c472729907",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/car-insurance/great-ev-protect.html",
+      "source_sha256": "e93e9473a7ed600a3a9c75aed79264f04c940669aef6ea7da1fa5146c1456a7f",
+      "source_checked_at": "2026-10-27T16:10:00.272595+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[5]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-63f2e82571cc97460650",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/car-insurance/drive-and-save-plus.html",
+      "source_sha256": "7c732349c0b1b52a88bf403038906615c8675cf45c8d70d708c464376797aedb",
+      "source_checked_at": "2026-10-27T16:10:06.140568+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[5]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-f870b82b1f3fa1d76411",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/travel-insurance/great-travelcare.html",
+      "source_sha256": "628980e0639d72a23cd9c679f6e8430e61695a330d500436a88c12d1dc7bebf6",
+      "source_checked_at": "2026-10-27T16:02:33.226757+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[5]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-b80167cc17c72e4fa9cc",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/home-insurance/great-home-protect.html",
+      "source_sha256": "2b5d69a548e141646d8b0eaf6c2b02493f9386d5750b0903449c3317793cdccc",
+      "source_checked_at": "2026-10-27T16:02:40.437740+00:00",
+      "source_label": "Information correct as at 9 October 2026.",
+      "information_as_of_date": "2026-10-09",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[5]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-344dacf565cad77e1ad0",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/maid-insurance/great-maid-protect.html",
+      "source_sha256": "6daf3224ca59d644314544a03db3716818abd5fc9c9fef951c9d2fbd97323479",
+      "source_checked_at": "2026-10-27T16:02:44.856434+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[6]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-38e64f185ceb6064dc88",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-you.html",
+      "source_sha256": "d22356e536e75e8f95a45ba788f5702312c3e792b29f0eb79112b58c01d5307d",
+      "source_checked_at": "2026-10-27T16:23:17.607929+00:00",
+      "source_label": "Information correct as on 1 August 2026.",
+      "information_as_of_date": "2026-08-01",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[14]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-e5aa7d113c513006ad35",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-health-protector.html",
+      "source_sha256": "a5dbfa9f64048a0976344d9c969875720a42e3312f5cb264c77dc3f76d6ba8a8",
+      "source_checked_at": "2026-10-27T16:23:25.504482+00:00",
+      "source_label": "Information correct as on 1 October 2026.",
+      "information_as_of_date": "2026-10-01",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[6]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-e19fa486a368ca97d6e3",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-flexi-wealth.html",
+      "source_sha256": "ee1d5711900f43140bdc373e17d8bd4fa281dce8c13d87ac5f6feed2a09dc21b",
+      "source_checked_at": "2026-10-27T16:23:41.419778+00:00",
+      "source_label": "Information correct as on 26 August 2025.",
+      "information_as_of_date": "2025-08-26",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[10]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-90a6193c3192627cd348",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/retirement-plan/great-retirement-pride.html",
+      "source_sha256": "794681f3c1dce0b7431302e16ae12b4d68ecba4abcf83f603ba38899909bbad0",
+      "source_checked_at": "2026-10-27T16:23:46.158552+00:00",
+      "source_label": "Information correct as on 27 July 2026.",
+      "information_as_of_date": "2026-07-27",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[13]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-cb2a38f93c82c46b6db3",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series/prestige-heritage-global.html",
+      "source_sha256": "ecac17aeab40e3d65e82b9f4e849df83b5b1b1c615c2a333be71fbb5460db858",
+      "source_checked_at": "2026-10-27T16:23:51.670077+00:00",
+      "source_label": "Information correct as on 30 September 2026.",
+      "information_as_of_date": "2026-09-30",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[16]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-2cd7b5534bb3f9014e6f",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/motor-insurance/motor-insurance.html",
+      "source_sha256": "67acbde5e7eccc45185fd8b4df44778eb7f097902bcc49bcfb5791588f657591",
+      "source_checked_at": "2026-10-27T16:03:33.716989+00:00",
+      "source_label": "Information correct as at 17 February, 2023.",
+      "information_as_of_date": "2023-02-17",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[3]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-6951c585db3bf9b889de",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smart-revive-max.html",
+      "source_sha256": "8da2211e3dc51a52b523d6d4eaddd6618bac66c61e0529848ea1e09296f7abde",
+      "source_checked_at": "2026-10-27T16:24:32.842310+00:00",
+      "source_label": "Information correct as on 30 September 2026.",
+      "information_as_of_date": "2026-09-30",
+      "source_xpath": "/html/body/div[2]/div/div/main/div/div/div[4]/div/div/div/div[2]/div/div[2]/div/div/p[16]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-7beff9f64e0fb0a856ff",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-junior.html",
+      "source_sha256": "2b5160affcf8964124550b2f9253fd912ef1316d8a6940f340f5e17a5ac8c72b",
+      "source_checked_at": "2026-10-27T16:24:38.151235+00:00",
+      "source_label": "Information correct as on 1 August 2026.",
+      "information_as_of_date": "2026-08-01",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[15]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-965eb47dff9997093ed1",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-wealth-plus.html",
+      "source_sha256": "c16f381965609ceb751cc233f5dfb9cce0a46dba74c125241154ca5e5f44af9f",
+      "source_checked_at": "2026-10-27T16:24:44.781572+00:00",
+      "source_label": "Information correct as on 27 July 2026.",
+      "information_as_of_date": "2026-07-27",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[15]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-015a0fdcb3be4b98d8e8",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medivalue.html",
+      "source_sha256": "e992d03e51c3cd742b7ef93151a9e212762ab453551d4be6641796d476b39cc7",
+      "source_checked_at": "2026-10-27T16:24:57.395431+00:00",
+      "source_label": "Information correct as on 11 May 2026.",
+      "information_as_of_date": "2026-05-11",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[6]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-509b9fa4b1c989fb914b",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-multi-critical-care.html",
+      "source_sha256": "18f23274f20c56854e42980256a00937f9af5d64e0e6b56a430ee4313fd6d094",
+      "source_checked_at": "2026-10-27T16:25:04.959066+00:00",
+      "source_label": "Information correct as at 1 June 2024.",
+      "information_as_of_date": "2024-06-01",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[6]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-72dd1529ed353e2a81f5",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-baby-shield-plus.html",
+      "source_sha256": "c5e8fbe2b8b44a34d84b8a7336ac16b8df0e0c8d0398818bfe41685cab53dd09",
+      "source_checked_at": "2026-10-27T16:25:09.034196+00:00",
+      "source_label": "Information correct as on 1 June 2024.",
+      "information_as_of_date": "2024-06-01",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[6]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-5751a6ef71957e26b4a0",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smart-wealth-global.html",
+      "source_sha256": "0da0c157ff2f4d49e20c4a4f29a904b6e0a9d6d3f98f3dfa27ad7afb5ce4fed7",
+      "source_checked_at": "2026-10-27T16:25:36.790227+00:00",
+      "source_label": "Information correct as on 14 September 2026.",
+      "information_as_of_date": "2026-09-14",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[14]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-d17f570a3385cc06aef1",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-multi-gen-wealth-3.html",
+      "source_sha256": "d9e6193b13e40c21b97d4ed2bf5c3b00bbb018eb8adfed0d2afce59d28d10758",
+      "source_checked_at": "2026-10-27T16:25:40.699827+00:00",
+      "source_label": "Information correct as on 27 July 2026.",
+      "information_as_of_date": "2026-07-27",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[13]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-137c239755219d281e98",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-wealth-enhancer.html",
+      "source_sha256": "c246048115aa4b454dbc302fae7238db1f03563d1edc580c1d562a15c19fa7d7",
+      "source_checked_at": "2026-10-27T16:25:45.740227+00:00",
+      "source_label": "Information correct as on 15 April 2026.",
+      "information_as_of_date": "2026-04-15",
+      "source_xpath": "/html/body/div[2]/div/div/main/div/div/div[4]/div/div/div/div[2]/div/div[2]/div/div/p[12]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-4ce86e501cadf3631c02",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series/prestige-wealth-global.html",
+      "source_sha256": "35a6480e691909686814c9f4c0eb505d91529a76fe579ef45cec6cedf03da232",
+      "source_checked_at": "2026-10-27T16:26:05.875411+00:00",
+      "source_label": "Information correct as on 14 September 2026.",
+      "information_as_of_date": "2026-09-14",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[14]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-4a47ccd7df5d6d95067f",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-early-vantage-care.html",
+      "source_sha256": "3d9610ab3b3d0e1cddd0113eef4a69a795a8bbea212eaa75d9e12b4c3f1869b4",
+      "source_checked_at": "2026-10-27T16:47:11.928376+00:00",
+      "source_label": "Information correct as of 22 July 2024.",
+      "information_as_of_date": "2024-07-22",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-66732042e441674a2276",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-critical-care-direct.html",
+      "source_sha256": "cee358ac2413dd607d9370fc13739e321482fc82af007624b72f9230c7c91fe6",
+      "source_checked_at": "2026-10-27T16:47:19.030156+00:00",
+      "source_label": "Information correct as on 23 May 2024.",
+      "information_as_of_date": "2024-05-23",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[7]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-4205aa505470071adbd5",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-flexi-plus.html",
+      "source_sha256": "d6e28f9cae8d791bba1b7987755623e43ef791a25677978d6466b60e8d7ab2ac",
+      "source_checked_at": "2026-10-27T16:47:27.281342+00:00",
+      "source_label": "Information correct as on 26 August 2025.",
+      "information_as_of_date": "2025-08-26",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[10]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-65f8e99c1ca33cf7934e",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-critical-care-relief.html",
+      "source_sha256": "8bb5c21bdf5cac17fc62694c4fa6b98ffaf777761999793ae71cbaeaefd644c4",
+      "source_checked_at": "2026-10-27T16:47:32.000035+00:00",
+      "source_label": "Information correct as on 1 September 2026.",
+      "information_as_of_date": "2026-09-01",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[7]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-b59df7c5960701039c72",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-health-direct.html",
+      "source_sha256": "022614357de6d1ddc01ad687b6bcf50ac05a4c30e94be09f1ec3641f7a4b3cd5",
+      "source_checked_at": "2026-10-27T16:47:41.607003+00:00",
+      "source_label": "Information correct as on 1 June 2026.",
+      "information_as_of_date": "2026-06-01",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[7]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-ff121c8797efcb792e2c",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-generation-care.html",
+      "source_sha256": "bbc3cc4174980686f2d43519c8313be6e5c6b05875997208a402c186edfd76b2",
+      "source_checked_at": "2026-10-27T16:47:51.601483+00:00",
+      "source_label": "Information correct as on 26 August 2025.",
+      "information_as_of_date": "2025-08-26",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[7]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-22dc70341865ecb23f95",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medic-lite-secure.html",
+      "source_sha256": "ae53d71fa5d27e4af26d8deab91cf4ec295decf6532ba22eddd42cb7bc8c9cb6",
+      "source_checked_at": "2026-10-27T16:47:57.505075+00:00",
+      "source_label": "Information correct as on 1 June 2026.",
+      "information_as_of_date": "2026-06-01",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[14]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-e5789013b84917c1f4d3",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-maxiprotector.html",
+      "source_sha256": "e6aa0551f2d346bf727ef2bc2d16e82c4b46ed004f3c3f059c9e3797971e886e",
+      "source_checked_at": "2026-10-27T16:48:03.034500+00:00",
+      "source_label": "Information correct as on 1 June 2024.",
+      "information_as_of_date": "2024-06-01",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-0c52532774242e4a88bc",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medic-shield2-great-medic-million-extender2.html",
+      "source_sha256": "c40717edb691bd7569ec5a01860bdad7df20dc292cc10c9079a695bf0a33773c",
+      "source_checked_at": "2026-10-27T16:48:12.308944+00:00",
+      "source_label": "Information correct as on 1 June 2026.",
+      "information_as_of_date": "2026-06-01",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-f9b0b34be522421b48e5",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-term-direct.html",
+      "source_sha256": "4e575dde5f50f03658243b8f268202619b89792dce7d2bba5f167e057f06fa7c",
+      "source_checked_at": "2026-10-27T16:48:16.802724+00:00",
+      "source_label": "Information correct as of 23 May 2024.",
+      "information_as_of_date": "2024-05-23",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[6]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-c16c037246b97c043529",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-life-gift.html",
+      "source_sha256": "74794b3537d4c4bcaf947d63716aafe00946f4c025c02722a61ca36192891800",
+      "source_checked_at": "2026-10-27T16:48:22.608060+00:00",
+      "source_label": "Information correct as at 1 October 2026.",
+      "information_as_of_date": "2026-10-01",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[7]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-a10cab7e6b76b4ae3dcd",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-multi-cancer-care.html",
+      "source_sha256": "7ca78becbab19f944db98085453d2ae5179847a6029d132ae19170ff90715e93",
+      "source_checked_at": "2026-10-27T16:48:32.110899+00:00",
+      "source_label": "Information correct as on 26 August 2025.",
+      "information_as_of_date": "2025-08-26",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[7]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-87a1e0a01a46929a0ace",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smartinvest-growth.html",
+      "source_sha256": "707bf08fe1b9816069227527830757372b2697030620cffee04508140a20db7f",
+      "source_checked_at": "2026-10-27T16:48:38.571037+00:00",
+      "source_label": "Information correct as on 27 July 2026.",
+      "information_as_of_date": "2026-07-27",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[11]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-4549199cdbc71a508c86",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-vantage-care.html",
+      "source_sha256": "6182d3160f0a5cea323a20dbacd44ac758ca4aa34d85fa0a249ea642db8ab177",
+      "source_checked_at": "2026-10-27T16:48:43.512647+00:00",
+      "source_label": "Information correct as at 1 June 2024.",
+      "information_as_of_date": "2024-06-01",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-5e7ec856b4ad805be5c7",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smartinvest-premier.html",
+      "source_sha256": "79fb018e47ebb2a337c284eae20e04874f2a803108bc4d75d0c7fcde4185da6b",
+      "source_checked_at": "2026-10-27T16:48:52.877139+00:00",
+      "source_label": "Information correct as on 27 July 2026.",
+      "information_as_of_date": "2026-07-27",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[12]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-2e5adf2ee5c3fc224d2a",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-sure.html",
+      "source_sha256": "03c7a25de2fb6f0c94df42fab29026e4b413eea41e6e902135d85b6d2b8c2de4",
+      "source_checked_at": "2026-10-27T16:49:05.241703+00:00",
+      "source_label": "Information correct as on 27 July 2026.",
+      "information_as_of_date": "2026-07-27",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[16]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-1a032f386e8fabf1bc65",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html",
+      "source_sha256": "e1ad79473da721d167dcc62c5e904aa84482ea8cef6e0710c070b917e980e714",
+      "source_checked_at": "2026-10-27T16:49:26.019660+00:00",
+      "source_label": "Information correct as on 1 August 2023.",
+      "information_as_of_date": "2023-08-01",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[2]/div/div/div/div[18]/div/div/div/div[2]/div/div[3]/div/div/p[8]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-d2f325292165a029cfef",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-parents-with-young-children.html",
+      "source_sha256": "31a1918770c9d474fc80bf5bc1b86264f7322acb34a7d0bdbb92a8066b7b5584",
+      "source_checked_at": "2026-10-27T16:49:37.367636+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-a9ad717ce98cfcab80bc",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-ntw.html",
+      "source_sha256": "63f4f5e3e95d4935df9d550571adfae3b61cf5ea6da69a7e665c7c166e5fe85e",
+      "source_checked_at": "2026-10-27T16:49:42.458576+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-eb60c236bad6b6467746",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-non-singaporeans.html",
+      "source_sha256": "6e1e7a1230e9e134c90fcd9ae697fa24c43ce5b101edca32c1e444e3d6c16c7f",
+      "source_checked_at": "2026-10-27T16:49:47.004560+00:00",
+      "source_label": "Information correct as at 17 August 2026.",
+      "information_as_of_date": "2026-08-17",
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/p[9]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-746f7a6e9f70b53539b9",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/legacy-distribution-rider.html",
+      "source_sha256": "6b48867d174ee4ccce1f802ab925bea7eb56082163aefe834e6d7ca9ed6d43e0",
+      "source_checked_at": "2026-10-27T16:50:06.341913+00:00",
+      "source_label": "Information correct as on 30 September 2026.",
+      "information_as_of_date": "2026-09-30",
+      "source_xpath": "/html/body/div[2]/div/div/main/div/div/div[8]/div/div[2]/div/div/div/div[2]/div/div/div/div/p[3]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-2a8233cf7c8904b143bf",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-critical-relief.html",
+      "source_sha256": "80b244f8c11e0e28d4ed582c85dbf9490bec944a0d55d324c983a0081bb435b0",
+      "source_checked_at": "2026-10-27T16:30:37.172977+00:00",
+      "source_label": "Information correct as on 1 June 2024.",
+      "information_as_of_date": "2024-06-01",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[6]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    },
+    {
+      "evidence_id": "GE-page-information-as-of-618a3113f610dd52c62c",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-early-payout-criticalcare.html",
+      "source_sha256": "37fa60fc308c39e483282be13be58ea9d5c759a4ff2f5f0776a5198cc91646e4",
+      "source_checked_at": "2026-10-27T16:30:45.126700+00:00",
+      "source_label": "Information correct as on 1 June 2024.",
+      "information_as_of_date": "2024-06-01",
+      "source_xpath": "/html/body/div[2]/div/div/div[23]/div/div/div/div[2]/div/div[2]/div/div/p[6]",
+      "scope": "Source-page information/disclaimer as-of label only; not publication, policy effective, PDF version, current sale, or an independent rider/variant date."
+    }
+  ],
+  "other_scoped_date_statements": [
+    {
+      "evidence_id": "GE-scoped-date-fb9e232735d2b1d2d08e",
+      "source_url": "https://www.greateasternlife.com/sg/en/corporate-solutions/employee-benefits/group-insurance.html",
+      "source_sha256": "2c3d2ee3c0062082264dd98cdd863e9c7cb896db79f0b7cc6855c42f96f3bfe4",
+      "source_checked_at": "2026-10-27T16:02:49.046268+00:00",
+      "source_label": "Correct as at 1st July 2019.",
+      "date_kind": "financial_strength_statement_as_of",
+      "start_or_as_of_date": "2019-07-01",
+      "end_date": null,
+      "source_xpath": "/html/body/div[1]/div/div/main/div/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div/p[4]",
+      "scope": "Financial-strength/counterparty rating statement only, not the date of GEB+ product information."
+    },
+    {
+      "evidence_id": "GE-scoped-date-724503656a1be087bc91",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-multi-critical-care.html",
+      "source_sha256": "18f23274f20c56854e42980256a00937f9af5d64e0e6b56a430ee4313fd6d094",
+      "source_checked_at": "2026-10-27T16:25:04.959066+00:00",
+      "source_label": "Effective 25 January 2021",
+      "date_kind": "benefit_change_effective_date",
+      "start_or_as_of_date": "2021-01-25",
+      "end_date": null,
+      "source_xpath": "/html/body/div[2]/div/div/main/div/div/div/div/div/div/div/div[2]/p",
+      "scope": "Announced extension from 180 to 188 critical illness conditions only; not inception or current contract effective date."
+    },
+    {
+      "evidence_id": "GE-scoped-date-bd455527feca96eb1554",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smart-wealth-global.html",
+      "source_sha256": "0da0c157ff2f4d49e20c4a4f29a904b6e0a9d6d3f98f3dfa27ad7afb5ce4fed7",
+      "source_checked_at": "2026-10-27T16:25:36.790227+00:00",
+      "source_label": "Campaign Period: 14 September 2026 – 31 October 2026",
+      "date_kind": "marketing_campaign_period",
+      "start_or_as_of_date": "2026-09-14",
+      "end_date": "2026-10-31",
+      "source_xpath": "/html/body/div[2]/div/div/main/div/div/div[2]/div/div/div/div/div[2]/p[2]",
+      "scope": "Campaign period only; subject to availability and conditions, not continuing sale status."
+    },
+    {
+      "evidence_id": "GE-scoped-date-349581b7b37354089479",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series/prestige-wealth-global.html",
+      "source_sha256": "35a6480e691909686814c9f4c0eb505d91529a76fe579ef45cec6cedf03da232",
+      "source_checked_at": "2026-10-27T16:26:05.875411+00:00",
+      "source_label": "Campaign Period: 14 September 2026 – 31 October 2026",
+      "date_kind": "marketing_campaign_period",
+      "start_or_as_of_date": "2026-09-14",
+      "end_date": "2026-10-31",
+      "source_xpath": "/html/body/div[2]/div/div/main/div/div/div[2]/div/div/div/div/div[2]/p[2]",
+      "scope": "Campaign period only; subject to availability and conditions, not continuing sale status."
+    },
+    {
+      "evidence_id": "GE-scoped-date-5e0cadf741f0e1f119d6",
+      "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions/group-insurance/great-tenang-madani-perlindungan-tenang.html",
+      "source_sha256": "1c04e826877e33ecfe0f6d15d13a8080bd981f8c1ea146797622c7ff279fd04b",
+      "source_checked_at": "2026-10-27T16:03:57.861958+00:00",
+      "source_label": "Period of Appointment: 27 November 2025 – 26 November 2029",
+      "date_kind": "distribution_appointment_period",
+      "start_or_as_of_date": "2025-11-27",
+      "end_date": "2029-11-26",
+      "source_xpath": "/html/body/div[2]/div/div/main/div/div/div[4]/div/div/div/div/p[19]",
+      "scope": "Distributor appointment period only; not policy term or date of sale."
+    }
+  ],
+  "field_interpretation": "Original source_date, publication_date and effective_date values are unchanged. These separate labels do not supply a universal page/contract/PDF date or prove current sale."
+}

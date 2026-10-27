@@ -1,0 +1,35 @@
+{
+  "legal_names": [
+    "GREAT EASTERN GENERAL INSURANCE LIMITED",
+    "THE GREAT EASTERN LIFE ASSURANCE COMPANY LIMITED",
+    "Great Eastern General Insurance (Malaysia) Berhad",
+    "Great Eastern Life Assurance (Malaysia) Berhad"
+  ],
+  "evidence_url": "https://eservices.mas.gov.sg/fid/custom/printpartial?sector=Insurance",
+  "additional_source_evidence": [
+    {
+      "issuer_id": "SG-own-3ed42bb5f9a4950f",
+      "legal_name": "GREAT EASTERN GENERAL INSURANCE LIMITED",
+      "official_website": "http://www.greateasterngeneral.com",
+      "source_url": "https://eservices.mas.gov.sg/fid/custom/printpartial?sector=Insurance"
+    },
+    {
+      "issuer_id": "SG-own-effcbd0463a6ae78",
+      "legal_name": "THE GREAT EASTERN LIFE ASSURANCE COMPANY LIMITED",
+      "official_website": "https://www.greateasternlife.com",
+      "source_url": "https://eservices.mas.gov.sg/fid/custom/printpartial?sector=Insurance"
+    },
+    {
+      "issuer_id": "MY-own-456adbea3202c8f1",
+      "legal_name": "Great Eastern General Insurance (Malaysia) Berhad",
+      "official_website": "https://www.greateasterngeneral.com",
+      "source_url": "https://www.pidm.gov.my/general/how-we-protect-you/takaful-and-insurance-benefits-protection-system"
+    },
+    {
+      "issuer_id": "MY-own-054d314f45c6814e",
+      "legal_name": "Great Eastern Life Assurance (Malaysia) Berhad",
+      "official_website": "https://www.greateasternlife.com/my",
+      "source_url": "https://www.pidm.gov.my/general/how-we-protect-you/takaful-and-insurance-benefits-protection-system"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "supersedes_unpublished_candidate_manifest_sha256": "5ae3ac8aa4b3fa95c73b74de7ad6ccdd81699535bec74c38ffd7a79f970629cd",
+  "also_supersedes_unpublished_QA_v2_manifest_sha256": "c62f19d8bd50e5e7209fd7f7691e0b2c39c84170c3c60bf359005e1c6c7ee393",
+  "original_source_checked_at_and_sha256_preserved": true,
+  "network_requests": 0,
+  "existing_observation_ids_preserved": 267,
+  "observations_added": 5,
+  "observations_removed": 0,
+  "new_material_URLs": 0,
+  "material_associations_added": 0,
+  "existing_role_changes": [
+    {
+      "observation_id": "MY-GE-observation-390b483a7c5cb5d24a9e",
+      "old": "group",
+      "new": "product_family",
+      "basis": "own body describes five SME packaged solutions, not a group contract"
+    }
+  ],
+  "entity_evidence_counts": {
+    "official_page_underwritten_by_statements": 6,
+    "official_page_policy_issuer_statements_actual_contract_unreviewed": 58,
+    "rows_without_either_direct_entity_evidence": 208,
+    "policy_issuer_not_automatically_contract_underwriter": true,
+    "policy_issuer_fields": "58 MY rows use separate policy_issuer/policy_issuer_id and evidence-level fields; issuer/issuer_id remain null there.",
+    "child_mapping": "74 existing MY child observations and 5 new package children do not inherit parent policy-issuer evidence.",
+    "do_not_inherit_from_footer_roster_or_baseline_insurer": true
+  },
+  "dates": "91 source-information as-of labels across 90 pages, plus 5 other separately scoped statements.",
+  "new_variant_observation_ids": [
+    "MY-GE-observation-499a1afced4761711d40",
+    "MY-GE-observation-9bf7fb08cdf8ae0d8f4a",
+    "MY-GE-observation-b95a2bcced130773533b",
+    "MY-GE-observation-fe19f309255d14407611",
+    "MY-GE-observation-e84edff92499c0e09483"
+  ],
+  "business_records_unchanged_from_content_v3": true,
+  "source_event_facts_unchanged_from_content_v3": true,
+  "content_v3_manifest_sha256": "5fe6fe5e82ea0e346478731e990cce9cb0ba0f82986a0d94877cd9202e2ac260"
+}

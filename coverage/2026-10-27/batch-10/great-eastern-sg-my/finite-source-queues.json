@@ -1,0 +1,2431 @@
+{
+  "ge-sg-my-sixteen-HTML-hub-queue.json": [
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance.html",
+      "advertising_source_sha256": "83dfc98d678db770a70f1b3e16bc45147c230448ed1dd42da0bbec58c78f33a3",
+      "literal_href": "/sg/en/personal-insurance/our-products/life-insurance.html"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance.html",
+      "advertising_source_sha256": "83dfc98d678db770a70f1b3e16bc45147c230448ed1dd42da0bbec58c78f33a3",
+      "literal_href": "/sg/en/personal-insurance/our-products/health-insurance.html"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance.html",
+      "advertising_source_sha256": "83dfc98d678db770a70f1b3e16bc45147c230448ed1dd42da0bbec58c78f33a3",
+      "literal_href": "/sg/en/personal-insurance/our-products/personal-accident-insurance.html"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/critical-illness-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance.html",
+      "advertising_source_sha256": "83dfc98d678db770a70f1b3e16bc45147c230448ed1dd42da0bbec58c78f33a3",
+      "literal_href": "/sg/en/personal-insurance/our-products/critical-illness-insurance.html"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance.html",
+      "advertising_source_sha256": "83dfc98d678db770a70f1b3e16bc45147c230448ed1dd42da0bbec58c78f33a3",
+      "literal_href": "/sg/en/personal-insurance/our-products/retirement-income.html"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance.html",
+      "advertising_source_sha256": "83dfc98d678db770a70f1b3e16bc45147c230448ed1dd42da0bbec58c78f33a3",
+      "literal_href": "/sg/en/personal-insurance/our-products/wealth-accumulation.html"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/travel-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance.html",
+      "advertising_source_sha256": "83dfc98d678db770a70f1b3e16bc45147c230448ed1dd42da0bbec58c78f33a3",
+      "literal_href": "/sg/en/personal-insurance/our-products/travel-insurance.html"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/car-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance.html",
+      "advertising_source_sha256": "83dfc98d678db770a70f1b3e16bc45147c230448ed1dd42da0bbec58c78f33a3",
+      "literal_href": "/sg/en/personal-insurance/our-products/car-insurance.html"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/home-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance.html",
+      "advertising_source_sha256": "83dfc98d678db770a70f1b3e16bc45147c230448ed1dd42da0bbec58c78f33a3",
+      "literal_href": "/sg/en/personal-insurance/our-products/home-insurance.html"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/maid-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance.html",
+      "advertising_source_sha256": "83dfc98d678db770a70f1b3e16bc45147c230448ed1dd42da0bbec58c78f33a3",
+      "literal_href": "/sg/en/personal-insurance/our-products/maid-insurance.html"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/prestige-series.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance.html",
+      "advertising_source_sha256": "83dfc98d678db770a70f1b3e16bc45147c230448ed1dd42da0bbec58c78f33a3",
+      "literal_href": "/sg/en/personal-insurance/our-products/prestige-series.html"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/corporate-solutions/employee-benefits.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance.html",
+      "advertising_source_sha256": "83dfc98d678db770a70f1b3e16bc45147c230448ed1dd42da0bbec58c78f33a3",
+      "literal_href": "/sg/en/corporate-solutions/employee-benefits.html"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/corporate-solutions/general-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance.html",
+      "advertising_source_sha256": "83dfc98d678db770a70f1b3e16bc45147c230448ed1dd42da0bbec58c78f33a3",
+      "literal_href": "/sg/en/corporate-solutions/general-insurance.html"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasterngeneral.com/sg/en/index.html",
+      "advertising_source_sha256": "46119b84909103f6bf682d4eb9deaadd01423c90bec4d5b2d354576f46d86d34",
+      "literal_href": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products.html"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasterngeneral.com/my/en/index.html",
+      "advertising_source_sha256": "901657e425e3060099e540439443fb16ff8e58223b07996693ff68e6ad60126a",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/overview.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasterngeneral.com/my/en/index.html",
+      "advertising_source_sha256": "901657e425e3060099e540439443fb16ff8e58223b07996693ff68e6ad60126a",
+      "literal_href": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/overview.html"
+    }
+  ],
+  "ge-sg-my-eighteen-HTML-phase2-queue.json": [
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/travel-insurance/great-travelcare.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/travel-insurance.html",
+      "source_HTTP_status": 302,
+      "literal_Location": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/travel-insurance/great-travelcare.html",
+      "source_observed_at": "2026-10-27T15:56:59.374818+00:00"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/home-insurance/great-home-protect.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/home-insurance.html",
+      "source_HTTP_status": 302,
+      "literal_Location": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/home-insurance/great-home-protect.html",
+      "source_observed_at": "2026-10-27T15:57:11.568531+00:00"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/maid-insurance/great-maid-protect.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/maid-insurance.html",
+      "source_HTTP_status": 302,
+      "literal_Location": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/maid-insurance/great-maid-protect.html",
+      "source_observed_at": "2026-10-27T15:57:18.343686+00:00"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/corporate-solutions/employee-benefits/group-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/corporate-solutions/employee-benefits.html",
+      "source_HTTP_status": 302,
+      "literal_Location": "https://www.greateasternlife.com/sg/en/corporate-solutions/employee-benefits/group-insurance.html",
+      "source_observed_at": "2026-10-27T15:57:36.639120+00:00"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/corporate-solutions/general-insurance/overview.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/corporate-solutions/general-insurance.html",
+      "source_HTTP_status": 302,
+      "literal_Location": "https://www.greateasternlife.com/sg/en/corporate-solutions/general-insurance/overview.html",
+      "source_observed_at": "2026-10-27T15:57:41.295418+00:00"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/life-insurance.html"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/health-insurance.html"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/personal-accident-insurance.html"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/hospital-surgical-insurance.html"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/wealth-accumulation.html"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/retirement-plan.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/retirement-plan.html"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/travel-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/travel-insurance.html"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/motor-insurance/motor-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/motor-insurance/motor-insurance.html"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/home-insurance.html"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/sports-insurance/easi-golf.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/sports-insurance/easi-golf.html"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/other-insurance/foodstall-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/other-insurance/foodstall-insurance.html"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/prestige-series.html"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/corporate-solutions/group-insurance/great-tenang-madani-perlindungan-tenang.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/corporate-solutions/group-insurance/great-tenang-madani-perlindungan-tenang.html"
+    }
+  ],
+  "ge-sg-fortyeight-HTML-detail-queue.json": [
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-advantage-4-plus.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance.html",
+      "advertising_source_sha256": "4cbce889988db1708229d0d28104f3b5e45fb1a1b7d606d6adfc137eb09fbc5e",
+      "source_names": [
+        "GREAT Life Advantage 4 Plus"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-8db5aaf4657797ba3975",
+        "SG-GE-card-33a887af798308713367",
+        "SG-GE-card-219ef227122eca575f2c"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-term.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance.html",
+      "advertising_source_sha256": "4cbce889988db1708229d0d28104f3b5e45fb1a1b7d606d6adfc137eb09fbc5e",
+      "source_names": [
+        "GREAT Term 2"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-01ef741dabb8fbaa4ed4",
+        "SG-GE-card-40cb339a28202cd75576",
+        "SG-GE-card-9f94387e7bc1e148e27c"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-multiplier.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance.html",
+      "advertising_source_sha256": "4cbce889988db1708229d0d28104f3b5e45fb1a1b7d606d6adfc137eb09fbc5e",
+      "source_names": [
+        "GREAT Life Multiplier"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-524106a439dd7d5b55a2",
+        "SG-GE-card-fb845692bb417e16209e",
+        "SG-GE-card-e5275176ea179a8b3a7a"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/prestige-legacy-index.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance.html",
+      "advertising_source_sha256": "4cbce889988db1708229d0d28104f3b5e45fb1a1b7d606d6adfc137eb09fbc5e",
+      "source_names": [
+        "Prestige Legacy Index"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-92f903db962f10bb74b3",
+        "SG-GE-card-a8547a12528418d780f8",
+        "SG-GE-card-d32746d29f7d65f425b3",
+        "SG-GE-card-8dcc4b67cab1e4a0c351"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-advantage.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance.html",
+      "advertising_source_sha256": "4cbce889988db1708229d0d28104f3b5e45fb1a1b7d606d6adfc137eb09fbc5e",
+      "source_names": [
+        "GREAT Life Advantage 4"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-b315c09f52d3a062b355",
+        "SG-GE-card-a56fb26e763ded569f81",
+        "SG-GE-card-4d3a288394c11388ed88"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/prestige-life-gold.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance.html",
+      "advertising_source_sha256": "4cbce889988db1708229d0d28104f3b5e45fb1a1b7d606d6adfc137eb09fbc5e",
+      "source_names": [
+        "Prestige Life Gold (SGD/USD)"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-7878532e37a0fd684013",
+        "SG-GE-card-1a5433a3d3484da4e3e5",
+        "SG-GE-card-cd6cd54cb648ba2eb935",
+        "SG-GE-card-a94f1a703ae1941337eb"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/gogreat-term-life.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance.html",
+      "advertising_source_sha256": "4cbce889988db1708229d0d28104f3b5e45fb1a1b7d606d6adfc137eb09fbc5e",
+      "source_names": [
+        "GoGreat Term Life"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-c04081eb2abea13efaf0",
+        "SG-GE-card-17fa331b9898870e0252",
+        "SG-GE-card-8dec9877ea235abc8112",
+        "SG-GE-card-540aeb9e8a4b3c97c9b1"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/direct-great-term.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance.html",
+      "advertising_source_sha256": "4cbce889988db1708229d0d28104f3b5e45fb1a1b7d606d6adfc137eb09fbc5e",
+      "source_names": [
+        "DIRECT - GREAT Term"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-c8e89f8b3ba511bfb06c",
+        "SG-GE-card-bb0f4e4f08b405aa818a",
+        "SG-GE-card-81f409d6d0d7f4812527",
+        "SG-GE-card-bdd2214a1c6fdbfbcca5"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/direct-great-life-2.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance.html",
+      "advertising_source_sha256": "4cbce889988db1708229d0d28104f3b5e45fb1a1b7d606d6adfc137eb09fbc5e",
+      "source_names": [
+        "DIRECT - GREAT Life II"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-2bd3174ddf292c992ef1",
+        "SG-GE-card-9fdde4b8b88b8be1b257",
+        "SG-GE-card-bbb4cc8e1f7f743ed19e",
+        "SG-GE-card-dc82f91a069ae3c22181"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-eastern-cares-term-plan.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance.html",
+      "advertising_source_sha256": "4cbce889988db1708229d0d28104f3b5e45fb1a1b7d606d6adfc137eb09fbc5e",
+      "source_names": [
+        "Great Eastern Cares Term Plan"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-7223e43e3da1fcca89ba",
+        "SG-GE-card-8e64a6cca2c9c8002c25"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-main.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance.html",
+      "advertising_source_sha256": "f6f054984673ea30dbe1726d9c07179e048af63459f9242a17f88b07165cb4a7",
+      "source_names": [
+        "GREAT SupremeHealth"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-9deb6b8c48c6284d81a2",
+        "SG-GE-card-17b793aebc5532aef523"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-careshield.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance.html",
+      "advertising_source_sha256": "f6f054984673ea30dbe1726d9c07179e048af63459f9242a17f88b07165cb4a7",
+      "source_names": [
+        "GREAT CareShield"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-c40605401a6471830f89",
+        "SG-GE-card-a5976d5112f455a49e43",
+        "SG-GE-card-380b909d3bacb53c80ba",
+        "SG-GE-card-70d773b3ec6a84d7b12c"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/cancer-guard.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance.html",
+      "advertising_source_sha256": "f6f054984673ea30dbe1726d9c07179e048af63459f9242a17f88b07165cb4a7",
+      "source_names": [
+        "Cancer Guard"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-6a728bdacb19309cd785",
+        "SG-GE-card-d750d32be0203e02c29b",
+        "SG-GE-card-c81fad49520c46f12609",
+        "SG-GE-card-4fdb9abb36c11a9fbe13",
+        "SG-GE-card-fb59b0602fe3d706a44b",
+        "SG-GE-card-02352a427d978428edce"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/maternity-protect.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance.html",
+      "advertising_source_sha256": "f6f054984673ea30dbe1726d9c07179e048af63459f9242a17f88b07165cb4a7",
+      "source_names": [
+        "Maternity Protect Series"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-9e5d35f4d77856d88e21",
+        "SG-GE-card-21455f9c498ad776ce4a"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-critical-cover.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance.html",
+      "advertising_source_sha256": "f6f054984673ea30dbe1726d9c07179e048af63459f9242a17f88b07165cb4a7",
+      "source_names": [
+        "GREAT Critical Cover Series"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-edd3dc1fd36e5f35052c",
+        "SG-GE-card-ef22121046f14bfb632d",
+        "SG-GE-card-5ea3e386e7436eb8fe29",
+        "SG-GE-card-91299ffa1304fcbd6f84",
+        "SG-GE-card-6e8800c033a2cc5d2c9d",
+        "SG-GE-card-47057eafc487ae12a31a"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-hospital-cash.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance.html",
+      "advertising_source_sha256": "f6f054984673ea30dbe1726d9c07179e048af63459f9242a17f88b07165cb4a7",
+      "source_names": [
+        "GREAT Hospital Cash"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-3053849ea6f6701c514e",
+        "SG-GE-card-946ad52c260fb47ee341",
+        "SG-GE-card-ccf67a25cea3e1d0ff1b",
+        "SG-GE-card-800e201f99a24c556e50"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/pay-assure.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance.html",
+      "advertising_source_sha256": "f6f054984673ea30dbe1726d9c07179e048af63459f9242a17f88b07165cb4a7",
+      "source_names": [
+        "PayAssure"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-f91ca21bed3b66fb771a",
+        "SG-GE-card-c3cd03e3ed4f991a8ab7"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/lifesecure.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance.html",
+      "advertising_source_sha256": "f6f054984673ea30dbe1726d9c07179e048af63459f9242a17f88b07165cb4a7",
+      "source_names": [
+        "LifeSecure"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-f5253dbcf78f7312a970",
+        "SG-GE-card-82a075856f3861c20831"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/prestigeglobalhealthoptions.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance.html",
+      "advertising_source_sha256": "f6f054984673ea30dbe1726d9c07179e048af63459f9242a17f88b07165cb4a7",
+      "source_names": [
+        "Prestige Global Health Options"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-4c0bc80d62682493ba1d",
+        "SG-GE-card-438f4d886cc03876b3a2",
+        "SG-GE-card-ed29da9263d3d0363bf8",
+        "SG-GE-card-0d392f9967dcc218ec9f"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/great-protector-active.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance.html",
+      "advertising_source_sha256": "b671e7b05e610fc1175df0244eb7de761fd1b7608fb6b612b5ab5e943fc77650",
+      "source_names": [
+        "GREAT Protector Active"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-216a1b2a46c5281255a9",
+        "SG-GE-card-d14aeabe0434daf434b6",
+        "SG-GE-card-7ba441f786ad37448838",
+        "SG-GE-card-6da2209a41e8ed68b151"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/great-junior-protector.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance.html",
+      "advertising_source_sha256": "b671e7b05e610fc1175df0244eb7de761fd1b7608fb6b612b5ab5e943fc77650",
+      "source_names": [
+        "GREAT Junior Protector"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-655bec26123720bf5f08",
+        "SG-GE-card-e8b9b4ca46cc32579b31",
+        "SG-GE-card-15a6db009f1e48688a19",
+        "SG-GE-card-53d087d5d59a80f48033"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/great-golden-protector.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance.html",
+      "advertising_source_sha256": "b671e7b05e610fc1175df0244eb7de761fd1b7608fb6b612b5ab5e943fc77650",
+      "source_names": [
+        "GREAT Golden Protector"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-e6a8f0f5247f1139b5ae",
+        "SG-GE-card-e0445efa521c33334fbf",
+        "SG-GE-card-1a39bccc8ad195f6627e",
+        "SG-GE-card-5c3b9f748fc6fd41001d"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/prestige-pacare.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance.html",
+      "advertising_source_sha256": "b671e7b05e610fc1175df0244eb7de761fd1b7608fb6b612b5ab5e943fc77650",
+      "source_names": [
+        "Prestige PACare"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-5f3c977f8a2805507722",
+        "SG-GE-card-2dc112bc75155ed5df37",
+        "SG-GE-card-4b200a847ccf95ae13cd",
+        "SG-GE-card-dcf7473dd7674350c18b"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/pa-supreme.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance.html",
+      "advertising_source_sha256": "b671e7b05e610fc1175df0244eb7de761fd1b7608fb6b612b5ab5e943fc77650",
+      "source_names": [
+        "PA Supreme"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-3ec1ff7e39dc76e507a4",
+        "SG-GE-card-9404838e9dca5b7a4841",
+        "SG-GE-card-0e4730ef5ac2bff9869c",
+        "SG-GE-card-12732129cbaf0b4e95e0"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/accidentcare-plus-2.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance.html",
+      "advertising_source_sha256": "b671e7b05e610fc1175df0244eb7de761fd1b7608fb6b612b5ab5e943fc77650",
+      "source_names": [
+        "AccidentCare Plus II"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-ffe4f396c3fa0f99e400",
+        "SG-GE-card-5d8f524afbaee8f511b4"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income/lifetime-boost.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income.html",
+      "advertising_source_sha256": "966aae46e44b8049c7d0f49118302a3981bce8480199737206852c9d56a6d001",
+      "source_names": [
+        "Lifetime Boost"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-bfb5fc3f783d61eaf624",
+        "SG-GE-card-6a03012d8faa0fa26872"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income/great-lifetime-payout.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income.html",
+      "advertising_source_sha256": "966aae46e44b8049c7d0f49118302a3981bce8480199737206852c9d56a6d001",
+      "source_names": [
+        "GREAT Lifetime Payout 3"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-d46cc9079960703a8174",
+        "SG-GE-card-31803ccca7aa281bf0e8"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income/great-prime-rewards.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income.html",
+      "advertising_source_sha256": "966aae46e44b8049c7d0f49118302a3981bce8480199737206852c9d56a6d001",
+      "source_names": [
+        "GREAT Prime Rewards 3"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-288810994748454e2449",
+        "SG-GE-card-864a8096d1eebdcc47fc",
+        "SG-GE-card-7a3e603f669fb2cba2a9",
+        "SG-GE-card-5c677eb2a82e112cdbbb"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income/great-retire-income.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income.html",
+      "advertising_source_sha256": "966aae46e44b8049c7d0f49118302a3981bce8480199737206852c9d56a6d001",
+      "source_names": [
+        "GREAT Retire Income"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-c88a47cd8b762f49ff32",
+        "SG-GE-card-74a2955f477be2588d3f"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/lifetime-boost.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "Lifetime Boost"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-0d246aaa4ad84e9073bf",
+        "SG-GE-card-c5bf12e7fdccb4888a7b"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-advantage.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "GREAT Flexi Advantage"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-5ecc47769fd024277aab",
+        "SG-GE-card-5c9723467213d94483dd"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-wealth-advantage.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "GREAT Wealth Advantage 4"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-20fec67c9b716e840fcc",
+        "SG-GE-card-ed7ac427f213c6e5018f"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/legacy-income.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "Legacy Income"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-162a6519af38dbb73637",
+        "SG-GE-card-83aa316c0e39063c3078"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/index-income.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "Index Income (USD)"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-9afecff6af9a9a2ce974",
+        "SG-GE-card-ef80d64bd8c82fe0e248"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-life-rewards-series.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "Prestige Life Rewards Series"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-be89b185c22e03c273d1",
+        "SG-GE-card-7d3e0483674cf67eefae",
+        "SG-GE-card-1c2ba9c8b88368fde0cb",
+        "SG-GE-card-192f00a6f9d1ea13e124"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-wealth-legacy.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "Prestige Wealth Legacy"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-c999bc9fd718a1b5151a",
+        "SG-GE-card-9a848066dfe2df61ca3f",
+        "SG-GE-card-20d6260ea892d60999de",
+        "SG-GE-card-2738bc0fce19a6402a46"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-index-income.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "GREAT Index Income"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-3f0129c698f4c9b4bcb0",
+        "SG-GE-card-fea69a28c1c32c2532ac"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-invest-advantage.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "GREAT Invest Advantage"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-9bb0e7b2d3e96e851c1a",
+        "SG-GE-card-72280be0f24210e6a1ad"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-wealth-multiplier.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "GREAT Wealth Multiplier 3"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-531376fb6e53c19978b8",
+        "SG-GE-card-2579ce02f67a5afa3ead"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-portfolio.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "Prestige Portfolio"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-cc5a5dce15590e877e99",
+        "SG-GE-card-78f46d8f3c9a6703ba93",
+        "SG-GE-card-81b522b0670f2ba6ccf8",
+        "SG-GE-card-c3178f30ef625f6c671e"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-sp.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "GREAT SP"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-d0042f6b2e083bba1bed",
+        "SG-GE-card-4d25ee8f6a2c2ded8843",
+        "SG-GE-card-bd587705f29a0e2df6f2",
+        "SG-GE-card-6cecfcd1fac5e2691262"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-sp-usd.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "GREAT SP USD"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-fcbc184333036d446552",
+        "SG-GE-card-c45e5c9e1018dd035482"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-cashback.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "GREAT Flexi Cashback"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-6cdc2f76c1e32733ac75",
+        "SG-GE-card-b3143109ee2e30309b74"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-goal.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "GREAT Flexi Goal"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-8eeb9438a1864e569f96",
+        "SG-GE-card-887d48b64071f299c749"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-saver.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "GREAT Flexi Saver"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-8ffd67fc52921b18f910",
+        "SG-GE-card-27c46d8a3adff1df2d43",
+        "SG-GE-card-fdfda866aa4b56ce4108",
+        "SG-GE-card-4918160d4227fb49e9bb"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-sp-special.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+      "source_names": [
+        "GREAT SP Special"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-1f0d6bbd84ba38e151dd",
+        "SG-GE-card-33b6e2134c302d4a9c6f",
+        "SG-GE-card-5b24ac8849d231273b63",
+        "SG-GE-card-d89d9993a256e565a303"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/car-insurance/great-ev-protect.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/car-insurance.html",
+      "advertising_source_sha256": "3554ef6650c22aedbe600058095936f49015a2954af6547385b491844f5a4f3c",
+      "source_names": [
+        "GREAT EV Protect"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-d9807ab4bf74a4ee399c",
+        "SG-GE-card-b56a5dfba435ed6ffffa",
+        "SG-GE-card-bb6ca7887ccc270c1515",
+        "SG-GE-card-75a720b7e26ae4658474"
+      ]
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/car-insurance/drive-and-save-plus.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/car-insurance.html",
+      "advertising_source_sha256": "3554ef6650c22aedbe600058095936f49015a2954af6547385b491844f5a4f3c",
+      "source_names": [
+        "Drive and Save Plus"
+      ],
+      "source_card_observation_ids": [
+        "SG-GE-card-2bb232733ec5f17c8121",
+        "SG-GE-card-20f6a1d045919aee44a4",
+        "SG-GE-card-e42ebda5dd24b57f3684",
+        "SG-GE-card-1ffed0620149fb813ff3"
+      ]
+    }
+  ],
+  "ge-my-bounded-HTML-detail-queue.json": [
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-you.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/life-insurance/smartprotect-you.html",
+      "source_card_name": "SMARTPROTECT You | Affordable Regular Premium Investment Linked Policy",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-health-protector.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/health-insurance/smart-health-protector.html",
+      "source_card_name": "SMART Health Protector | Medical Insurance Rider",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/greatshield-active.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/personal-accident-insurance/greatshield-active.html",
+      "source_card_name": "Personal Accident Insurance | Great Shield Active",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance/easimed-major.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/hospital-surgical-insurance/easimed-major.html",
+      "source_card_name": "EasiMed Major | Hospital & Surgical Insurance",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-flexi-wealth.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/wealth-accumulation/great-flexi-wealth.html",
+      "source_card_name": "GREAT Flexi Wealth | Universal Life Plan for Family Wealth Planning",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/retirement-plan/great-retirement-pride.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/retirement-plan/great-retirement-pride.html",
+      "source_card_name": "GREAT Retirement Pride | Empowering your golden years with PRIDE",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series/prestige-heritage-global.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/prestige-series/prestige-heritage-global.html",
+      "source_card_name": "Prestige Heritage Global | Limited Pay Investment-linked Insurance Plan | Legacy Planning",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance/great-home-360.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/home-insurance/great-home-360.html",
+      "source_card_name": "Home Insurance | GREAT Home 360",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/travel-insurance/great-voyager.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_href": "/my/en/personal-insurance/our-products/travel-insurance/great-voyager.html",
+      "source_card_name": "Travel Insurance | GREAT Voyager+",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/easi-biz-standard-premier.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/overview.html",
+      "advertising_source_sha256": "108975520b945f795200fc0726cf446988135e5194c3dbe7cff03d875970ae29",
+      "literal_href": "/my/en/corporate-solutions/general-insurance/easi-biz-standard-premier.html",
+      "source_label": "here"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/marine-cargo.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/overview.html",
+      "advertising_source_sha256": "108975520b945f795200fc0726cf446988135e5194c3dbe7cff03d875970ae29",
+      "literal_href": "/my/en/corporate-solutions/general-insurance/marine-cargo.html",
+      "source_label": "here"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/easi-health-sme.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/overview.html",
+      "advertising_source_sha256": "108975520b945f795200fc0726cf446988135e5194c3dbe7cff03d875970ae29",
+      "literal_href": "/my/en/corporate-solutions/general-insurance/easi-health-sme.html",
+      "source_label": "here"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/condo-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/overview.html",
+      "advertising_source_sha256": "108975520b945f795200fc0726cf446988135e5194c3dbe7cff03d875970ae29",
+      "literal_href": "/my/en/corporate-solutions/general-insurance/condo-insurance.html",
+      "source_label": "here"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/foreign-worker-hospitalisation.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/overview.html",
+      "advertising_source_sha256": "108975520b945f795200fc0726cf446988135e5194c3dbe7cff03d875970ae29",
+      "literal_href": "/my/en/corporate-solutions/general-insurance/foreign-worker-hospitalisation.html",
+      "source_label": "here"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smart-revive-max.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance.html",
+      "advertising_source_sha256": "0d554418e61610b6314fad5ace3d1c896a0e5a50a7cf53cba95f7df19688a7eb",
+      "literal_href": "/my/en/personal-insurance/our-products/life-insurance/smart-revive-max.html",
+      "source_card_name": "SMART Revive Max | Limited Pay Investment-linked Insurance Plan",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-junior.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance.html",
+      "advertising_source_sha256": "0d554418e61610b6314fad5ace3d1c896a0e5a50a7cf53cba95f7df19688a7eb",
+      "literal_href": "/my/en/personal-insurance/our-products/life-insurance/smartprotect-junior.html",
+      "source_card_name": "SMARTPROTECT Junior | Insurance for Baby & Kids | Medical & Education Savings Options",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-wealth-plus.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance.html",
+      "advertising_source_sha256": "0d554418e61610b6314fad5ace3d1c896a0e5a50a7cf53cba95f7df19688a7eb",
+      "literal_href": "/my/en/personal-insurance/our-products/life-insurance/smartprotect-wealth-plus.html",
+      "source_card_name": "SMARTPROTECT Wealth Plus | Regular Premium Investment-linked Insurance Plan | Legacy Planning",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medivalue.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance.html",
+      "advertising_source_sha256": "066e70d8b9c68754918542626a140085a28c661f7388978afcfb7a128c7ded16",
+      "literal_href": "/my/en/personal-insurance/our-products/health-insurance/great-medivalue.html",
+      "source_card_name": "GREAT MediValue | Medical Insurance Rider",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-multi-critical-care.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance.html",
+      "advertising_source_sha256": "066e70d8b9c68754918542626a140085a28c661f7388978afcfb7a128c7ded16",
+      "literal_href": "/my/en/personal-insurance/our-products/health-insurance/smart-multi-critical-care.html",
+      "source_card_name": "SMART Multi Critical Care | Multipay Critical Illness Benefit Rider with Comprehensive Coverage",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-baby-shield-plus.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance.html",
+      "advertising_source_sha256": "066e70d8b9c68754918542626a140085a28c661f7388978afcfb7a128c7ded16",
+      "literal_href": "/my/en/personal-insurance/our-products/health-insurance/smart-baby-shield-plus.html",
+      "source_card_name": "SMART Baby Shield Plus | Pregnancy, Maternity & Prenatal Insurance",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/great-tenang.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance.html",
+      "advertising_source_sha256": "a8388437cc606a3fc093e5572b61111850e2e0403cee09e4395f242a4f639760",
+      "literal_href": "/my/en/personal-insurance/our-products/personal-accident-insurance/great-tenang.html",
+      "source_card_name": "Personal Accident Insurance | GREAT Tenang",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/easi-shield.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance.html",
+      "advertising_source_sha256": "a8388437cc606a3fc093e5572b61111850e2e0403cee09e4395f242a4f639760",
+      "literal_href": "/my/en/personal-insurance/our-products/personal-accident-insurance/easi-shield.html",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance/great-medcare.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance.html",
+      "advertising_source_sha256": "f43f42e5b0553bbd8972cb7c2d4f5fa792d82a66cdbc3277fdf69eb77f5c5494",
+      "literal_href": "/my/en/personal-insurance/our-products/hospital-surgical-insurance/great-medcare.html",
+      "source_card_name": "GREAT MedCare | Lifelong Comprehensive Care",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance/easi-healthcare.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance.html",
+      "advertising_source_sha256": "f43f42e5b0553bbd8972cb7c2d4f5fa792d82a66cdbc3277fdf69eb77f5c5494",
+      "literal_href": "/my/en/personal-insurance/our-products/hospital-surgical-insurance/easi-healthcare.html",
+      "source_card_name": "Easi-HealthCare | Hospital & Surgical Insurance",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance/easimed-active.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance.html",
+      "advertising_source_sha256": "f43f42e5b0553bbd8972cb7c2d4f5fa792d82a66cdbc3277fdf69eb77f5c5494",
+      "literal_href": "/my/en/personal-insurance/our-products/hospital-surgical-insurance/easimed-active.html",
+      "source_card_name": "EasiMed Active | Hospital & Surgical Insurance",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smart-wealth-global.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "a18be1b6ce68f514e59e75b236db9571b9e8d70c73d67557fc95507ae68aa8d9",
+      "literal_href": "/my/en/personal-insurance/our-products/wealth-accumulation/smart-wealth-global.html",
+      "source_card_name": "SMART Wealth Global",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-multi-gen-wealth-3.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "a18be1b6ce68f514e59e75b236db9571b9e8d70c73d67557fc95507ae68aa8d9",
+      "literal_href": "/my/en/personal-insurance/our-products/wealth-accumulation/great-multi-gen-wealth-3.html",
+      "source_card_name": "GREAT Multi-Gen Wealth 3 | Look After Generations of Your Family with One Plan",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-wealth-enhancer.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation.html",
+      "advertising_source_sha256": "a18be1b6ce68f514e59e75b236db9571b9e8d70c73d67557fc95507ae68aa8d9",
+      "literal_href": "/my/en/personal-insurance/our-products/wealth-accumulation/great-wealth-enhancer.html",
+      "source_card_name": "GREAT Wealth Enhancer | Limited Pay Endowment Insurance",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/travel-insurance/travel-for-more.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/travel-insurance.html",
+      "advertising_source_sha256": "c84d9954351e2f0b80f1eabf88dc1f84b756719539f6db16c9c4466ca9389eb1",
+      "literal_href": "/my/en/personal-insurance/our-products/travel-insurance/travel-for-more.html",
+      "source_card_name": "Travel Insurance | Travel For More+",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance/great-shield-home.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance.html",
+      "advertising_source_sha256": "911aa8994b63131035f084762908240bf29c3709301aae7051d976716c5678f5",
+      "literal_href": "/my/en/personal-insurance/our-products/home-insurance/great-shield-home.html",
+      "source_card_name": "Home Insurance | Great Shield Home",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance/easi-home.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance.html",
+      "advertising_source_sha256": "911aa8994b63131035f084762908240bf29c3709301aae7051d976716c5678f5",
+      "literal_href": "/my/en/personal-insurance/our-products/home-insurance/easi-home.html",
+      "source_card_name": "Home Insurance | Easi-Home",
+      "source_label": "Learn more"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series/prestige-wealth-global.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series.html",
+      "advertising_source_sha256": "77ff6132563490465b3d565f33d6cb496977287ae51824cac88115f33652e61f",
+      "literal_href": "/my/en/personal-insurance/our-products/prestige-series/prestige-wealth-global.html",
+      "source_card_name": "Prestige Wealth Global | Limited Pay Investment-linked Insurance Plan | Wealth Planning",
+      "source_label": "Learn more"
+    }
+  ],
+  "ge-my-one-corporate-root-HTML-queue.json": [
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/corporate-solutions.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/overview.html",
+      "advertising_source_sha256": "108975520b945f795200fc0726cf446988135e5194c3dbe7cff03d875970ae29",
+      "literal_href": "/my/en/corporate-solutions.html",
+      "source_label": "Corporate solutions"
+    }
+  ],
+  "ge-my-bounded-related-HTML-queue.json": [
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-critical-relief.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-you.html",
+      "advertising_source_sha256": "d22356e536e75e8f95a45ba788f5702312c3e792b29f0eb79112b58c01d5307d",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-critical-relief.html",
+      "source_label": "Find out more",
+      "source_association_role": "explicit_Rider_table_detail_link"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-early-payout-criticalcare.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-you.html",
+      "advertising_source_sha256": "d22356e536e75e8f95a45ba788f5702312c3e792b29f0eb79112b58c01d5307d",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-early-payout-criticalcare.html",
+      "source_label": "Find out more",
+      "source_association_role": "explicit_Rider_table_detail_link"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/corporate-solutions/group-insurance/great-bizcare.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions.html",
+      "advertising_source_sha256": "75fc89695b010e39e72e9e0ade67d08bf37f41cfc3b7eece28a9cf27d2a39bab",
+      "literal_href": "/my/en/corporate-solutions/group-insurance/great-bizcare.html",
+      "source_label": "Great BizCare",
+      "source_association_role": "corporate_group_catalog_link"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/corporate-solutions/group-insurance/group-multiple-benefits-insurance-scheme-gmbis.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions.html",
+      "advertising_source_sha256": "75fc89695b010e39e72e9e0ade67d08bf37f41cfc3b7eece28a9cf27d2a39bab",
+      "literal_href": "/my/en/corporate-solutions/group-insurance/group-multiple-benefits-insurance-scheme-gmbis.html",
+      "source_label": "Group Multiple Benefits Insurance Scheme (GMBIS)",
+      "source_association_role": "corporate_group_catalog_link"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/corporate-solutions/group-insurance/great-business-care.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions.html",
+      "advertising_source_sha256": "75fc89695b010e39e72e9e0ade67d08bf37f41cfc3b7eece28a9cf27d2a39bab",
+      "literal_href": "/my/en/corporate-solutions/group-insurance/great-business-care.html",
+      "source_label": "GREAT Business Care Tailored for SMEs",
+      "source_association_role": "corporate_group_catalog_link"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/corporate-solutions/group-insurance/tailor-made-employee-benefits.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions.html",
+      "advertising_source_sha256": "75fc89695b010e39e72e9e0ade67d08bf37f41cfc3b7eece28a9cf27d2a39bab",
+      "literal_href": "/my/en/corporate-solutions/group-insurance/tailor-made-employee-benefits.html",
+      "source_label": "Programme Tailor Made Employee Benefits Learn more",
+      "source_association_role": "corporate_group_catalog_link"
+    }
+  ],
+  "ge-my-neutral-JSON-unread-HTML-queue.json": [
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-early-vantage-care.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/1/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-early-vantage-care.html",
+      "source_card_name": "GREAT Early VantageCare 2 | Early Protection for 50 Critical Illnesses | Whole Life Insurance",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-critical-care-direct.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/2/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-critical-care-direct.html",
+      "source_card_name": "GREAT Critical Care Direct | Affordable Plan with Comprehensive Coverage on 50 Advanced Stage Critical Illness",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-flexi-plus.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/4/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-flexi-plus.html",
+      "source_card_name": "GREAT Flexi Plus | Wealth Accumulation with Universal Life Plan",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-critical-care-relief.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/5/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-critical-care-relief.html",
+      "source_card_name": "GREAT Critical Care Relief | 5 Prevalent Critical Illness Insurance",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/great-activepack.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/6/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/great-activepack.html",
+      "source_card_name": "Personal Accident Insurance | GREAT Active Pack",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-health-direct.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/7/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-health-direct.html",
+      "source_card_name": "GREAT Health Direct  | Affordable Online Medical Card & Insurance Plan | Health Insurance",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/platinum-pa.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/11/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/platinum-pa.html",
+      "source_card_name": "Personal Accident Insurance | Platinum PA",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-generation-care.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/12/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-generation-care.html",
+      "source_card_name": "GREAT Generation Care | Family Critical Illness Insurance (3-Generation) | Life Insurance",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medic-lite-secure.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/14/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medic-lite-secure.html",
+      "source_card_name": "GREAT Medic Lite Secure | Standalone Medical Card",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-maxiprotector.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/17/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-maxiprotector.html",
+      "source_card_name": "GREAT MaxiProtector | Whole Life Insurance Plan",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/lady-protector.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/18/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/lady-protector.html",
+      "source_card_name": "Personal Accident Insurance | Lady Protector",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medic-shield2-great-medic-million-extender2.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/21/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medic-shield2-great-medic-million-extender2.html",
+      "source_card_name": "GREAT Medic Shield 2 + GREAT Medic Million Extender 2 | Standalone Medical Card & Rider",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-term-direct.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/22/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-term-direct.html",
+      "source_card_name": "GREAT Term Direct | Affordable Term Life Insurance",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-life-gift.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/24/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-life-gift.html",
+      "source_card_name": "GREAT Life Gift | Family Life Insurance",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/easi-protector.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/25/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/easi-protector.html",
+      "source_card_name": "Personal Accident Insurance | Easi-Protector",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-multi-cancer-care.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/26/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-multi-cancer-care.html",
+      "source_card_name": "GREAT Multi Cancer Care | Cancer Cover Insurance & Protection Plan",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smartinvest-growth.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/27/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smartinvest-growth.html",
+      "source_card_name": "SMARTINVEST Growth | Investment linked Insurance Plan for Wealth Accumulation",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-vantage-care.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/28/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-vantage-care.html",
+      "source_card_name": "GREAT VantageCare 2 | Comprehensive Critical Illness Insurance for Advanced Stage",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/junior-protector.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/30/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/junior-protector.html",
+      "source_card_name": "Personal Accident Insurance | Junior Protector",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smartinvest-premier.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/31/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smartinvest-premier.html",
+      "source_card_name": "SMARTINVEST Premier | High Investment Return for Your Family Financial Planning",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/classic-pa.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/33/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/classic-pa.html",
+      "source_card_name": "Personal Accident Insurance | Classic PA",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-sure.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/36/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-sure.html",
+      "source_card_name": "SMARTPROTECT Sure | Regular Premium Investment Linked Policy",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance/houseowner-household-insurance.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/46/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance/houseowner-household-insurance.html",
+      "source_card_name": "Home Insurance | Houseowner/ Householder",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/motor-insurance/great-ev.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/49/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/motor-insurance/great-ev.html",
+      "source_card_name": "GREAT EV | Car Insurance",
+      "source_label": "Learn More"
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/great-shield-special.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "advertising_source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "source_JSON_pointer": "/list/54/primaryCtaLink",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/great-shield-special.html",
+      "source_card_name": "Personal Accident Insurance | Great Shield Special",
+      "source_label": "Learn More"
+    }
+  ],
+  "ge-eight-final-literal-product-HTML-queue.json": [
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-advantage-4-plus.html",
+      "advertising_source_sha256": "2aebc2bec66c3ab2a62c8bdcdaead670a4f7bfa7047000e6c91f470048d5817d",
+      "literal_href": "/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html",
+      "source_label": "Dependants' Protection Scheme",
+      "observation_scope": "Named product/rider or existing-product audience landing/legacy route; not presumed distinct offerings."
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-advantage-4-plus.html",
+      "advertising_source_sha256": "2aebc2bec66c3ab2a62c8bdcdaead670a4f7bfa7047000e6c91f470048d5817d",
+      "literal_href": "/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth.html",
+      "source_label": "GREAT SupremeHealth & GREAT TotalCare",
+      "observation_scope": "Named product/rider or existing-product audience landing/legacy route; not presumed distinct offerings."
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-parents-with-young-children.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-multiplier.html",
+      "advertising_source_sha256": "532fadf4198b50b092604233bcd6a90116303f2bad7acfc8ea55c61eee90e311",
+      "literal_href": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-parents-with-young-children.html",
+      "source_label": "GREAT SupremeHealth",
+      "observation_scope": "Named product/rider or existing-product audience landing/legacy route; not presumed distinct offerings."
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-ntw.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-main.html",
+      "advertising_source_sha256": "dab83a4a99888482aa97ac478ccb60c07c2a26c77720ffc0aaee454f01bf7214",
+      "literal_href": "/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-ntw.html",
+      "source_label": "",
+      "observation_scope": "Named product/rider or existing-product audience landing/legacy route; not presumed distinct offerings."
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-non-singaporeans.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-main.html",
+      "advertising_source_sha256": "dab83a4a99888482aa97ac478ccb60c07c2a26c77720ffc0aaee454f01bf7214",
+      "literal_href": "/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-non-singaporeans.html",
+      "source_label": "",
+      "observation_scope": "Named product/rider or existing-product audience landing/legacy route; not presumed distinct offerings."
+    },
+    {
+      "region": "SG",
+      "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-wealth-multiplier-2.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "SG-own-3ed42bb5f9a4950f",
+        "SG-own-effcbd0463a6ae78"
+      ],
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/great-protector-active.html",
+      "advertising_source_sha256": "ae49ff564aa8586fb61b63d240d6ab882a68e0ae859ed9a45ebf5ca3b42ef8f9",
+      "literal_href": "/sg/en/personal-insurance/our-products/wealth-accumulation/great-wealth-multiplier-2.html",
+      "source_label": "GREAT Wealth Multiplier 3",
+      "observation_scope": "Named product/rider or existing-product audience landing/legacy route; not presumed distinct offerings."
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/legacy-distribution-rider.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series/prestige-heritage-global.html",
+      "advertising_source_sha256": "ecac17aeab40e3d65e82b9f4e849df83b5b1b1c615c2a333be71fbb5460db858",
+      "literal_href": "/my/en/personal-insurance/our-products/legacy-distribution-rider.html",
+      "source_label": "Find out more",
+      "observation_scope": "Named product/rider or existing-product audience landing/legacy route; not presumed distinct offerings."
+    },
+    {
+      "region": "MY",
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medivalue-great-medivalue-plus.html",
+      "method": "GET",
+      "possible_source_issuer_ids": [
+        "MY-own-456adbea3202c8f1",
+        "MY-own-054d314f45c6814e"
+      ],
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-junior.html",
+      "advertising_source_sha256": "2b5160affcf8964124550b2f9253fd912ef1316d8a6940f340f5e17a5ac8c72b",
+      "literal_href": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medivalue-great-medivalue-plus.html",
+      "source_label": "",
+      "observation_scope": "Named product/rider or existing-product audience landing/legacy route; not presumed distinct offerings."
+    }
+  ],
+  "ge-my-two-public-script-queue.json": [
+    {
+      "url": "https://www.greateasternlife.com/etc.clientlibs/corp-site/clientlibs/clientlib-site.min.js",
+      "method": "GET",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_script_src": "/etc.clientlibs/corp-site/clientlibs/clientlib-site.min.js"
+    },
+    {
+      "url": "https://www.greateasternlife.com/etc.clientlibs/corp-site/clientlibs/clientlib-base.min.js",
+      "method": "GET",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+      "source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+      "literal_script_src": "/etc.clientlibs/corp-site/clientlibs/clientlib-base.min.js"
+    }
+  ],
+  "ge-my-one-public-catalog-JSON-attempt.json": [
+    {
+      "url": "https://www.greateasternlife.com/content/corp-site/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "method": "GET",
+      "origin": "https://www.greateasternlife.com",
+      "checked_at": "2026-10-27T16:32:31.536109+00:00",
+      "source_date": null,
+      "redirects_followed": 0,
+      "headers_supplied": false,
+      "cookies_supplied": false,
+      "http_status": 301,
+      "access_status": "redirect_quarantined_no_follow"
+    }
+  ],
+  "ge-my-canonical-public-catalog-JSON-attempt.json": [
+    {
+      "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "method": "GET",
+      "origin": "https://www.greateasternlife.com",
+      "checked_at": "2026-10-27T16:38:59.296845+00:00",
+      "source_date": null,
+      "redirects_followed": 0,
+      "headers_supplied": false,
+      "cookies_supplied": false,
+      "http_status": 200,
+      "final_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+      "content_type": "application/json",
+      "bytes": 74290,
+      "source_sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+      "access_status": "public_JSON_received_unreviewed",
+      "root_type": "dict",
+      "root_keys": [
+        "result",
+        "title",
+        "list"
+      ]
+    }
+  ]
+}

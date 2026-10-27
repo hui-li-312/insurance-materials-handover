@@ -1,0 +1,1334 @@
+[
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance.html",
+    "http_status": 200,
+    "bytes": 234051,
+    "sha256": "4cbce889988db1708229d0d28104f3b5e45fb1a1b7d606d6adfc137eb09fbc5e",
+    "checked_at": "2026-10-27T15:56:13.735576+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance.html",
+    "http_status": 200,
+    "bytes": 239623,
+    "sha256": "f6f054984673ea30dbe1726d9c07179e048af63459f9242a17f88b07165cb4a7",
+    "checked_at": "2026-10-27T15:56:22.114210+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance.html",
+    "http_status": 200,
+    "bytes": 227917,
+    "sha256": "b671e7b05e610fc1175df0244eb7de761fd1b7608fb6b612b5ab5e943fc77650",
+    "checked_at": "2026-10-27T15:56:26.963910+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/critical-illness-insurance.html",
+    "http_status": 200,
+    "bytes": 200521,
+    "sha256": "1b29caf1b0f990f89d2ddacdbbd762663752c1d6e709bb465248433e720980bb",
+    "checked_at": "2026-10-27T15:56:35.179866+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income.html",
+    "http_status": 200,
+    "bytes": 206605,
+    "sha256": "966aae46e44b8049c7d0f49118302a3981bce8480199737206852c9d56a6d001",
+    "checked_at": "2026-10-27T15:56:41.088274+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation.html",
+    "http_status": 200,
+    "bytes": 261137,
+    "sha256": "308e8e6ab7734ccb603e0f87ce7a1b03a65a240aa1ab31fffc2f2178560d46c3",
+    "checked_at": "2026-10-27T15:56:47.035149+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/car-insurance.html",
+    "http_status": 200,
+    "bytes": 187951,
+    "sha256": "3554ef6650c22aedbe600058095936f49015a2954af6547385b491844f5a4f3c",
+    "checked_at": "2026-10-27T15:57:05.159252+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/prestige-series.html",
+    "http_status": 200,
+    "bytes": 189557,
+    "sha256": "ac2e98d3d0e5045d7b192c51503b6f49c4212ceecd2ffd8bd0ca7c3d62e2b5b0",
+    "checked_at": "2026-10-27T15:57:27.872861+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products.html",
+    "http_status": 200,
+    "bytes": 363563,
+    "sha256": "dffed0632453666662fba081aba054a3a71f0f100d945cff1c3e539ee75c4f38",
+    "checked_at": "2026-10-27T15:57:46.419032+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+    "http_status": 200,
+    "bytes": 154294,
+    "sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+    "checked_at": "2026-10-27T15:57:51.771282+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/overview.html",
+    "http_status": 200,
+    "bytes": 295631,
+    "sha256": "108975520b945f795200fc0726cf446988135e5194c3dbe7cff03d875970ae29",
+    "checked_at": "2026-10-27T15:58:05.615102+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/travel-insurance/great-travelcare.html",
+    "http_status": 200,
+    "bytes": 219013,
+    "sha256": "628980e0639d72a23cd9c679f6e8430e61695a330d500436a88c12d1dc7bebf6",
+    "checked_at": "2026-10-27T16:02:33.226757+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/home-insurance/great-home-protect.html",
+    "http_status": 200,
+    "bytes": 239218,
+    "sha256": "2b5d69a548e141646d8b0eaf6c2b02493f9386d5750b0903449c3317793cdccc",
+    "checked_at": "2026-10-27T16:02:40.437740+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/maid-insurance/great-maid-protect.html",
+    "http_status": 200,
+    "bytes": 197146,
+    "sha256": "6daf3224ca59d644314544a03db3716818abd5fc9c9fef951c9d2fbd97323479",
+    "checked_at": "2026-10-27T16:02:44.856434+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/corporate-solutions/employee-benefits/group-insurance.html",
+    "http_status": 200,
+    "bytes": 421675,
+    "sha256": "2c3d2ee3c0062082264dd98cdd863e9c7cb896db79f0b7cc6855c42f96f3bfe4",
+    "checked_at": "2026-10-27T16:02:49.046268+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/corporate-solutions/general-insurance/overview.html",
+    "http_status": 200,
+    "bytes": 426138,
+    "sha256": "48606f862c059f2edb0fab0dcd5ac876704761067e237fcbd71a36a7ded6afd6",
+    "checked_at": "2026-10-27T16:02:54.495913+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance.html",
+    "http_status": 200,
+    "bytes": 228701,
+    "sha256": "0d554418e61610b6314fad5ace3d1c896a0e5a50a7cf53cba95f7df19688a7eb",
+    "checked_at": "2026-10-27T16:02:58.805907+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance.html",
+    "http_status": 200,
+    "bytes": 234363,
+    "sha256": "066e70d8b9c68754918542626a140085a28c661f7388978afcfb7a128c7ded16",
+    "checked_at": "2026-10-27T16:03:03.834260+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance.html",
+    "http_status": 200,
+    "bytes": 101976,
+    "sha256": "a8388437cc606a3fc093e5572b61111850e2e0403cee09e4395f242a4f639760",
+    "checked_at": "2026-10-27T16:03:07.877528+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance.html",
+    "http_status": 200,
+    "bytes": 106345,
+    "sha256": "f43f42e5b0553bbd8972cb7c2d4f5fa792d82a66cdbc3277fdf69eb77f5c5494",
+    "checked_at": "2026-10-27T16:03:12.810350+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation.html",
+    "http_status": 200,
+    "bytes": 228067,
+    "sha256": "a18be1b6ce68f514e59e75b236db9571b9e8d70c73d67557fc95507ae68aa8d9",
+    "checked_at": "2026-10-27T16:03:17.855130+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/retirement-plan.html",
+    "http_status": 200,
+    "bytes": 93205,
+    "sha256": "98fc2c651b9074c67a0d138b218120f21ef5805a2ea4c1b4d1f8502606bd8a82",
+    "checked_at": "2026-10-27T16:03:22.070107+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/travel-insurance.html",
+    "http_status": 200,
+    "bytes": 101770,
+    "sha256": "c84d9954351e2f0b80f1eabf88dc1f84b756719539f6db16c9c4466ca9389eb1",
+    "checked_at": "2026-10-27T16:03:27.770966+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/motor-insurance/motor-insurance.html",
+    "http_status": 200,
+    "bytes": 114664,
+    "sha256": "67acbde5e7eccc45185fd8b4df44778eb7f097902bcc49bcfb5791588f657591",
+    "checked_at": "2026-10-27T16:03:33.716989+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance.html",
+    "http_status": 200,
+    "bytes": 102987,
+    "sha256": "911aa8994b63131035f084762908240bf29c3709301aae7051d976716c5678f5",
+    "checked_at": "2026-10-27T16:03:37.801143+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/sports-insurance/easi-golf.html",
+    "http_status": 200,
+    "bytes": 111126,
+    "sha256": "b8fa33a22bdf92cb3494938e13bfe9bb919aa67b74be6507fecefd444562b350",
+    "checked_at": "2026-10-27T16:03:42.233776+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/other-insurance/foodstall-insurance.html",
+    "http_status": 200,
+    "bytes": 109678,
+    "sha256": "12c47ca29d623e2d0329a74bf29d689660ea673ac52f7c889809293dfbf81402",
+    "checked_at": "2026-10-27T16:03:47.393304+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series.html",
+    "http_status": 200,
+    "bytes": 99554,
+    "sha256": "77ff6132563490465b3d565f33d6cb496977287ae51824cac88115f33652e61f",
+    "checked_at": "2026-10-27T16:03:53.658508+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/group-insurance/great-tenang-madani-perlindungan-tenang.html",
+    "http_status": 200,
+    "bytes": 297818,
+    "sha256": "1c04e826877e33ecfe0f6d15d13a8080bd981f8c1ea146797622c7ff279fd04b",
+    "checked_at": "2026-10-27T16:03:57.861958+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-advantage-4-plus.html",
+    "http_status": 200,
+    "bytes": 224403,
+    "sha256": "2aebc2bec66c3ab2a62c8bdcdaead670a4f7bfa7047000e6c91f470048d5817d",
+    "checked_at": "2026-10-27T16:05:56.347138+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-term.html",
+    "http_status": 200,
+    "bytes": 205955,
+    "sha256": "6a23388d5950fec269010868881cdca864ba91d0278687d9903d9d4778671706",
+    "checked_at": "2026-10-27T16:06:04.196673+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-multiplier.html",
+    "http_status": 200,
+    "bytes": 212359,
+    "sha256": "532fadf4198b50b092604233bcd6a90116303f2bad7acfc8ea55c61eee90e311",
+    "checked_at": "2026-10-27T16:06:08.907296+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/prestige-legacy-index.html",
+    "http_status": 200,
+    "bytes": 196740,
+    "sha256": "cc63b31de6861f6cc32ca1fa45944ed07afcfe78e1bb775b99f278c552bb825a",
+    "checked_at": "2026-10-27T16:06:14.181169+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-advantage.html",
+    "http_status": 200,
+    "bytes": 224026,
+    "sha256": "1cd7e45e6b86ab04b02eb8d7d47afe431e908c21d97127b374be74f51813e355",
+    "checked_at": "2026-10-27T16:06:18.720328+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/prestige-life-gold.html",
+    "http_status": 200,
+    "bytes": 189110,
+    "sha256": "514921f9a4ef8fe13577dcd7cb8d3f41bd7becad1593762a9ca809794712c6e2",
+    "checked_at": "2026-10-27T16:06:22.919012+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/gogreat-term-life.html",
+    "http_status": 200,
+    "bytes": 194267,
+    "sha256": "7530a8cfcf06c2c38763dcd74ef4ad1365fa8e9a5d36af66295a8ef2b61f3145",
+    "checked_at": "2026-10-27T16:06:29.710973+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/direct-great-term.html",
+    "http_status": 200,
+    "bytes": 223641,
+    "sha256": "4aeb518b7eb384143f51fcb3b8f6d1fd2a76b11318c911a0188929861195b226",
+    "checked_at": "2026-10-27T16:06:34.492808+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/direct-great-life-2.html",
+    "http_status": 200,
+    "bytes": 226063,
+    "sha256": "7980327d3a364717a721fbb66de4432d1a68ec0cb0b7bdc8beae519eebf8b3d6",
+    "checked_at": "2026-10-27T16:06:40.459436+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-eastern-cares-term-plan.html",
+    "http_status": 200,
+    "bytes": 194533,
+    "sha256": "911a757178741bfe31fb9d8884656b15a1e071f8d1a429e97eb484bca785befc",
+    "checked_at": "2026-10-27T16:06:45.841024+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-main.html",
+    "http_status": 200,
+    "bytes": 218918,
+    "sha256": "dab83a4a99888482aa97ac478ccb60c07c2a26c77720ffc0aaee454f01bf7214",
+    "checked_at": "2026-10-27T16:06:50.129865+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-careshield.html",
+    "http_status": 200,
+    "bytes": 217961,
+    "sha256": "7741997ce77761a4162f05d07cb4948b3b8cbb2b41ebfce70b7d7108bc8df4df",
+    "checked_at": "2026-10-27T16:06:56.831894+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/cancer-guard.html",
+    "http_status": 200,
+    "bytes": 189932,
+    "sha256": "b967cf2c67a82e9d562cb4cd7b137dcc091167cb01822e50a161ba09f37dbdd3",
+    "checked_at": "2026-10-27T16:07:02.246537+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/maternity-protect.html",
+    "http_status": 200,
+    "bytes": 247530,
+    "sha256": "baaccceecc2324fb13a00922adaa27a392fc491140a4060df4d12147c6b34eeb",
+    "checked_at": "2026-10-27T16:07:08.913340+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-critical-cover.html",
+    "http_status": 200,
+    "bytes": 210698,
+    "sha256": "9bdaae25747962068f78d7c1542376f3770f18450edf28ce4a65f4b18004c0f7",
+    "checked_at": "2026-10-27T16:07:14.848952+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-hospital-cash.html",
+    "http_status": 200,
+    "bytes": 200229,
+    "sha256": "ddbd63c6d29efccc675974bf05f40f8f1b876a79f67115ceb09b30c48e9906ac",
+    "checked_at": "2026-10-27T16:07:24.591576+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/pay-assure.html",
+    "http_status": 200,
+    "bytes": 190905,
+    "sha256": "f588be45c1bc93b8209a2887c24fde30c8ee688c6e14ed039bfb06fae5b4633d",
+    "checked_at": "2026-10-27T16:07:30.096816+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/lifesecure.html",
+    "http_status": 200,
+    "bytes": 191061,
+    "sha256": "63ee854f23f6013863b6cfcef8de66f1fcc039bd26ea05fa5020b851a35c8338",
+    "checked_at": "2026-10-27T16:07:34.796258+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/prestigeglobalhealthoptions.html",
+    "http_status": 200,
+    "bytes": 184926,
+    "sha256": "b24180263cd1e826620a57c20ab9bcdab9baa96ed88508c6d1035f266e7cd1b7",
+    "checked_at": "2026-10-27T16:07:39.985963+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/great-protector-active.html",
+    "http_status": 200,
+    "bytes": 214720,
+    "sha256": "ae49ff564aa8586fb61b63d240d6ab882a68e0ae859ed9a45ebf5ca3b42ef8f9",
+    "checked_at": "2026-10-27T16:07:46.937012+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/great-junior-protector.html",
+    "http_status": 200,
+    "bytes": 209839,
+    "sha256": "fb234a68eb1aadecc87bd1edf381facc253269b8a4115ad6d1d31ecdb39464d7",
+    "checked_at": "2026-10-27T16:07:57.563254+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/great-golden-protector.html",
+    "http_status": 200,
+    "bytes": 202915,
+    "sha256": "6909c5700fef0fe42fe2c2f72004077dd04b196f4b232e12039c56fe61165808",
+    "checked_at": "2026-10-27T16:08:03.210583+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/prestige-pacare.html",
+    "http_status": 200,
+    "bytes": 201844,
+    "sha256": "f7f72094040cda7a9c5d903f756b246157d0adfae8cad24e458b24fd652be849",
+    "checked_at": "2026-10-27T16:08:07.084396+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/pa-supreme.html",
+    "http_status": 200,
+    "bytes": 189936,
+    "sha256": "8363fac920cee2d7fd04c298460d8e5321d5fd8b8f4d3c5ad8aefd10f9f32cba",
+    "checked_at": "2026-10-27T16:08:11.062706+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/accidentcare-plus-2.html",
+    "http_status": 200,
+    "bytes": 191095,
+    "sha256": "69114dd724a4000bf5d064b37034d78cc17e3098fff61afe61fdb5a932e57cad",
+    "checked_at": "2026-10-27T16:08:15.926532+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income/lifetime-boost.html",
+    "http_status": 200,
+    "bytes": 224092,
+    "sha256": "f29f46a85c523453f62d2bd89529140b09493121b9dc2f45af05d60318b53203",
+    "checked_at": "2026-10-27T16:08:19.740281+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income/great-lifetime-payout.html",
+    "http_status": 200,
+    "bytes": 201597,
+    "sha256": "62b1b09ae24f9318cfbf1661a4318641ab9b989ef46d8089758905d7ceff82f1",
+    "checked_at": "2026-10-27T16:08:23.629888+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income/great-prime-rewards.html",
+    "http_status": 200,
+    "bytes": 201133,
+    "sha256": "c5ae4e9d8c8688e8668045ae81e5b17f1d4bd19f82a9f43515ae4baa6a2f5d43",
+    "checked_at": "2026-10-27T16:08:27.487709+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income/great-retire-income.html",
+    "http_status": 200,
+    "bytes": 210945,
+    "sha256": "7cad864e9a004a1ceea83c002de7e1e228bbbebc4a12c5df5106290385433b8c",
+    "checked_at": "2026-10-27T16:08:31.403773+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/lifetime-boost.html",
+    "http_status": 200,
+    "bytes": 224088,
+    "sha256": "46fe19992eefeee31b921a56279a4b8f75d4cc4eea99668346e80f6837c16da1",
+    "checked_at": "2026-10-27T16:08:35.497091+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-advantage.html",
+    "http_status": 200,
+    "bytes": 215724,
+    "sha256": "c31440b798b9b5f71a480159d993f24cd66db6b935032efec79b6c94cb416546",
+    "checked_at": "2026-10-27T16:08:39.754122+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-wealth-advantage.html",
+    "http_status": 200,
+    "bytes": 223706,
+    "sha256": "e991f932fb178a5c64e5755aaffb92bddc7d63fe9493144883022234692fdc1d",
+    "checked_at": "2026-10-27T16:08:44.181785+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/legacy-income.html",
+    "http_status": 200,
+    "bytes": 199073,
+    "sha256": "34264d5454153997901689f967eadbdd80e31a4b50bb0678fac74a48cc14d3d5",
+    "checked_at": "2026-10-27T16:08:49.334726+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/index-income.html",
+    "http_status": 200,
+    "bytes": 220692,
+    "sha256": "9be1746b973b7ecc7c5ea9fda92c8e4fe7d67004cb9611e24d5cf01062e66e4c",
+    "checked_at": "2026-10-27T16:08:53.527320+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-life-rewards-series.html",
+    "http_status": 200,
+    "bytes": 202045,
+    "sha256": "5ec70d731562db2e85612f5a1ee0bcce19b243e5ac1a153cbc45c985d1753a9b",
+    "checked_at": "2026-10-27T16:08:58.348247+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-wealth-legacy.html",
+    "http_status": 200,
+    "bytes": 201748,
+    "sha256": "d69450d794f24dca009c0ff5fa7b2afa08f30da3619dfcfde1d1c25324d5239e",
+    "checked_at": "2026-10-27T16:09:02.901978+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-index-income.html",
+    "http_status": 200,
+    "bytes": 213187,
+    "sha256": "ae2c42bb561a79358edcd61e7f75dd9ce060c14e712ff01ddd8f72e7a2757cf9",
+    "checked_at": "2026-10-27T16:09:07.809006+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-invest-advantage.html",
+    "http_status": 200,
+    "bytes": 230105,
+    "sha256": "e10a07078ceebaadea6432d78e7470c796c710e7830ca1401bf42d6214f21705",
+    "checked_at": "2026-10-27T16:09:12.760343+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-wealth-multiplier.html",
+    "http_status": 200,
+    "bytes": 196544,
+    "sha256": "676cfcf36be8513e4742e9003a20cc71f3eb95750eb63936f2455574990e3928",
+    "checked_at": "2026-10-27T16:09:16.981050+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-portfolio.html",
+    "http_status": 200,
+    "bytes": 201481,
+    "sha256": "3fcb5b435e1455e30f8ea358900a563fee3a4ac84b75550a2ecedefe2452a2ae",
+    "checked_at": "2026-10-27T16:09:20.979156+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-sp.html",
+    "http_status": 200,
+    "bytes": 198113,
+    "sha256": "786fc0f3fec41201f5599d92ace2b304150e8e61cdb11665e20082bf443e6a0b",
+    "checked_at": "2026-10-27T16:09:25.401218+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-sp-usd.html",
+    "http_status": 200,
+    "bytes": 199997,
+    "sha256": "c7f79c9d7fdf6f4de0c833806adf1dd97f6bef7a2f00f63a848558e6e493027b",
+    "checked_at": "2026-10-27T16:09:30.112794+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-cashback.html",
+    "http_status": 200,
+    "bytes": 202254,
+    "sha256": "571d1970223d01fd191d000dbb5b8e23a074672130c3a6bf661b8e11fe1c09b3",
+    "checked_at": "2026-10-27T16:09:35.334596+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-goal.html",
+    "http_status": 200,
+    "bytes": 201700,
+    "sha256": "07835509aba7aa7dab4b7fe52242592d6b1f9b3b9f4a799c86c75b88736e0fca",
+    "checked_at": "2026-10-27T16:09:41.697469+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-saver.html",
+    "http_status": 200,
+    "bytes": 223702,
+    "sha256": "11b2d08c9c539446724a0963ad3f202e15b4ccde1cf8fd3eaf3741965a1f6c57",
+    "checked_at": "2026-10-27T16:09:46.276510+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-sp-special.html",
+    "http_status": 200,
+    "bytes": 208933,
+    "sha256": "a3fd2cdb26595e6a9125fbfb3cae84b0711d0a9d47ab5fef810fb09fea4e762d",
+    "checked_at": "2026-10-27T16:09:55.588711+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/car-insurance/great-ev-protect.html",
+    "http_status": 200,
+    "bytes": 227466,
+    "sha256": "e93e9473a7ed600a3a9c75aed79264f04c940669aef6ea7da1fa5146c1456a7f",
+    "checked_at": "2026-10-27T16:10:00.272595+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/car-insurance/drive-and-save-plus.html",
+    "http_status": 200,
+    "bytes": 230996,
+    "sha256": "7c732349c0b1b52a88bf403038906615c8675cf45c8d70d708c464376797aedb",
+    "checked_at": "2026-10-27T16:10:06.140568+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/etc.clientlibs/corp-site/clientlibs/clientlib-site.min.js",
+    "http_status": 200,
+    "bytes": 10923131,
+    "sha256": "a755ea29059301ee5875fd8686cd60141091f8a78f62a183fa4b3f3d5a204958",
+    "checked_at": "2026-10-27T16:13:25.193872+00:00",
+    "source_date": null,
+    "source_type": "public_script_text"
+  },
+  {
+    "url": "https://www.greateasternlife.com/etc.clientlibs/corp-site/clientlibs/clientlib-base.min.js",
+    "http_status": 200,
+    "bytes": 314179,
+    "sha256": "8668b443e6ec96a15511b17a8df3b172b54ed30d076f2ea854af31b1ed1124f8",
+    "checked_at": "2026-10-27T16:13:34.802578+00:00",
+    "source_date": null,
+    "source_type": "public_script_text"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-you.html",
+    "http_status": 200,
+    "bytes": 247141,
+    "sha256": "d22356e536e75e8f95a45ba788f5702312c3e792b29f0eb79112b58c01d5307d",
+    "checked_at": "2026-10-27T16:23:17.607929+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-health-protector.html",
+    "http_status": 200,
+    "bytes": 231677,
+    "sha256": "a5dbfa9f64048a0976344d9c969875720a42e3312f5cb264c77dc3f76d6ba8a8",
+    "checked_at": "2026-10-27T16:23:25.504482+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/greatshield-active.html",
+    "http_status": 200,
+    "bytes": 111801,
+    "sha256": "591bfd064008dc95823b2287bb2077ae6328b83196c42535c55d01317fde89c2",
+    "checked_at": "2026-10-27T16:23:31.486454+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance/easimed-major.html",
+    "http_status": 200,
+    "bytes": 107185,
+    "sha256": "bf55fb706557a55d37dc558df86cd0ee1b37b0b3855db5bbd3d137624e5d7a66",
+    "checked_at": "2026-10-27T16:23:36.642136+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-flexi-wealth.html",
+    "http_status": 200,
+    "bytes": 234981,
+    "sha256": "ee1d5711900f43140bdc373e17d8bd4fa281dce8c13d87ac5f6feed2a09dc21b",
+    "checked_at": "2026-10-27T16:23:41.419778+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/retirement-plan/great-retirement-pride.html",
+    "http_status": 200,
+    "bytes": 233950,
+    "sha256": "794681f3c1dce0b7431302e16ae12b4d68ecba4abcf83f603ba38899909bbad0",
+    "checked_at": "2026-10-27T16:23:46.158552+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series/prestige-heritage-global.html",
+    "http_status": 200,
+    "bytes": 244675,
+    "sha256": "ecac17aeab40e3d65e82b9f4e849df83b5b1b1c615c2a333be71fbb5460db858",
+    "checked_at": "2026-10-27T16:23:51.670077+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance/great-home-360.html",
+    "http_status": 200,
+    "bytes": 120726,
+    "sha256": "7f9f057fb52757c89ab9a2c9be742c2b6665507156489047ccfc0ad3385ef237",
+    "checked_at": "2026-10-27T16:23:56.655591+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/travel-insurance/great-voyager.html",
+    "http_status": 200,
+    "bytes": 111058,
+    "sha256": "5a09cc5c45522b3f1c8e817edc5d1c2f9c1dfd87f7afe26f3cd8a14bd829926b",
+    "checked_at": "2026-10-27T16:24:01.831061+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/easi-biz-standard-premier.html",
+    "http_status": 200,
+    "bytes": 114784,
+    "sha256": "8c4dec7702d7ba8eae26e6b46e19700c3cdd3a7f40b710e245a1a68afdf6565b",
+    "checked_at": "2026-10-27T16:24:06.681251+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/marine-cargo.html",
+    "http_status": 200,
+    "bytes": 99095,
+    "sha256": "bbe14b7e8e3c57576b5bdde40e3a8b96c589edc9f41e055db36c79b0a4766102",
+    "checked_at": "2026-10-27T16:24:11.878084+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/easi-health-sme.html",
+    "http_status": 200,
+    "bytes": 98346,
+    "sha256": "c14e4f16411404aa17b490021a41564998b151e61b2de8da54db1c8b273da9bb",
+    "checked_at": "2026-10-27T16:24:16.405962+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/condo-insurance.html",
+    "http_status": 200,
+    "bytes": 102847,
+    "sha256": "b41265a88455d7fbb1ce731507252866d68e6663b6c723c5c7353d6978243293",
+    "checked_at": "2026-10-27T16:24:22.016655+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/foreign-worker-hospitalisation.html",
+    "http_status": 200,
+    "bytes": 100189,
+    "sha256": "8e2259414c9025f279814ded4c183e115e563ce4421bc4943f640db49c51bda2",
+    "checked_at": "2026-10-27T16:24:26.613629+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smart-revive-max.html",
+    "http_status": 200,
+    "bytes": 249406,
+    "sha256": "8da2211e3dc51a52b523d6d4eaddd6618bac66c61e0529848ea1e09296f7abde",
+    "checked_at": "2026-10-27T16:24:32.842310+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-junior.html",
+    "http_status": 200,
+    "bytes": 241846,
+    "sha256": "2b5160affcf8964124550b2f9253fd912ef1316d8a6940f340f5e17a5ac8c72b",
+    "checked_at": "2026-10-27T16:24:38.151235+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-wealth-plus.html",
+    "http_status": 200,
+    "bytes": 239026,
+    "sha256": "c16f381965609ceb751cc233f5dfb9cce0a46dba74c125241154ca5e5f44af9f",
+    "checked_at": "2026-10-27T16:24:44.781572+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medivalue.html",
+    "http_status": 200,
+    "bytes": 225713,
+    "sha256": "e992d03e51c3cd742b7ef93151a9e212762ab453551d4be6641796d476b39cc7",
+    "checked_at": "2026-10-27T16:24:57.395431+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-multi-critical-care.html",
+    "http_status": 200,
+    "bytes": 233440,
+    "sha256": "18f23274f20c56854e42980256a00937f9af5d64e0e6b56a430ee4313fd6d094",
+    "checked_at": "2026-10-27T16:25:04.959066+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-baby-shield-plus.html",
+    "http_status": 200,
+    "bytes": 226516,
+    "sha256": "c5e8fbe2b8b44a34d84b8a7336ac16b8df0e0c8d0398818bfe41685cab53dd09",
+    "checked_at": "2026-10-27T16:25:09.034196+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/great-tenang.html",
+    "http_status": 200,
+    "bytes": 107698,
+    "sha256": "b908267a1940c5a51e98e05c83a65d9d86fd60b561519856c610e0fd69720272",
+    "checked_at": "2026-10-27T16:25:14.813890+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance/great-medcare.html",
+    "http_status": 200,
+    "bytes": 108615,
+    "sha256": "22614da06cb03b5a4e317b651a1a4359db1e2038309429987c370c1aeaa68d57",
+    "checked_at": "2026-10-27T16:25:24.048931+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance/easi-healthcare.html",
+    "http_status": 200,
+    "bytes": 111081,
+    "sha256": "e7ceb73e1550da32a67dd14596866cf97f7d3cd2269187d90abdfe884fa7aff2",
+    "checked_at": "2026-10-27T16:25:27.958906+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance/easimed-active.html",
+    "http_status": 200,
+    "bytes": 107351,
+    "sha256": "980c5177205519f328fd78b9655fc46761c81017f849cae6ce02ce68f5aefcc3",
+    "checked_at": "2026-10-27T16:25:32.237875+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smart-wealth-global.html",
+    "http_status": 200,
+    "bytes": 232999,
+    "sha256": "0da0c157ff2f4d49e20c4a4f29a904b6e0a9d6d3f98f3dfa27ad7afb5ce4fed7",
+    "checked_at": "2026-10-27T16:25:36.790227+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-multi-gen-wealth-3.html",
+    "http_status": 200,
+    "bytes": 232586,
+    "sha256": "d9e6193b13e40c21b97d4ed2bf5c3b00bbb018eb8adfed0d2afce59d28d10758",
+    "checked_at": "2026-10-27T16:25:40.699827+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-wealth-enhancer.html",
+    "http_status": 200,
+    "bytes": 242408,
+    "sha256": "c246048115aa4b454dbc302fae7238db1f03563d1edc580c1d562a15c19fa7d7",
+    "checked_at": "2026-10-27T16:25:45.740227+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/travel-insurance/travel-for-more.html",
+    "http_status": 200,
+    "bytes": 111547,
+    "sha256": "7388988ecf1ea5e73dfc31e94c8cbe1b76cca15a2b6a692b4915235baa27792b",
+    "checked_at": "2026-10-27T16:25:50.527671+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance/great-shield-home.html",
+    "http_status": 200,
+    "bytes": 108215,
+    "sha256": "ed143841b93b96c52350181b7aad6d50148ebaa5c0995292c772855f99452c25",
+    "checked_at": "2026-10-27T16:25:55.490942+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance/easi-home.html",
+    "http_status": 200,
+    "bytes": 107319,
+    "sha256": "2e81508bc705f2dbad2694d570022189fe659ef721a7e0e903a46310c165abcd",
+    "checked_at": "2026-10-27T16:26:00.974833+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series/prestige-wealth-global.html",
+    "http_status": 200,
+    "bytes": 232801,
+    "sha256": "35a6480e691909686814c9f4c0eb505d91529a76fe579ef45cec6cedf03da232",
+    "checked_at": "2026-10-27T16:26:05.875411+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions.html",
+    "http_status": 200,
+    "bytes": 434901,
+    "sha256": "75fc89695b010e39e72e9e0ade67d08bf37f41cfc3b7eece28a9cf27d2a39bab",
+    "checked_at": "2026-10-27T16:27:22.737794+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-critical-relief.html",
+    "http_status": 200,
+    "bytes": 220546,
+    "sha256": "80b244f8c11e0e28d4ed582c85dbf9490bec944a0d55d324c983a0081bb435b0",
+    "checked_at": "2026-10-27T16:30:37.172977+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-early-payout-criticalcare.html",
+    "http_status": 200,
+    "bytes": 220493,
+    "sha256": "37fa60fc308c39e483282be13be58ea9d5c759a4ff2f5f0776a5198cc91646e4",
+    "checked_at": "2026-10-27T16:30:45.126700+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/group-insurance/great-bizcare.html",
+    "http_status": 200,
+    "bytes": 296732,
+    "sha256": "de17301f5db5f86cdbc69924c11ef65094c3467d3b770c2cb37a522242d93b1c",
+    "checked_at": "2026-10-27T16:30:51.030584+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/group-insurance/group-multiple-benefits-insurance-scheme-gmbis.html",
+    "http_status": 200,
+    "bytes": 320191,
+    "sha256": "e2cd34c79fa79d519a24ad5d5414d26417a4e6ea2b723e7cd3be1e3aae061b31",
+    "checked_at": "2026-10-27T16:30:56.581596+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/group-insurance/great-business-care.html",
+    "http_status": 200,
+    "bytes": 299522,
+    "sha256": "41afa78391fd590107c3b61e23aa0e41fc451a37f6e1c79ae6523e884918098a",
+    "checked_at": "2026-10-27T16:31:01.746396+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/group-insurance/tailor-made-employee-benefits.html",
+    "http_status": 200,
+    "bytes": 302791,
+    "sha256": "6d9080f69b69e02996b657f3747fb3c1f1d1f48bd9262892266eb2feaa6aabd1",
+    "checked_at": "2026-10-27T16:31:06.821863+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/jcr:content/root/container/productlisting.productListing.json?online=&gift=&who=&category=&benefit=&keyword=",
+    "http_status": 200,
+    "bytes": 74290,
+    "sha256": "ed6b7c8844ed957b75448c9b24a3bbfd6b5c6fccb03d57bc4f140b7d65daa4b5",
+    "checked_at": "2026-10-27T16:38:59.296845+00:00",
+    "source_date": null,
+    "source_type": "public_script_text"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-early-vantage-care.html",
+    "http_status": 200,
+    "bytes": 224103,
+    "sha256": "3d9610ab3b3d0e1cddd0113eef4a69a795a8bbea212eaa75d9e12b4c3f1869b4",
+    "checked_at": "2026-10-27T16:47:11.928376+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-critical-care-direct.html",
+    "http_status": 200,
+    "bytes": 130394,
+    "sha256": "cee358ac2413dd607d9370fc13739e321482fc82af007624b72f9230c7c91fe6",
+    "checked_at": "2026-10-27T16:47:19.030156+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-flexi-plus.html",
+    "http_status": 200,
+    "bytes": 226331,
+    "sha256": "d6e28f9cae8d791bba1b7987755623e43ef791a25677978d6466b60e8d7ab2ac",
+    "checked_at": "2026-10-27T16:47:27.281342+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-critical-care-relief.html",
+    "http_status": 200,
+    "bytes": 235282,
+    "sha256": "8bb5c21bdf5cac17fc62694c4fa6b98ffaf777761999793ae71cbaeaefd644c4",
+    "checked_at": "2026-10-27T16:47:32.000035+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/great-activepack.html",
+    "http_status": 200,
+    "bytes": 114019,
+    "sha256": "1bc3253ae8df32d96a392b8dd6c89c77890194f6f762d2505b009aaba526b898",
+    "checked_at": "2026-10-27T16:47:36.494981+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-health-direct.html",
+    "http_status": 200,
+    "bytes": 128930,
+    "sha256": "022614357de6d1ddc01ad687b6bcf50ac05a4c30e94be09f1ec3641f7a4b3cd5",
+    "checked_at": "2026-10-27T16:47:41.607003+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/platinum-pa.html",
+    "http_status": 200,
+    "bytes": 110331,
+    "sha256": "0a1ef3bcfcaa5453a1357b802d5e03c6f0be39085266929bdb627f4f7b5a96bb",
+    "checked_at": "2026-10-27T16:47:45.823179+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-generation-care.html",
+    "http_status": 200,
+    "bytes": 238971,
+    "sha256": "bbc3cc4174980686f2d43519c8313be6e5c6b05875997208a402c186edfd76b2",
+    "checked_at": "2026-10-27T16:47:51.601483+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medic-lite-secure.html",
+    "http_status": 200,
+    "bytes": 115011,
+    "sha256": "ae53d71fa5d27e4af26d8deab91cf4ec295decf6532ba22eddd42cb7bc8c9cb6",
+    "checked_at": "2026-10-27T16:47:57.505075+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-maxiprotector.html",
+    "http_status": 200,
+    "bytes": 217057,
+    "sha256": "e6aa0551f2d346bf727ef2bc2d16e82c4b46ed004f3c3f059c9e3797971e886e",
+    "checked_at": "2026-10-27T16:48:03.034500+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/lady-protector.html",
+    "http_status": 200,
+    "bytes": 110238,
+    "sha256": "256fc647dd4dc63a95292b2d65a121c2a787f35ca0d6e5b4216f74a2856b0971",
+    "checked_at": "2026-10-27T16:48:07.533878+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medic-shield2-great-medic-million-extender2.html",
+    "http_status": 200,
+    "bytes": 220081,
+    "sha256": "c40717edb691bd7569ec5a01860bdad7df20dc292cc10c9079a695bf0a33773c",
+    "checked_at": "2026-10-27T16:48:12.308944+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-term-direct.html",
+    "http_status": 200,
+    "bytes": 127690,
+    "sha256": "4e575dde5f50f03658243b8f268202619b89792dce7d2bba5f167e057f06fa7c",
+    "checked_at": "2026-10-27T16:48:16.802724+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-life-gift.html",
+    "http_status": 200,
+    "bytes": 229673,
+    "sha256": "74794b3537d4c4bcaf947d63716aafe00946f4c025c02722a61ca36192891800",
+    "checked_at": "2026-10-27T16:48:22.608060+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/easi-protector.html",
+    "http_status": 200,
+    "bytes": 110090,
+    "sha256": "0f3494b88339ad35b3417a4bc6eee7f09e0ca629d1139a188421601c1af35a4c",
+    "checked_at": "2026-10-27T16:48:27.912832+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-multi-cancer-care.html",
+    "http_status": 200,
+    "bytes": 233037,
+    "sha256": "7ca78becbab19f944db98085453d2ae5179847a6029d132ae19170ff90715e93",
+    "checked_at": "2026-10-27T16:48:32.110899+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smartinvest-growth.html",
+    "http_status": 200,
+    "bytes": 219116,
+    "sha256": "707bf08fe1b9816069227527830757372b2697030620cffee04508140a20db7f",
+    "checked_at": "2026-10-27T16:48:38.571037+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/great-vantage-care.html",
+    "http_status": 200,
+    "bytes": 219541,
+    "sha256": "6182d3160f0a5cea323a20dbacd44ac758ca4aa34d85fa0a249ea642db8ab177",
+    "checked_at": "2026-10-27T16:48:43.512647+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/junior-protector.html",
+    "http_status": 200,
+    "bytes": 112134,
+    "sha256": "11e523bb990b79524e2103166ca8b69e001d1e4476f253acbd60c8a8c618008f",
+    "checked_at": "2026-10-27T16:48:48.333965+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smartinvest-premier.html",
+    "http_status": 200,
+    "bytes": 219063,
+    "sha256": "79fb018e47ebb2a337c284eae20e04874f2a803108bc4d75d0c7fcde4185da6b",
+    "checked_at": "2026-10-27T16:48:52.877139+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/classic-pa.html",
+    "http_status": 200,
+    "bytes": 109766,
+    "sha256": "ce6b42ad8d3a4f9dd89082d5d6b9f9dcc2633028b51abd65f06fcf28a2a6a698",
+    "checked_at": "2026-10-27T16:48:59.581199+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-sure.html",
+    "http_status": 200,
+    "bytes": 231437,
+    "sha256": "03c7a25de2fb6f0c94df42fab29026e4b413eea41e6e902135d85b6d2b8c2de4",
+    "checked_at": "2026-10-27T16:49:05.241703+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance/houseowner-household-insurance.html",
+    "http_status": 200,
+    "bytes": 107092,
+    "sha256": "fd34c3995f56fdda80d885ec683292fe1667f8a4ed42ac61aa41a5a18a9d3394",
+    "checked_at": "2026-10-27T16:49:11.221355+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/motor-insurance/great-ev.html",
+    "http_status": 200,
+    "bytes": 112106,
+    "sha256": "08dac1f5f8892e938f80fc79c89e3cf21ece53493c919d55387255f496233cc2",
+    "checked_at": "2026-10-27T16:49:17.065246+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/great-shield-special.html",
+    "http_status": 200,
+    "bytes": 104266,
+    "sha256": "310e1695506ac10e260e5cb1eb11ad87f40de4f8309c42ac85d502091e11c610",
+    "checked_at": "2026-10-27T16:49:21.535007+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html",
+    "http_status": 200,
+    "bytes": 173759,
+    "sha256": "e1ad79473da721d167dcc62c5e904aa84482ea8cef6e0710c070b917e980e714",
+    "checked_at": "2026-10-27T16:49:26.019660+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-parents-with-young-children.html",
+    "http_status": 200,
+    "bytes": 204107,
+    "sha256": "31a1918770c9d474fc80bf5bc1b86264f7322acb34a7d0bdbb92a8066b7b5584",
+    "checked_at": "2026-10-27T16:49:37.367636+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-ntw.html",
+    "http_status": 200,
+    "bytes": 210462,
+    "sha256": "63f4f5e3e95d4935df9d550571adfae3b61cf5ea6da69a7e665c7c166e5fe85e",
+    "checked_at": "2026-10-27T16:49:42.458576+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-non-singaporeans.html",
+    "http_status": 200,
+    "bytes": 201717,
+    "sha256": "6e1e7a1230e9e134c90fcd9ae697fa24c43ce5b101edca32c1e444e3d6c16c7f",
+    "checked_at": "2026-10-27T16:49:47.004560+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  },
+  {
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/legacy-distribution-rider.html",
+    "http_status": 200,
+    "bytes": 243126,
+    "sha256": "6b48867d174ee4ccce1f802ab925bea7eb56082163aefe834e6d7ca9ed6d43e0",
+    "checked_at": "2026-10-27T16:50:06.341913+00:00",
+    "source_date": null,
+    "source_type": "public_HTML"
+  }
+]

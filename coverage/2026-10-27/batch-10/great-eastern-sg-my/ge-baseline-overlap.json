@@ -1,0 +1,283 @@
+{
+  "comparison_base_commit": "f8aa7620b03ff7994af1beea60277abd5ce9928d",
+  "comparison_base_archive_sha256": "b0581dcb907abbed5668f3f7126a9f44435df5a112a02368c5140eadf416c366",
+  "baseline_product_catalog_separate_from_supplemental_feed": true,
+  "regional_summary": {
+    "SG": {
+      "baseline_product_entries": 314,
+      "supplemental_observations": 923,
+      "same_source_candidate_rows": 17,
+      "same_source_unique_pages": 14,
+      "matched_baseline_entries": 15,
+      "same_source_supplemental_rows": 0
+    },
+    "MY": {
+      "baseline_product_entries": 434,
+      "supplemental_observations": 1334,
+      "same_source_candidate_rows": 13,
+      "same_source_unique_pages": 4,
+      "matched_baseline_entries": 4,
+      "same_source_supplemental_rows": 0
+    }
+  },
+  "same_source_page_matches": [
+    {
+      "observation_id": "SG-GE-observation-2d91cc81a8b6421a5ba8",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/lifetime-boost.html",
+      "baseline_product_entry_ids": [
+        "SG-F-1e5c393df53e451f"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-d2974955e99d984f21aa",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-advantage.html",
+      "baseline_product_entry_ids": [
+        "SG-F-36d3151c36b4bdef"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-0637ed13fc205a5904f7",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-wealth-advantage.html",
+      "baseline_product_entry_ids": [
+        "SG-F-5da334505407a5d1"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-c69a7e83c919616340ec",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/legacy-income.html",
+      "baseline_product_entry_ids": [
+        "SG-F-6a5a5473b056e2ad"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-f9b202f7c049132b4ae7",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/index-income.html",
+      "baseline_product_entry_ids": [
+        "SG-F-aeeadcd5df3ef712"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-f2f9f71601023273123a",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-life-rewards-series.html",
+      "baseline_product_entry_ids": [
+        "SG-F-207ea0c62c16c7f5",
+        "SG-F-e0d8096e6245a0e4"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-07c7637652b091d3c959",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-wealth-legacy.html",
+      "baseline_product_entry_ids": [
+        "SG-F-227dbe5a99e9c49b"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-8d068d20040bd1c88879",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-index-income.html",
+      "baseline_product_entry_ids": [
+        "SG-F-a4a5dd158f663590"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-29ba93d36e83caad5543",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-invest-advantage.html",
+      "baseline_product_entry_ids": [
+        "SG-F-59d34f7b6cca900b"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-2c03f01027273a2cd8a8",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-wealth-multiplier.html",
+      "baseline_product_entry_ids": [
+        "SG-F-90bc9e4018de1676"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-63f2bd875aa7dce7eaeb",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-portfolio.html",
+      "baseline_product_entry_ids": [
+        "SG-F-dfef53af6aea3f8d"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-4aa37ac05729de316efa",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-cashback.html",
+      "baseline_product_entry_ids": [
+        "SG-F-592509e2a0469b2a"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-ee8c2c08d0595113b4cf",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-flexi-goal.html",
+      "baseline_product_entry_ids": [
+        "SG-F-e16454c41b0ed93f"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-04867e4bb8cfec265813",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/travel-insurance/great-travelcare.html",
+      "baseline_product_entry_ids": [
+        "SG-ecd455e7a0338dcd"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-ee99a83c990303c7b3f4",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/lifetime-boost.html",
+      "baseline_product_entry_ids": [
+        "SG-F-1e5c393df53e451f"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-382dc48ea4ecc191e4f8",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-life-rewards-series.html",
+      "baseline_product_entry_ids": [
+        "SG-F-207ea0c62c16c7f5",
+        "SG-F-e0d8096e6245a0e4"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "SG-GE-observation-b8d12cb06ef8cc76207c",
+      "source_url": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-life-rewards-series.html",
+      "baseline_product_entry_ids": [
+        "SG-F-207ea0c62c16c7f5",
+        "SG-F-e0d8096e6245a0e4"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "MY-GE-observation-87cdffbff206ccf5fc74",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-flexi-wealth.html",
+      "baseline_product_entry_ids": [
+        "LABEL:5da5bafd8392401c7bb3bbb5"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "MY-GE-observation-6ce9559941beb53ddda4",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smart-wealth-global.html",
+      "baseline_product_entry_ids": [
+        "LABEL:13e106aaeb2f1a30628611f1"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "MY-GE-observation-5e9ebab370c37db959a8",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-multi-gen-wealth-3.html",
+      "baseline_product_entry_ids": [
+        "LABEL:2c26623968ee58ef73617270",
+        "LABEL:1c503fe4e17a8d93850a1a4d"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "MY-GE-observation-29d5e986d01d486a13be",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-wealth-enhancer.html",
+      "baseline_product_entry_ids": [
+        "LABEL:1c503fe4e17a8d93850a1a4d"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "MY-GE-observation-80597c58a736dcc6cc5d",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smart-wealth-global.html",
+      "baseline_product_entry_ids": [
+        "LABEL:13e106aaeb2f1a30628611f1"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "MY-GE-observation-841a5610302261d37a51",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smart-wealth-global.html",
+      "baseline_product_entry_ids": [
+        "LABEL:13e106aaeb2f1a30628611f1"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "MY-GE-observation-616ae3c05feb7aebf651",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smart-wealth-global.html",
+      "baseline_product_entry_ids": [
+        "LABEL:13e106aaeb2f1a30628611f1"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "MY-GE-observation-f11a5805cd178ac637f1",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-multi-gen-wealth-3.html",
+      "baseline_product_entry_ids": [
+        "LABEL:2c26623968ee58ef73617270",
+        "LABEL:1c503fe4e17a8d93850a1a4d"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "MY-GE-observation-93471238d41ec4b48728",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-multi-gen-wealth-3.html",
+      "baseline_product_entry_ids": [
+        "LABEL:2c26623968ee58ef73617270",
+        "LABEL:1c503fe4e17a8d93850a1a4d"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "MY-GE-observation-df54ae9724f8022a3fb2",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-multi-gen-wealth-3.html",
+      "baseline_product_entry_ids": [
+        "LABEL:2c26623968ee58ef73617270",
+        "LABEL:1c503fe4e17a8d93850a1a4d"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "MY-GE-observation-08d81285c89fd5046ce3",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-wealth-enhancer.html",
+      "baseline_product_entry_ids": [
+        "LABEL:1c503fe4e17a8d93850a1a4d"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "MY-GE-observation-c24288fc20f72e69bec1",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-wealth-enhancer.html",
+      "baseline_product_entry_ids": [
+        "LABEL:1c503fe4e17a8d93850a1a4d"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    },
+    {
+      "observation_id": "MY-GE-observation-1c76060d95e8a42e30dc",
+      "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-wealth-enhancer.html",
+      "baseline_product_entry_ids": [
+        "LABEL:1c503fe4e17a8d93850a1a4d"
+      ],
+      "interpretation": "same source page only; not equivalent product identity and not new SKU credit"
+    }
+  ],
+  "literal_material_url_overlap_counts": {
+    "SG": {
+      "candidate_material_association_matches": 14,
+      "distinct_material_URL_matches": 13
+    },
+    "MY": {
+      "candidate_material_association_matches": 57,
+      "distinct_material_URL_matches": 25
+    }
+  },
+  "interpretation": "Exact source-page and material-URL matches are provenance overlaps, not proven product equivalence, added SKUs, refreshed PDF bytes, renewed review clearance, or permission to merge or republish baseline materials."
+}

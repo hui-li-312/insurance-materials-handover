@@ -1,0 +1,561 @@
+[
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-you.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+    "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+    "literal_href": "/my/en/personal-insurance/our-products/life-insurance/smartprotect-you.html",
+    "source_label": "Learn More"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-health-protector.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+    "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+    "literal_href": "/my/en/personal-insurance/our-products/health-insurance/smart-health-protector.html",
+    "source_label": "Learn More"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/greatshield-active.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+    "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+    "literal_href": "/my/en/personal-insurance/our-products/personal-accident-insurance/greatshield-active.html",
+    "source_label": "Learn More"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance/easimed-major.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+    "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+    "literal_href": "/my/en/personal-insurance/our-products/hospital-surgical-insurance/easimed-major.html",
+    "source_label": "Learn More"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-flexi-wealth.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+    "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+    "literal_href": "/my/en/personal-insurance/our-products/wealth-accumulation/great-flexi-wealth.html",
+    "source_label": "Learn More"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/retirement-plan/great-retirement-pride.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+    "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+    "literal_href": "/my/en/personal-insurance/our-products/retirement-plan/great-retirement-pride.html",
+    "source_label": "Learn More"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series/prestige-heritage-global.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+    "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+    "literal_href": "/my/en/personal-insurance/our-products/prestige-series/prestige-heritage-global.html",
+    "source_label": "Learn More"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/motor-insurance/motor-insurance.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+    "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+    "literal_href": "/my/en/personal-insurance/our-products/motor-insurance/motor-insurance.html",
+    "source_label": "Learn More"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance/great-home-360.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+    "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+    "literal_href": "/my/en/personal-insurance/our-products/home-insurance/great-home-360.html",
+    "source_label": "Learn More"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/travel-insurance/great-voyager.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+    "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+    "literal_href": "/my/en/personal-insurance/our-products/travel-insurance/great-voyager.html",
+    "source_label": "Learn More"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/sports-insurance/easi-golf.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+    "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+    "literal_href": "/my/en/personal-insurance/our-products/sports-insurance/easi-golf.html",
+    "source_label": "Learn More"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/other-insurance/foodstall-insurance.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products.html",
+    "advertising_source_sha256": "0bab992df3c52dc833bec4c23e6da64a88b40ab907ed98d8fc7e2cbc48caa8d1",
+    "literal_href": "/my/en/personal-insurance/our-products/other-insurance/foodstall-insurance.html",
+    "source_label": "Learn More"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/easi-biz-standard-premier.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/overview.html",
+    "advertising_source_sha256": "108975520b945f795200fc0726cf446988135e5194c3dbe7cff03d875970ae29",
+    "literal_href": "/my/en/corporate-solutions/general-insurance/easi-biz-standard-premier.html",
+    "source_label": "here"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/marine-cargo.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/overview.html",
+    "advertising_source_sha256": "108975520b945f795200fc0726cf446988135e5194c3dbe7cff03d875970ae29",
+    "literal_href": "/my/en/corporate-solutions/general-insurance/marine-cargo.html",
+    "source_label": "here"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/easi-health-sme.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/overview.html",
+    "advertising_source_sha256": "108975520b945f795200fc0726cf446988135e5194c3dbe7cff03d875970ae29",
+    "literal_href": "/my/en/corporate-solutions/general-insurance/easi-health-sme.html",
+    "source_label": "here"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/condo-insurance.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/overview.html",
+    "advertising_source_sha256": "108975520b945f795200fc0726cf446988135e5194c3dbe7cff03d875970ae29",
+    "literal_href": "/my/en/corporate-solutions/general-insurance/condo-insurance.html",
+    "source_label": "here"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/foreign-worker-hospitalisation.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/corporate-solutions/general-insurance/overview.html",
+    "advertising_source_sha256": "108975520b945f795200fc0726cf446988135e5194c3dbe7cff03d875970ae29",
+    "literal_href": "/my/en/corporate-solutions/general-insurance/foreign-worker-hospitalisation.html",
+    "source_label": "here"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-you.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance.html",
+    "advertising_source_sha256": "0d554418e61610b6314fad5ace3d1c896a0e5a50a7cf53cba95f7df19688a7eb",
+    "literal_href": "/my/en/personal-insurance/our-products/life-insurance/smartprotect-you.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smart-revive-max.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance.html",
+    "advertising_source_sha256": "0d554418e61610b6314fad5ace3d1c896a0e5a50a7cf53cba95f7df19688a7eb",
+    "literal_href": "/my/en/personal-insurance/our-products/life-insurance/smart-revive-max.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-junior.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance.html",
+    "advertising_source_sha256": "0d554418e61610b6314fad5ace3d1c896a0e5a50a7cf53cba95f7df19688a7eb",
+    "literal_href": "/my/en/personal-insurance/our-products/life-insurance/smartprotect-junior.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance/smartprotect-wealth-plus.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/life-insurance.html",
+    "advertising_source_sha256": "0d554418e61610b6314fad5ace3d1c896a0e5a50a7cf53cba95f7df19688a7eb",
+    "literal_href": "/my/en/personal-insurance/our-products/life-insurance/smartprotect-wealth-plus.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/great-medivalue.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance.html",
+    "advertising_source_sha256": "066e70d8b9c68754918542626a140085a28c661f7388978afcfb7a128c7ded16",
+    "literal_href": "/my/en/personal-insurance/our-products/health-insurance/great-medivalue.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-health-protector.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance.html",
+    "advertising_source_sha256": "066e70d8b9c68754918542626a140085a28c661f7388978afcfb7a128c7ded16",
+    "literal_href": "/my/en/personal-insurance/our-products/health-insurance/smart-health-protector.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-multi-critical-care.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance.html",
+    "advertising_source_sha256": "066e70d8b9c68754918542626a140085a28c661f7388978afcfb7a128c7ded16",
+    "literal_href": "/my/en/personal-insurance/our-products/health-insurance/smart-multi-critical-care.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance/smart-baby-shield-plus.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/health-insurance.html",
+    "advertising_source_sha256": "066e70d8b9c68754918542626a140085a28c661f7388978afcfb7a128c7ded16",
+    "literal_href": "/my/en/personal-insurance/our-products/health-insurance/smart-baby-shield-plus.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/greatshield-active.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance.html",
+    "advertising_source_sha256": "a8388437cc606a3fc093e5572b61111850e2e0403cee09e4395f242a4f639760",
+    "literal_href": "/my/en/personal-insurance/our-products/personal-accident-insurance/greatshield-active.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/great-tenang.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance.html",
+    "advertising_source_sha256": "a8388437cc606a3fc093e5572b61111850e2e0403cee09e4395f242a4f639760",
+    "literal_href": "/my/en/personal-insurance/our-products/personal-accident-insurance/great-tenang.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance/easi-shield.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/personal-accident-insurance.html",
+    "advertising_source_sha256": "a8388437cc606a3fc093e5572b61111850e2e0403cee09e4395f242a4f639760",
+    "literal_href": "/my/en/personal-insurance/our-products/personal-accident-insurance/easi-shield.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance/great-medcare.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance.html",
+    "advertising_source_sha256": "f43f42e5b0553bbd8972cb7c2d4f5fa792d82a66cdbc3277fdf69eb77f5c5494",
+    "literal_href": "/my/en/personal-insurance/our-products/hospital-surgical-insurance/great-medcare.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance/easi-healthcare.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance.html",
+    "advertising_source_sha256": "f43f42e5b0553bbd8972cb7c2d4f5fa792d82a66cdbc3277fdf69eb77f5c5494",
+    "literal_href": "/my/en/personal-insurance/our-products/hospital-surgical-insurance/easi-healthcare.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance/easimed-active.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/hospital-surgical-insurance.html",
+    "advertising_source_sha256": "f43f42e5b0553bbd8972cb7c2d4f5fa792d82a66cdbc3277fdf69eb77f5c5494",
+    "literal_href": "/my/en/personal-insurance/our-products/hospital-surgical-insurance/easimed-active.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/smart-wealth-global.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation.html",
+    "advertising_source_sha256": "a18be1b6ce68f514e59e75b236db9571b9e8d70c73d67557fc95507ae68aa8d9",
+    "literal_href": "/my/en/personal-insurance/our-products/wealth-accumulation/smart-wealth-global.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-multi-gen-wealth-3.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation.html",
+    "advertising_source_sha256": "a18be1b6ce68f514e59e75b236db9571b9e8d70c73d67557fc95507ae68aa8d9",
+    "literal_href": "/my/en/personal-insurance/our-products/wealth-accumulation/great-multi-gen-wealth-3.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-wealth-enhancer.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation.html",
+    "advertising_source_sha256": "a18be1b6ce68f514e59e75b236db9571b9e8d70c73d67557fc95507ae68aa8d9",
+    "literal_href": "/my/en/personal-insurance/our-products/wealth-accumulation/great-wealth-enhancer.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation/great-flexi-wealth.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/wealth-accumulation.html",
+    "advertising_source_sha256": "a18be1b6ce68f514e59e75b236db9571b9e8d70c73d67557fc95507ae68aa8d9",
+    "literal_href": "/my/en/personal-insurance/our-products/wealth-accumulation/great-flexi-wealth.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/retirement-plan/great-retirement-pride.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/retirement-plan.html",
+    "advertising_source_sha256": "98fc2c651b9074c67a0d138b218120f21ef5805a2ea4c1b4d1f8502606bd8a82",
+    "literal_href": "/my/en/personal-insurance/our-products/retirement-plan/great-retirement-pride.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/travel-insurance/travel-for-more.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/travel-insurance.html",
+    "advertising_source_sha256": "c84d9954351e2f0b80f1eabf88dc1f84b756719539f6db16c9c4466ca9389eb1",
+    "literal_href": "/my/en/personal-insurance/our-products/travel-insurance/travel-for-more.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/travel-insurance/great-voyager.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/travel-insurance.html",
+    "advertising_source_sha256": "c84d9954351e2f0b80f1eabf88dc1f84b756719539f6db16c9c4466ca9389eb1",
+    "literal_href": "/my/en/personal-insurance/our-products/travel-insurance/great-voyager.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance/great-home-360.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance.html",
+    "advertising_source_sha256": "911aa8994b63131035f084762908240bf29c3709301aae7051d976716c5678f5",
+    "literal_href": "/my/en/personal-insurance/our-products/home-insurance/great-home-360.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance/great-shield-home.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance.html",
+    "advertising_source_sha256": "911aa8994b63131035f084762908240bf29c3709301aae7051d976716c5678f5",
+    "literal_href": "/my/en/personal-insurance/our-products/home-insurance/great-shield-home.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance/easi-home.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/home-insurance.html",
+    "advertising_source_sha256": "911aa8994b63131035f084762908240bf29c3709301aae7051d976716c5678f5",
+    "literal_href": "/my/en/personal-insurance/our-products/home-insurance/easi-home.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series/prestige-heritage-global.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series.html",
+    "advertising_source_sha256": "77ff6132563490465b3d565f33d6cb496977287ae51824cac88115f33652e61f",
+    "literal_href": "/my/en/personal-insurance/our-products/prestige-series/prestige-heritage-global.html",
+    "source_label": "Learn more"
+  },
+  {
+    "region": "MY",
+    "url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series/prestige-wealth-global.html",
+    "method": "GET",
+    "possible_source_issuer_ids": [
+      "MY-own-456adbea3202c8f1",
+      "MY-own-054d314f45c6814e"
+    ],
+    "source_url": "https://www.greateasternlife.com/my/en/personal-insurance/our-products/prestige-series.html",
+    "advertising_source_sha256": "77ff6132563490465b3d565f33d6cb496977287ae51824cac88115f33652e61f",
+    "literal_href": "/my/en/personal-insurance/our-products/prestige-series/prestige-wealth-global.html",
+    "source_label": "Learn more"
+  }
+]
