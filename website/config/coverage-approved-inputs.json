@@ -415,6 +415,471 @@
     "sha256": "c90fa5df49fa7e7dab1511b55ba2561249e355348bded783f3fff6e01067275a"
   },
   {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/README.md",
+    "bytes": 3469,
+    "sha256": "e752d82815f084023ac1e692814d8b82b9fce61938c46e0dc6ab84b386c6fbb5"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/audit-summary.json",
+    "bytes": 2244,
+    "sha256": "2b7bccecd789db623d7190c9446efb95b21b9af04e253c62471f5c3fd6fa4db9"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/batch-status.json",
+    "bytes": 853,
+    "sha256": "df76f220f34bb5f3c53acb24efaaa08a8643f3e37fe9ae0265037961ede1410f"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/documents-california-hk.jsonl",
+    "bytes": 50999,
+    "sha256": "aea3464a282b8c911f9c4417254111cbe586cae082217a2d4c8a005d22f65cd2"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/documents-chonghing-hk.jsonl",
+    "bytes": 124267,
+    "sha256": "3266b5dc4b3babe380c618025ceee77c1b02c05d3dd89bd4afdb462fb6193a44"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/documents-pacific-general-hk.jsonl",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/documents-tugu-hk.jsonl",
+    "bytes": 77545,
+    "sha256": "5e7cf1eec99f28dad7b99de5c49b7947dbb1d04e1997c260602c4e4e8c4354a0"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/issuer-origin-evidence.json",
+    "bytes": 4406,
+    "sha256": "240d515aac48a8ae95024383f6f0d4bc1d38c6ce6f922f834f064eebb194aa98"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/issuer-specific-status.json",
+    "bytes": 6551,
+    "sha256": "c3a7a45aa57d33601cc44d3a2b2946b7ec8e7941f0b2dc90b1fc7094deb921b7"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/manifest.json",
+    "bytes": 2587,
+    "sha256": "4dc273b3df99f53083f085a11e811fe93911fc420ce15b6287ebbcbedf0ccdc6"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/merge-map.json",
+    "bytes": 2952,
+    "sha256": "b3499dbc2cf7ce91c7e1cd89b93c18dcea36f1862ef22db733b79dd50e4461ae"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/products-california-hk.jsonl",
+    "bytes": 81841,
+    "sha256": "6a25668b5fccb2321d74e9b33d97eb5937875411c1efb041c705d45b6537da5e"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/products-chonghing-hk.jsonl",
+    "bytes": 96570,
+    "sha256": "d0a5e814f040cecf413f31885162b48a65f28cd30364cf628d19f02451f8602e"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/products-pacific-general-hk.jsonl",
+    "bytes": 20674,
+    "sha256": "0fde7a45eb30f0f70ecd816a7346478ee05945d54c721592a31b26cde9148e64"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/products-tugu-hk.jsonl",
+    "bytes": 47301,
+    "sha256": "0617f8fd054deb45ded3ac039ba27534a3743570c698547a95bab4be65f26baf"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hk-four-general/sources.json",
+    "bytes": 43116,
+    "sha256": "97a30b2ae1092b55b41186371dd746e0518f22aa008ccb10a3d20ce64a23f8d4"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hongleong-my/README.md",
+    "bytes": 1520,
+    "sha256": "83de7519bbf33b9cf2c7a7fd075fc17b8a60c2ba24dd506a88828b9c2a1e0588"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hongleong-my/baseline-reconciliation.json",
+    "bytes": 833,
+    "sha256": "f1b5ca32a0d0c7032438a3bb652abdf6dbd718063a0c7fed44a42cc127417d3c"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hongleong-my/coverage-summary.json",
+    "bytes": 2256,
+    "sha256": "cccab9c2b4e90bd84f09dc8a8413fbaa12eaf117996880ccaef29cad110a5f35"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hongleong-my/documents-hla-disclosure-directory.jsonl",
+    "bytes": 411830,
+    "sha256": "a7e68ea54c13002c4904de4a170578727af8097a1beff609140994eba1950656"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hongleong-my/issuer-origin-evidence.json",
+    "bytes": 1675,
+    "sha256": "aeb395ae2cad40e30f99498aadfd478cf7bc953ce55aeabc1dba5d7066868150"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hongleong-my/manifest.json",
+    "bytes": 1198,
+    "sha256": "3371d0db8df1d8a02997af52e6df1c792c7d02912aaf8cddc7df668ab2ab85b5"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hongleong-my/products-hongleong-my.jsonl",
+    "bytes": 375661,
+    "sha256": "a9faa1fcb28abfd07a3f9638b5390c3da32ef75553503db2961b72df8c8c257f"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/hongleong-my/sources.json",
+    "bytes": 24067,
+    "sha256": "4390220fdf4375492421f589d90ab32bf8998ddbd70ee4c9de48de564a647b09"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/id-four/README.md",
+    "bytes": 3110,
+    "sha256": "44f52f497c38d94e2c9ca06a0308d9a6b777ec4feed83777b8d1ac4e4f380c87"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/id-four/audit-summary.json",
+    "bytes": 2765,
+    "sha256": "bb4311fef4271eb02e7792767642b995ca965ec919e969e5c25f6f958fedad20"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/id-four/catalog-mapping.jsonl",
+    "bytes": 10317,
+    "sha256": "3ee31e738f27d57cc9ace73512cefed75f7505ab8b6e8046528e4332459a2ed5"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/id-four/document-catalog-links.jsonl",
+    "bytes": 11062,
+    "sha256": "07be14de3b36186cf32f5c1dad070c43b0623f5d6473c43121dae7d088d63578"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/id-four/freeze-manifest.json",
+    "bytes": 1977,
+    "sha256": "469e2055f6a6efce10c6fb91142701609cf070c1dad65167f424ee4967719916"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/id-four/image-candidates.jsonl",
+    "bytes": 3878,
+    "sha256": "f92bd399843bb61062a0eee548a2358ac089991ddd59b0ff0e088bdf046421cf"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/id-four/issuer-frontier.jsonl",
+    "bytes": 6250,
+    "sha256": "a3c442c81794c141c1736c3c335b59f0acdb296b96ded18d208a491700c198ed"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/id-four/pension-material-links.jsonl",
+    "bytes": 4044,
+    "sha256": "010825dc0ecc4654d7910a29133d841e3dbdbb4150f8f2327f61bfacc63fce27"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/id-four/pension-programs.jsonl",
+    "bytes": 1448,
+    "sha256": "6c53884c0dae52fa6bf6d4b0c8fe17ec570445d410698e6c09376ed9b3b7218c"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/id-four/products.jsonl",
+    "bytes": 121339,
+    "sha256": "2dbc197aacabf3a0950a7c0e33dce7f054e65cd04ec092ea4743543d1f3e89d4"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/id-four/run-status.json",
+    "bytes": 1609,
+    "sha256": "e9de03b2459200df9e2d586134a24ff10dc36798ac3e9fbcc73d599e9b728472"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/id-four/sources.json",
+    "bytes": 14284,
+    "sha256": "10653c2a45f202c8b34d44f1bf1ad911573d3f566d1bdc4d997edaa543e867ed"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/id-four/visited-pages.jsonl",
+    "bytes": 17680,
+    "sha256": "c3095b9e664da75b2411e6bb2823b105f114de7da7a9c45e3ffa84ec3b10c756"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/README.md",
+    "bytes": 1621,
+    "sha256": "020c6f9c28899a87b1be865455b25837fc1bc5c90c3260e3c209b120049c4508"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/coverage-classes.jsonl",
+    "bytes": 4338,
+    "sha256": "0a6ea96181a0fb4cd23dc51d9a2ee20b68d9a74c047d9741946036390bb2649f"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/coverage-gaps.json",
+    "bytes": 1725,
+    "sha256": "1afa77306b6091f98510a32debd1bad609366772ea32e0cb66d3667d0e713aba"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/coverage-status.json",
+    "bytes": 1293,
+    "sha256": "7a57d6d97b1973cbba9d0d40abd4c35de4f599bf85b487b78a0488b4bb5bbd14"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/distributed-coverage-classes.jsonl",
+    "bytes": 17534,
+    "sha256": "f11c018484ee18df428dd40e8125a4995a9ce4748186aba4a4ed8fb473515df4"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/distributed-product-references.jsonl",
+    "bytes": 42857,
+    "sha256": "4e2276b7817f44be9206942f74b49b83e8c4f042a63c7b50a61afab9934b71ae"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/distributed-unnamed-references.jsonl",
+    "bytes": 24076,
+    "sha256": "27cd317ab8c7cbead67fea661db2fddbfe791139bfe5e1626db6c354e3d4cb9d"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/freeze-manifest.json",
+    "bytes": 1991,
+    "sha256": "16467f04b2ddcc9b857dc77e45081d9536393010b95086456495981414e11311"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/plan-and-design-references.jsonl",
+    "bytes": 2865,
+    "sha256": "29859fc6f286d34b1cf3255017afa6a4f79e32fb6ab8da2dfb508e41ba4dd3b1"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/products.jsonl",
+    "bytes": 71831,
+    "sha256": "a8125697672fd61579e885083ac0c07137b72b73e406475d36f688d3e51e706d"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/source-identity.json",
+    "bytes": 2993,
+    "sha256": "22a06f230982b153fb9d7969f4c3435c74ce8c646f790df0a72b5f1b1692bace"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/source-visits.jsonl",
+    "bytes": 8994,
+    "sha256": "b1e8ccc4612317499c2dafab93396627726baa6fb5e461e5b259d4ea79a37778"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-chinalife/README.md",
+    "bytes": 1236,
+    "sha256": "ddf5b5a7c1ff92ea286e241a9016c151187c35c2330ed66fdb10e3c6a88e7f8c"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-chinalife/baseline-reconciliation.json",
+    "bytes": 488,
+    "sha256": "2eded33c0ad440778d8fa0eec69e3e0253e0dc0e811615422e8fa40f16fa6749"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-chinalife/comparison-only-aliases.json",
+    "bytes": 400,
+    "sha256": "3b196498824ce4868ae024f1a2cc1343c784fcc63644e8d38efe62d0a0ec628b"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-chinalife/corrections.json",
+    "bytes": 327,
+    "sha256": "93cacc013519021dd3cd8522310c8dc1f3b5079196f27053d5a3be90eae93dfc"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-chinalife/coverage-summary.json",
+    "bytes": 4361,
+    "sha256": "be0b336754d52d33e14dacda8ca06da386fdd1c4b062e164065d69795e128e10"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-chinalife/final-link-reconciliation.json",
+    "bytes": 423,
+    "sha256": "463a49bdf44831d4aabbb1beaac084bb2c24f535575c7e2721a23ede7d0bef83"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-chinalife/issuer-origin-evidence.json",
+    "bytes": 890,
+    "sha256": "eb39e95e8e93cecc2199419146acc162e23529cc3efbdc14172138e3b25f5faa"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-chinalife/manifest.json",
+    "bytes": 1781,
+    "sha256": "7e253cb2f5768a5dfc80a9911be620649919a5cd0f36f7d224ec5463a037b669"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-chinalife/products-sg-chinalife.jsonl",
+    "bytes": 121260,
+    "sha256": "5979a6622634172c3879e9bcd1001ccca47668c5a16aaa77dca446274789e8cf"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-chinalife/source-attempts.json",
+    "bytes": 9916,
+    "sha256": "88bec111f303d71bfceb543f456264cfcbd3a0613eabb99bd581bf716bc2e324"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-chinalife/sources.json",
+    "bytes": 15905,
+    "sha256": "fd99061ebc97840c20639826834a9a65c05ea88c7e50efad8376dad0dbdf7cb8"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-hlas/README.md",
+    "bytes": 1228,
+    "sha256": "2c72b1941522ca6f79664400ee77e36feb7aab35240234bc0d13cce084f0ec66"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-hlas/baseline-reconciliation.json",
+    "bytes": 489,
+    "sha256": "97a96753990d5b1f22ebd5339a71e6e29c3ad5cdf76dfb77e1fe4698e2d742a6"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-hlas/corrections.json",
+    "bytes": 1316,
+    "sha256": "d308918e3bd830ffc4fad6cd804078e9812ca2b1417a421e19e11d4cc4bccd63"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-hlas/coverage-summary.json",
+    "bytes": 4790,
+    "sha256": "3d7b167ca8f9ef68ae040cac079f091da6408964567bb1d221fd403d816d1624"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-hlas/issuer-origin-evidence.json",
+    "bytes": 1434,
+    "sha256": "72c44188bbaf4a4fc4a2c2490d3890dd34b9e277b2bf2e36504cd0c98b26d7ae"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-hlas/manifest.json",
+    "bytes": 1610,
+    "sha256": "967d01c52d1bc88a6a236e1c37c323311a0e351472e69d17c08659c6676a9e0b"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-hlas/products-sg-hlas.jsonl",
+    "bytes": 168351,
+    "sha256": "3afe81bc106d1c8023104025aa101d4384778aa53df814a3e8585d026d36d0c2"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-hlas/source-attempts.json",
+    "bytes": 11937,
+    "sha256": "b21df176f0d1217982ec02de244f9ed6491ba844eed6aa00f7fac119900392d6"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-hlas/sources.json",
+    "bytes": 11135,
+    "sha256": "9eed962683ae78954f6d65886620c7b6977f706a2666ffaac6d0b71ad8006826"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-hlas/untraversed-scope.json",
+    "bytes": 1228,
+    "sha256": "9fc49e407fe003b29bfa7843f1e95452184b77ccbac7d727c8370dce97e08cad"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-uoi/README.md",
+    "bytes": 2378,
+    "sha256": "a512c31ed4c095874651996718d9d246fc7f72359e92ab99cbaa016a2da7637d"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-uoi/documents-sg-uoi.jsonl",
+    "bytes": 28953,
+    "sha256": "139b8fd5e443da560930a67d465f651a4eecb6987d3b7589ecea9b4a7e15825e"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-uoi/finite-queues.json",
+    "bytes": 6742,
+    "sha256": "717467ff2f255c0e4e30b011ef0924aa671fd9d6c7d3c8d84495e80dda82cecf"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-uoi/issuer-origin-evidence.json",
+    "bytes": 738,
+    "sha256": "6db8e5e092c9038e4da3bd9fa24707201f94e4a41f7ce39ff94cec152a72d7eb"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-uoi/manifest.json",
+    "bytes": 1667,
+    "sha256": "fc7f50f9ac1dfbee90c7c2261855dc0e48de37d7a14b5e1b24827d6d385360e3"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-uoi/merge-map.json",
+    "bytes": 509,
+    "sha256": "ce1d450f4cd7b08c8802cc310646dbdb968e77ddff834ca843348240a7afe085"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-uoi/products-sg-uoi.jsonl",
+    "bytes": 56022,
+    "sha256": "56967737d6a6482b7a075996aa50ccac25b9bdb6795eb34095da48a0425d0bc3"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-uoi/publication-safety-gate.json",
+    "bytes": 341,
+    "sha256": "69d87eb5c72ebe2751a5560832f9af5ca81fd107a6fa16e884c0c7179dc884dc"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-uoi/sg-uoi-traversal.json",
+    "bytes": 6458,
+    "sha256": "2551c62c91ef40967c50ecc2137c00902282866bdbab926b13c6ad48045e70e1"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-uoi/source-attempts.json",
+    "bytes": 4114,
+    "sha256": "07d77e126c72715c38c656a75ac4ed1ac6ac3a819103d3d62ccd447808a46269"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/sg-uoi/sources.json",
+    "bytes": 5875,
+    "sha256": "1f43acaee357fccb6f73149c06d8c3f9d784276f53882f6adf1bd263cfe55635"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/thailife-batch-v2/README.md",
+    "bytes": 1300,
+    "sha256": "df9a1296119311f70b9e3676dfcb178f02461bff9dc86d47ababd842532b3352"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/thailife-batch-v2/catalog-cards.jsonl",
+    "bytes": 88775,
+    "sha256": "b3b9bc649abc3d12c79ab40a35dc642fbd20b3b3b2a8e112ef738130ceaa6049"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/thailife-batch-v2/catalog-sources.json",
+    "bytes": 4448,
+    "sha256": "d1e2e97e6c8214d05a9935e717689c123c5fad6e79918ec1927a789f958eed55"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/thailife-batch-v2/coverage-gaps.json",
+    "bytes": 644,
+    "sha256": "779d1f85caea737ea2a9e2cf47c8715f7614714496a3aaecabe1577f3428173f"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/thailife-batch-v2/coverage-status.json",
+    "bytes": 1105,
+    "sha256": "ba3befb42a6a8dc6267f83794074266b9367964985f35baa96da23b8cb5b9185"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/thailife-batch-v2/freeze-manifest.json",
+    "bytes": 1464,
+    "sha256": "b3224f09e4c60b224f6b071e831d5f19b6f0977fd82bfb28031309317cfd7306"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/thailife-batch-v2/products.jsonl",
+    "bytes": 157195,
+    "sha256": "06bb113a1a4d92207d0d81ddc5bccf346cc7881bfb93f30fe99715911c1a50cf"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/thailife-batch-v2/source-identity.json",
+    "bytes": 2005,
+    "sha256": "1cece5250e7ca4d03d0d5e9b76bfe2b8b3c34ecaebae9e12445694544ec5b617"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/thailife-batch-v2/source-visits.jsonl",
+    "bytes": 80526,
+    "sha256": "13af48f5d6aaecc96e5c6261ebba8ee89e111db5b06f582c0cd4422a2429ece7"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/tugu-html-review/README.md",
+    "bytes": 1431,
+    "sha256": "ad6216578dcd59aa1c194c96b061b69e2262fe27b979637e31c0de6c53da7f2a"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/tugu-html-review/document-reviews.json",
+    "bytes": 58243,
+    "sha256": "9b5de2bc7337b7cf8e9da2d5066a07a53e3d722c8ec929e3e4cebe79bb63e903"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-12/tugu-html-review/manifest.json",
+    "bytes": 408,
+    "sha256": "5385b0f8dcbeefdcfaba653f1e77c74d580f42560ad002f5be7e0e627f937d41"
+  },
+  {
     "path": "coverage/2026-10-27/batch-2/bn-kh/README.md",
     "bytes": 7258,
     "sha256": "6985e84c1762923448617920021a2d1aefbaa42145487f49808c642122267fe7"
@@ -2426,8 +2891,8 @@
   },
   {
     "path": "coverage/LATEST.json",
-    "bytes": 23501,
-    "sha256": "3316c62ef943eb571622b52b50312808e3c00340557ffc2e021b457bffd65569"
+    "bytes": 25579,
+    "sha256": "80567d57716971f039f2a61149e3fe20bf21551f97e00926c0348d0e816169a4"
   },
   {
     "path": "coverage/README.md",
