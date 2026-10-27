@@ -1,0 +1,402 @@
+{
+  "root": [
+    {
+      "url": "https://www.generali.com.my/business",
+      "label": "Business",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/medical-health/onemedic-plus",
+      "label": "OneMedic Plus",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/medical-health/smartcare-optimum-plus",
+      "label": "SmartCare Optimum Plus",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/medical-health/multi-medic",
+      "label": "Multi Medic",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/medical-health/multi-medi-plus",
+      "label": "Multi Medi-PLUS",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/medical-health/multi-medical-protector",
+      "label": "Multi Medical Protector",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/medical-health/medic-101",
+      "label": "Medic 101",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/medical-health/smartcancer-cash",
+      "label": "SmartCancer Cash",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/medical-health",
+      "label": "View All",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/motor-home/private-car-insurance-add-ons",
+      "label": "Private Car Insurance & Available Add Ons",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/motor-home/motorcycle",
+      "label": "Motorcycle",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/motor-home/multi-drive-protector",
+      "label": "Multi Drive Protector",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/motor-home/home-protector-enhanced",
+      "label": "Home Protector Enhanced",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/savings-life-protection/wealth-creator-premier",
+      "label": "Wealth Creator Premier",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/savings-life-protection/wealth-creator",
+      "label": "Wealth Creator",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/savings-life-protection/genwealth",
+      "label": "GenWealth",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/savings-life-protection/life-80",
+      "label": "Life 80",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/savings-life-protection/secure-shield",
+      "label": "Secure Shield",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/savings-life-protection/assure-2",
+      "label": "Wealth Protect Assure 2",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/savings-life-protection/elife-protector",
+      "label": "eLife Protector+",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/savings-life-protection",
+      "label": "View All",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/travel-personal-accident/oversea-travel-insurance",
+      "label": "Oversea Travel Insurance",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/travel-personal-accident/domestic-travel-insurance",
+      "label": "Domestic Travel Insurance",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/travel-personal-accident/smartbusiness-traveller",
+      "label": "SmartBusiness Traveller",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/travel-personal-accident/gen-sinar",
+      "label": "Gen Sinar Personal Accident",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/travel-personal-accident/smartcare-vip",
+      "label": "SmartCare VIP",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/travel-personal-accident/smartpa-enhanced",
+      "label": "SmartPA Enhanced",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/travel-personal-accident/the-gladiator-enhanced",
+      "label": "The Gladiator Enhanced",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/travel-personal-accident/multi-lucky-personal-accident",
+      "label": "Multi Lucky",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/tailor-made-business-insurance/fire-risk-insurance",
+      "label": "ProductComplimentary Green Material EnhancementComplimentary Green Material EnhancementCover the additional cost incurred to repair or replace the damaged property with green technology or environmentally friendly materials in the event of a fire and insured perils.Learn More",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/legal-notice",
+      "label": "Legal Notice",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/sitemap",
+      "label": "Site Map",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/download-centre",
+      "label": "Download Centre",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read"
+    }
+  ],
+  "detail_expansion": [
+    {
+      "url": "https://www.generali.com.my/sme-employee-benefits-packages/medic-sme",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Medic SME",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/sme-employee-benefits-packages/sme-life",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "SME Life",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/sme-employee-benefits-packages/smart-sme-plus",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Smart SME Plus",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/tailor-made-business-insurance/electronic-equipment",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Electronic Equipment",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/tailor-made-business-insurance/burglary-insurance",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Burglary Insurance",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/tailor-made-business-insurance/public-liability-insurance",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Public Liability Insurance",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/tailor-made-business-insurance/marine-cargo",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Marine Cargo",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/employee-benefits/group-personal-accident",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Group Personal Accident",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/employee-benefits/group-hospital-and-surgical",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Group Hospital and Surgical",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/employee-benefits/biz-pa",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Biz PA",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/employee-benefits/student-protection-pa",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Student Protection PA",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/global-corporate-and-commercial/global-corporate-and-commercial",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Global Corporate and Commercial",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/tailor-made-business-insurance/employers-liability-insurance",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Employers Liability InsuranceLearn More",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/tailor-made-business-insurance/fidelity-guarantee-insurance",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Fidelity Guarantee InsuranceLearn More",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/tailor-made-business-insurance/goods-in-transit",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Goods in TransitLearn More",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/tailor-made-business-insurance/marine-hull",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Marine HullLearn More",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/tailor-made-business-insurance/multi-biz-protector-enhanced",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Multi Biz Protector EnhancedLearn More",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/tailor-made-business-insurance/other-insurances",
+      "source_url": "https://www.generali.com.my/business",
+      "label": "Other InsurancesLearn More",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/medical-health/110-ci-assure",
+      "source_url": "https://www.generali.com.my/medical-health",
+      "label": "learn more",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/medical-health/360-cancer-assure",
+      "source_url": "https://www.generali.com.my/medical-health",
+      "label": "learn more",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/medical-health/criticover",
+      "source_url": "https://www.generali.com.my/medical-health",
+      "label": "learn more",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/medical-health/ecritical-early-care",
+      "source_url": "https://www.generali.com.my/medical-health",
+      "label": "learn more",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/medical-health/emedic-plus",
+      "source_url": "https://www.generali.com.my/medical-health",
+      "label": "learn more",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/medical-health/international-exclusive",
+      "source_url": "https://www.generali.com.my/medical-health",
+      "label": "learn more",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/savings-life-protection/gencreator",
+      "source_url": "https://www.generali.com.my/savings-life-protection",
+      "label": "Learn more",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/travel-personal-accident/gen-sinar-bm",
+      "source_url": "https://www.generali.com.my/travel-personal-accident/gen-sinar",
+      "label": "BM",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/travel-personal-accident/gen-pa-zenprotect",
+      "source_url": "https://www.generali.com.my/sitemap",
+      "label": "Gen PA ZenProtect",
+      "status": "read"
+    },
+    {
+      "url": "https://www.generali.com.my/travel-personal-accident/multi-pa-protector",
+      "source_url": "https://www.generali.com.my/sitemap",
+      "label": "Multi PA-Protector",
+      "status": "read"
+    }
+  ],
+  "final_visible_link_delta": [],
+  "download_directory": [
+    {
+      "url": "https://www.generali.com.my/download-centre",
+      "source_url": "https://www.generali.com.my/",
+      "status": "read",
+      "checked_at": "2026-10-27T11:51:09.501042+00:00",
+      "row_count": 20,
+      "source_sha256": "dd4347b3fe35ea0f45c3311b166d9fe0401ed4fec632df30e64fe3fed41b6a6a",
+      "next_page_url": "https://www.generali.com.my/download-centre?18f0c954_page=2"
+    },
+    {
+      "url": "https://www.generali.com.my/download-centre?18f0c954_page=2",
+      "source_url": "https://www.generali.com.my/download-centre",
+      "status": "read",
+      "checked_at": "2026-10-27T12:05:17.082493+00:00",
+      "row_count": 20,
+      "source_sha256": "acb0b3305c36f53b4cc57abab2a8c401f2fb132a2915cd179f6e1be2cbd703c7",
+      "next_page_url": "https://www.generali.com.my/download-centre?18f0c954_page=3"
+    },
+    {
+      "url": "https://www.generali.com.my/download-centre?18f0c954_page=3",
+      "source_url": "https://www.generali.com.my/download-centre?18f0c954_page=2",
+      "status": "read",
+      "checked_at": "2026-10-27T12:05:22.473770+00:00",
+      "row_count": 6,
+      "source_sha256": "9c4f0c5a83714b3e93f3468a35be555cdcf9b5c48dea04295acf48f3ca8cd454",
+      "next_page_url": null
+    }
+  ]
+}

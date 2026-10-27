@@ -1,0 +1,61 @@
+{
+  "created_at": "2026-10-27T12:11:00.556108+00:00",
+  "status": "immutable_candidate_content_QA_pending",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 2633,
+      "sha256": "a0b646322e86f3f8e9f9c07dadd5300f78b97aebc012a3ae441e90002dd41b1a"
+    },
+    {
+      "file": "documents-generali-my.jsonl",
+      "bytes": 109378,
+      "sha256": "f6fb1626a9c11c6bb12dc14937b88ebc7ad0b57e6c8178e2775daab2b2a24f06"
+    },
+    {
+      "file": "finite-queues.json",
+      "bytes": 14505,
+      "sha256": "34288d2188f4b9a75f28959297f7cdf9b905e585ebfae335a796d776a1264eae"
+    },
+    {
+      "file": "generali-my-traversal.json",
+      "bytes": 2953,
+      "sha256": "0f63d621027efbe6e537d1b6c29a6ac13aa3f318525d7212ded750791514b586"
+    },
+    {
+      "file": "issuer-origin-evidence.json",
+      "bytes": 646,
+      "sha256": "8832e45eb681fcb6f4486af0483dc1d589fd91ddd933d502cb56ca8a75ab1e5c"
+    },
+    {
+      "file": "issuer-specific-status.json",
+      "bytes": 1667,
+      "sha256": "bac844da6315e51f5f8e2c50d1f8456e2042769bab09b6ff12d8545602d65911"
+    },
+    {
+      "file": "merge-map.json",
+      "bytes": 794,
+      "sha256": "b2ef8a7cac3bb13dacb1eabf944042d56871af274abb29587230415113197819"
+    },
+    {
+      "file": "products-generali-my.jsonl",
+      "bytes": 341261,
+      "sha256": "f7c9c8933ed33b4b467a9e7e87cc5e8e7da67aad7d4c72c7ff32891362e2753b"
+    },
+    {
+      "file": "publication-safety-gate.json",
+      "bytes": 301,
+      "sha256": "7dc2f13947970fec94f1aa91b43fcb5d2c763178679356fc028f8e7367c53252"
+    },
+    {
+      "file": "role-visibility-audit.json",
+      "bytes": 17769,
+      "sha256": "45e3b48b68c3a8bdb1132818e80639c6a4d4917498225db20cbbb929b8830c45"
+    },
+    {
+      "file": "sources.json",
+      "bytes": 22116,
+      "sha256": "e33a230ddff1e61ceb0b83319dc55e2500a80b1ce18d695d176fed09d46eabb8"
+    }
+  ]
+}

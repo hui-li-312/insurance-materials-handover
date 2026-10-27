@@ -1,0 +1,569 @@
+[
+  {
+    "url": "https://www.generali.com.my/business",
+    "checked_at": "2026-10-27T11:48:36.858693+00:00",
+    "http_status": 200,
+    "bytes": 74297,
+    "sha256": "135f4442d6b4a8cf719fe550382af58696b1e3f4d2795b5f5cfe3f9e886bd66f",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/onemedic-plus",
+    "checked_at": "2026-10-27T11:48:44.029884+00:00",
+    "http_status": 200,
+    "bytes": 165374,
+    "sha256": "682f2ef83a7c72ce0429429e6c2c51d124af840bc6faeaeef393a10ab524c1e8",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/smartcare-optimum-plus",
+    "checked_at": "2026-10-27T11:48:48.593218+00:00",
+    "http_status": 200,
+    "bytes": 166913,
+    "sha256": "78f3145758892d8ffd965c33d95ef7ff99c2baae1d1dfb7e61e6927522b02dc4",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/multi-medic",
+    "checked_at": "2026-10-27T11:48:53.007407+00:00",
+    "http_status": 200,
+    "bytes": 167725,
+    "sha256": "0ae0534206d190dd0a21c61879034968f2b9a9d36ff276d4cb32d5664f0e22c4",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/multi-medi-plus",
+    "checked_at": "2026-10-27T11:48:57.462793+00:00",
+    "http_status": 200,
+    "bytes": 159657,
+    "sha256": "ab1fbb0e82559b48d063273db81b90e047a8a4a5134d6a5de605a14c6889a109",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/multi-medical-protector",
+    "checked_at": "2026-10-27T11:49:01.623755+00:00",
+    "http_status": 200,
+    "bytes": 160000,
+    "sha256": "3bbccec21cf8deebc7c4ee4509e91ebe7ce6d8d916ee65eba88435a47d0a1e27",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/medic-101",
+    "checked_at": "2026-10-27T11:49:07.417510+00:00",
+    "http_status": 200,
+    "bytes": 159421,
+    "sha256": "f345a76e57c988495ae362f9f4926cba08998998da08f11f6a94a460a9cc6b0e",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/smartcancer-cash",
+    "checked_at": "2026-10-27T11:49:10.840022+00:00",
+    "http_status": 200,
+    "bytes": 162749,
+    "sha256": "455c96c0d594ea9a51501c24176b4196cb59cc8d026fad29b6e53fc2caed7aa3",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health",
+    "checked_at": "2026-10-27T11:49:18.945849+00:00",
+    "http_status": 200,
+    "bytes": 145695,
+    "sha256": "0540ab857196c2c5209b1cc364fe3885be7ac21f46b1fd9032b95cced9a0fcdf",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/motor-home/private-car-insurance-add-ons",
+    "checked_at": "2026-10-27T11:49:23.357225+00:00",
+    "http_status": 200,
+    "bytes": 214423,
+    "sha256": "21052ec8e88f2de926d3799e23e0f350b2819d0ba1d66f6641f2e3d48bc2db08",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/motor-home/motorcycle",
+    "checked_at": "2026-10-27T11:49:29.996782+00:00",
+    "http_status": 200,
+    "bytes": 209384,
+    "sha256": "f13cf91b7998699960d1d81a588fcb32f4560cf9e99ed4dddf36c82c4cd81e7f",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/motor-home/multi-drive-protector",
+    "checked_at": "2026-10-27T11:49:33.941188+00:00",
+    "http_status": 200,
+    "bytes": 184023,
+    "sha256": "7dc32224497443af3f90be2a201126d9934a641a7f37c51a1358893532d99012",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/motor-home/home-protector-enhanced",
+    "checked_at": "2026-10-27T11:49:39.255425+00:00",
+    "http_status": 200,
+    "bytes": 188759,
+    "sha256": "bf4da3e862adfb9570260e7a4673e4efcbfc5681645b362228ad63c865fbf781",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/wealth-creator-premier",
+    "checked_at": "2026-10-27T11:49:43.388934+00:00",
+    "http_status": 200,
+    "bytes": 128058,
+    "sha256": "f7097ae379867efa94dc566280492c6a68fa93f7dfa6c99b6e54bc8b6ec4470c",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/wealth-creator",
+    "checked_at": "2026-10-27T11:49:49.031453+00:00",
+    "http_status": 200,
+    "bytes": 126053,
+    "sha256": "342267b55726542bb2d34804c9b8f81b362aa94fdee37c023884f9e85899e44c",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/genwealth",
+    "checked_at": "2026-10-27T11:49:53.677465+00:00",
+    "http_status": 200,
+    "bytes": 125052,
+    "sha256": "437b0110cb46def3c87de8b0a752b57be6cdd27265de31680241a2994814c2ca",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/life-80",
+    "checked_at": "2026-10-27T11:49:58.074827+00:00",
+    "http_status": 200,
+    "bytes": 114257,
+    "sha256": "b0af08243706f3ed2c6b4c66e4d98b530f633b056bd7310aee16aa43bfc25478",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/secure-shield",
+    "checked_at": "2026-10-27T11:50:01.702180+00:00",
+    "http_status": 200,
+    "bytes": 121998,
+    "sha256": "21d55672a4c57b23ac2c4c3b942e348d6cf7f56bb951da5bdceec2ffe9ca2df6",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/assure-2",
+    "checked_at": "2026-10-27T11:50:05.894165+00:00",
+    "http_status": 200,
+    "bytes": 121130,
+    "sha256": "6b09972167b06dff162d59bdc683299669260fe9b3f3458e6edd7e3f333abaa1",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/elife-protector",
+    "checked_at": "2026-10-27T11:50:10.623899+00:00",
+    "http_status": 200,
+    "bytes": 121765,
+    "sha256": "9511c359ed29f1aa5e3fa437175ba2a3af360ca2b90cb7340a4c90bf47652d96",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection",
+    "checked_at": "2026-10-27T11:50:15.158092+00:00",
+    "http_status": 200,
+    "bytes": 124187,
+    "sha256": "817e7e35fc0b4ae92d82b1bca0af339f3eb977c7b96fb3c8a8d412a3d1fd747f",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/oversea-travel-insurance",
+    "checked_at": "2026-10-27T11:50:19.188104+00:00",
+    "http_status": 200,
+    "bytes": 186988,
+    "sha256": "bc9cd21ff02b8a0c3af6aa87aa79c1ef4b3a6c968a0a714065fc60d33d8ce5bd",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/domestic-travel-insurance",
+    "checked_at": "2026-10-27T11:50:23.514850+00:00",
+    "http_status": 200,
+    "bytes": 175312,
+    "sha256": "c3f41c1d7e2a75c520b4e03ded0facba70daf906629519607126c7626cfa6563",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/smartbusiness-traveller",
+    "checked_at": "2026-10-27T11:50:28.999570+00:00",
+    "http_status": 200,
+    "bytes": 177004,
+    "sha256": "eab02ac52f13667c86c0440cf196209e86d035cb2b633c912fff59d1e40569a7",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/gen-sinar",
+    "checked_at": "2026-10-27T11:50:32.978744+00:00",
+    "http_status": 200,
+    "bytes": 185961,
+    "sha256": "16c6198ff8270b7a4b5e3b441c1ce3e0c66349aec57386eb05c4cbadc762974d",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/smartcare-vip",
+    "checked_at": "2026-10-27T11:50:37.691651+00:00",
+    "http_status": 200,
+    "bytes": 175450,
+    "sha256": "bc2de0d1624480401c2c4dde25f7fce46f98a2277f43ea0f1abb2c614a5c6356",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/smartpa-enhanced",
+    "checked_at": "2026-10-27T11:50:42.612207+00:00",
+    "http_status": 200,
+    "bytes": 178781,
+    "sha256": "9189a326807388b21d0f3f7b5c215a11c077c08e833b36bad8d0264b5f659e74",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/the-gladiator-enhanced",
+    "checked_at": "2026-10-27T11:50:47.439162+00:00",
+    "http_status": 200,
+    "bytes": 171017,
+    "sha256": "3f89e1a997ff95c6e123550c0571d1a23e45eabff5b0fcc62710b901354b2892",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/multi-lucky-personal-accident",
+    "checked_at": "2026-10-27T11:50:51.669200+00:00",
+    "http_status": 200,
+    "bytes": 168245,
+    "sha256": "fd4de191ac400f284d815c07874333c788e2cadfc44b4bc63eba347ce256423f",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/fire-risk-insurance",
+    "checked_at": "2026-10-27T11:50:56.651586+00:00",
+    "http_status": 200,
+    "bytes": 89721,
+    "sha256": "379aa437eb05bbbf9e38eb8b65fc8674d2eec8cf2866a170b817e9141928b8ca",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/legal-notice",
+    "checked_at": "2026-10-27T11:51:00.501915+00:00",
+    "http_status": 200,
+    "bytes": 80149,
+    "sha256": "82bcdb6e11477182b9a6eedd50d2fe7e38773a2ecccdb9dace001519fc65ed0d",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/sitemap",
+    "checked_at": "2026-10-27T11:51:04.516020+00:00",
+    "http_status": 200,
+    "bytes": 94265,
+    "sha256": "ee56f28c8f30582cc930df0649576add1d86bb0f074e2f95755c283c6d3f23f4",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/download-centre",
+    "checked_at": "2026-10-27T11:51:09.501042+00:00",
+    "http_status": 200,
+    "bytes": 119331,
+    "sha256": "dd4347b3fe35ea0f45c3311b166d9fe0401ed4fec632df30e64fe3fed41b6a6a",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/sme-employee-benefits-packages/medic-sme",
+    "checked_at": "2026-10-27T11:55:37.267439+00:00",
+    "http_status": 200,
+    "bytes": 91463,
+    "sha256": "3e0c46c3e79bf08e2029404f3cf4a4630f61fca16b16e5d36da7a757a7930132",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/sme-employee-benefits-packages/sme-life",
+    "checked_at": "2026-10-27T11:55:44.348024+00:00",
+    "http_status": 200,
+    "bytes": 87814,
+    "sha256": "5a1d5724fc18c68f1f6a8b598ad53178a9042a431630c3b4dcfaf90e1d4e1e9b",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/sme-employee-benefits-packages/smart-sme-plus",
+    "checked_at": "2026-10-27T11:55:49.352589+00:00",
+    "http_status": 200,
+    "bytes": 94959,
+    "sha256": "216d07380f57dc30f5cb7695e9d211fc9712cd043a8a80a3fe7a49412bbb08c5",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/electronic-equipment",
+    "checked_at": "2026-10-27T11:55:55.828558+00:00",
+    "http_status": 200,
+    "bytes": 87153,
+    "sha256": "abd370dcb653b3c8819a5fb21b5bea5253ffdc663b1d35529e0fac9f93913323",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/burglary-insurance",
+    "checked_at": "2026-10-27T11:56:00.184695+00:00",
+    "http_status": 200,
+    "bytes": 85637,
+    "sha256": "527ee9a9a85048cbc27d1def7d5e7c841e743175ecfc42183d6c96e8e1c5456e",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/public-liability-insurance",
+    "checked_at": "2026-10-27T11:56:05.309320+00:00",
+    "http_status": 200,
+    "bytes": 87612,
+    "sha256": "6b2a8ed80e8583c396eccdc255da9313ccdae5e07bdfc909cad21b328af5d304",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/marine-cargo",
+    "checked_at": "2026-10-27T11:56:16.790087+00:00",
+    "http_status": 200,
+    "bytes": 89158,
+    "sha256": "b402d5dcf445f8b656deec1a12e39249c5b47d64027b4443b25559d7d143b60a",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/employee-benefits/group-personal-accident",
+    "checked_at": "2026-10-27T11:56:23.751195+00:00",
+    "http_status": 200,
+    "bytes": 72838,
+    "sha256": "2bc75dad1ef13e8b9a7ba051f6c16a6c40b89b1339cb4b819b74021cd1dee1cf",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/employee-benefits/group-hospital-and-surgical",
+    "checked_at": "2026-10-27T11:56:29.818282+00:00",
+    "http_status": 200,
+    "bytes": 77604,
+    "sha256": "3f44b9799808a5b913f5b343086be91c48deea7be799b0e0643eef3041c758b5",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/employee-benefits/biz-pa",
+    "checked_at": "2026-10-27T11:56:33.763379+00:00",
+    "http_status": 200,
+    "bytes": 89185,
+    "sha256": "47f5a883bc62cf58230097280854521563ea9f190ec86dfc63fe7b10c8b55481",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/employee-benefits/student-protection-pa",
+    "checked_at": "2026-10-27T11:56:37.802400+00:00",
+    "http_status": 200,
+    "bytes": 77945,
+    "sha256": "10f73058a61c24e068d0e50a5ea42b39c5b00bb11ccc0565f2418a573885017c",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/global-corporate-and-commercial/global-corporate-and-commercial",
+    "checked_at": "2026-10-27T11:56:41.252902+00:00",
+    "http_status": 200,
+    "bytes": 63235,
+    "sha256": "e53c31d55d7d16e80ab9fb7bbd62945299ac1d2929f0e26e2a35b462a9681735",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/employers-liability-insurance",
+    "checked_at": "2026-10-27T11:56:45.050468+00:00",
+    "http_status": 200,
+    "bytes": 87791,
+    "sha256": "4c59bcf4dbf4905100cf336b74b2c77ebb4d36b0b6369ea7a18365bd3f0c695b",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/fidelity-guarantee-insurance",
+    "checked_at": "2026-10-27T11:56:48.920988+00:00",
+    "http_status": 200,
+    "bytes": 87584,
+    "sha256": "db0ddbd307fab4e4c186450b19c1863cc8aa71a948bb1b2d6d9c42113432d77a",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/goods-in-transit",
+    "checked_at": "2026-10-27T11:56:53.475363+00:00",
+    "http_status": 200,
+    "bytes": 87440,
+    "sha256": "fa3bf3d947bd18db30c9fc681c02e1cec35399ed40ae02db12328e68cdd0e892",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/marine-hull",
+    "checked_at": "2026-10-27T11:56:59.873008+00:00",
+    "http_status": 200,
+    "bytes": 84667,
+    "sha256": "4f17540634d775d31e5ce1a20e4cac898ee71c7fc6546f70d61b794d71dca59b",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/multi-biz-protector-enhanced",
+    "checked_at": "2026-10-27T11:57:03.940516+00:00",
+    "http_status": 200,
+    "bytes": 104900,
+    "sha256": "10b0d61cbe414069758d745ba62975e408fef97db906a12c86a956ef6562fda3",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/other-insurances",
+    "checked_at": "2026-10-27T11:57:08.034695+00:00",
+    "http_status": 200,
+    "bytes": 89389,
+    "sha256": "2200e97c3e389ce72bdc12d86dfb4aa8d95dbeb7f91977543db6458e1f60288c",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/110-ci-assure",
+    "checked_at": "2026-10-27T11:57:12.109103+00:00",
+    "http_status": 200,
+    "bytes": 159763,
+    "sha256": "37216a0d6fb30d471907a77cfcc279dd6d6b0d8f596c6bbfea62637cd007297d",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/360-cancer-assure",
+    "checked_at": "2026-10-27T11:57:16.254542+00:00",
+    "http_status": 200,
+    "bytes": 158894,
+    "sha256": "376909379bec4003ef33526c1115bb2b347b8c5fe98802157bb53494ae2da870",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/criticover",
+    "checked_at": "2026-10-27T11:57:20.609833+00:00",
+    "http_status": 200,
+    "bytes": 163430,
+    "sha256": "1c813da49aade73ba572fb1ea5c88eefb1489e086bee1bd9114271a0fa686aac",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/ecritical-early-care",
+    "checked_at": "2026-10-27T11:57:25.665388+00:00",
+    "http_status": 200,
+    "bytes": 159963,
+    "sha256": "e2759a8e785aab48553e7e443839c6ec3fbf7d8a07ffc35ffc503f64c7648e7d",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/emedic-plus",
+    "checked_at": "2026-10-27T11:57:29.795871+00:00",
+    "http_status": 200,
+    "bytes": 162446,
+    "sha256": "712261ee99be6e9be5207d450eb38ce477fa7e2efeefae34429cec609dc6dbe6",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/international-exclusive",
+    "checked_at": "2026-10-27T11:57:33.561184+00:00",
+    "http_status": 200,
+    "bytes": 160783,
+    "sha256": "d8265ddfebb4c3463c5e0c07e7094fbb07ff209b0b90dd1e51adc1f80998080b",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/gencreator",
+    "checked_at": "2026-10-27T11:57:37.395728+00:00",
+    "http_status": 200,
+    "bytes": 125868,
+    "sha256": "390363879491b0cd11ed0c4d54df901e48642dcaf0fa540387b2d722823f74a7",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/gen-sinar-bm",
+    "checked_at": "2026-10-27T11:57:43.254951+00:00",
+    "http_status": 200,
+    "bytes": 187254,
+    "sha256": "a731da9917cacf1f19d25bb57ab463ca4b27f8123582ab1b90e6473e2164d242",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/gen-pa-zenprotect",
+    "checked_at": "2026-10-27T11:57:47.608364+00:00",
+    "http_status": 200,
+    "bytes": 182216,
+    "sha256": "1495c8b99c8dc6923304097bc4ab92b2eb4c12217587c824553c4980e2c709f3",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/multi-pa-protector",
+    "checked_at": "2026-10-27T11:57:53.069511+00:00",
+    "http_status": 200,
+    "bytes": 168993,
+    "sha256": "971a096ba01cf6a8d0e9298f6ae4226093a236085a46f7121c8dc768d2ca3c2e",
+    "source_date": null,
+    "scope": "Public site page; source body excluded."
+  },
+  {
+    "url": "https://www.generali.com.my/download-centre?18f0c954_page=2",
+    "checked_at": "2026-10-27T12:05:17.082493+00:00",
+    "http_status": 200,
+    "bytes": 119196,
+    "sha256": "acb0b3305c36f53b4cc57abab2a8c401f2fb132a2915cd179f6e1be2cbd703c7",
+    "source_date": null,
+    "scope": "Public download-directory HTML pagination; no document resolver leaf fetched."
+  },
+  {
+    "url": "https://www.generali.com.my/download-centre?18f0c954_page=3",
+    "checked_at": "2026-10-27T12:05:22.473770+00:00",
+    "http_status": 200,
+    "bytes": 108690,
+    "sha256": "9c4f0c5a83714b3e93f3468a35be555cdcf9b5c48dea04295acf48f3ca8cd454",
+    "source_date": null,
+    "scope": "Public download-directory HTML pagination; no document resolver leaf fetched."
+  }
+]

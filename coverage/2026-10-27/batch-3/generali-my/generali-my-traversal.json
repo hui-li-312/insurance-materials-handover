@@ -1,0 +1,66 @@
+{
+  "checked_at": "2026-10-27T12:09:58.972121+00:00",
+  "source_pages_read": 63,
+  "offering_and_category_observations": 84,
+  "offering_role_counts": {
+    "catalog_category": 5,
+    "rider": 18,
+    "product": 31,
+    "coverage_class": 11,
+    "group": 7,
+    "add_on": 11,
+    "plan": 1
+  },
+  "confirmed_issuer_observations": 11,
+  "confirmed_issuer_role_counts": {
+    "product": 5,
+    "rider": 6
+  },
+  "unresolved_issuer_observations": 73,
+  "document_observations": 46,
+  "document_unique_resolver_urls": 45,
+  "material_link_occurrences": 409,
+  "unique_material_resolver_urls": 338,
+  "material_role_counts": {
+    "brochure": 79,
+    "product_disclosure": 141,
+    "premium_or_charge_schedule": 10,
+    "general_consumer_information": 27,
+    "policy_wording_candidate": 97,
+    "proposal_form": 27,
+    "medical_report_form": 3,
+    "declaration_form": 5,
+    "product_faq": 2,
+    "assignment_form": 2,
+    "trust_deed_form": 2,
+    "ancillary_service_terms": 2,
+    "service_user_guide": 2,
+    "provider_network_directory": 3,
+    "claim_form": 2,
+    "application_or_enrolment_form": 5
+  },
+  "document_leaf_requests": 0,
+  "new_formal_material_files": 0,
+  "verified_unique_SKUs": 0,
+  "products_status": "partial",
+  "directory_pagination": {
+    "checked_at": "2026-10-27T12:05:26.734569+00:00",
+    "pages_read": 3,
+    "rows_observed": 46,
+    "unique_leaf_urls": 45,
+    "pagination_closed": true,
+    "document_leaf_requests": 0,
+    "scope": "Unfiltered public HTML download directory, exact source-provided next-page links only; document listings are not current products; no resolver/PDF leaves requested."
+  },
+  "scope_limits": [
+    "All 61 advertised category/detail/utility targets read and visible source links reconciled; no additional in-scope product paths found.",
+    "Exact public download-centre next links exhausted over 3 pages, 46 labelled rows / 45 resolver URLs. The same travel wording is associated with Annual and Single Trip labels, preserved as source associations.",
+    "Shared two-entity site means most legal issuer attribution remains unresolved. Five product pages and their six explicit rider associations have product-operational cancellation evidence for the general insurer.",
+    "Five catalog categories and all directory document observations have zero current product credit. All product/base/standalone and SKU status remain unconfirmed.",
+    "English/Bahasa Gen Sinar pages are related language observations. Historical/unlinked/partner/transaction-only offerings remain outside completed scope.",
+    "Hidden alternative Webflow templates excluded; static structural check only, not computed CSS.",
+    "All documents are advertised same-origin resolver URLs, not fetched PDF URLs; no content, filename date, contract completeness or current sale verification."
+  ],
+  "publication_status": "immutable_candidate_content_QA_pending",
+  "frozen_at": "2026-10-27T12:11:00.556108+00:00"
+}

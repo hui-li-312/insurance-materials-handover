@@ -1,0 +1,14 @@
+[
+  {
+    "origin": "https://www.generali.com.my",
+    "legal_names": [
+      "Generali Insurance Malaysia Berhad",
+      "Generali Life Insurance Malaysia Berhad"
+    ],
+    "evidence_url": "https://www.generali.com.my/",
+    "evidence_checked_at": "2026-10-27T10:17:49.565246+00:00",
+    "source_content_sha256": "62c6e993919651b017cf954972f06cfb770d66e2079d76be0c08e5fff316daa3",
+    "basis": "Exact full legal entity name visibly present in official site footer; punctuation and whitespace normalized only. Shared-brand product underwriting still requires item-specific evidence.",
+    "reviewed_at": "2026-10-27T11:08:15.267504+00:00"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "offering_file": "products-generali-my.jsonl",
+  "offering_and_category_observations": 84,
+  "assigned_observations": 11,
+  "unresolved_observations": 73,
+  "document_file": "documents-generali-my.jsonl",
+  "document_rows": 46,
+  "document_scope": "Unassigned named directory observations only; never current products.",
+  "prior_integrated_baseline_contains_generali": false,
+  "integration_status": "pending independent content QA",
+  "same_offering_notes": [
+    "Gen Sinar English and Bahasa pages represent language observations, not two SKUs.",
+    "SmartTraveller Enhanced Annual and Single Trip directory labels share one observed wording locator; preserve associations, one unique locator.",
+    "Named components carry explicit parents and do not inherit parent materials."
+  ]
+}

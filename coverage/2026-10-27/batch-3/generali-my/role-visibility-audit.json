@@ -1,0 +1,466 @@
+[
+  {
+    "url": "https://www.generali.com.my/business",
+    "official_name": "Business insurance",
+    "role": "catalog_category",
+    "removed_hidden_or_code_nodes": 28,
+    "material_resolver_url_count": 0,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/onemedic-plus",
+    "official_name": "OneMedic Plus",
+    "role": "rider",
+    "removed_hidden_or_code_nodes": 80,
+    "material_resolver_url_count": 9,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/smartcare-optimum-plus",
+    "official_name": "SmartCare Optimum Plus",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 74,
+    "material_resolver_url_count": 11,
+    "issuer_mapping_status": "confirmed_product_operational_policy_cancellation_notice"
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/multi-medic",
+    "official_name": "Multi Medic",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 88,
+    "material_resolver_url_count": 14,
+    "issuer_mapping_status": "confirmed_product_operational_policy_cancellation_notice"
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/multi-medi-plus",
+    "official_name": "Multi Medi-PLUS",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 79,
+    "material_resolver_url_count": 7,
+    "issuer_mapping_status": "confirmed_product_operational_policy_cancellation_notice"
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/multi-medical-protector",
+    "official_name": "Multi Medical Protector",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 79,
+    "material_resolver_url_count": 7,
+    "issuer_mapping_status": "confirmed_product_operational_policy_cancellation_notice"
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/medic-101",
+    "official_name": "Medic 101",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 78,
+    "material_resolver_url_count": 6,
+    "issuer_mapping_status": "confirmed_product_operational_policy_cancellation_notice"
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/smartcancer-cash",
+    "official_name": "SmartCancer Cash",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 74,
+    "material_resolver_url_count": 6,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health",
+    "official_name": "Medical and health insurance",
+    "role": "catalog_category",
+    "removed_hidden_or_code_nodes": 63,
+    "material_resolver_url_count": 0,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/motor-home/private-car-insurance-add-ons",
+    "official_name": "Private Car Insurance & Available Add Ons",
+    "role": "coverage_class",
+    "removed_hidden_or_code_nodes": 143,
+    "material_resolver_url_count": 22,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/motor-home/motorcycle",
+    "official_name": "Motorcycle",
+    "role": "coverage_class",
+    "removed_hidden_or_code_nodes": 126,
+    "material_resolver_url_count": 16,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/motor-home/multi-drive-protector",
+    "official_name": "Multi Drive Protector",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 113,
+    "material_resolver_url_count": 5,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/motor-home/home-protector-enhanced",
+    "official_name": "Home Protector Enhanced",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 118,
+    "material_resolver_url_count": 7,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/wealth-creator-premier",
+    "official_name": "Wealth Creator Premier",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 62,
+    "material_resolver_url_count": 7,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/wealth-creator",
+    "official_name": "Wealth Creator",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 62,
+    "material_resolver_url_count": 7,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/genwealth",
+    "official_name": "GenWealth",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 61,
+    "material_resolver_url_count": 7,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/life-80",
+    "official_name": "Life 80",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 52,
+    "material_resolver_url_count": 1,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/secure-shield",
+    "official_name": "Secure Shield",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 57,
+    "material_resolver_url_count": 4,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/assure-2",
+    "official_name": "Wealth Protect Assure 2",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 59,
+    "material_resolver_url_count": 5,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/elife-protector",
+    "official_name": "eLife Protector+",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 57,
+    "material_resolver_url_count": 5,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection",
+    "official_name": "Savings and life protection",
+    "role": "catalog_category",
+    "removed_hidden_or_code_nodes": 59,
+    "material_resolver_url_count": 0,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/oversea-travel-insurance",
+    "official_name": "Overseas Travel Insurance",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 95,
+    "material_resolver_url_count": 13,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/domestic-travel-insurance",
+    "official_name": "Domestic Travel Insurance",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 85,
+    "material_resolver_url_count": 9,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/smartbusiness-traveller",
+    "official_name": "SmartBusiness Traveller",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 83,
+    "material_resolver_url_count": 8,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/gen-sinar",
+    "official_name": "Gen Sinar Personal Accident",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 91,
+    "material_resolver_url_count": 8,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/smartcare-vip",
+    "official_name": "SmartCare VIP",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 84,
+    "material_resolver_url_count": 8,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/smartpa-enhanced",
+    "official_name": "SmartPA Enhanced",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 88,
+    "material_resolver_url_count": 10,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/the-gladiator-enhanced",
+    "official_name": "The Gladiator Enhanced",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 101,
+    "material_resolver_url_count": 11,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/multi-lucky-personal-accident",
+    "official_name": "Multi Lucky Personal Accident",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 96,
+    "material_resolver_url_count": 8,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/fire-risk-insurance",
+    "official_name": "Fire Risk Insurance",
+    "role": "coverage_class",
+    "removed_hidden_or_code_nodes": 42,
+    "material_resolver_url_count": 2,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/sme-employee-benefits-packages/medic-sme",
+    "official_name": "Medic SME",
+    "role": "group",
+    "removed_hidden_or_code_nodes": 77,
+    "material_resolver_url_count": 7,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/sme-employee-benefits-packages/sme-life",
+    "official_name": "SME Life",
+    "role": "group",
+    "removed_hidden_or_code_nodes": 60,
+    "material_resolver_url_count": 2,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/sme-employee-benefits-packages/smart-sme-plus",
+    "official_name": "Smart SME Plus",
+    "role": "group",
+    "removed_hidden_or_code_nodes": 76,
+    "material_resolver_url_count": 9,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/electronic-equipment",
+    "official_name": "Electronic Equipment",
+    "role": "coverage_class",
+    "removed_hidden_or_code_nodes": 50,
+    "material_resolver_url_count": 3,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/burglary-insurance",
+    "official_name": "Burglary Insurance",
+    "role": "coverage_class",
+    "removed_hidden_or_code_nodes": 48,
+    "material_resolver_url_count": 2,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/public-liability-insurance",
+    "official_name": "Public Liability Insurance",
+    "role": "coverage_class",
+    "removed_hidden_or_code_nodes": 50,
+    "material_resolver_url_count": 3,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/marine-cargo",
+    "official_name": "Marine Cargo",
+    "role": "coverage_class",
+    "removed_hidden_or_code_nodes": 50,
+    "material_resolver_url_count": 3,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/employee-benefits/group-personal-accident",
+    "official_name": "Group Personal Accident",
+    "role": "group",
+    "removed_hidden_or_code_nodes": 40,
+    "material_resolver_url_count": 2,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/employee-benefits/group-hospital-and-surgical",
+    "official_name": "Group Hospital and Surgical",
+    "role": "group",
+    "removed_hidden_or_code_nodes": 48,
+    "material_resolver_url_count": 5,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/employee-benefits/biz-pa",
+    "official_name": "Biz PA",
+    "role": "group",
+    "removed_hidden_or_code_nodes": 69,
+    "material_resolver_url_count": 14,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/employee-benefits/student-protection-pa",
+    "official_name": "Student Protection PA",
+    "role": "group",
+    "removed_hidden_or_code_nodes": 53,
+    "material_resolver_url_count": 6,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/global-corporate-and-commercial/global-corporate-and-commercial",
+    "official_name": "Global Corporate and Commercial",
+    "role": "catalog_category",
+    "removed_hidden_or_code_nodes": 31,
+    "material_resolver_url_count": 0,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/employers-liability-insurance",
+    "official_name": "Employers Liability Insurance",
+    "role": "coverage_class",
+    "removed_hidden_or_code_nodes": 50,
+    "material_resolver_url_count": 3,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/fidelity-guarantee-insurance",
+    "official_name": "Fidelity Guarantee Insurance",
+    "role": "coverage_class",
+    "removed_hidden_or_code_nodes": 50,
+    "material_resolver_url_count": 3,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/goods-in-transit",
+    "official_name": "Goods in Transit",
+    "role": "coverage_class",
+    "removed_hidden_or_code_nodes": 50,
+    "material_resolver_url_count": 3,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/marine-hull",
+    "official_name": "Marine Hull",
+    "role": "coverage_class",
+    "removed_hidden_or_code_nodes": 45,
+    "material_resolver_url_count": 0,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/multi-biz-protector-enhanced",
+    "official_name": "Multi Biz Protector Enhanced",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 48,
+    "material_resolver_url_count": 5,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/tailor-made-business-insurance/other-insurances",
+    "official_name": "Other Insurances",
+    "role": "catalog_category",
+    "removed_hidden_or_code_nodes": 45,
+    "material_resolver_url_count": 0,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/110-ci-assure",
+    "official_name": "110 CI Assure",
+    "role": "rider",
+    "removed_hidden_or_code_nodes": 74,
+    "material_resolver_url_count": 5,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/360-cancer-assure",
+    "official_name": "360 Cancer Assure",
+    "role": "rider",
+    "removed_hidden_or_code_nodes": 74,
+    "material_resolver_url_count": 5,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/criticover",
+    "official_name": "CritiCover",
+    "role": "rider",
+    "removed_hidden_or_code_nodes": 75,
+    "material_resolver_url_count": 7,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/ecritical-early-care",
+    "official_name": "eCritical Early Care",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 72,
+    "material_resolver_url_count": 4,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/emedic-plus",
+    "official_name": "eMedic Plus",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 76,
+    "material_resolver_url_count": 7,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/medical-health/international-exclusive",
+    "official_name": "InternationalExclusive",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 75,
+    "material_resolver_url_count": 6,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/savings-life-protection/gencreator",
+    "official_name": "GenCreator",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 65,
+    "material_resolver_url_count": 7,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/gen-sinar-bm",
+    "official_name": "Insurans Kemalangan Diri Gen Sinar",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 91,
+    "material_resolver_url_count": 8,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/gen-pa-zenprotect",
+    "official_name": "Gen PA ZenProtect",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 83,
+    "material_resolver_url_count": 8,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  },
+  {
+    "url": "https://www.generali.com.my/travel-personal-accident/multi-pa-protector",
+    "official_name": "Multi PA-Protector",
+    "role": "product",
+    "removed_hidden_or_code_nodes": 98,
+    "material_resolver_url_count": 9,
+    "issuer_mapping_status": "unresolved_shared_two_entity_source"
+  }
+]

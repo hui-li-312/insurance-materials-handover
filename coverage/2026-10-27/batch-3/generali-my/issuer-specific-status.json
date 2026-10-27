@@ -1,0 +1,37 @@
+[
+  {
+    "region": "MY",
+    "issuer_id": "MY-own-34a7e03cfa0bd0d3",
+    "legal_name": "Generali Insurance Malaysia Berhad",
+    "official_website": "https://www.generali.com.my/",
+    "products_status": "partial",
+    "shared_source_status": "bounded_visible_catalog_and_public_directory_traversed",
+    "confirmed_legal_issuer_offering_observations": 11,
+    "confirmed_role_counts": {
+      "product": 5,
+      "rider": 6
+    },
+    "shared_unresolved_offering_observations": 73,
+    "shared_unresolved_document_observations": 46,
+    "shared_scope_count_note": "The same 63 source pages and 73 unresolved offering/category observations are shared references, never duplicated per issuer. Document rows remain unassigned.",
+    "verified_unique_SKUs": 0,
+    "new_formal_material_files": 0,
+    "checked_at": "2026-10-27T12:11:00.556108+00:00"
+  },
+  {
+    "region": "MY",
+    "issuer_id": "MY-own-71e457e368eae0e9",
+    "legal_name": "Generali Life Insurance Malaysia Berhad",
+    "official_website": "https://www.generali.com.my/",
+    "products_status": "partial",
+    "shared_source_status": "bounded_visible_catalog_and_public_directory_traversed",
+    "confirmed_legal_issuer_offering_observations": 0,
+    "confirmed_role_counts": {},
+    "shared_unresolved_offering_observations": 73,
+    "shared_unresolved_document_observations": 46,
+    "shared_scope_count_note": "The same 63 source pages and 73 unresolved offering/category observations are shared references, never duplicated per issuer. Document rows remain unassigned.",
+    "verified_unique_SKUs": 0,
+    "new_formal_material_files": 0,
+    "checked_at": "2026-10-27T12:11:00.556108+00:00"
+  }
+]
