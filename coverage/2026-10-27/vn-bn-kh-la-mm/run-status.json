@@ -1,0 +1,93 @@
+{
+  "checked_at": "2026-10-27T10:03:37.255532+00:00",
+  "state": "in_progress_initial_partial_snapshot",
+  "regions": {
+    "VN": {
+      "census_rows": 60,
+      "census_status": "54_historical_2024_plus_6_supplemental_candidates_not_current_denominator",
+      "product_status": "pending",
+      "product_metadata_rows": 0
+    },
+    "BN": {
+      "census_rows": 11,
+      "census_status": "observed_public_roster_exhausted_asof_unknown",
+      "product_status": "partial_11_issuers_attempted_4_blocked",
+      "product_metadata_rows": 144
+    },
+    "KH": {
+      "census_rows": 39,
+      "census_status": "observed_public_roster_exhausted_asof_unknown",
+      "product_status": "pending",
+      "product_metadata_rows": 0
+    },
+    "LA": {
+      "census_rows": 2,
+      "census_status": "regulator_blocked_2_transfer_related_entities_not_denominator",
+      "product_status": "pending",
+      "product_metadata_rows": 0
+    },
+    "MM": {
+      "census_rows": 27,
+      "census_status": "historical_baseline_current_updates_pending",
+      "product_status": "pending",
+      "product_metadata_rows": 0
+    }
+  },
+  "blocks": [
+    {
+      "region": "LA",
+      "action": "GET public regulator homepage",
+      "target": "https://lis.gov.la/",
+      "result": "denied",
+      "reason": "HTTP 403 Forbidden",
+      "next": "no same-origin retries; seek separate official MOF publication; otherwise denominator remains unknown"
+    },
+    {
+      "region": "BN",
+      "action": "GET public company catalog",
+      "target": "https://www.tokiomarine.com/sg/en/life/brunei.html",
+      "result": "denied",
+      "reason": "Incapsula denial body despite HTTP 200; stopped same origin, affects two listed insurers",
+      "next": "Do not bypass; public evidence previously read remains partial"
+    },
+    {
+      "region": "BN",
+      "action": "GET public company homepage",
+      "target": "https://www.takafulbrunei.com.bn/",
+      "result": "denied",
+      "reason": "HTTP 403; affects two listed takaful operators",
+      "next": "Do not retry same/equivalent origin"
+    },
+    {
+      "region": "KH",
+      "action": "GET anonymous public association member endpoint declared by public website",
+      "target": "https://api.iac.org.kh/api/companies/type/All",
+      "result": "denied",
+      "reason": "HTTP 200 response contains application statusCode 403 Forbidden Unauthorized; no key/header used",
+      "next": "Stopped API origin; use separately public insurer websites and regulator denominator"
+    }
+  ],
+  "counts_not_original_documents": true,
+  "publication_scope": "Public company and product metadata only; no raw HTML, headers, personal contacts, PDF bodies or original-document increments.",
+  "product_inventory": {
+    "rows": 144,
+    "meaning": "Named products, product families, one rider, group/umbrella records, coverage classes and resource-only candidates, NOT verified unique SKUs",
+    "roles": {
+      "named_product": 66,
+      "group_product": 4,
+      "group_scheme_catalog": 1,
+      "product_family": 59,
+      "resource_only_product_candidate": 2,
+      "rider": 1,
+      "coverage_class": 11
+    },
+    "linked_material_occurrences": 193,
+    "unique_linked_material_urls": 178,
+    "downloaded_verified_original_increment": 0
+  },
+  "excluded_incident": {
+    "count": 9,
+    "type": "unauthenticated_social_share_dialog_GET",
+    "action": "No login, submit or sharing performed. Batch interrupted; exact-host discovery filter and social exclusions applied. Excluded from products and public traversal ledger."
+  }
+}

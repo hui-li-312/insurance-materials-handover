@@ -1,0 +1,13 @@
+{
+  "frozen_at": "2026-10-27T10:05:56.089278+00:00",
+  "supersedes": "public-safe-initial-20261027T1003Z",
+  "files": {
+    "README.md": "97a1cbb587287b3a21ed9c79c844e2513ee6093572ac7378127164e6f252824c",
+    "existing-coverage-comparison.json": "affe3f5cfd8c17ab9b2ca7ddee8a99ba326ddf3cb0e77657229e59e5579c0d2f",
+    "issuer-queue.jsonl": "81fd43185c5fb86b2478d47b45cf23a00d7f4da8e91a25d7155a15a61916dd1c",
+    "issuers.jsonl": "f4687bdddc8482873dc50e9a2cb67bc6ac9b48dc5769ebaf3ac250d2796a75d5",
+    "products.jsonl": "39ab0f95b710d1f2b0d68e37a767c9e474e49b3432147601c8d7e39e9c003a88",
+    "run-status.json": "a281d19ecad4aac94e44ef9c92f95bdb359ada065de2afcd878ae1e25c78122a",
+    "sources.json": "87808d89070e369dc8a982e22fb3be97172018852c3ca639b5a32b52b94e3c02"
+  }
+}
