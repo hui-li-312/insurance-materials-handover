@@ -1725,6 +1725,116 @@
     "sha256": "4e74ebb567f29cf8f96fcc5d2f52dd623dab88ae26c07fcce8a533af3e66870c"
   },
   {
+    "path": "coverage/2026-10-27/batch-9/bangkok-life-th/comparison-pages.jsonl",
+    "bytes": 510,
+    "sha256": "69803590b2af803bbe10867cc829323d7cef736c53da2966713206ff96699af1"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/bangkok-life-th/components.jsonl",
+    "bytes": 14513,
+    "sha256": "abc3ff29ef6377f62f9fc72681a1021447b546b4116da14c4a0e4751922d5eb5"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/bangkok-life-th/coverage-classes.jsonl",
+    "bytes": 2337,
+    "sha256": "ca8dc901dc7db4bd0b30f2318081ef047899bec5760a40502e3f1986dce701de"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/bangkok-life-th/freeze-manifest.json",
+    "bytes": 2108,
+    "sha256": "ae78cc9edfebfb44744334bdb12f55c5977d103b4c4008e4ca0f2c78805bb976"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/bangkok-life-th/image-candidates.jsonl",
+    "bytes": 163764,
+    "sha256": "78d31cd16ed061b18be5dad8b8e0fb459507b083f309d2acafe58821c7d2db49"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/bangkok-life-th/issuer-frontier.jsonl",
+    "bytes": 952,
+    "sha256": "0a6ee024fe7c0898771ab2ebd1c787d2925bae295042b1d99f11b0504432f188"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/bangkok-life-th/products.jsonl",
+    "bytes": 343267,
+    "sha256": "1762fa8653a4e68cbf008537372df92642d00b1440a2c34f349f5ec276e5ec3b"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/bangkok-life-th/README.md",
+    "bytes": 1511,
+    "sha256": "c1b2473ef54595d6b0c87421b60f5c7c71cf0b6779384a22a3767f71c45125d2"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/bangkok-life-th/run-status.json",
+    "bytes": 844,
+    "sha256": "5d95ec88dc717dd0e18206135ce2dc75e2246da9116844a57f28c30320db069d"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/bangkok-life-th/sources.json",
+    "bytes": 2116,
+    "sha256": "e3c19822e6fda57be402b4f6061208135ff645261058dc70329d6d553dff3ba8"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/bangkok-life-th/unvisited-channel-references.jsonl",
+    "bytes": 2398,
+    "sha256": "9a2e048a0e5a4a955c16304680f53479362ae1f7478d3e1edb8f1018a4c65e33"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/bangkok-life-th/visited-pages.jsonl",
+    "bytes": 22690,
+    "sha256": "fee2e6fac98d67d0ff3f37b9422451fba76a702dd0e89e912fa07a3a503d4740"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/muangthai-life-th/alternate-audience-pages.jsonl",
+    "bytes": 1377,
+    "sha256": "389ea9c3c46379ebdb6e4241c809cbdc31abdc1aebd91e1d064b9f9b26188844"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/muangthai-life-th/component-and-variant-references.jsonl",
+    "bytes": 8341,
+    "sha256": "c38341193434a1101f19ce51d9f9026d1bf5c5b67dab6567512c1aaad117933b"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/muangthai-life-th/coverage-classes.jsonl",
+    "bytes": 605,
+    "sha256": "c31b10c01e109a670d9e4f1690a5d1a9b28d6abd23516279fe9a94df05e56ac0"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/muangthai-life-th/freeze-manifest.json",
+    "bytes": 1470,
+    "sha256": "5592414568f50b56f3bcd1c3d66239a1a3dd9c5894529fbec6d2977a25163044"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/muangthai-life-th/issuer-frontier.jsonl",
+    "bytes": 1499,
+    "sha256": "ffba522f4b432ca41b89b765d13518f70cf4e544e0732b1519c978a9873d6524"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/muangthai-life-th/products.jsonl",
+    "bytes": 201894,
+    "sha256": "a781a869fc81534d579077725f17a257a751305da21c4d8e11f0d2ec6126c4d9"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/muangthai-life-th/README.md",
+    "bytes": 1309,
+    "sha256": "44cbd14385f2ce2c971a9d93b5f092f770b7fd3298351238d792591dbb723777"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/muangthai-life-th/run-status.json",
+    "bytes": 1063,
+    "sha256": "26ad90dbabb4a365779e6e2639f378c399b414bce8041e3768abef55d57f2db2"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/muangthai-life-th/sources.json",
+    "bytes": 1912,
+    "sha256": "aca7554ee5030cc5ea6ccb42b16844e91c8b18d8f0a6d48f3eca1dae010d88d7"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-9/muangthai-life-th/visited-pages.jsonl",
+    "bytes": 26729,
+    "sha256": "4a115190ed41d873fbaeac3d9f0cfb9b4939102078e323f8a155b42de53848f0"
+  },
+  {
     "path": "coverage/2026-10-27/hk-sg-my/blocked-origins.json",
     "bytes": 13438,
     "sha256": "f71fd5a8907a3c39e3aebe291707f8d02eadb7313f2cc0b9416d4b5e459347a6"
@@ -1901,12 +2011,12 @@
   },
   {
     "path": "coverage/LATEST.json",
-    "bytes": 14539,
-    "sha256": "3a049c0280f72941a4ea4b14781b53bebfb36c140a4a166d1277cfb4ccfbe1e0"
+    "bytes": 16460,
+    "sha256": "e7c57c7d160ecccc51b2049124ba0473fcba576b64d527f75f56fd54a58f233b"
   },
   {
     "path": "coverage/README.md",
-    "bytes": 13635,
-    "sha256": "3aa4b3e179c12379f153aee754943e06fdbaada06dd6556369fe73aba81bdddb"
+    "bytes": 14556,
+    "sha256": "a91594d4e6115f5b01e0e8b6b741882d2b4d1290867b47371986ecf5e63de34a"
   }
 ]
