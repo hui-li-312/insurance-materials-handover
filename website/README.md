@@ -4,7 +4,7 @@
 
 - 原站：<https://hong-kong-insurance-library.balabalaniuniu.chatgpt.site>
 - 初始交接基线：Site 127，源提交 `29f8a8f21308468f6c5e143676fb12db6627df75`；不是当前版本号。
-- 当前公开部署：Site 133（2026-10-27 19:22:11 UTC），Site 源提交 `7e0c8fb5ce8903fbcb071be8f5a55f9925d15842`，对应 GitHub 运行与数据源码 `f8aa7620b03ff7994af1beea60277abd5ce9928d`。43 个静态运行文件逐字节一致；28 个来源 feed 描述符（24 个贡献显示行）／5,101 条混合观察，不是独立产品数。
+- 当前公开部署：Site 134（2026-10-27 20:32:24 UTC），Site 源提交 `43706da4b7700db2ee6f5c33cd90957c5c42f9f9`，对应 GitHub 运行与数据源码 `2497f743372f71872a72d0c3bddbb2897b00d80b`。44 个静态运行文件逐字节一致；30 个来源 feed 描述符（26 个贡献显示行）／5,502 条混合观察，不是独立产品数。
 - 初始 `public/` 的 26 个文件来自上述 Site 127 源提交的 `dist/`。新增补采视图只在原 `index.html` 加导航入口，其他 25 个基线文件逐字节保留。原站是 **buildless 静态应用**，这些 HTML/CSS/JS 就是可编辑源码，不是只有截图或编译后黑盒。
 - 不需要数据库、API key、登录、第三方运行依赖或联网安装。使用 Node.js 24；本次实测版本为 **24.22.1 / npm 11.9.0**。`.nvmrc`、`package.json`、`package-lock.json` 固定本次工具约定。
 
@@ -64,4 +64,4 @@ npm run build
 
 不修改原 `product-library.json`、其他既有 JSON 或归档台账。正式原件 4,713 份和严格核验 426 份不变；补采引用不自动增加产品／材料原件。详细字段、替换规则、测试和部署界限见 [补采视图接续手册](../docs/REGIONAL_VIEW.md)。
 
-当前发布证据和真实浏览器 QA 限制见 [CURRENT_DEPLOYMENT.json](../docs/CURRENT_DEPLOYMENT.json)；历史源码候选清单保留原验收时状态。Site 133 已完成限定生产桌面浏览器抽样检查（1180×757、DPR 1），实际范围见当前机器记录；不等于逐条记录或外部图片／材料验收。移动端／触屏未测。最新边界见 [第九批候选说明](../docs/REGIONAL_REFRESH_BATCH9.md)：227 次未审图片引用与文件材料分开，不下载或渲染图片，不等于文件、合同或产品。
+当前部署与限定真实浏览器 QA 见 [CURRENT_DEPLOYMENT.json](../docs/CURRENT_DEPLOYMENT.json)，范围见 [第十批历史候选说明](../docs/REGIONAL_REFRESH_BATCH10.md)。Site 134 已完成 20 组限定生产桌面抽样检查（1180×757，DPR 1），覆盖材料审读层、主体证据、父子导航、Back/Forward、HOLD／未解决／隐藏候选回归及桌面显示。不是逐条、外部 PDF 或移动端验收；触屏、实机及本轮旧首页交互未测。AIA 仅新增独立有限审读层，原采集状态不变；MY／GE 网页主体证据不等于实际合同核验。
