@@ -1,0 +1,45 @@
+{
+  "status": "finite_public_catalog_scope_terminal_frozen",
+  "named_source_observations": 24,
+  "retrieved_named_detail_observations": 22,
+  "named_related_card_observations_with_unconfirmed_currentness": 2,
+  "roles": {
+    "product": 10,
+    "plan": 2,
+    "group": 7,
+    "rider": 5
+  },
+  "verification_levels": {
+    "own_public_detail_page": 22,
+    "own_public_related_card": 2
+  },
+  "catalog_card_observations": 31,
+  "new_identity_requests": 1,
+  "new_catalog_requests": 7,
+  "new_detail_and_redirect_target_requests": 27,
+  "new_total_requests": 35,
+  "new_http200_html_responses": 24,
+  "valid_product_detail_pages": 15,
+  "not_found_200_pages": 1,
+  "redirect_responses": 11,
+  "access_denials": 0,
+  "origin_closed": false,
+  "redirects_followed_automatically": 0,
+  "retries": 0,
+  "existing_homepage_hash_checked": 1,
+  "material_link_occurrences": 18,
+  "distinct_material_locators": 16,
+  "material_document_types": {
+    "brochure_candidate": 17,
+    "faq_candidate": 1
+  },
+  "material_files_requested": 0,
+  "formal_original_count_credit": 0,
+  "selected_static_catalog_cards_enumerated": true,
+  "issuer_all_public_catalogs_complete": false,
+  "all_skus_complete": false,
+  "all_wordings_complete": false,
+  "metadata_reviewed_at": "2026-10-27T20:31:37.600137+00:00",
+  "original_snapshot_at": "2026-10-27T15:36:30.018090+00:00",
+  "cached_source_hashes_verified": 25
+}

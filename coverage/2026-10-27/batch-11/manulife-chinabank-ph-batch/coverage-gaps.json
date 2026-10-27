@@ -1,0 +1,100 @@
+[
+  {
+    "scope": "additional_literal_catalog_or_detail_routes",
+    "status": "literal_references_unvisited",
+    "items": [
+      {
+        "url": "https://www.manulife-chinabank.com.ph/en/individual/products/retirement/mcbl-futureboost-retirement.html",
+        "published_link_label": "",
+        "source_url": "https://www.manulife-chinabank.com.ph/en/individual/products/retirement/futureboost-retirement.html",
+        "source_element": "link",
+        "source_rel": "canonical",
+        "status": "unvisited_literal_canonical_reference"
+      },
+      {
+        "url": "https://www.manulife-chinabank.com.ph/en/individual/products/group-products/group-life/platinum-invest-elite.html",
+        "published_link_label": "Read more",
+        "source_url": "https://www.manulife-chinabank.com.ph/en/individual/products/group-insurance/Group-Credit-Life.html",
+        "source_element": "a",
+        "source_rel": null,
+        "status": "unvisited_literal_related_card_href_with_name_path_mismatch",
+        "observed_card_title": "MCBL Health Protect",
+        "limit": "URL slug is not a product name; no separate Platinum Invest Elite product is asserted."
+      },
+      {
+        "url": "https://www.manulife-chinabank.com.ph/en/individual/products/group-products/group-life/platinum-invest-elite.html",
+        "published_link_label": "Read more",
+        "source_url": "https://www.manulife-chinabank.com.ph/en/individual/products/group-insurance/Group-Life-Insurance.html",
+        "source_element": "a",
+        "source_rel": null,
+        "status": "unvisited_literal_related_card_href_with_name_path_mismatch",
+        "observed_card_title": "MCBL Health Protect",
+        "limit": "URL slug is not a product name; no separate Platinum Invest Elite product is asserted."
+      },
+      {
+        "url": "https://www.manulife-chinabank.com.ph/en/individual/products/group-products/group-life/platinum-invest-elite.html",
+        "published_link_label": "Read more",
+        "source_url": "https://www.manulife-chinabank.com.ph/en/individual/products/group-insurance/Group-Personal-Accident.html",
+        "source_element": "a",
+        "source_rel": null,
+        "status": "unvisited_literal_related_card_href_with_name_path_mismatch",
+        "observed_card_title": "MCBL Health Protect",
+        "limit": "URL slug is not a product name; no separate Platinum Invest Elite product is asserted."
+      }
+    ]
+  },
+  {
+    "scope": "pagination",
+    "status": "no_literal_pagination_target_observed",
+    "items": []
+  },
+  {
+    "scope": "language_routes",
+    "status": "literal_CMS_hreflang_references_not_requested",
+    "items": [
+      {
+        "url": "https://www.manulife-chinabank.com.ph/content/insurance/mcbl/en/individual/products/retirement/futureboost-retirement.html",
+        "language_label": "en-ph",
+        "source_url": "https://www.manulife-chinabank.com.ph/en/individual/products/retirement/futureboost-retirement.html",
+        "status": "not_requested_CMS_content_path; not_proof_of_another_public_language_catalog"
+      },
+      {
+        "url": "https://www.manulife-chinabank.com.ph/content/insurance/mcbl/en/individual/products/protection/assure-max.html",
+        "language_label": "en-mcbl",
+        "source_url": "https://www.manulife-chinabank.com.ph/en/individual/products/protection/assure-max.html",
+        "status": "not_requested_CMS_content_path; not_proof_of_another_public_language_catalog"
+      }
+    ]
+  },
+  {
+    "scope": "related_product_routes",
+    "status": "terminal_for_this_pass",
+    "items": [
+      {
+        "official_name": "FutureBoost",
+        "url": "https://www.manulife-chinabank.com.ph/en/individual/products/savings/future-boost.html",
+        "result": "HTTP302_to_independently_retrieved_GoalReady_route; contract_equivalence_unconfirmed"
+      },
+      {
+        "official_name": "Wealth Guarantee",
+        "url": "https://www.manulife-chinabank.com.ph/en/individual/products/wealth/wealth-guarantee.html",
+        "result": "HTTP200_with_visible_404_heading; no_detail_credit"
+      }
+    ]
+  },
+  {
+    "scope": "interactive_UI_and_channels",
+    "status": "not_exercised",
+    "limitation": "Static public English HTML and literal links only; no scripts, APIs, forms, quote/purchase flows, login, or contact actions. Dynamic-only content and unlinked channels are not covered."
+  },
+  {
+    "scope": "riders_and_plan_variants",
+    "status": "partial_named_source_inventory",
+    "limitation": "Four named benefit-rider labels on FutureBoost Retirement and one explicitly named Critical Illness rider on Base Protect are recorded. Unnamed optional riders and underlying benefits are not extra products; complete rider/variant lists are not established."
+  },
+  {
+    "scope": "materials",
+    "status": "literal_link_inventory_only",
+    "limitation": "Brochure labels are observed, not content-verified; no PDF, image, policy wording, publication date, language, or completeness inference."
+  }
+]

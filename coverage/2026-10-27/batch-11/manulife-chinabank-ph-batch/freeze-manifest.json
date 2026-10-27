@@ -1,0 +1,37 @@
+{
+  "metadata_snapshot_at": "2026-10-27T20:31:37.600137+00:00",
+  "original_snapshot_at": "2026-10-27T15:37:54.368370+00:00",
+  "original_manifest_sha256": "cbf1e7929bfa26644cd4a6f889aec422945a72aec9c057b5d192dfca4f2d9e69",
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "18e3a481c5626c6018ba0fb1be2024c354ed035f6d659a1dba8766b2e8cf2148",
+      "bytes": 2475
+    },
+    {
+      "file": "coverage-gaps.json",
+      "sha256": "a990f9623f9f4e1b5b06836a6a0fd55bd7a5a707ffdde7e8daf63cfc4243cfb8",
+      "bytes": 4990
+    },
+    {
+      "file": "coverage-status.json",
+      "sha256": "0a804e58223e5210f67fb8e07dce64b168a6ffb20933b5f4e906224bea013b17",
+      "bytes": 1394
+    },
+    {
+      "file": "products.jsonl",
+      "sha256": "4f0f3aa9b3f0b29b7cde6cad1425862212f98284b919ac98441ad5da17d70697",
+      "bytes": 80442
+    },
+    {
+      "file": "source-visits.jsonl",
+      "sha256": "ed1b5a03e86a27550e363bf512be031d6dc6094bb6525d0db0f17bdacecdfdf9",
+      "bytes": 16535
+    },
+    {
+      "file": "sources.json",
+      "sha256": "81211f197be0dc081631384c2c7d91adca430c1e741cf02ecf33c74771492029",
+      "bytes": 9359
+    }
+  ]
+}

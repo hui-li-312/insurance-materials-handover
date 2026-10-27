@@ -1,0 +1,200 @@
+{
+  "issuer_id": "own-ph-9e03582388b2",
+  "issuer": "Manulife China Bank Life Assurance Corporation",
+  "regulator_association": {
+    "url": "https://www.insurance.gov.ph/wp-content/uploads/2026/06/List-of-Insurance-Compaines-with-Valid-and-Existing-Certificate-of-Authority-as-of-30-September-2026.pdf",
+    "legal_name_as_extracted": "Manulife Chinabank Life Assurance Corporation",
+    "roster_as_of": "2026-09-30",
+    "source_date": null,
+    "original_locally_hash_verified": false,
+    "evidence_limit": "Association uses an existing official extraction; original regulator PDF was not obtained in this pass. Spacing differs from company-page spelling; no exact-text-name match is asserted."
+  },
+  "own_identity": {
+    "url": "https://www.manulife-chinabank.com.ph/en/individual/about-us/who-we-are.html",
+    "sha256": "023a17ca139f9d7b745498b2f047a9c6106cae63b56fabe27b661f1ffa584df3",
+    "own_page_company_spelling": "Manulife China Bank Life Assurance Corporation",
+    "association_status": "own_page_explicit_MCBL_company_identification",
+    "association_note": "Page separately identifies MCBL and describes its alliance with Manulife Philippines and China Banking Corporation. These entities are not merged."
+  },
+  "source_pages": [
+    {
+      "url": "https://www.manulife-chinabank.com.ph/",
+      "sha256": "cc3949614ebc9267a1f684a48fdb217528c45368bb5fec7defebd411b06843a1",
+      "checked_at": "2026-10-27T10:05:00.691713+00:00",
+      "kind": "homepage",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/about-us/who-we-are.html",
+      "sha256": "023a17ca139f9d7b745498b2f047a9c6106cae63b56fabe27b661f1ffa584df3",
+      "checked_at": "2026-10-27T15:25:33.149460+00:00",
+      "kind": "identity",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products.html",
+      "sha256": "2f9d3060c2c496ab9030d7bebb44bd76183b1996ac3ae49243e444e14660299a",
+      "checked_at": "2026-10-27T15:26:16.931965+00:00",
+      "kind": "catalog",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/health.html",
+      "sha256": "9d85bf13c25f1a1676630bc5ff4dc44caa99396a023ec8c1c53e1968be114e83",
+      "checked_at": "2026-10-27T15:26:21.536273+00:00",
+      "kind": "catalog",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/savings.html",
+      "sha256": "0b910ecb29cdcb23d793553d3eebf6ad51fef2eaaf03d03c86339422b1f00651",
+      "checked_at": "2026-10-27T15:26:27.203976+00:00",
+      "kind": "catalog",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/retirement.html",
+      "sha256": "7feaef9005203bab54c15284d9bf1e7a012bd962c8d23a60866bc9c39ea2f46d",
+      "checked_at": "2026-10-27T15:26:31.277404+00:00",
+      "kind": "catalog",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/protection.html",
+      "sha256": "e7565c6182fc972875517741455bc0f4d483ed5b18ed490c3a00abfd181bec02",
+      "checked_at": "2026-10-27T15:26:35.529456+00:00",
+      "kind": "catalog",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/wealth.html",
+      "sha256": "24446b29dc0be031eda8306fba7b3e0b1078fdc504cbba8ab3c37b68dc37cfaa",
+      "checked_at": "2026-10-27T15:26:40.292524+00:00",
+      "kind": "catalog",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/group-insurance.html",
+      "sha256": "a525f8746c879c2b3529e05d8a6684fdaaa0069b684156159cdb475be0291dbc",
+      "checked_at": "2026-10-27T15:26:45.301160+00:00",
+      "kind": "catalog",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/health/goalready-for-health.html",
+      "sha256": "762e416938d985350bd39d2e4998572caad383fe74aaecccb14a48c64f86ffcc",
+      "checked_at": "2026-10-27T15:27:22.257035+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/health/health-flex.html",
+      "sha256": "5dc775014939a8a541a7098177447f0db7c3332925d8150b8da0881c5267ecc8",
+      "checked_at": "2026-10-27T15:27:27.317401+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/retirement/futureboost-retirement.html",
+      "sha256": "e38707b55e0169ff97b351b57bcd598e5b3d9a2e97eca4513bab88ab7609dbcf",
+      "checked_at": "2026-10-27T15:27:31.352175+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/protection/assure-max.html",
+      "sha256": "46c1e1de26956d7fc5c1b3da678ff100c4af3a14c47b3c844f1bc6577b565c6a",
+      "checked_at": "2026-10-27T15:27:35.261471+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/protection/legacy-secure.html",
+      "sha256": "ca5df879057d25e3e5ca0b7c91214bb27791244adc09aba72aa846fbe9e58ebb",
+      "checked_at": "2026-10-27T15:27:39.327892+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/protection/base-protect.html",
+      "sha256": "2875e97d15e4791c00ef142732b45bb84efa931ad8fd46084391d11df29df06e",
+      "checked_at": "2026-10-27T15:27:42.878959+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/savings/goal-ready.html",
+      "sha256": "5b2f0de019d55d164017990fd3c6ae9f079cb5dc2ddf79982d1d4c502d8cfbfe",
+      "checked_at": "2026-10-27T15:27:47.136087+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/savings/mcbl-invest.html",
+      "sha256": "613847f495eab53620366fbc7fccfcf2b6e596d89f0775e7fc90c7364fec00ba",
+      "checked_at": "2026-10-27T15:27:56.706818+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/wealth/wealth-one.html",
+      "sha256": "fc290bd44bf740710f3ae067a8866b43cb6f3391760e898574ccd6416ae22585",
+      "checked_at": "2026-10-27T15:28:02.309965+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/group-insurance/secure-pinoy-group-life-care.html",
+      "sha256": "84d5c068693aea3c93010cdca0492eb3d63285f66656cbdc386da382bd705d19",
+      "checked_at": "2026-10-27T15:28:31.342792+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/group-insurance/MCBL-Health-Protect.html",
+      "sha256": "456b23f2b5884587765fbc51c771f7bb5fccaf3ff899074fcdcc51843582f8b5",
+      "checked_at": "2026-10-27T15:28:35.416848+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/group-insurance/Group-Credit-Life.html",
+      "sha256": "a9a834ea192bc523c100f713d24dc3e84ef57f8ad20c06fbc88f06ee6fc1f6b7",
+      "checked_at": "2026-10-27T15:28:40.215948+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/group-insurance/Group-Life-Insurance.html",
+      "sha256": "ca675393dcfe9e36c10be008cd5b78a656f3ca96409887b96bfd91357c0b93b4",
+      "checked_at": "2026-10-27T15:28:45.408677+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/group-insurance/Group-Personal-Accident.html",
+      "sha256": "ef40108bc1e5c709375cbf8c85bea7b6c161a8850b9aaa778b562fc386f0462c",
+      "checked_at": "2026-10-27T15:28:49.793010+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/group-insurance/Secure-Pinoy.html",
+      "sha256": "8c576146dfef9325e823d4f9a41d474807b4afcd8599405905bbe6c0b3b9e098",
+      "checked_at": "2026-10-27T15:28:54.376925+00:00",
+      "kind": "product_detail",
+      "source_date": null
+    },
+    {
+      "url": "https://www.manulife-chinabank.com.ph/en/individual/products/wealth/wealth-guarantee.html",
+      "sha256": "8e6033aca3ee29afb592d603b6b574f4e336cd52d214487a81fba2e64e0a62bf",
+      "checked_at": "2026-10-27T15:29:38.193592+00:00",
+      "kind": "not_found_200_visible_heading",
+      "source_date": null
+    }
+  ],
+  "material_files_requested": 0,
+  "formal_original_count_credit": 0,
+  "crawl_method": "Static public HTML and literal href/Location observations; no document download or dynamic catalog execution. Cached source bytes independently rehashed in local metadata audit.",
+  "regulator_original_verified_in_this_audit": false
+}
