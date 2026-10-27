@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-10-27T13:07:26.726908+00:00",
+  "scope": "Narrow previously published BN/KH held-locator repair only",
+  "changed_product_material_occurrences": 2,
+  "changed_product_rows": 1,
+  "new_historical_material_identities": 0,
+  "current_byte_evidence": "Two aliases independently rehashed to one existing held SHA-256; raw bytes remain private HOLD.",
+  "source_totals_unchanged": {
+    "observations": 428,
+    "material_occurrences": 581,
+    "unique_material_urls": 472
+  },
+  "public_locator_counts": {
+    "before_occurrences": 559,
+    "after_occurrences": 557,
+    "before_unique_urls": 459,
+    "after_unique_urls": 457
+  },
+  "withheld_locator_occurrences": {
+    "before": 22,
+    "after": 24
+  },
+  "all_other_product_material_facts": "unchanged",
+  "raw_locator_before_values": "intentionally_not_included",
+  "verified_original_count_increment": 0
+}

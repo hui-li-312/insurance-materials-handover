@@ -204,9 +204,9 @@
     "linked_material_occurrences": 581,
     "downloaded_verified_original_increment": 0,
     "source_observed_unique_linked_material_urls": 472,
-    "public_unique_material_urls": 459,
-    "public_material_url_occurrences": 559,
-    "withheld_material_locator_occurrences": 22,
+    "public_unique_material_urls": 457,
+    "public_material_url_occurrences": 557,
+    "withheld_material_locator_occurrences": 24,
     "source_observed_material_occurrences": 581,
     "material_count_basis": "Source-observed counts retain historical-held associations; public URL counts include only non-null exposed locators."
   },
@@ -235,12 +235,19 @@
   },
   "frozen_at": "2026-10-27T10:47:04.712866+00:00",
   "public_projection": {
-    "created_at": "2026-10-27T11:37:04.438913+00:00",
+    "created_at": "2026-10-27T13:07:26.726908+00:00",
     "qa_status": "independent_qa_pending",
     "product_material_occurrences_retained": 581,
-    "product_material_occurrences_withheld_locator": 22,
-    "product_material_occurrences_with_public_locator": 559,
+    "product_material_occurrences_withheld_locator": 24,
+    "product_material_occurrences_with_public_locator": 557,
     "verified_original_count_increment": 0,
-    "note": "Exact locator matches a historically held original. Current bytes were not retrieved or verified; direct locator withheld pending reuse review. Historical hold does not establish current confidentiality."
+    "note": "Historically held locators are withheld pending reuse review. Most current bytes remain unverified; two newly identified aliases were privately acquired and exactly match an existing held SHA-256. Historical hold alone does not establish current confidentiality. No raw files released or new verified originals counted.",
+    "new_alias_reconciliation": {
+      "newly_withheld_product_material_occurrences": 2,
+      "distinct_existing_held_sha256_identities_matched": 1,
+      "current_byte_comparison": "Exact SHA-256 recomputed independently; raw files retained privately on HOLD, not published.",
+      "prior_publication_scope": "Narrow repair of previously published BN/KH metadata only; no new countries or products.",
+      "verified_original_count_increment": 0
+    }
   }
 }

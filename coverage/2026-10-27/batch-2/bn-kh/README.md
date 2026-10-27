@@ -1,8 +1,8 @@
 # Public insurer census and partial catalog metadata — BN/KH v4
 
-Frozen: 2026-10-27T10:47:04.712866+00:00
+Original source-data snapshot: 2026-10-27T10:47:04.712866+00:00. The latest redaction freeze is recorded in manifest.json.
 
-**In progress, not a complete all-region/all-product catalog.** This snapshot supersedes the v3 for progress reporting, but does not change verified-original document totals. It includes 139 issuer/candidate records and 428 metadata observations: BN 144 and KH 284. **Zero new downloaded/verified originals.**
+**In progress, not a complete all-region/all-product catalog.** This snapshot supersedes the v3 for progress reporting, but does not change verified-original document totals. It includes 139 issuer/candidate records and 428 metadata observations: BN 144 and KH 284. **Zero new publicly released or formally verified originals.**
 
 ## Denominator scope
 - BN: 11 entities; all four observed BDCB life/non-life/family/general-takaful filters exhausted. Effective date and new-business/run-off flags absent; not a legal current-status certification.
@@ -14,7 +14,7 @@ Frozen: 2026-10-27T10:47:04.712866+00:00
 ## Catalog scope and counts
 - BN: 11 issuers attempted; 6 partial and 5 blocked. 144 metadata rows, 202 linked-material occurrences. Standard's former transient 503 product pages now return normal 200; its two resource-only candidates retain product-specific links, not all resource-directory documents.
 - KH: all 39 entities have company-name discovery/queue records. 23 partial, 10 blocked and 6 unchecked/quarantined. 16 entities have metadata observations, not complete catalogs. 284 rows include 13 category directories, 33 named coverage classes, 28 riders, 5 benefit/rider candidates, 4 base-and-rider packages, 2 group umbrella packages, 17 group products, 69 named products and 113 product families. This is **not 284 unique current products**.
-- KH 379 linked-material occurrences; BN+KH total 581 occurrences. Materials remain links only and may cover embedded riders/options; document content, terms, currentness and original provenance are unverified.
+- KH 379 linked-material occurrences; BN+KH total 581 occurrences. These public material entries remain link-level metadata and may cover embedded riders/options; they do not represent released files or formally verified complete/current contracts. The two newly confirmed held aliases are described separately below.
 - No market is marked complete_public_catalog. Source dates unknown are null. Language/category/channel duplicate contexts are flagged, not blindly counted as unique contracts. Exact existing `insurer` labels are compared literally, without fuzzy cross-entity merging.
 
 ## Important distinctions
@@ -37,4 +37,9 @@ Four same-brand non-/life/ Forte routes are attributed to Forte Life from observ
 
 ## Historical-held material locator projection
 
-This derivative is pending independent QA. All source metadata rows and material occurrences remain; 22 product-linked material occurrences have their direct locators withheld. Stable references and historical held SHA-256 values preserve lineage without publishing the locator registry. Current bytes were not retrieved or verified; reuse review is pending. A historical hold does not establish current confidentiality. No new verified originals are counted. Earlier source snapshots must not be published unchanged.
+This derivative is pending independent QA. All source metadata rows and material occurrences remain; 24 product-linked material occurrences have their direct locators withheld. Stable references and historical held SHA-256 values preserve lineage without publishing the locator registry. Most current bytes remain unverified; two newly identified aliases were privately acquired and confirmed to match an existing historical-held SHA-256. Those files remain privately held and reuse review is pending. A historical hold does not establish current confidentiality. No new verified originals are counted. Earlier source snapshots must not be published unchanged.
+
+
+## Narrow byte-confirmed alias repair
+
+Exactly two additional product-material locators are withheld. The 428 observations, 581 source material occurrences and 472 source-unique URLs are unchanged. Public exposure is now 557 occurrences / 457 unique URLs; 24 occurrences are withheld across the same 13 held identities. No raw original, additional product or country, or verified-original credit is released. All other product/material facts and prior audit notes are preserved.

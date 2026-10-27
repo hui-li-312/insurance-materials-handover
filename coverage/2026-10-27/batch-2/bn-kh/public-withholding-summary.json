@@ -1,17 +1,17 @@
 {
-  "created_at": "2026-10-27T11:37:04.438913+00:00",
-  "projection_basis": "Previously frozen metadata snapshot; recursive known-historical-held-locator withholding applied locally. Source freeze unchanged.",
+  "created_at": "2026-10-27T13:07:26.726908+00:00",
+  "projection_basis": "Narrow repair of previously published redacted BN/KH metadata. Only two newly byte-confirmed held locator associations changed; all other product/material facts preserved.",
   "qa_status": "independent_qa_pending",
-  "source_snapshot": "public-safe-bn-kh-v4a-20261027T1047Z",
+  "source_snapshot": "public-redacted-bn-kh-v4c-20261027T1137Z",
   "metadata_rows": 428,
   "product_material_occurrences_retained": 581,
-  "product_material_occurrences_withheld_locator": 22,
-  "product_material_occurrences_with_public_locator": 559,
-  "all_file_withheld_locator_occurrences": 23,
+  "product_material_occurrences_withheld_locator": 24,
+  "product_material_occurrences_with_public_locator": 557,
+  "all_file_withheld_locator_occurrences": 25,
   "distinct_historical_materials_withheld": 13,
   "per_file": {
     "products.jsonl": {
-      "withheld_locator_occurrences": 22,
+      "withheld_locator_occurrences": 24,
       "distinct_historical_materials": 13
     },
     "qa-corrections-v4.json": {
@@ -20,5 +20,12 @@
     }
   },
   "verified_original_count_increment": 0,
-  "interpretation": "Exact locator matches a historically held original. Current bytes were not retrieved or verified; direct locator withheld pending reuse review. Historical hold does not establish current confidentiality."
+  "interpretation": "Historically held locators are withheld pending reuse review. Most current bytes remain unverified; two newly identified aliases were privately acquired and exactly match an existing held SHA-256. Historical hold alone does not establish current confidentiality. No raw files released or new verified originals counted.",
+  "new_alias_reconciliation": {
+    "newly_withheld_product_material_occurrences": 2,
+    "distinct_existing_held_sha256_identities_matched": 1,
+    "current_byte_comparison": "Exact SHA-256 recomputed independently; raw files retained privately on HOLD, not published.",
+    "prior_publication_scope": "Narrow repair of previously published BN/KH metadata only; no new countries or products.",
+    "verified_original_count_increment": 0
+  }
 }
