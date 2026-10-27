@@ -32,7 +32,7 @@
   },
   "scope": "Bounded collected corpus; not all-market or all-products completeness. Clean projection, not complete canonical historical audit index.",
   "raw_recovery_status": "4713_originals_restored_and_sha256_verified",
-  "permissions": "Private handover only; no permission to publicly rehost third-party documents or to commercially reuse inferred.",
+  "permissions": "Public repository and existing ordinary release assets; public access does not grant third-party copyright, redistribution, training or commercial-use rights, or authorization to publish new or quarantined originals.",
   "raw_bytes": 7481966941,
   "raw_release_asset_count": 18,
   "raw_release_upload_status": "published_github_sha256_verified",
