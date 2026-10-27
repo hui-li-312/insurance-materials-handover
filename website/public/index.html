@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#2457d6">
+  <meta name="description" content="先选择地区，再找到保险产品，集中查看官方宣传册、主条款、附加条款及配套材料。">
+  <title>保险产品资料库 · 地区、产品、材料</title>
+  <link rel="stylesheet" href="library.css">
+  <script type="module" src="library-app.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#content">跳至产品列表</a>
+<header class="topbar">
+  <a href="./" class="brand" aria-label="保险产品资料库首页"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M4 5.5C7 4.5 9.5 5 12 6.5c2.5-1.5 5-2 8-1v14c-3-1-5.5-.5-8 1-2.5-1.5-5-2-8-1v-14Z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M12 7v13" stroke="currentColor" stroke-width="1.7"/></svg></span><span>保险产品资料库<small>按地区查产品 · 看材料</small></span></a>
+  <span class="header-note"><span></span>官方公开资料索引</span>
+</header>
+<div class="workspace">
+  <aside class="region-sidebar" aria-label="选择国家或地区">
+    <div class="sidebar-label">选择地区 <span>01</span></div>
+    <nav id="region-list" class="region-list" aria-label="国家或地区"><div class="region-placeholder">正在加载地区…</div></nav>
+    <div class="sidebar-foot">香港与东南亚<br><span>按已收集资料整理，持续补充。</span></div>
+  </aside>
+  <main id="content" tabindex="-1">
+    <section class="intro">
+      <p class="eyebrow">让资料更好找</p>
+      <h1>找到产品，<span>看清有哪些材料。</span></h1>
+      <p class="intro-copy">先选地区，再选产品。宣传册、主条款和配套文件，都放在产品下面。</p>
+      <ol class="steps" aria-label="使用步骤"><li><b>1</b>选择地区</li><li aria-hidden="true" class="step-line"></li><li><b>2</b>找到产品</li><li aria-hidden="true" class="step-line"></li><li><b>3</b>查看材料</li></ol>
+    </section>
+    <section class="catalog" aria-labelledby="region-title">
+      <div class="section-heading"><div><p class="section-kicker">产品目录</p><h2 id="region-title">香港</h2></div><p id="catalog-count" class="catalog-count" aria-live="polite">正在加载资料…</p></div>
+      <form id="filters" class="filter-bar" role="search" autocomplete="off">
+        <label class="searchbox"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none"><circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 4.5 4.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg><span class="sr-only">搜索产品名称或保险公司</span><input id="product-search" type="search" placeholder="搜索产品名称或保险公司" maxlength="200"><button class="clear-search" id="clear-search" type="button" aria-label="清除搜索" hidden>×</button></label>
+        <label class="selectbox"><span class="sr-only">筛选产品类别</span><select id="category-filter"><option value="">所有类别</option></select></label>
+      </form>
+      <div id="active-search" class="active-search" hidden></div>
+      <p class="catalog-note" id="catalog-note">产品名称保留原文；不同版本与渠道分别呈现。</p>
+      <div id="catalog-status" class="catalog-status" role="status"><span class="spinner" aria-hidden="true"></span><h3>正在整理产品目录</h3><p>加载后即可按产品查看材料。</p></div>
+      <div id="product-list" class="product-grid" aria-live="polite" aria-busy="true"></div>
+      <div class="more-row"><button id="load-more" type="button" class="secondary-button" hidden>显示更多产品</button></div>
+    </section>
+    <details class="collection-notes">
+      <summary><span>资料范围与收集说明</span><span class="summary-plus" aria-hidden="true">+</span></summary>
+      <div><p>这里只整理已收集的官方公开材料，不代表全市场目录或产品目前在售。材料数量不是完整保单数量；没有列出主条款，也不代表官网不存在。</p><p>“产品归属待核”表示暂按原始产品标签单独整理，尚未确认独立产品身份。不同承保人、合同、渠道与版本不会仅凭名称相似合并。</p><p id="snapshot-note">本次目录沿用既有已发布资料快照。</p><a href="legacy.html">查看原收集与核验视图 <span aria-hidden="true">↗</span></a></div>
+    </details>
+    <footer><span>保险产品资料库</span><span>只链接官方公开来源 · 不展示私人原件</span></footer>
+  </main>
+</div>
+<noscript><p class="noscript">请启用 JavaScript 以按地区和产品浏览资料。也可进入<a href="legacy.html">原资料视图</a>。</p></noscript>
+</body>
+</html>
