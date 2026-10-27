@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "compiled_at": "2026-10-27T11:53:35.171405+00:00",
+  "status": "in_progress_not_all_market_complete",
+  "formal_original_baseline": 4713,
+  "new_formal_original_credit": 0,
+  "aggregation_rule": "Read active feeds only. Cumulative snapshots replace predecessors; overlapping catalogue/registry/language/version observations are not additive unique SKUs.",
+  "feeds": [
+    {
+      "id": "hk_sg_my_catalog",
+      "path": "2026-10-27/batch-2/hk-sg-my/",
+      "source_observations": 435,
+      "supersedes": "2026-10-27/hk-sg-my/",
+      "unit": "mixed_named_products_riders_groups_categories_services_not_unique_skus"
+    },
+    {
+      "id": "bn_kh_catalog_and_regional_queues",
+      "path": "2026-10-27/batch-2/bn-kh/",
+      "source_observations": 428,
+      "supersedes": "2026-10-27/vn-bn-kh-la-mm/",
+      "unit": "BN144_plus_KH284_mixed_catalog_observations_not_unique_skus",
+      "source_material_occurrences": 581,
+      "publicly_exposed_occurrences": 559,
+      "withheld_occurrences": 22,
+      "source_unique_material_urls": 472,
+      "publicly_exposed_unique_material_urls": 459,
+      "matched_historical_held_identities": 13
+    },
+    {
+      "id": "ocean_life_selected_catalog",
+      "path": "2026-10-27/batch-2/ocean-life/",
+      "named_observations": 59,
+      "unit": "42_product_observations_base_role_unconfirmed_14_riders_3_packages"
+    },
+    {
+      "id": "ocean_life_group_supplement",
+      "path": "2026-10-27/batch-2/ocean-group/",
+      "named_observations": 2,
+      "unit": "2_named_group_plans_with_4_nonproduct_coverage_classes"
+    },
+    {
+      "id": "hk_vhis_scheme_registry",
+      "path": "2026-10-27/batch-2/vhis-registry/",
+      "latest_group_records": 103,
+      "historical_group_records": 326,
+      "variant_version_ids": 2589,
+      "unit": "scheme_registry_groups_versions_variants_not_unique_current_sale_products",
+      "overlap_notice": "May overlap other HK catalogue observations. Scheme scope only, not all HK licences or products.",
+      "source_observed_document_reference_urls": 7323,
+      "publicly_exposed_document_urls": 7299,
+      "withheld_historical_locator_records": 24
+    },
+    {
+      "id": "krungthai_axa_catalog",
+      "path": "2026-10-27/krungthai-axa/",
+      "main_catalog_cards": 29,
+      "directory_ids_including_separate_scopes": 43,
+      "locale_records": 86,
+      "unit": "main_catalog_plus_separately_labelled_group_and_component_scopes"
+    },
+    {
+      "id": "th_id_ph_initial_observations",
+      "path": "2026-10-27/th-id-ph/",
+      "source_observations": 13,
+      "unit": "bounded_initial_two_issuer_observations_and_dated_regional_census"
+    }
+  ],
+  "public_projection_rule": "Known historical or already-held raw locators are withheld; observed source-reference counts are not the count of exposed download URLs. No current-file confidentiality finding or fresh-byte verification is inferred."
+}
