@@ -1,0 +1,2274 @@
+{
+  "count": 378,
+  "archives": [
+    {
+      "archive_name": "bn-new-public-disclosures-4files-15pages-20261023.zip",
+      "archive_sha256": "5f704900b5af0d0eebe293872ee6740aa8b21d186c0ce0ff3fa82959e3987a36",
+      "archive_bytes": 4028750,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "cambodia-prusave-elite-r2-private-20261025.zip",
+      "archive_sha256": "2e88c6ba529a99fdeeca7ac92ff65acd15e6cbda5865fce350abc29cfda72067",
+      "archive_bytes": 863487,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "hk-boc-irefund-iprotect-historical-private-20261025.zip",
+      "archive_sha256": "d87f50ba19b0aaee2bb6e054b71f8f9eed3518646f799c351024ea9cd5e97748",
+      "archive_bytes": 4705561,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "hk-ewp2-original-evidence-20261024.zip",
+      "archive_sha256": "90348b9a8bc2fbc4f24e5e7df31b650ea925f76c1f89ce564cc8ab9bed304fe8",
+      "archive_bytes": 3885345,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "hk-generali-zurich-20261024-r2-part01.zip",
+      "archive_sha256": "896c3c13d277ecdaa38711de1be3b791d29ab19b1488c32c0b495530cf397e45",
+      "archive_bytes": 23113591,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "hk-historical-hospital-list-final-all25visual-20261023.zip",
+      "archive_sha256": "6dce874efd8bcc944a9efdbfc6021c95200101d2d80dee5379debe2c3b6f1913",
+      "archive_bytes": 9790548,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "hk-hsbc-life-pics-support-20261023.zip",
+      "archive_sha256": "47d2eeb1567859906b305e66349a7ba39392f6f16a8d88da3856d0b0f4ff5952",
+      "archive_bytes": 39571,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot02-20261022-part01.zip",
+      "archive_sha256": "076e56656f715d066d830fe1a3165b59c781366bf60f47283edc185ba2173669",
+      "archive_bytes": 11540829,
+      "matched_members": 20
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot02-20261022-part02.zip",
+      "archive_sha256": "b3c342b6539dc63e02943c0e7edb197b1a19b49699d62fc00390db20bcdeb7e4",
+      "archive_bytes": 11694595,
+      "matched_members": 13
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot02-20261022-part03.zip",
+      "archive_sha256": "0b2ea7cacd10ea34496a1481cc0b0992f6c577565f00a24dbff4e6d6014e0410",
+      "archive_bytes": 10561857,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot02-20261022-part04.zip",
+      "archive_sha256": "27e6fa348268366e2eda45ea9c02ca622572e7823d15195fda6a7412bd986bed",
+      "archive_bytes": 11673330,
+      "matched_members": 14
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot02-20261022-part05.zip",
+      "archive_sha256": "095983f9ab7613d5a4c8b33c1928b35061c81f60cd579794b2584d6c270c807c",
+      "archive_bytes": 10967399,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot02-20261022-part06.zip",
+      "archive_sha256": "a4c3710782e829796bb1da8f6592cc1676a76e141132fb31606e4401614d2148",
+      "archive_bytes": 11317347,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot02-20261022-part07.zip",
+      "archive_sha256": "517f49ba0f35498619a3aaf0e8f833abad4d8355862aaaeb067d19fe8bd1f754",
+      "archive_bytes": 11641028,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot02-20261022-part08.zip",
+      "archive_sha256": "07ab0087ef327ec6b3872b0f3f8df43e920e7319a77e9c7f86530b288936d8fa",
+      "archive_bytes": 11640662,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot02-20261022-part09.zip",
+      "archive_sha256": "c143b5f49cc59fe8f0e4e2380f451ab18cdb864089016a3152aee3fe955037fb",
+      "archive_bytes": 10301753,
+      "matched_members": 11
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot02-20261022-part10.zip",
+      "archive_sha256": "7562b1ced4e801ebac47b48035fd586c08b6b0a55a0fccc3bf9057b007911ca0",
+      "archive_bytes": 7062952,
+      "matched_members": 7
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot03-20261022-part01.zip",
+      "archive_sha256": "b5cb45e67c912e44380cc578ece70429e0c7c787074099fa873084f795179f74",
+      "archive_bytes": 11416690,
+      "matched_members": 14
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot03-20261022-part02.zip",
+      "archive_sha256": "a7943ac13bb09b868cd0c4d95e9ebb5e907390fd2bfc42c9e4af7ac5c8d0c52d",
+      "archive_bytes": 11200277,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot03-20261022-part03.zip",
+      "archive_sha256": "39b2bc7c2c08d977dbdae218242c05a2c67cdde9af287ea8d93c900c3057976f",
+      "archive_bytes": 11641135,
+      "matched_members": 15
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot03-20261022-part04.zip",
+      "archive_sha256": "314c26f19bc237e06ce7ef6b6b792e95544605aa614782c95c9ab576571f59fe",
+      "archive_bytes": 11172306,
+      "matched_members": 15
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot03-20261022-part05.zip",
+      "archive_sha256": "c33c5531353bb66fb1481c03843dc66bcc79230789e7f0e47d1773348cd2efd7",
+      "archive_bytes": 9760735,
+      "matched_members": 13
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot03-20261022-part06.zip",
+      "archive_sha256": "7431157530dc632d0059ebc42cc9ede9a9d8993b854ce196c27964663b17ca8c",
+      "archive_bytes": 9200318,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot03-20261022-part07.zip",
+      "archive_sha256": "ba806db81140aa59fdf826e0cb0218ded25955365a8f9fe5f4e59ce464b4efbf",
+      "archive_bytes": 9225692,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot03-20261022-part08.zip",
+      "archive_sha256": "3414a19bbec4e4d1b262639a91621a9be72f8de21b312f2748762924af5bc98a",
+      "archive_bytes": 9233429,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot03-20261022-part09.zip",
+      "archive_sha256": "4f78abb775558273cb7df38b3f3b545f07d829a987d02c3192f7dc54b916a47b",
+      "archive_bytes": 9246662,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot03-20261022-part10.zip",
+      "archive_sha256": "3ff0aa38b53487514302c6f5fce06b825822d6f851297516d0f861bc6ba1c0dd",
+      "archive_bytes": 9252620,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot03-20261022-part11.zip",
+      "archive_sha256": "2381ff0fd010551d15561aa2d2c5a1bb08a1e2c7faf7e37669e224a5c4ae496f",
+      "archive_bytes": 9371515,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot03-20261022-part12.zip",
+      "archive_sha256": "4a65a75e91781531a319d337a96484944a00bc5db5a20c50a137a48877b67cbd",
+      "archive_bytes": 4157335,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot04-20261022-part01.zip",
+      "archive_sha256": "c1cbae37415ce6480caee95bdbbbfc207060414d55e96267b37503cfbd3665a0",
+      "archive_bytes": 33230826,
+      "matched_members": 34
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot04-20261022-part02.zip",
+      "archive_sha256": "36971c536db51b4542b0e741db64815737b5845c9916f730f2e0c49997e7d817",
+      "archive_bytes": 33363728,
+      "matched_members": 39
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot04-20261022-part03.zip",
+      "archive_sha256": "db0465da2492ed29dd00b6ba955f321cf48dfb3b0da7dfe60282917aa5666298",
+      "archive_bytes": 38456399,
+      "matched_members": 37
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot04-20261022-part04.zip",
+      "archive_sha256": "648a47322a521ac27fdc091cdba1274fb3fd99dd3d79a0cd583368b9b028dbf6",
+      "archive_bytes": 31443018,
+      "matched_members": 48
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot05-20261022-part01.zip",
+      "archive_sha256": "db881e2ace0d572dd15c223dba5753f08c0d089aafc9d7643e66569ca52d9575",
+      "archive_bytes": 37837267,
+      "matched_members": 38
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot05-20261022-part02.zip",
+      "archive_sha256": "18439cc8d91c56ac736c8b26e198f737c0875b9db59189950cbacfa2905c39ef",
+      "archive_bytes": 38644211,
+      "matched_members": 37
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot05-20261022-part03.zip",
+      "archive_sha256": "47d69f094ac4a65f3e7321e61a63392d36b879c3a72302da4b3faf97a190ce82",
+      "archive_bytes": 27032011,
+      "matched_members": 26
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot06-20261022-part01.zip",
+      "archive_sha256": "723975c2127fac4a77a553fa2e9ea6fb72b7eb6470a2a156445021b95a9de529",
+      "archive_bytes": 38726515,
+      "matched_members": 31
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot06-20261022-part02.zip",
+      "archive_sha256": "cc04e955cf8e1a4daa7fc60c0f02728469e957c62eec465b863aaa86aa8de7a2",
+      "archive_bytes": 37045566,
+      "matched_members": 37
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot06-20261022-part03.zip",
+      "archive_sha256": "77d3fb652e6d0e52305011e9942002b0f2ca34dc6fd9e0affffe123775efb562",
+      "archive_bytes": 39265984,
+      "matched_members": 41
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot06-20261022-part04.zip",
+      "archive_sha256": "cdf0a9da044be174b3c852cc8001b488979f987d5ad469c739d910e9b3f201bb",
+      "archive_bytes": 35970835,
+      "matched_members": 52
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot06-20261022-part05.zip",
+      "archive_sha256": "c742827ed4d2c403153cced35b293d847e36dd92236a3014a716074e3bd777c8",
+      "archive_bytes": 32191638,
+      "matched_members": 38
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot06-20261022-part06.zip",
+      "archive_sha256": "b3dfa698c635289048aa0d2cc68f5288c996589cfcbb1208eb3a5c2db4c24e5f",
+      "archive_bytes": 6689164,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot07-20261022-part01.zip",
+      "archive_sha256": "450aa1d33375c3ace094b11f4981e4598a6ff092706e2e5eb0d7b94525e12865",
+      "archive_bytes": 36100554,
+      "matched_members": 28
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot07-20261022-part02.zip",
+      "archive_sha256": "16d76b1d4507a98b2f79b59b9fcbde129c98e911d4b3d78daa96c97e016b2cf0",
+      "archive_bytes": 34802869,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot07-20261022-part03.zip",
+      "archive_sha256": "e96d98950330d1e21636b0403230d0f53e75a0a2d760563e9f39e90473bc6ffe",
+      "archive_bytes": 38162814,
+      "matched_members": 36
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot07-20261022-part04.zip",
+      "archive_sha256": "9cbbd40f877e773ec0b9f7cc779d8670000fff4df7422cf2d05d8ba5f5286c57",
+      "archive_bytes": 21178110,
+      "matched_members": 30
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot08-20261022-part01.zip",
+      "archive_sha256": "ec0fe0fb146818094476f7dc5d6a9946824d4e21dd8ae73356697a2b4db76ae9",
+      "archive_bytes": 33336866,
+      "matched_members": 33
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot08-20261022-part02.zip",
+      "archive_sha256": "86692cc94e0eb4317b7eaf8d574aaa933ac3b78897aedc32f603d3f4c5f908dd",
+      "archive_bytes": 32936363,
+      "matched_members": 42
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot08-20261022-part03.zip",
+      "archive_sha256": "e00026c895db15a5f8c38143a34afacb37d58c815ecf47372e035803d8edf3b6",
+      "archive_bytes": 33366049,
+      "matched_members": 28
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot08-20261022-part04.zip",
+      "archive_sha256": "e091444e97e018d9ca89e44ebb28d58760a009deb7ade43dd9f2eb1f415911e2",
+      "archive_bytes": 29828810,
+      "matched_members": 22
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot08-20261022-part05.zip",
+      "archive_sha256": "13065e22d4935ada918948a289ed0ae17e224d89595725a7a90bdc5239a6ff41",
+      "archive_bytes": 31340229,
+      "matched_members": 60
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot09-20261022-part01.zip",
+      "archive_sha256": "3ddd72f85a1f8f5b7046730b817dfd85a5c124ad5e690d4b01e54be548f48154",
+      "archive_bytes": 31634271,
+      "matched_members": 26
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot09-20261022-part02.zip",
+      "archive_sha256": "cbe8bb44d0bb64f45d8ffeb0deca700c76a57ab7adc537b8e80a518820190a99",
+      "archive_bytes": 32575612,
+      "matched_members": 33
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot09-20261022-part03.zip",
+      "archive_sha256": "8c730d0024c459fb1e928f2d1cf0f89aa4c971cf4ceaa0d8987b69ca2ac3cb07",
+      "archive_bytes": 30874038,
+      "matched_members": 27
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot09-20261022-part04.zip",
+      "archive_sha256": "bd8bf84ae7ba32cd62408d480c16b4bcd4be12b1a0a9649145eedf6fe42daac9",
+      "archive_bytes": 32202872,
+      "matched_members": 27
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot09-20261022-part05.zip",
+      "archive_sha256": "e004e70063267e177912e0f07e48aaf13d977a7fbd18abceae99ac7f6402bbc6",
+      "archive_bytes": 32162630,
+      "matched_members": 26
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot09-20261022-part06.zip",
+      "archive_sha256": "e3e02214af2c8cc2db0bf2e831a51fa3c6cdf95f5bf385e91d81678684e71711",
+      "archive_bytes": 19232938,
+      "matched_members": 32
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot10-20261022-part01.zip",
+      "archive_sha256": "d0a966357928cf518a144654e17f99a25aefd27b240a22699f1c6a115d341473",
+      "archive_bytes": 39090311,
+      "matched_members": 47
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot10-20261022-part02.zip",
+      "archive_sha256": "c7000dcd3aa9c92c75b41ed26aee144cd6299963893f4036fb6df47da47978f9",
+      "archive_bytes": 39703087,
+      "matched_members": 44
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot10-20261022-part03.zip",
+      "archive_sha256": "a5e0f10ba589d804465f37a7807fbfcfa1d7d3de4fb322b139fd639995c39a63",
+      "archive_bytes": 38491496,
+      "matched_members": 45
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot10-20261022-part04.zip",
+      "archive_sha256": "4c31b852a6d6cb15d5f6d41afc4a0ad9e565acd1f525799a10e6b33f596e97ad",
+      "archive_bytes": 33451761,
+      "matched_members": 39
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot10-20261022-part05.zip",
+      "archive_sha256": "954e803315aada5f29549ad0cf701470a3aebd981e395219672c7a46ac4bac09",
+      "archive_bytes": 31907708,
+      "matched_members": 28
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot11-20261022-part01.zip",
+      "archive_sha256": "31b4ff94829f127fa8776aafffc78241a486db69a04ce0da6c5dcbee2b2053ca",
+      "archive_bytes": 33920623,
+      "matched_members": 41
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot11-20261022-part02.zip",
+      "archive_sha256": "25072e832ca63bb3da6975f6a9723964e1ba321cfb8673f76f916ff92d8dcf5b",
+      "archive_bytes": 36711154,
+      "matched_members": 54
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot11-20261022-part03.zip",
+      "archive_sha256": "1eef5af8a039ed15689d338d9e8029101c63834dc81078a10cd084d83ab789f9",
+      "archive_bytes": 38722712,
+      "matched_members": 38
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot11-20261022-part04.zip",
+      "archive_sha256": "1d8b892db292b5bd3fb210c3dc95b9594dcc8e29e06960115fb355807a535b6a",
+      "archive_bytes": 35237378,
+      "matched_members": 28
+    },
+    {
+      "archive_name": "hk-insurance-incremental-snapshot12-20261022-part01.zip",
+      "archive_sha256": "c1afebc30b336a93d4cf6c4b2099a4b80b01311b5852a3f62a24ee712a95de0a",
+      "archive_bytes": 1351790,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "hk-insurance-nonmedical-batches001-003-20261022-part01.zip",
+      "archive_sha256": "9b27c1f441356703234c3b92f8f89a7c0f13a16e0467c3f1f8923dea828262a1",
+      "archive_bytes": 32895285,
+      "matched_members": 59
+    },
+    {
+      "archive_name": "hk-insurance-phase2-nonmedical-001-part01.zip",
+      "archive_sha256": "5334d452903d94b65701d5e49dfe7b7952c2c94c8f7efc7bad21384c4e1c4952",
+      "archive_bytes": 9328757,
+      "matched_members": 23
+    },
+    {
+      "archive_name": "hk-insurance-phase2-nonmedical-002-part01.zip",
+      "archive_sha256": "082773ce050fbcede23e73420b38b19fa2a87560e6031a07a31764d037b28be3",
+      "archive_bytes": 386784,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "hk-insurance-phase2-nonmedical-003-part01.zip",
+      "archive_sha256": "0a0755c1af43263a7884231eb742380f9369775ead759bc088782f133be58d54",
+      "archive_bytes": 4274446,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "hk-insurance-phase2-nonmedical-004-part01.zip",
+      "archive_sha256": "8b3cdfadcb87bf11905061269f5c4ccf9e99aef6fd4802d70f0a61edd77836bb",
+      "archive_bytes": 12051031,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "hk-insurance-phase2-nonmedical-005-part01.zip",
+      "archive_sha256": "305e926db1708dfc960f045f4249dd251c48f08de19e64f269a379cd83a45b82",
+      "archive_bytes": 432038,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "hk-insurance-phase2-nonmedical-006-part01.zip",
+      "archive_sha256": "2adfe530a21368599640cf548c6e0aeff8e7563c5902d500f7d8c47027a1d9a4",
+      "archive_bytes": 87015,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "hk-insurance-phase2-nonmedical-007-part01.zip",
+      "archive_sha256": "8efd91c87ecedcdefc2270efcd4a16734f1e84b439f986c1a7edfdea000626cd",
+      "archive_bytes": 3687473,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "hk-insurance-phase2-nonmedical-008-part01.zip",
+      "archive_sha256": "2613a45312fe1a7554847bd025cfa6e011de2a1e0fde727d02dc4b195933650a",
+      "archive_bytes": 761269,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "hk-insurance-phase2-nonmedical-009-part01.zip",
+      "archive_sha256": "3c178f523c68b7914e86cd5f9c7a8a97235a9e4b6176da5337c0fa84ff5fc6f1",
+      "archive_bytes": 4225554,
+      "matched_members": 7
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-01-20261022-part01.zip",
+      "archive_sha256": "c1548d0b3fc21a042df57430162b0df4d775abc878d7dcbbdcfb2f66feb5e643",
+      "archive_bytes": 36515845,
+      "matched_members": 18
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-01-20261022-part02.zip",
+      "archive_sha256": "064033a925ab6d2af88facc6f94a88376a0d48fcd1f8331b1318a319e49efc60",
+      "archive_bytes": 31647757,
+      "matched_members": 19
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-01-20261022-part03.zip",
+      "archive_sha256": "a88ffd120bbaec44a867fc59be4ebd389422c7c5d95039c41c858eaa8f318eb5",
+      "archive_bytes": 35424176,
+      "matched_members": 9
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-01-20261022-part04.zip",
+      "archive_sha256": "1e5870b53c701250f63ebb2282e41c5fff6a45036c30d3beabb1c75c53fc6c55",
+      "archive_bytes": 32608550,
+      "matched_members": 14
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-02-20261022-part01.zip",
+      "archive_sha256": "40f577c05e6d26ad5333d9dbcfe22aa7cc02a67e05d77657fe5a7d4db99bac05",
+      "archive_bytes": 5960309,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-03-20261022-part01.zip",
+      "archive_sha256": "385e64b443e898432a2676c78cce8aaf5eddc897823302b37e07e17aefa90406",
+      "archive_bytes": 7804513,
+      "matched_members": 26
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-04-20261022-part01.zip",
+      "archive_sha256": "5a18df313f3b0b32f6fe32d48d2e14ea196cacc5256fdbae29008d9a4ce908a1",
+      "archive_bytes": 36240918,
+      "matched_members": 23
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-04-20261022-part02.zip",
+      "archive_sha256": "df417cf631747c7ad1a04ebc4a4cf64769db5ba7413e161f284b30a5720f4206",
+      "archive_bytes": 31638958,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-04-20261022-part03.zip",
+      "archive_sha256": "fe0aca55f76b33318a99a9baaf4d8f682195bce2d1a82e04624aaedffe6a2034",
+      "archive_bytes": 36729966,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-04-20261022-part04.zip",
+      "archive_sha256": "837b728bdffb1c75c48c12b4bac8b8da746764f561c99b5baae8753ffb5b4ebf",
+      "archive_bytes": 30042638,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-04-20261022-part05.zip",
+      "archive_sha256": "242c6587e4fbe601a458e14c7fbea6ccb3f5c9c27ff0b11d065f08cacef64dea",
+      "archive_bytes": 37762909,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-04-20261022-part06.zip",
+      "archive_sha256": "893fd92c2ba6fce97375d7e71881449ede34cd53432cb532e7d3cec8db69785e",
+      "archive_bytes": 36857086,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-04-20261022-part07.zip",
+      "archive_sha256": "c815fa3fb04e2ffdda151870f48a404fcadb4e6b7f1a3710fda3974088ef5287",
+      "archive_bytes": 34250601,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-05-20261022-part01.zip",
+      "archive_sha256": "2f0bb1707c1265c59d666ff2e487eedf1f4c0f8a50f34be391cc4a778ccbc1f9",
+      "archive_bytes": 30860559,
+      "matched_members": 15
+    },
+    {
+      "archive_name": "hk-insurance-savings-bank-05-20261022-part02.zip",
+      "archive_sha256": "f652fe7d33a25f38ff54b864e1aa5b452c6a10d49ca2b07a33af82bfe9e9fe14",
+      "archive_bytes": 44617,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "hk-insurance-savings-extra-001-20261023.zip",
+      "archive_sha256": "4ec9201d1943dcb145be5a1da07f2cdf47a91bca2dd3ac3a083bd7f24420c058",
+      "archive_bytes": 2796061,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "hk-insurance-savings-major-001-part01.zip",
+      "archive_sha256": "1b32d253eebbfe426cfa5d5526ede4f35e365d0e8f6a066b720c0fd0154c9d80",
+      "archive_bytes": 35297666,
+      "matched_members": 13
+    },
+    {
+      "archive_name": "hk-insurance-savings-major-001-part02.zip",
+      "archive_sha256": "82c5ea03a0f5f2b375c9e0bf170279391f55bd71876deb0c9bc2262db50ea0bb",
+      "archive_bytes": 38174863,
+      "matched_members": 14
+    },
+    {
+      "archive_name": "hk-insurance-savings-major-001-part03.zip",
+      "archive_sha256": "eb6ffd32c6579e8078bfc90f79fcf39511b6885a659c744c2986b35df7f3ed3b",
+      "archive_bytes": 38981940,
+      "matched_members": 22
+    },
+    {
+      "archive_name": "hk-insurance-savings-major-001-part04.zip",
+      "archive_sha256": "99e9107492f8d36d14714b87b0881e28ffe450d2cb0b5daee3b3e0cb1287fd7f",
+      "archive_bytes": 36788718,
+      "matched_members": 21
+    },
+    {
+      "archive_name": "hk-insurance-savings-major-001-part05.zip",
+      "archive_sha256": "05368f89694a1dcceda30aa28e3724b67a79157f9378ef33257ed2e77dfa131d",
+      "archive_bytes": 32806451,
+      "matched_members": 21
+    },
+    {
+      "archive_name": "hk-insurance-savings-major-001-part06.zip",
+      "archive_sha256": "bc90df51576974fb13389660dce90e93e11667df446dfe531a6d49f639fe6f6f",
+      "archive_bytes": 20458406,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "hk-insurance-savings-major-002-part01.zip",
+      "archive_sha256": "4a715df4289b6ea3065c64b6eb508c51091355d80bf2cba36f17d6701720cbfd",
+      "archive_bytes": 36091554,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "hk-insurance-savings-major-002-part02.zip",
+      "archive_sha256": "6235280407da8ed3ec98bf24935e04a883872cd8f61a3de94da94db4632a2f1d",
+      "archive_bytes": 35001519,
+      "matched_members": 17
+    },
+    {
+      "archive_name": "hk-insurance-savings-major-002-part03.zip",
+      "archive_sha256": "df56667f5bd9da4c850d1db717130c6c9a0fa21c5be436a2c0a456c7d4909036",
+      "archive_bytes": 35687899,
+      "matched_members": 21
+    },
+    {
+      "archive_name": "hk-insurance-savings-major-002-part04.zip",
+      "archive_sha256": "d36a6f4d00a3c3f0949ee01736a9de1a22711342c225692b8a7a20bb3f8d126f",
+      "archive_bytes": 4240581,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "hk-insurance-savings-major-003-part01.zip",
+      "archive_sha256": "dc7c837d0cf5abd43a56be48b44a9aa87d46a4d343811f0ed4f8d9689fff3438",
+      "archive_bytes": 30164980,
+      "matched_members": 9
+    },
+    {
+      "archive_name": "hk-insurance-savings-major-003-part02.zip",
+      "archive_sha256": "53a0865a0b6ec0eb874c462cce4f739b4dc3e494d3fba52f6850f34704dc0729",
+      "archive_bytes": 25396582,
+      "matched_members": 15
+    },
+    {
+      "archive_name": "hk-insurance-savings-major-004-part01.zip",
+      "archive_sha256": "ffad58fa680fcede4c756b1f9db606442ce8fa0b43c80c7992c86677ecd4ff6e",
+      "archive_bytes": 225720,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "hk-insurance-savings-major-005-part01.zip",
+      "archive_sha256": "faa0589584cbb786bbedd3ffc22091d94b5c20b023c08e69a0c78d0eeffb7961",
+      "archive_bytes": 18731713,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "hk-insurance-savings-other-001-20261022-part01.zip",
+      "archive_sha256": "567ee31b989ac96a022ee8031d2ed205e69f5232ba1444c5a51cc8556de26220",
+      "archive_bytes": 38323644,
+      "matched_members": 13
+    },
+    {
+      "archive_name": "hk-insurance-savings-other-001-20261022-part02.zip",
+      "archive_sha256": "f432a6d71801a2c51c4aad89c641939311c56a30d1ac259b7446be0098df8e9b",
+      "archive_bytes": 17279485,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "hk-insurance-savings-other-002-20261022-part01.zip",
+      "archive_sha256": "86f2c629d5127705ac080f4f4d4b94bd8a0508530dd6f671cb9374fe0febef26",
+      "archive_bytes": 40531690,
+      "matched_members": 9
+    },
+    {
+      "archive_name": "hk-insurance-savings-other-002-20261022-part02.zip",
+      "archive_sha256": "f61aeca7663e534021597f90694869516f876bcff68aaca7c52ed5f6ffe38761",
+      "archive_bytes": 35855644,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "hk-insurance-savings-other-002-20261022-part03.zip",
+      "archive_sha256": "d5a2276c451bdc85fc829b0ad2a6afd515ceb9e4a290f8edb1323f6b16bce755",
+      "archive_bytes": 23865512,
+      "matched_members": 9
+    },
+    {
+      "archive_name": "hk-insurance-savings-other-003-20261022-part01.zip",
+      "archive_sha256": "da7f750ac1ec76eb2fde46034f851b7064ebaa0aef3a75ba6a7a6eaee3d33ba8",
+      "archive_bytes": 33788110,
+      "matched_members": 16
+    },
+    {
+      "archive_name": "hk-insurance-vhis-standard-snapshot01-20261022-part01.zip",
+      "archive_sha256": "25cfa485c6f4f923c54fa8e658c811058d611f927f37681cdffc60e713479236",
+      "archive_bytes": 38958603,
+      "matched_members": 77
+    },
+    {
+      "archive_name": "hk-insurance-vhis-standard-snapshot01-20261022-part02.zip",
+      "archive_sha256": "2cda9e1130ab90cc8c30cb5507cfe7b9c026a42288660bbc15131921bc37ec7f",
+      "archive_bytes": 37392773,
+      "matched_members": 89
+    },
+    {
+      "archive_name": "hk-insurance-vhis-standard-snapshot01-20261022-part03.zip",
+      "archive_sha256": "e7194a95f662ec0b910a292ee5443a524a5e9260c1ebc3090ceaf8789199b93d",
+      "archive_bytes": 8544396,
+      "matched_members": 14
+    },
+    {
+      "archive_name": "hk-itarget3-nov2020-catalogs-private-20261025.zip",
+      "archive_sha256": "030d5957a3d5ead70fb73c0f2c7181615115d4debb597b632c7b11d49c4ed7c9",
+      "archive_bytes": 895531,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "hk-nonsavings-frozen-supp003-private-originals-evidence.zip",
+      "archive_sha256": "4f10caafc2b5538355fb5399d4724a239468dd9f6a563505f70b7f7a97486b0c",
+      "archive_bytes": 5728320,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "hk-nonsavings-frozen-supp004-private-originals-evidence.zip",
+      "archive_sha256": "9aba4d3742630eef6c38140716334e497637f294ba04261ea7e94a22a9e3aa6c",
+      "archive_bytes": 4853683,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "hk-nonsavings-frozen-supp006-private-original-evidence.zip",
+      "archive_sha256": "7482d33cc46f49adeeb448fc4de1efdeba5f5652388c22f98ca5094ec740068b",
+      "archive_bytes": 1183720,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "hk-nonsavings-public-supplement001-private-originals-evidence.zip",
+      "archive_sha256": "39d80fc76be8f97083c5dd54a3c8b310fc6ddb064dff3891b5aeba1211c368a9",
+      "archive_bytes": 5082190,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "hk-nonsavings-public-supplement002-private-originals-evidence.zip",
+      "archive_sha256": "32f02d63623118dd637a34178224a38c3694f068f3410dad508e8210c9fa4fda",
+      "archive_bytes": 5910104,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "hk-pics-support-20261023.zip",
+      "archive_sha256": "320c33fa21b4ecda730c78806484b43b29eebd90b2e050a3424ace5a542fb6ca",
+      "archive_bytes": 169835,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "hk-za-main-private-original-evidence-20261024.zip",
+      "archive_sha256": "dded0be75e3070b784ac964b7c8f4df77e1d61d8c3b0d7c1ba2645da3947d4fb",
+      "archive_bytes": 1684679,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "hk-za12-main-private-originals-evidence-20261024.zip",
+      "archive_sha256": "7f6f991321e5251481b4f62fb732efba7b777b32d899f1ec4dfe67c18a3a352c",
+      "archive_bytes": 3076930,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "hsbc-historical-brochures-safe-private-r2.zip",
+      "archive_sha256": "6804115a430863bb0c857560e1c26a2434d73497271e9dd301f19769030b6b51",
+      "archive_bytes": 5843121,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "id-uki-special-conditions-candidate-20261024T041941Z-private.zip",
+      "archive_sha256": "03a817a6b3f8233137933fec4aa1bb8bde4e6d7a1c1f4af8064d97e9542cbdc7",
+      "archive_bytes": 848916,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "insurance-contracts-my-id-th-20261025-private.zip",
+      "archive_sha256": "d8dd60e6ef6061e4984143b9d891b5dd848b86f8833f800902ad758355a66515",
+      "archive_bytes": 200309455,
+      "matched_members": 126
+    },
+    {
+      "archive_name": "insurance-contracts-small-20261025-private.zip",
+      "archive_sha256": "2837be6e8fe77c24576f35b1d4fbe66b0589b3a729bc43f06b8cfab32664db87",
+      "archive_bytes": 63887146,
+      "matched_members": 13
+    },
+    {
+      "archive_name": "insurance-contracts-vn-ph-20261025-private.zip",
+      "archive_sha256": "61dc5feff5ad0d174d35f49a03f29722105b33840d1b7ac3eee0d275679efde9",
+      "archive_bytes": 18905156,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "insurance-main-contract-acquisition-20261025-1218-private.zip",
+      "archive_sha256": "f3031843187dcf4655fec847097e76981e88a3472361a3ca39b59679fcd9d1cd",
+      "archive_bytes": 25671235,
+      "matched_members": 7
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part01.zip",
+      "archive_sha256": "793637b88bd98d56db5b6184b15c6861b77cb45170433531e6b0109beb35de77",
+      "archive_bytes": 852259,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part02.zip",
+      "archive_sha256": "29e7c89131877f58afbdb9536d654d9d9c25824fc2a3f1d7a8dcabd2f5d700bd",
+      "archive_bytes": 38703870,
+      "matched_members": 61
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part03.zip",
+      "archive_sha256": "9b082883c3a16c0c4389624c84b1cc49e8df4bc9796023b602e60cdcacc4ce81",
+      "archive_bytes": 2051368,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part04.zip",
+      "archive_sha256": "31c7ea878f91dd251d55ce0da8cbced82676414c2b9253b277d7a0867934d5ee",
+      "archive_bytes": 19657685,
+      "matched_members": 20
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part05.zip",
+      "archive_sha256": "1adbf16cabc7063e9944cbc37f934ea8e93109032e563c7b73dbfad41e6899eb",
+      "archive_bytes": 15331982,
+      "matched_members": 14
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part06.zip",
+      "archive_sha256": "69059b81c27ee7d13d708857a691c213c3ad638470a5946bfa76fb92608b401a",
+      "archive_bytes": 35238432,
+      "matched_members": 16
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part07.zip",
+      "archive_sha256": "d093ff16cab607f74a68bdef1bed8dd123a114e1f58d36098e7ff6a09f9ce52c",
+      "archive_bytes": 40397201,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part08.zip",
+      "archive_sha256": "2af8830fb7cb1eabadf86ffe38afb95f9a5d291f96c4acaf7e59f2ce0f00b0c8",
+      "archive_bytes": 38863595,
+      "matched_members": 13
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part09.zip",
+      "archive_sha256": "32713115ec99b58f106895d2aded60016f9af834bea8e73337d013ca807d65f8",
+      "archive_bytes": 37264254,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part10.zip",
+      "archive_sha256": "2327ea355c8505f28ead599fbc9c37bce84a2d5bad6a2b53520b10325b461ca5",
+      "archive_bytes": 35691421,
+      "matched_members": 37
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part11.zip",
+      "archive_sha256": "210eeab788948558d5ee942cbe5f04db046d8a0fd69101c408eca614e2760ec5",
+      "archive_bytes": 36667380,
+      "matched_members": 19
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part12.zip",
+      "archive_sha256": "a242c2ab580e354f654513182b9e58aec887237d85121aaff70900fb0ce5393d",
+      "archive_bytes": 40146880,
+      "matched_members": 27
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part13.zip",
+      "archive_sha256": "018f75b7cdcbf7b1a9aaa7f084ecdc6c9dd3cbe545a54aade110ea00a7530962",
+      "archive_bytes": 16238014,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part14.zip",
+      "archive_sha256": "c13906381dd183e7bd0b77b13fc93627b022f88acbc4134185f55bb6a7bc5c41",
+      "archive_bytes": 13244668,
+      "matched_members": 16
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part15.zip",
+      "archive_sha256": "73c09d94743f25f496597e680fff1fc16c6fcc929573bfa8c1fef7c2ecf96fb9",
+      "archive_bytes": 27061146,
+      "matched_members": 9
+    },
+    {
+      "archive_name": "insurance-recovery-20261023-old-uncertain265-part16.zip",
+      "archive_sha256": "294dfaa0fe9a6cbc978be7a9cadd855c53625bde6f854f74109892404d090cbb",
+      "archive_bytes": 4267969,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "insurance-terms-D1-20261026-01-private.zip",
+      "archive_sha256": "ba85182908e9dfb989726bee0be9c80ca52c7f43fbacc665d60805dc5c00dd9b",
+      "archive_bytes": 44786746,
+      "matched_members": 15
+    },
+    {
+      "archive_name": "mhs-faq-support-private-20261025.zip",
+      "archive_sha256": "6a013fe249e7de1a2080d37d597e0d450f7dd86824593f178adb4dfdcaabbd3a",
+      "archive_bytes": 67860,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "my-etiqa-term-plus-supplement004-original-and-review-20261024.private.zip",
+      "archive_sha256": "cd8833cf803248d2c2e204bd1bb4ed867cc5f9841474250d19eb05ae961cc2a8",
+      "archive_bytes": 3674012,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "my-hla-pis-supplement003-six-support-originals-20261023.zip",
+      "archive_sha256": "fc371a79e3ba8c359bd70e98dd8613328f4fa886020fd8444b89c3965e57259b",
+      "archive_bytes": 956519,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "my-public-review-candidates-20261023-two-originals.zip",
+      "archive_sha256": "804156ebda0e38a1875200323b700d670a2ea3a808c13910ded0447f69137add",
+      "archive_bytes": 1142497,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "new-bowtie-hospital18-20261024T050048Z.zip",
+      "archive_sha256": "1f09c67d8f89e10d1384b6b02e55156e1911021bdf2e21c464ac9c50b3e5f0a8",
+      "archive_bytes": 3494718,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "ph-three-policy-candidates-r2-private-20261025.zip",
+      "archive_sha256": "b6fe23634e9395efdbdd0685b26f73f66732efed6b97fcc76ad58cd446901b7f",
+      "archive_bytes": 1601995,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-bn-004-part01.zip",
+      "archive_sha256": "f8a1ccfccdf119dee6119ee4a685ae9a21b2e7c04422986388a2764b57d40b35",
+      "archive_bytes": 12268519,
+      "matched_members": 23
+    },
+    {
+      "archive_name": "sea-expansion-bn-004-rba-tokio-primary-part01.zip",
+      "archive_sha256": "9639872b9c4cf0951126df613b681e68b56e2bb5f54048813ebd961589c5acfd",
+      "archive_bytes": 551173,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-documents-manifest-part01.zip",
+      "archive_sha256": "4a7c72e933b872b69a564f1dd425b05cbe9c4c511be8a9ac2d233d314fad0efe",
+      "archive_bytes": 2057148,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "sea-expansion-id-004-starinvestama-support-part01.zip",
+      "archive_sha256": "8fdfc5cb0dcc633370d1ba44b0237c9be70b3d5c2514a56c74a006868c25511f",
+      "archive_bytes": 33500513,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "sea-expansion-id-004-starinvestama-support-part02.zip",
+      "archive_sha256": "b239447618a0b3d139fdac3225b036d7d78ba07027c2f5ee52486f3719cf4b95",
+      "archive_bytes": 26089363,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "sea-expansion-id-004-starinvestama-support-part03.zip",
+      "archive_sha256": "baded39521f0bfaeb4562810ee92d85d065a34cf2f1e02c74f945196099e69da",
+      "archive_bytes": 34437318,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "sea-expansion-id-004-starinvestama-support-part04.zip",
+      "archive_sha256": "1e2883c8d3c5ff5cf623ea21bdced0df93f00061bfdbea0b2a42f6432c34203b",
+      "archive_bytes": 27513697,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "sea-expansion-id-004-starinvestama-support-part05.zip",
+      "archive_sha256": "797fe12b215589be9fb73a065aa0601d5c8f48a675f8eb09221f6481ae423850",
+      "archive_bytes": 34793062,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "sea-expansion-id-004-starinvestama-support-part06.zip",
+      "archive_sha256": "9af13721e6641cc0765e38f7ce79e7f664f1532aab58edae9233d9bdbf715b03",
+      "archive_bytes": 28880934,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-id-006-allisya-travel-part01.zip",
+      "archive_sha256": "65cbf59e0da14a650eb73abd9f37b6c8507d1553bb49fa483eb642dcdabfa93a",
+      "archive_bytes": 1465319,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-id-007-chubb-asg-part01.zip",
+      "archive_sha256": "d20347edff3f2976d16df4f5677915a18fead43aa6a6dfd4c34fbd186b5d4bd3",
+      "archive_bytes": 1624291,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-id-008-chubb-oyo-part01.zip",
+      "archive_sha256": "f2d7dd96f245d293e96b21e89660bde84a4df6a9dc1a0ee22636f96044fddfac",
+      "archive_bytes": 836710,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-id-009-chubb-cti-part01.zip",
+      "archive_sha256": "ae26a8d836081025d0a183570d4d5b94b3b02641f51b9ded8fca3555776a896d",
+      "archive_bytes": 1431048,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-id-009-victoria-accident-part01.zip",
+      "archive_sha256": "a870779e0817430bde87cbbdec4013ee7b0f09fba1e83a0fbbb80e2917f153cf",
+      "archive_bytes": 145431,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-id-010-harta-standard-wordings-part01.zip",
+      "archive_sha256": "f7a93b2b9af06172f2fb7467a359f9021afd535cc1c32b752bc7a6988787d023",
+      "archive_bytes": 838389,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-id-012-bca-standard-wordings-part01.zip",
+      "archive_sha256": "e75063b5feef9aa0220d8b1943e5c617a09592c52ab743a613a530886b3cd7c8",
+      "archive_bytes": 1421418,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-id-014-dayin-airasia-bundle-part01.zip",
+      "archive_sha256": "f0bd8f8daa193e47edbdcbd359447246c6a86ad8402a43956596a57e93a5b2d3",
+      "archive_bytes": 288810,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-id-nl-001-mag-readable-wordings-part01.zip",
+      "archive_sha256": "bdf5f5f5e37b5455926dca99dcb8b57f59efa52b570ac17f2e3ec320b2c8f3bc",
+      "archive_bytes": 5441846,
+      "matched_members": 11
+    },
+    {
+      "archive_name": "sea-expansion-id-nl-003-astra-warisanku-part01.zip",
+      "archive_sha256": "2a7b279089dfcfdbcc4fd14869af658c4f0b2bcaf5f3405bf4b3b26fd5717fb8",
+      "archive_bytes": 182589,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-id-nl-004-sinar-marketing-exclusions-part01.zip",
+      "archive_sha256": "81bb3b71599df0c642f2930287dbafb26972f07f528682c0c575ce9f4158e760",
+      "archive_bytes": 5724093,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-id-rm-001-alamin-micro-part01.zip",
+      "archive_sha256": "123ee6ad118f32800e88abe0e120788cdc9888a06df99fdfb23013dbcb4a4c3f",
+      "archive_bytes": 153077,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-id-rm-002-support-classification-part01.zip",
+      "archive_sha256": "8fb6d4da98f02142cf28a02a37307d85613bd9531af680a5a2906f37a335d3d3",
+      "archive_bytes": 26232869,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-id-rm-002-support-classification-part02.zip",
+      "archive_sha256": "5c2c7c797b85cc0e7f49385a29a3b07874e05d8ca312341686b51e53a4511574",
+      "archive_bytes": 27981918,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-id-rm-002-support-classification-part03.zip",
+      "archive_sha256": "84c13945f912113c8dc30d18f302b5c70c0f19f4604330644b2cbdf9e5337d6a",
+      "archive_bytes": 31567707,
+      "matched_members": 16
+    },
+    {
+      "archive_name": "sea-expansion-kh-005-part01.zip",
+      "archive_sha256": "48bdcaff1b45145f85df95b5dbacf11e8ddcee0baf454147f22c591cacfad94f",
+      "archive_bytes": 20708933,
+      "matched_members": 24
+    },
+    {
+      "archive_name": "sea-expansion-kh-006-part01.zip",
+      "archive_sha256": "219d984c1921e54c069b738039d4841364eab14cdb9b05def0510c2a19a18567",
+      "archive_bytes": 35197271,
+      "matched_members": 9
+    },
+    {
+      "archive_name": "sea-expansion-kh-006-part02.zip",
+      "archive_sha256": "82b7c434c24f8e16b64e0955a8067a8f534611ebc675b4588fe14404aa7754a9",
+      "archive_bytes": 1462442,
+      "matched_members": 7
+    },
+    {
+      "archive_name": "sea-expansion-kh-007-part01.zip",
+      "archive_sha256": "3c6d14db01d36441ab9b89475f13bb96a42f81d700bca4dc874e39b0b302c71d",
+      "archive_bytes": 38433096,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-kh-007-part02.zip",
+      "archive_sha256": "50f4781c3ac6c6ca0179427791d18d20990ea8d8246fe03e173387fa38cee97a",
+      "archive_bytes": 26951665,
+      "matched_members": 24
+    },
+    {
+      "archive_name": "sea-expansion-kh-007-part03.zip",
+      "archive_sha256": "2614e7ad5e7d0df8c372a7ead89aa89b84c14c9b9b0e684555d8666b2a11b40b",
+      "archive_bytes": 28958695,
+      "matched_members": 9
+    },
+    {
+      "archive_name": "sea-expansion-kh-007-part04.zip",
+      "archive_sha256": "c1e11583edad1f9228eaf1c4bcf89473c91099dd794dc983c01f846b56871d19",
+      "archive_bytes": 31694551,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-kh-007-part05.zip",
+      "archive_sha256": "8079fc186fb54471290511ab00a530556ef5e2546ea049bf3693fc1dd1fe1965",
+      "archive_bytes": 14759940,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-kh-007-part06.zip",
+      "archive_sha256": "322c9f6b930783841e638ef1e1876096e23cfc442781cafc7cbd594eb878b723",
+      "archive_bytes": 31845723,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "sea-expansion-kh-007-part07.zip",
+      "archive_sha256": "b0010fb0dd9e3778867ea25f19d54423f21f6d7c470b57fc80bb4545f55be409",
+      "archive_bytes": 20615213,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "sea-expansion-kh-007-part08.zip",
+      "archive_sha256": "e7eb042435d773c1bd1ccb6b2a98f3d96a42fbfabb4b624753bf25dfcc3a26e8",
+      "archive_bytes": 29340893,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-kh-007-part09.zip",
+      "archive_sha256": "75ee742ff83590dd8cf5108350ca04976bdd8bf86a4637e88eb3c5a978f4e72f",
+      "archive_bytes": 28628232,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "sea-expansion-kh-007-part10.zip",
+      "archive_sha256": "18d8226d8c7cfddaf3a55d0b68369ac4b504509b06a8a021daa21a3f442c4ee5",
+      "archive_bytes": 8072306,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-kh-008-part01.zip",
+      "archive_sha256": "bca310cab92907bf39a3d4248f80c214ffcae8f55bff721ceb7dfb0196268776",
+      "archive_bytes": 2010193,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-kh-009-part01.zip",
+      "archive_sha256": "bb5f7177895dd5f8accf15575ef26c82156151d0af9e1876095d131388960f16",
+      "archive_bytes": 4252720,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-kh-010-part01.zip",
+      "archive_sha256": "e75ea0169f89ea4d6e0a30bd0d48d9415cfa035e69be31dc882359ab71370828",
+      "archive_bytes": 21740755,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "sea-expansion-kh-expansion-20261023-001-part01.zip",
+      "archive_sha256": "5a5a15db5882f34cbb3e7dc0ab944468c20851032b1537df5cc05060184dfe37",
+      "archive_bytes": 3569724,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-kh-expansion-20261023-002-part01.zip",
+      "archive_sha256": "97157469d97456b35926802614b90d439efd5bac50d2e8227e8acd857a3222c8",
+      "archive_bytes": 23329437,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "sea-expansion-kh-expansion-20261023-003-part01.zip",
+      "archive_sha256": "8996584306fbfcf5886d7387453b9e5667dc855a7fd9a26fe7eb3f450cb3d03c",
+      "archive_bytes": 29919512,
+      "matched_members": 7
+    },
+    {
+      "archive_name": "sea-expansion-kh-expansion-20261023-003-part02.zip",
+      "archive_sha256": "a859b4af88b32b583a0093d8309528a645dc1ef94c2911dbe4a6c326a29d472a",
+      "archive_bytes": 29864208,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "sea-expansion-kh-expansion-20261023-003-part03.zip",
+      "archive_sha256": "7c4402877e75e27652c0b2444d1a93095c10bafa0e73ad0b96615cc866ed2262",
+      "archive_bytes": 27949563,
+      "matched_members": 9
+    },
+    {
+      "archive_name": "sea-expansion-kh-expansion-20261023-003-part04.zip",
+      "archive_sha256": "bbc13931384c7d33beb55e6c3ef601c2ee55eb319647f0ca909be3992c1ced63",
+      "archive_bytes": 14740610,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-kh-expansion-20261023-004-part01.zip",
+      "archive_sha256": "e96ae88c9d4adf27ec2561ce5183c89a3f2b9e261a37c2064cc4ff18e8932f00",
+      "archive_bytes": 15100833,
+      "matched_members": 32
+    },
+    {
+      "archive_name": "sea-expansion-la-004-tuneprotect-primary-part01.zip",
+      "archive_sha256": "4495966c77a2328f26412d8f4e127e1eb60a9801fadab7b031bd6653989c5920",
+      "archive_bytes": 1647211,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-la-005-apa-motor-primary-part01.zip",
+      "archive_sha256": "c4ac3e53dbaf2bb468808e7cbbef28feb1e69c1b0aee00630d8cb25fe2353121",
+      "archive_bytes": 2459456,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "sea-expansion-la-006-forte-auto-primary-part01.zip",
+      "archive_sha256": "c41125bbab07201f6f020a4a692514a3a19ffb82cb31143e121663b3353816b5",
+      "archive_bytes": 320484,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-la-007-lap-luma-primary-part01.zip",
+      "archive_sha256": "6e640fcb5657514be88d3cb2d9dba747367c83c207fa0147308ea7a6657e4ca9",
+      "archive_bytes": 1064508,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-la-008-jc-public-wordings-part01.zip",
+      "archive_sha256": "7a562025a42da0fe0629524d060f9fda3ad4e26e9681ec454ed050be9f0e6498",
+      "archive_bytes": 6317352,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-mm-canonical-expanded-20261023-009-part01.zip",
+      "archive_sha256": "794a037a1dc814b8ae26c42adb968a3c1598c25d858783fd55b9fc97514907e3",
+      "archive_bytes": 17505735,
+      "matched_members": 18
+    },
+    {
+      "archive_name": "sea-expansion-mm-canonical-expanded-20261023-009-part02.zip",
+      "archive_sha256": "cf2af9f5c6d5c3c2c77cb233a2bd14dc0a95fa8f3a95e71b08318180b0eef53d",
+      "archive_bytes": 79012245,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-mm-canonical-expanded-20261023-009-part03.zip",
+      "archive_sha256": "40252c62a97572ab6348d72bc6249455d43d8cedbb399cf0fa27d703dc0432c6",
+      "archive_bytes": 18390368,
+      "matched_members": 52
+    },
+    {
+      "archive_name": "sea-expansion-mm-expansion-20261023-001-part01.zip",
+      "archive_sha256": "a24a6d9d52274ec0126f3dd895698d71700eefe5fd0a143d667aa89d1bb37278",
+      "archive_bytes": 834167,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-mm-expansion-20261023-002-part01.zip",
+      "archive_sha256": "c0ea081c1e751c9e34b3ff20f21f46f8953b484770c51bd02fa33adc6938a507",
+      "archive_bytes": 424209,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-mm-fni-savings-20261023-003-part01.zip",
+      "archive_sha256": "bcb286d1a5a40d484273dddd4fe70cff196b8f5b2b23f7403bbd19bc4e290719",
+      "archive_bytes": 758186,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-my-006-part01.zip",
+      "archive_sha256": "d61eda546094f1b22237d5c4b59f7264becf8847eed8b074a8cba4c00bbdb849",
+      "archive_bytes": 31561557,
+      "matched_members": 60
+    },
+    {
+      "archive_name": "sea-expansion-my-006-part02.zip",
+      "archive_sha256": "42b4f8ba90dda6fd6c0e14c638e421bf6f6d48588beced8b403555e211f3dde0",
+      "archive_bytes": 2248395,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "sea-expansion-my-007-part01.zip",
+      "archive_sha256": "6f451eda3371b23d51ec86773df1173af8e316dbb46955a4c2e382994b596508",
+      "archive_bytes": 28976462,
+      "matched_members": 55
+    },
+    {
+      "archive_name": "sea-expansion-my-008-part01.zip",
+      "archive_sha256": "8122215ecced9acde04ec24527547ecfdc51319880802cc49eacf1d7d10db3da",
+      "archive_bytes": 12659787,
+      "matched_members": 29
+    },
+    {
+      "archive_name": "sea-expansion-my-009-part01.zip",
+      "archive_sha256": "97db2ab2c9495538aefc62a67619c501aa26ace24052778436db4acd65240651",
+      "archive_bytes": 3796836,
+      "matched_members": 7
+    },
+    {
+      "archive_name": "sea-expansion-my-010-part01.zip",
+      "archive_sha256": "0f3505daffa812cd01f29f35d37c5835c01fe09210364a8f8ffbf2480fc37c1f",
+      "archive_bytes": 7846966,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "sea-expansion-my-011-part01.zip",
+      "archive_sha256": "8f5512c18fbac5caa304fff18cdfac8876aa007539f2ba762ef7b1228945b606",
+      "archive_bytes": 12878840,
+      "matched_members": 27
+    },
+    {
+      "archive_name": "sea-expansion-my-012-part01.zip",
+      "archive_sha256": "a34d3dd71cdfa3c617871218a680ddbe288ce3f9cd44a50afa6fadb0a507827f",
+      "archive_bytes": 16733037,
+      "matched_members": 47
+    },
+    {
+      "archive_name": "sea-expansion-my-013-part01.zip",
+      "archive_sha256": "3722ed0ae6c5e4490fadf94ffbf37a0ce86280da76e2eedb62f82e580308acfe",
+      "archive_bytes": 1223405,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-new-originals.private-part01.zip",
+      "archive_sha256": "38f6e30e6e2257c6d90f5daee4730ae65be641e4587c7e631dafb11ee7e0bb43",
+      "archive_bytes": 1332145,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "sea-expansion-ph-expansion-20261023-001-part01.zip",
+      "archive_sha256": "4742e5b98b66d1c64fad0f0309deee9d717a27ef64c8c04a7db175fe5ff2729f",
+      "archive_bytes": 1528798,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "sea-expansion-ph-expansion-20261023-002-part01.zip",
+      "archive_sha256": "a7538061b2fe7fd56acf548f4c9744568e7aff94831e7b290781eea9ab969794",
+      "archive_bytes": 1318766,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-ph-expansion-20261023-003-part01.zip",
+      "archive_sha256": "720306a7c9893d4386153102b54e9c5b80f5ca1c771c6b19f49bd9adaaf2b86b",
+      "archive_bytes": 243178,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-ph-expansion-20261023-004-primary-part01.zip",
+      "archive_sha256": "04add71dbcc7cce2bbaf2a2557d5e3c8cd3f3773b743663d9d8a077062a05aad",
+      "archive_bytes": 4599350,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "sea-expansion-ph-expansion-20261023-005-support-part01.zip",
+      "archive_sha256": "b0c6a64ee89bd1e26f7cb4de896cbd7ae56b27bb10581ab83a288a48e8a8aa5f",
+      "archive_bytes": 32390717,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "sea-expansion-ph-expansion-20261023-005-support-part02.zip",
+      "archive_sha256": "dc3f1caba90e380aa2b9a7783ba4050d4b1caa25847730c801594763e57c8424",
+      "archive_bytes": 13839774,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "sea-expansion-ph-expansion-20261023-005-support-part03.zip",
+      "archive_sha256": "3995c8d2bed39ddc8b19f5aebbfdd8ae6d5cbfaa2a141f56ed2b80d1061c4897",
+      "archive_bytes": 45905837,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-ph-expansion-20261023-005-support-part04.zip",
+      "archive_sha256": "06a65256a7461f5862c78435438f54964fb83aa9f6537d69d2fc899119ea4164",
+      "archive_bytes": 760157,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-ph-expansion-20261023-006-primary-part01.zip",
+      "archive_sha256": "45605742efc8b5c3cb37624a9960fed1bf1c81f2fbe21f98606570f1e99a8d9d",
+      "archive_bytes": 854991,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-ph-expansion-20261023-007-primary-part01.zip",
+      "archive_sha256": "224f71b299ca31e0d8f8af1dedaf38eeae52cce4dbdbd89ffc2082bd5e37f5b2",
+      "archive_bytes": 9240866,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-ph-expansion-20261023-008-primary-part01.zip",
+      "archive_sha256": "eb43beb9c6be0e213721573a681724e7104e57657b232e3dcb3609d7430c5457",
+      "archive_bytes": 2059954,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-ph-expansion-20261023-009-primary-part01.zip",
+      "archive_sha256": "d0f0f626e6493754d270f543b946644b8e7d51fb9f7435f87aefc454bad0c18f",
+      "archive_bytes": 1167586,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-ph-expansion-20261023-010-primary-part01.zip",
+      "archive_sha256": "ac8122aef53cf4688c446980af372ec45b2e5d2732da79dd72396f37d1834e5e",
+      "archive_bytes": 4309267,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-savings-public-round2-20261023-part01.zip",
+      "archive_sha256": "677d7ca5de11c65a01f95d3c383dffd07b9e2018cfbe376035e01eb9518ebe56",
+      "archive_bytes": 11420065,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-sg-021-utmost-contracts-20261023-part01.zip",
+      "archive_sha256": "d55d53e321c83ff85b68fed78b3f893f17d79e69da73a2935b930956c5697f26",
+      "archive_bytes": 742473,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-sg-022-fpi-sunlife-support-20261023-part01.zip",
+      "archive_sha256": "3279de3db97e59877d4959da471549e9799793af6fb313ffbc24a44be225629c",
+      "archive_bytes": 3064944,
+      "matched_members": 7
+    },
+    {
+      "archive_name": "sea-expansion-sg-023-sunlife-transamerica-20261023-part01.zip",
+      "archive_sha256": "38bde574534fecde7484a8513d0c8da130d2a2accb30d29b493a55957cee7738",
+      "archive_bytes": 13355689,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "sea-expansion-sg-024-allianz-wordings-20261023-part01.zip",
+      "archive_sha256": "7bee37deeac3e2b4d92256d53c306ce227a98fe0470ac60fa34e85ae4f3476a5",
+      "archive_bytes": 13633357,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-sg-025-aig-personal-wordings-20261023-part01.zip",
+      "archive_sha256": "285d8326e8785f97d40f054ac1540fa5f826fe0b7c74f7c4101b6b50be5786ed",
+      "archive_bytes": 14670737,
+      "matched_members": 22
+    },
+    {
+      "archive_name": "sea-expansion-sg-026-sompo-personal-wordings-20261023-part01.zip",
+      "archive_sha256": "d1a731b82a88f6f1823aff9decf1e8bbc390d219f428fb7cbfc41b3cbe6a95d9",
+      "archive_bytes": 3520369,
+      "matched_members": 9
+    },
+    {
+      "archive_name": "sea-expansion-sg-027-aig-versioned-wordings-20261023-part01.zip",
+      "archive_sha256": "b318bf2c7d8890da696e6c8390ddf931577a8823aaec72a0283e84138cf44dfb",
+      "archive_bytes": 4294800,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "sea-expansion-sg-028-msig-wordings-20261023-part01.zip",
+      "archive_sha256": "52e636dd96d12bb1854082685c093ea6edd9cd978dd4a9925ed0b8d4263a1d75",
+      "archive_bytes": 9175056,
+      "matched_members": 22
+    },
+    {
+      "archive_name": "sea-expansion-sg-029-eq-hla-budgetdirect-20261023-part01.zip",
+      "archive_sha256": "5647394f90fbeec3317bc1ca045ca157a1320766756e436c61384d1f62f40118",
+      "archive_bytes": 8957452,
+      "matched_members": 23
+    },
+    {
+      "archive_name": "sea-expansion-sg-030-liberty-wordings-20261023-part01.zip",
+      "archive_sha256": "053abee712e678fc9500fa55bd06edb4fb3f14067748a0331175600b86dcfa78",
+      "archive_bytes": 5869418,
+      "matched_members": 18
+    },
+    {
+      "archive_name": "sea-expansion-sg-031-uoi-ecics-wordings-20261023-part01.zip",
+      "archive_sha256": "8a801965f8db01781bb8e25aebc54abc99082f183595c3ed7ce5b0cb32f77924",
+      "archive_bytes": 5506209,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "sea-expansion-sg-032-chubb-budgettravel-20261023-part01.zip",
+      "archive_sha256": "ae51f519fb368deb28be968d17d910790a5e1cedf1edf043212a65a49a664f8e",
+      "archive_bytes": 2097000,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "sea-expansion-sg-033-cigna-wording-20261023-part01.zip",
+      "archive_sha256": "b79e82a0cdfe3876b9aea1dec5343d1207bc5b7556a73e0e8f0d2aa7e3c0a9fb",
+      "archive_bytes": 3467928,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-sg-034-starr-zurich-wordings-20261023-part01.zip",
+      "archive_sha256": "80bd59a14703ca45f4802209fb2e07e36bf6b742d87a2245e06324500a87d5ae",
+      "archive_bytes": 3264299,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "sea-expansion-sg-035-grab-lonpac-wordings-20261023-part01.zip",
+      "archive_sha256": "b4a84736a80c86adb99bae6ec8955ef2f560c4c570a8c63bba27d11b4a410ad2",
+      "archive_bytes": 1015449,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-sg-036-allied-greatamerican-support-20261023-part01.zip",
+      "archive_sha256": "26b181a1efc2493067476f9f5b7002fdd3bc37ced2e672f8653c1d4a4049940c",
+      "archive_bytes": 15496230,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "sea-expansion-sg-037-ge-travel-wording-20261023-part01.zip",
+      "archive_sha256": "0bebde34356880cf93eb7d79fe8e2a16418e3a91bd16c8e9f50ac9818920345b",
+      "archive_bytes": 491053,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-sg-039-allianz-health-wording-20261023-part01.zip",
+      "archive_sha256": "6b391eaebc18503b50185bd6ac6f8719c717b3f9a367f81ae51a5238396df25b",
+      "archive_bytes": 656737,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-sg-040-hla-airasia-historical-wordings-20261023-part01.zip",
+      "archive_sha256": "4ef57b15a2f7e10da789e71830cd8742fc35fb1de9c76c38c610be372a520892",
+      "archive_bytes": 1581661,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-sg-041-dbs-manulife-retirement-savings-wordings-20261023-part01.zip",
+      "archive_sha256": "edc897cade32619b1d96de47d6d0d89eea92bd03367f69ee65d50a4d9f835ab1",
+      "archive_bytes": 553796,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-sg-042-dbs-chubb-retail-wordings-20261023-part01.zip",
+      "archive_sha256": "b4d361aa72f79e4867629e21adc85860820e23082dae6f8ccfd2ddf80e779c02",
+      "archive_bytes": 314540,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-sg-043-income-gro-retire-flex-pro-ii-20261023-part01.zip",
+      "archive_sha256": "aeedc2d808a498cafa307bb0a2c73f5b5d9ab81daf604985cfcb681e0f6b5089",
+      "archive_bytes": 530917,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-sg-044-income-edrivo-motortrip-20261023-part01.zip",
+      "archive_sha256": "0ef29efcc6ed1acfb5a81be2a53f132cb11945e95e98b8c8ef67830013597272",
+      "archive_bytes": 5493739,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-sg-046-singlife-account-main-20261023-part01.zip",
+      "archive_sha256": "4c16056f8f11eb8dd90ad87ccaffb6cabd3e2013217d64228b400ce12b1b7315",
+      "archive_bytes": 258208,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-th-006-msig-travel-part01.zip",
+      "archive_sha256": "2a7510d36f47a72630b1ebecb41f0e7425faece9bb1e872f594650499d413de7",
+      "archive_bytes": 1291147,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-th-008-msig-student-part01.zip",
+      "archive_sha256": "19503efafe494f5deae2e2d3a20318dc856d657820600931e9269e5e2fde3880",
+      "archive_bytes": 1609178,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-th-009-chubb-dtac-part01.zip",
+      "archive_sha256": "1a3ef6a1fcffaa6cb409eb250109eaeb984d989ec8c901661215e41a19a92b2c",
+      "archive_bytes": 934453,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-th-010-roojai-wording-center-part01.zip",
+      "archive_sha256": "0748920145ea248570d91a97af83b29154394b553b1c5a2f4e5bc3857689434d",
+      "archive_bytes": 24816442,
+      "matched_members": 50
+    },
+    {
+      "archive_name": "sea-expansion-th-011-bangkok-wording-center-part01.zip",
+      "archive_sha256": "bcb524c5fd622566c9794e6d5b5624caae8d6f101ee988b4b2458eb8c6048a32",
+      "archive_bytes": 31533783,
+      "matched_members": 18
+    },
+    {
+      "archive_name": "sea-expansion-th-011-bangkok-wording-center-part02.zip",
+      "archive_sha256": "45275f3a501de40e6453c1dd4d3a4ab4ccec1e6c1b12674d72a93cf949e81b57",
+      "archive_bytes": 31890909,
+      "matched_members": 48
+    },
+    {
+      "archive_name": "sea-expansion-th-012-pacific-cross-wordings-part01.zip",
+      "archive_sha256": "d42c21c48835c649b3fbe782fe61b07fd8855766cc1ed8275ca7f1bf1cb3f7d1",
+      "archive_bytes": 1247162,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-th-013-thai-health-wordings-part01.zip",
+      "archive_sha256": "e18fec3f1b25910f185b71ed5e16e8c195a074e22e1aa1f5670daeb53505cee1",
+      "archive_bytes": 473976,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-th-014-aig-historical-travel-part01.zip",
+      "archive_sha256": "608012c448d21ac561c8c5d611ab80534f75238999a41b21c1b89ce4cb616625",
+      "archive_bytes": 670331,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-th-016-rabbit-catalog-support-part01.zip",
+      "archive_sha256": "ba632c333540852aea594e5a5ace7522539a3c944b09a5c9886083c32dd98355",
+      "archive_bytes": 24033879,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-th-016-rabbit-catalog-support-part02.zip",
+      "archive_sha256": "226b91d0643eb1a11807ef56f29b84a3c085a4f6795a640e0bb010be59e23eaa",
+      "archive_bytes": 23869913,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-th-016-rabbit-catalog-support-part03.zip",
+      "archive_sha256": "26216127588212ee538317b37d915a6b3535cbf3b82074ec44fcc58cdbc08302",
+      "archive_bytes": 26369477,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-th-016-rabbit-catalog-support-part04.zip",
+      "archive_sha256": "f532f7e3c533e86ba49b0562062cc8c232078bec6282d9b9e97c4a3270eaf325",
+      "archive_bytes": 33948872,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-th-016-rabbit-catalog-support-part05.zip",
+      "archive_sha256": "b7ee21939384a3859481a5db77c04e43a2469e60b28ff8c36fb428103beeddf0",
+      "archive_bytes": 32510171,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-th-016-rabbit-catalog-support-part06.zip",
+      "archive_sha256": "b035e4bb495ca763cf0cb91e543496a3eef22f3de2f3c517f9884dc9f1c76a7b",
+      "archive_bytes": 28341390,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "sea-expansion-th-016-rabbit-catalog-support-part07.zip",
+      "archive_sha256": "f00f75d0e338e2e02bd7c73cc17df9f76a8a1d2e639ba4e5b54e4331a0a97ec4",
+      "archive_bytes": 26979454,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "sea-expansion-th-016-rabbit-catalog-support-part08.zip",
+      "archive_sha256": "bc3e519102348f64fb08ec3e808705756ae93e4e213706660dd874a4a7a54886",
+      "archive_bytes": 34247145,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-th-016-rabbit-catalog-support-part09.zip",
+      "archive_sha256": "ce320a5edfce96ccc81fba2d689ec7a0630b64e6ed8a54a8a250f57dde1add91",
+      "archive_bytes": 13544476,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-th-018-tiplife-main-wordings-part01.zip",
+      "archive_sha256": "ec5ca1f7f090b0508975fe57986cdf355f09eb9b079051fd0a68b95e2638fb88",
+      "archive_bytes": 444344,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-th-020-allianz-general-wordings-part01.zip",
+      "archive_sha256": "e8b72172f45b9748d749fab959017ac6b544b7c8613c66f89a51173412691713",
+      "archive_bytes": 5109766,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "sea-expansion-th-021-tune-airasia-bundle-part01.zip",
+      "archive_sha256": "bf34f6be63b3f95845a7fa7cb926ab08b034188b7390f88020558b412fc1f7cc",
+      "archive_bytes": 937001,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-th-022-aia-isave-general-conditions-part01.zip",
+      "archive_sha256": "e26806dca6b17cdc296217c4f4a0cee7bc4d146c34b1cec8d741214990a97b6f",
+      "archive_bytes": 182861,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-th-023-fwd-public-wordings-part01.zip",
+      "archive_sha256": "95bd4ae92eeecb916b70fa80e5c3d339c71835985c5b4840dcb74a5f05a36cfa",
+      "archive_bytes": 1382860,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-th-024-pru-easysaver-components-part01.zip",
+      "archive_sha256": "43fb77cffb29d59be6daaac4de0123fafc3f737aa09e892eb85fc197defb3c2c",
+      "archive_bytes": 349913,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-th-025-fwd-easysave-main-part01.zip",
+      "archive_sha256": "e02033f9e4a490f408e5698fd4c4b20f478abb24ca3bafed376421360c8b8302",
+      "archive_bytes": 274744,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-th-026-fwd-speed-saving-main-part01.zip",
+      "archive_sha256": "0704b7705d9569fea87ea1b1fd06ac98e0b59fa115f8c803efc0477d09b78f3a",
+      "archive_bytes": 469050,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-th-027-mtl-term-health-model-part01.zip",
+      "archive_sha256": "83fdb16a5efaba725da846c53b513b0bc47b9d0d14472dd687ee6f93143823eb",
+      "archive_bytes": 346884,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-th-028-pru-six-product-components-part01.zip",
+      "archive_sha256": "ae5d57f6e4d615c920fb79a707fc573c5360f6ffbd58385a1bdc8853fb55b75e",
+      "archive_bytes": 9751389,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "sea-expansion-th-035-insurverse-public-wordings.private-part01.zip",
+      "archive_sha256": "3494488c1b9b97ae0172683b757f221ce9f1b366fbc267eb6516c002163883ae",
+      "archive_bytes": 3555562,
+      "matched_members": 11
+    },
+    {
+      "archive_name": "sea-expansion-th-037-icare-compulsory-standard.private-part01.zip",
+      "archive_sha256": "8f2f49e2e8ae4b6c582ac726a1c27d3a87bdc20331388a21493fdd017088cb9b",
+      "archive_bytes": 146016,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-th-nonlife-ten-stage-handoff-001-part01.zip",
+      "archive_sha256": "87156b456ee54d38bfeeef01c8c029a361326e277d3e02339455d1fef4822ecd",
+      "archive_bytes": 9332079,
+      "matched_members": 15
+    },
+    {
+      "archive_name": "sea-expansion-vn-002a-part01.zip",
+      "archive_sha256": "cb3a0d621cfbdc0f9f793910cc504f5ec576798d90a5a75da70eb1576b20e09e",
+      "archive_bytes": 30395786,
+      "matched_members": 48
+    },
+    {
+      "archive_name": "sea-expansion-vn-002a-part02.zip",
+      "archive_sha256": "ac20a21323a899de8dc72c2d5ee6470d1cd84fa19d32478fda379f7ee3e562f2",
+      "archive_bytes": 32122323,
+      "matched_members": 45
+    },
+    {
+      "archive_name": "sea-expansion-vn-002a-part03.zip",
+      "archive_sha256": "cc8b35af09bcdc9ce56bc12e8924bb793ec948964d4b246dcbc2b3127eab9c56",
+      "archive_bytes": 30069512,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "sea-expansion-vn-002a-part04.zip",
+      "archive_sha256": "7ad53c9598d766905faa6c4a867d72f5ee7c24df7839af8df07162b13ede0ab7",
+      "archive_bytes": 32505150,
+      "matched_members": 14
+    },
+    {
+      "archive_name": "sea-expansion-vn-002a-part05.zip",
+      "archive_sha256": "d3ee240051ec15f2013378abf2dce7f6f282d4c81e1aaa2521e3b6536bf019ea",
+      "archive_bytes": 30841081,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "sea-expansion-vn-002a-part06.zip",
+      "archive_sha256": "eb5f72d37cc43caa33a55ebdbae46c3d6391bc51a916983107b4e14a8223ebf9",
+      "archive_bytes": 31210859,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "sea-expansion-vn-002a-part07.zip",
+      "archive_sha256": "fa093fb1bebafa057abd38b5094195c981598e4bb558652816feb5686cc1fa17",
+      "archive_bytes": 29796186,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "sea-expansion-vn-002a-part08.zip",
+      "archive_sha256": "c630ada0ee702fe8d9dddf756bdccf8e51bba8861311d3bb3f65dc9edbea20dd",
+      "archive_bytes": 26670376,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "sea-expansion-vn-002a-part09.zip",
+      "archive_sha256": "fe1733528670ad9799b80f264b8f61ec967b98c5abb3acc958a136c4c6bfa1e1",
+      "archive_bytes": 29987051,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "sea-expansion-vn-002a-part10.zip",
+      "archive_sha256": "b7f93be643fd254c66c22dad479b66ebc97b440ac4d123d1f3c5cfab31ad8aa0",
+      "archive_bytes": 25391146,
+      "matched_members": 9
+    },
+    {
+      "archive_name": "sea-expansion-vn-002a-part11.zip",
+      "archive_sha256": "25489d53712ee866949f38da02558b6f12c7e899683426888c9a2f8465611d87",
+      "archive_bytes": 31072215,
+      "matched_members": 22
+    },
+    {
+      "archive_name": "sea-expansion-vn-002a-part12.zip",
+      "archive_sha256": "0c92c41c6787794901d7c61dee818f65b893846891347ac119b2cdb6a8c9b6b2",
+      "archive_bytes": 2467751,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-vn-002b-part01.zip",
+      "archive_sha256": "8f589c6a0a8f7beebf3bd37707858fee2ce74d9d342287e6344d0ea11f6007ae",
+      "archive_bytes": 32439990,
+      "matched_members": 22
+    },
+    {
+      "archive_name": "sea-expansion-vn-002b-part02.zip",
+      "archive_sha256": "303ec21649bd18b0d938cf4178884766ef8fb5d85abfe73f22708fd2fca264e4",
+      "archive_bytes": 33393349,
+      "matched_members": 36
+    },
+    {
+      "archive_name": "sea-expansion-vn-002b-part03.zip",
+      "archive_sha256": "d4ab5ce4049e0aa0ef1764bcf88c5b2a76555ea131be71bf64db6e8f2f6fc59b",
+      "archive_bytes": 26743597,
+      "matched_members": 9
+    },
+    {
+      "archive_name": "sea-expansion-vn-002b-part04.zip",
+      "archive_sha256": "cd591ec8ca18c672a930fcadaed7925d2ff89360c09118b59cde4c43ac3f95b5",
+      "archive_bytes": 32562924,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "sea-expansion-vn-002b-part05.zip",
+      "archive_sha256": "41c5f71822aba56050984d4a636471be3dee12ddd8a7fbf3b2633a37674f538f",
+      "archive_bytes": 30146080,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "sea-expansion-vn-003-part01.zip",
+      "archive_sha256": "f76c514cdb3956db9e05f48744dde10ea21bab1b44991a2a1884b54573eb3e94",
+      "archive_bytes": 13648168,
+      "matched_members": 26
+    },
+    {
+      "archive_name": "sea-expansion-vn-004-part01.zip",
+      "archive_sha256": "4c7ec4749373e09a8835679281b0ceb2733eff71a3cea26ced3dd7e613888b86",
+      "archive_bytes": 32552426,
+      "matched_members": 22
+    },
+    {
+      "archive_name": "sea-expansion-vn-004-part02.zip",
+      "archive_sha256": "59de74bbddf489c728d3a55da15aeee9b6fa2f7b2ae743ae5dd813c2f6688414",
+      "archive_bytes": 4668653,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "sea-expansion-vn-005-part01.zip",
+      "archive_sha256": "217a51e9b874ffc0047ff74dc94a3d3ebe91a43cc1aeb369fe09838a0b243d3f",
+      "archive_bytes": 20618589,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-vn-005-part02.zip",
+      "archive_sha256": "b382a33f05fe92a82b06720a19bace2190ebca81929823a0bab69b77f6ae3771",
+      "archive_bytes": 24385247,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-vn-005-part03.zip",
+      "archive_sha256": "dcbfce91076e7baa5210bf23d141685a32955befc9eb475188cbd00118bd4be0",
+      "archive_bytes": 28791208,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-vn-005-part04.zip",
+      "archive_sha256": "48bb185dca2f5378d0dbff772a28b91e11f8ea3f87d32c85ef3db08ce8474a55",
+      "archive_bytes": 27182385,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-vn-005-part05.zip",
+      "archive_sha256": "cde0e1c8bb7db2bd02c6a9c37462ef798ab6cee30da2ee188823585f472e15d1",
+      "archive_bytes": 27445383,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "sea-expansion-vn-005-part06.zip",
+      "archive_sha256": "7d56377f3b3cf1110dd78fb2599b966fa348df03d1d6c02753d180f7a74756a6",
+      "archive_bytes": 26775864,
+      "matched_members": 8
+    },
+    {
+      "archive_name": "sea-expansion-vn-006-part01.zip",
+      "archive_sha256": "2c19d9d47b2f72851fc8e0bc750ec40c0b28b92268298a56b825b78570b7ed14",
+      "archive_bytes": 29722713,
+      "matched_members": 12
+    },
+    {
+      "archive_name": "sea-expansion-vn-006-part02.zip",
+      "archive_sha256": "0412191a42460fcaf9985bb6976f5a55506bb1f87230f1ca96597314c9747b7e",
+      "archive_bytes": 19689223,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-vn-006-part03.zip",
+      "archive_sha256": "566d8b1a402b9e97e978fc065c4e188ba904cc2b15a8ad87763d3d5c3386d79d",
+      "archive_bytes": 31734047,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-expansion-vn-007-part01.zip",
+      "archive_sha256": "299231cd5383ac51fa5dd3d0142b575eb4abae5c59857e8c3099ae2f710c8d1f",
+      "archive_bytes": 24628275,
+      "matched_members": 14
+    },
+    {
+      "archive_name": "sea-expansion-vn-007-part02.zip",
+      "archive_sha256": "e298e088ead999eb8470c12672c538d75676d5297e91efe6bd56ec8e5df195da",
+      "archive_bytes": 32625831,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-vn-008-part01.zip",
+      "archive_sha256": "7d2d151819e63c2e214ed7901bf24bc98712da72159934ce945b6083f7f58168",
+      "archive_bytes": 19947021,
+      "matched_members": 14
+    },
+    {
+      "archive_name": "sea-expansion-vn-008-part02.zip",
+      "archive_sha256": "712d5ec8e30a9ea81c6ff781c3fbc56f49b71d808598d0e59a9bb2a05cc41556",
+      "archive_bytes": 34252647,
+      "matched_members": 7
+    },
+    {
+      "archive_name": "sea-expansion-vn-008-part03.zip",
+      "archive_sha256": "b576f823b1c232c2dd5e044eaa120f28a0bde294f1025e3cac6c6ed53d09b1f9",
+      "archive_bytes": 31667428,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-expansion-vn-009-part01.zip",
+      "archive_sha256": "8de7693ed4b5a63b1466dbe413becb04bc58001857698cc60f6b0bb1192bf175",
+      "archive_bytes": 17078002,
+      "matched_members": 24
+    },
+    {
+      "archive_name": "sea-expansion-vn-010-part01.zip",
+      "archive_sha256": "d0a021709c3d97ddda5413f1b1828f955c5c2f45cd273ca35740323160f215f9",
+      "archive_bytes": 33148314,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "sea-expansion-vn-010-part02.zip",
+      "archive_sha256": "33dd8a5de8d818ae0aceb05f6817a9cbe4543053824b2791955da866058a5549",
+      "archive_bytes": 13809889,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-expansion-vn-012-part01.zip",
+      "archive_sha256": "7f6d886f7259b3441061bbd5cc120ffdf9412a4297687c5667c168ab4385b57e",
+      "archive_bytes": 10267466,
+      "matched_members": 9
+    },
+    {
+      "archive_name": "sea-expansion-vn-013-part01.zip",
+      "archive_sha256": "c712654f200c3ce0f3b7141d3d71d1b830a97f8393459effb7e882c07a1ea8c8",
+      "archive_bytes": 14501628,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "sea-expansion-vn-014-part01.zip",
+      "archive_sha256": "23a5e1e29430a65b8dcd653f90978353c8e77e7d2cfcf5846bd943cfe072b5a4",
+      "archive_bytes": 2749031,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-expansion-vn-015-part01.zip",
+      "archive_sha256": "5bb23af11dd7bdbebe724a06c17a678eba9bf6c156f15f18749a7db01ae1af1c",
+      "archive_bytes": 27245827,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-insurance-bn-001-part01.zip",
+      "archive_sha256": "b86530224421554c16748e5a384022bec1ad9943b16383476f347ea0b864a914",
+      "archive_bytes": 454452,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-insurance-bn-003-part01.zip",
+      "archive_sha256": "1a9e15b588ba6291a76c0093fdbea7861d9231a862a120af04e1df914d96c867",
+      "archive_bytes": 21926524,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-insurance-id-002-part01.zip",
+      "archive_sha256": "d6bef7f36d670df25a9fd0a1931e1f35e77271a09745b7d6e42292ce89a02ea6",
+      "archive_bytes": 532903,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-insurance-kh-001-part01.zip",
+      "archive_sha256": "7c7d4c3018e409ccb989f3b8fb66e3883e6b7f2783927ad4e46442ba79e5024c",
+      "archive_bytes": 456953,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-insurance-kh-002-part01.zip",
+      "archive_sha256": "a3ccb6fd35fdf087bd7255eba524bce7a27180743174abb3c7375258755e3d74",
+      "archive_bytes": 391332,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-insurance-la-002-part01.zip",
+      "archive_sha256": "a62a4ddeeca83cf7ab1654bbcd908a1e4ddc295ba2dfc3d9c8e8fd8d796c8c5c",
+      "archive_bytes": 9858446,
+      "matched_members": 26
+    },
+    {
+      "archive_name": "sea-insurance-mm-002-part01.zip",
+      "archive_sha256": "ea3d33552f9bf5ca34dad4291f786a0c0d87860582ddbb6220a74e5b334d70fa",
+      "archive_bytes": 898301,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-insurance-my-002-part01.zip",
+      "archive_sha256": "3b4c49ef84f1236ea6c8474ddd1761f798a8421da4a3768dcb97e23a9d5afa37",
+      "archive_bytes": 33665570,
+      "matched_members": 42
+    },
+    {
+      "archive_name": "sea-insurance-my-003-part01.zip",
+      "archive_sha256": "5321247d7598be7b1071b337af166ef08cb8242e637534fe48f54aaab4648774",
+      "archive_bytes": 27324300,
+      "matched_members": 34
+    },
+    {
+      "archive_name": "sea-insurance-my-004-part01.zip",
+      "archive_sha256": "3cf1550c676ab9b86463b16437a83d33549763297d2007d31a6d9a7c0a614d4f",
+      "archive_bytes": 39253920,
+      "matched_members": 29
+    },
+    {
+      "archive_name": "sea-insurance-my-004-part02.zip",
+      "archive_sha256": "f8ad1a51c5e0216b4dbc05bd5c864f69fd321f1663d4e3c67ca9862855dc7f18",
+      "archive_bytes": 33462134,
+      "matched_members": 26
+    },
+    {
+      "archive_name": "sea-insurance-my-004-part03.zip",
+      "archive_sha256": "5e0b3d1a7e6f7761e7d7ec65a0b56245d8b294acdc238db1e55ae14a99dc7be7",
+      "archive_bytes": 7756034,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-insurance-my-005-part01.zip",
+      "archive_sha256": "88d324840ffbc025a77f03532e5ddcf56a5fb7f4f3b9290a23a53ffa1d19908d",
+      "archive_bytes": 23116314,
+      "matched_members": 11
+    },
+    {
+      "archive_name": "sea-insurance-ph-002-part01.zip",
+      "archive_sha256": "46cac26cf83b19ea22d56c25a139abaa984fe3f6e87c1e694d9593d5102fe55d",
+      "archive_bytes": 469788,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-insurance-sg-008-china-taiping-20261023-part01.zip",
+      "archive_sha256": "efcc60d8140f94c26cef601965d6c47d085c6408b7db3af626d271294a9b8746",
+      "archive_bytes": 24712816,
+      "matched_members": 18
+    },
+    {
+      "archive_name": "sea-insurance-sg-009-hsbc-life-20261023-part01.zip",
+      "archive_sha256": "cbc73eaabcf7ecc727ffeea159988ec2833df995caf250b194c08274643c3010",
+      "archive_bytes": 1179570,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-insurance-sg-014-prudential-20261023-part01.zip",
+      "archive_sha256": "60b063630c87218ad23b7b180d993c2afdeb3bc31dab7b49440938f12d342841",
+      "archive_bytes": 36138322,
+      "matched_members": 17
+    },
+    {
+      "archive_name": "sea-insurance-sg-014-prudential-20261023-part02.zip",
+      "archive_sha256": "da4e1e906c659931fff8c647de17932b49364035f9bc45fdea885cb20a5a4e74",
+      "archive_bytes": 3798601,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-insurance-sg-015-aia-20261023-part01.zip",
+      "archive_sha256": "4646de871a32ec03437e42f729bedcee41c98da7721485fdd96671ead71dc3aa",
+      "archive_bytes": 4076845,
+      "matched_members": 10
+    },
+    {
+      "archive_name": "sea-insurance-sg-016-manulife-20261023-part01.zip",
+      "archive_sha256": "c825f32a806a3feb3bdd8fa90742ad6625550dd242f95f4b04dce5c7c6fe3940",
+      "archive_bytes": 29280887,
+      "matched_members": 16
+    },
+    {
+      "archive_name": "sea-insurance-sg-018-china-life-20261023-part01.zip",
+      "archive_sha256": "56868a7f4194a17c3b2b625e6431856ef0adf6894df8d7762b93e0690a05daea",
+      "archive_bytes": 35986656,
+      "matched_members": 9
+    },
+    {
+      "archive_name": "sea-insurance-sg-018-china-life-20261023-part02.zip",
+      "archive_sha256": "84267aac6ccf15659ca50e4e02e6abddf5ba29a68f35317177e898232b75effd",
+      "archive_bytes": 25989083,
+      "matched_members": 7
+    },
+    {
+      "archive_name": "sea-insurance-sg-018-china-life-20261023-part03.zip",
+      "archive_sha256": "4783e648a84a05298822fb2309e00ac06a65aafcd4b8cf33232d63c079685ee6",
+      "archive_bytes": 37393783,
+      "matched_members": 4
+    },
+    {
+      "archive_name": "sea-insurance-sg-018-china-life-20261023-part04.zip",
+      "archive_sha256": "439696721c91a11c9063273b2b153f061a25c3b779c416786cce8409f8fcb85b",
+      "archive_bytes": 6545182,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-insurance-sg-019-prudential-20261023-part01.zip",
+      "archive_sha256": "b9caab4c10b910bba5092c3764e462287e203b12cfe78c67084bc3b5ba011a80",
+      "archive_bytes": 3935874,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "sea-insurance-sg-020-hsbc-online-endowment-wording-20261023-part01.zip",
+      "archive_sha256": "5e56664714cc218e2f8089578ff3b93d74179768f7b638f83c3cd06f90c0b41e",
+      "archive_bytes": 3299800,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-insurance-sg-fwd-save-smart-20261023-part01.zip",
+      "archive_sha256": "bf4726b54e2880fd0647ad294507a0debfe0a916662d02012af0d82a4c11cd58",
+      "archive_bytes": 20451330,
+      "matched_members": 6
+    },
+    {
+      "archive_name": "sea-insurance-sg-income-savings_retirement-20261023-part01.zip",
+      "archive_sha256": "0b94147f730414225f8e157b55427bebd8a0c363daba1d0e2b3c79a651905f77",
+      "archive_bytes": 40209271,
+      "matched_members": 16
+    },
+    {
+      "archive_name": "sea-insurance-sg-income-savings_retirement-20261023-part02.zip",
+      "archive_sha256": "379639c33492e4c447f018aaf00fa0e28b08b132e4f3475385ee4eb60cff9fa4",
+      "archive_bytes": 4494835,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "sea-insurance-th-002-part01.zip",
+      "archive_sha256": "0058def7d97d5d4a8d2357714aaf2c3bd29dcd38480f89166bd0be118dfb295d",
+      "archive_bytes": 229814,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sea-insurance-vn-001-part01.zip",
+      "archive_sha256": "35294e5b83ca62343b34925971ee064ba38f8706fc57748cae83a82177a2b218",
+      "archive_bytes": 24895503,
+      "matched_members": 7
+    },
+    {
+      "archive_name": "sea-insurance-vn-001-part02.zip",
+      "archive_sha256": "1c2858b4062c10eef8c49dbd511279704b9c97af84e15f647d7182c5323aaa33",
+      "archive_bytes": 19630563,
+      "matched_members": 7
+    },
+    {
+      "archive_name": "sea-insurance-vn-001-part03.zip",
+      "archive_sha256": "3420fb7b03013227e05f121cd2248626be4fd1b8334ac0550b53daf98a873e32",
+      "archive_bytes": 33321958,
+      "matched_members": 9
+    },
+    {
+      "archive_name": "sea-insurance-vn-001-part04.zip",
+      "archive_sha256": "feaff7f867bb011e8bd3fddf57c060b7a1897069c28fac4ac701d8ce45735bc5",
+      "archive_bytes": 25185751,
+      "matched_members": 7
+    },
+    {
+      "archive_name": "sea-insurance-vn-001-part05.zip",
+      "archive_sha256": "5645b3189c4280a10923dbec1509935023f63aaee1ebd12f5868adad945b5e9d",
+      "archive_bytes": 28454725,
+      "matched_members": 19
+    },
+    {
+      "archive_name": "sea-insurance-vn-001-part06.zip",
+      "archive_sha256": "71a57d1613e610a3e75c8ad72243596f1942c368a46859f4ec8c47a477aeaf20",
+      "archive_bytes": 26407381,
+      "matched_members": 37
+    },
+    {
+      "archive_name": "sg-care-secure-pro-candidate-20261024.zip",
+      "archive_sha256": "651f55ed997fac0289f0644439bb813b7b4eb894f7ed0505146a418c0b0443a5",
+      "archive_bytes": 492522,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sg-investflex-202601-original-evidence-20261024.zip",
+      "archive_sha256": "793bfa6096d6552344ef43d71dac4e4b737330480c07705b3c6783ad5c767de4",
+      "archive_bytes": 432522,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "sg151-152-original-component-evidence-20261024.zip",
+      "archive_sha256": "af3c569ce4ec9ba69cd50c9a0e65f2b24566c0763e41a480f8f5b3f0c506f338",
+      "archive_bytes": 1334537,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "th-prudential-two-support-originals-20261023.zip",
+      "archive_sha256": "21905af3430f8db05c18207935b080d1324de53179d826d2ab302f9214d475a0",
+      "archive_bytes": 228727,
+      "matched_members": 2
+    },
+    {
+      "archive_name": "vn-gap004-support-20261024-private-originals-evidence.zip",
+      "archive_sha256": "a971a55fb644fac574ef1421241360b2a25077c26f3c0bdcecf80c833ab87333",
+      "archive_bytes": 3353755,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "vn-gap005-support-20261024-private-originals-evidence.zip",
+      "archive_sha256": "2608e32f821ecae36709f353e09d9d42f19e64b453b1082efb25c84cd4d48d71",
+      "archive_bytes": 7562389,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "vn-gap006-support-20261024-evidence-part01.zip",
+      "archive_sha256": "694257ef7ced167c3d75bd3fb64607d9560afa44dcf25048898a1028691f87ca",
+      "archive_bytes": 25253342,
+      "matched_members": 5
+    },
+    {
+      "archive_name": "vn-gap007-support-20261024-private-originals-evidence.zip",
+      "archive_sha256": "da84e9c746d7b96077a883348e9c46de74b903c3d1b5fc659599dc1c5ad1704f",
+      "archive_bytes": 5860824,
+      "matched_members": 3
+    },
+    {
+      "archive_name": "vn-public-gap-022-support-20261024-private-original-evidence.zip",
+      "archive_sha256": "4ef60369ddf9ac95180857646f753103cb405b66b1a6eccfe0ffe40dcb5e7099",
+      "archive_bytes": 779581,
+      "matched_members": 1
+    },
+    {
+      "archive_name": "vn-public-gap-024-20261024-private-original-and-evidence.zip",
+      "archive_sha256": "4bac505a63cf656ffb48b96c18867761cf67788c263b3d950b54071adc101357",
+      "archive_bytes": 1241897,
+      "matched_members": 1
+    }
+  ],
+  "nonmatching_members_not_exported": 2424
+}

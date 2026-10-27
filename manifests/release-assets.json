@@ -1,0 +1,170 @@
+{
+  "assets": [
+    {
+      "name": "insurance-originals-20261027-part01.zip",
+      "bytes": 419286715,
+      "sha256": "5440251c6e29d1ea84539a831060b99bc4044c54c4c14903edfd7465b462cb3a",
+      "original_count": 304,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part02.zip",
+      "bytes": 418878566,
+      "sha256": "576b178eeb605d9fb42d21467a900fc00808f07984b7e7cd4c829d80f5e94e35",
+      "original_count": 338,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part03.zip",
+      "bytes": 417758510,
+      "sha256": "a062e39b5da3a311c7d28acba4b2bbb974a697b390a8ea90f0b3b56b176f279b",
+      "original_count": 349,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part04.zip",
+      "bytes": 418474060,
+      "sha256": "3d2bb70cadc6a8354624fe79e39b00abe4e0c533270a00373ed60c5bf0900de7",
+      "original_count": 337,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part05.zip",
+      "bytes": 418825416,
+      "sha256": "e8bf96a2cea22b5748d94f24d8254f7b259835d6ed2593f694e9c30b3a7f3118",
+      "original_count": 323,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part06.zip",
+      "bytes": 418815949,
+      "sha256": "e9c6f7f9578f2a8449bcd91d4def62b897c7013bd7952d29b9f7ab2c7c6c308e",
+      "original_count": 295,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part07.zip",
+      "bytes": 414100922,
+      "sha256": "cbe700d29d8b426e00774cebd21c57dec4a97c5aa6be70030ea91f04ec747899",
+      "original_count": 307,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part08.zip",
+      "bytes": 418864295,
+      "sha256": "e3a92ed165a5e53e63754f324b9c066a81a46de700bc22fdd5a62cf0e8092c63",
+      "original_count": 166,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part09.zip",
+      "bytes": 408461451,
+      "sha256": "ab84cbb32b97b8fdd9f22c9e20e184e077d5680bc454a9a2698dcc499975cf03",
+      "original_count": 137,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part10.zip",
+      "bytes": 414664222,
+      "sha256": "52dc793a40dd036a3b4eb4b61374eb252cf4e9417cbb05b0a7b909481eef7561",
+      "original_count": 264,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part11.zip",
+      "bytes": 418969157,
+      "sha256": "790da8bf6ed9e76ebe3f392bc28e360c7b4a0ed7afd74b933a28e769acea8b84",
+      "original_count": 420,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part12.zip",
+      "bytes": 419259870,
+      "sha256": "c5b2730aea9d54dc30ea674ed1dc0e6755b743cf2433abde7b0f52b6688719c6",
+      "original_count": 270,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part13.zip",
+      "bytes": 418134493,
+      "sha256": "27f32ad6aaf4ba03a826474303f0ea367b69df89a316ceca4b7da2a6b6d54139",
+      "original_count": 261,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part14.zip",
+      "bytes": 415436807,
+      "sha256": "a965ea98de5877c2f94de49187a9b8bb4be92ce4d1638f8f77df8fa0406c104e",
+      "original_count": 237,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part15.zip",
+      "bytes": 413257271,
+      "sha256": "565e4d79abedbfd63a2f39a302c74764d8c2d3dfb507d2f871d974f38ee879c0",
+      "original_count": 185,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part16.zip",
+      "bytes": 414330812,
+      "sha256": "042cba579a7f3c66441c934518098f3e80a67588e4902f33406745d8ecc12d9b",
+      "original_count": 180,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part17.zip",
+      "bytes": 413591282,
+      "sha256": "1280e4ff5ed5bbea1ee319c79a8b8a21ad1baa57e355a79f4751fa4de4471f9c",
+      "original_count": 150,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    },
+    {
+      "name": "insurance-originals-20261027-part18.zip",
+      "bytes": 325070708,
+      "sha256": "a3de0fd48f1ec5b43b3a6d70b1f44ee70f40bc2e1aca698ffbaa1fc34e4a585b",
+      "original_count": 139,
+      "quarantined": false,
+      "release_url": null,
+      "publication_status": "not_uploaded"
+    }
+  ],
+  "publication_status": "not_uploaded",
+  "notes": "Private release originals only. Original PDFs/HTML bytes unchanged; internal archive members not exported.",
+  "withheld_quarantine_count": 51,
+  "quarantine_release_status": "not_for_upload_pending_privacy_review"
+}
