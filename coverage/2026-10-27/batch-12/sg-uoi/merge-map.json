@@ -1,0 +1,13 @@
+{
+  "products-sg-uoi.jsonl": {
+    "rows": 32,
+    "scope": "6 product names,1 named package,3 add-ons,16 coverage classes,6 categories; not32 independently verified products"
+  },
+  "documents-sg-uoi.jsonl": {
+    "rows": 16,
+    "scope": "Document references only, not16 current marketed products or new files"
+  },
+  "existing_freezes_modified": false,
+  "previous_UOI_candidate_replaced": null,
+  "alias_counting": "Business Property two page aliases count once; UPP two source name labels count once."
+}

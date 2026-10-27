@@ -1,0 +1,160 @@
+{
+  "literal_root": [
+    {
+      "url": "https://www.uoi.com.sg/index.page",
+      "source_url": "https://www.uoi.com.sg",
+      "source_checked_at": "2026-10-27T10:10:54.788112+00:00",
+      "basis": "Exact meta-refresh/window.location literal index.page resolved against homepage; no path inference."
+    }
+  ],
+  "phase1": [
+    {
+      "url": "https://www.uoi.com.sg/uoi/personal/index.page",
+      "source_url": "https://www.uoi.com.sg/index.page",
+      "source_checked_at": "2026-10-27T12:16:00.917839+00:00",
+      "source_labels": [
+        "Product",
+        "Personal Products",
+        "Find out More"
+      ],
+      "scope": "public_catalog_or_material_directory_context",
+      "basis": "Exact source href in read official homepage; no path inference, quote/login route or PDF request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/personal/travel-insurance.page",
+      "source_url": "https://www.uoi.com.sg/index.page",
+      "source_checked_at": "2026-10-27T12:16:00.917839+00:00",
+      "source_labels": [
+        "UniTravel Insurance",
+        "Find out more",
+        "UOI Travel Insurance"
+      ],
+      "scope": "public_catalog_or_material_directory_context",
+      "basis": "Exact source href in read official homepage; no path inference, quote/login route or PDF request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/personal/motor-insurance.page",
+      "source_url": "https://www.uoi.com.sg/index.page",
+      "source_checked_at": "2026-10-27T12:16:00.917839+00:00",
+      "source_labels": [
+        "UniCar Insurance",
+        "Find out more",
+        "UniCar Motor Insurance"
+      ],
+      "scope": "public_catalog_or_material_directory_context",
+      "basis": "Exact source href in read official homepage; no path inference, quote/login route or PDF request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/personal/accident-protection.page",
+      "source_url": "https://www.uoi.com.sg/index.page",
+      "source_checked_at": "2026-10-27T12:16:00.917839+00:00",
+      "source_labels": [
+        "UniPA Insurance",
+        "Find out more"
+      ],
+      "scope": "public_catalog_or_material_directory_context",
+      "basis": "Exact source href in read official homepage; no path inference, quote/login route or PDF request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/personal/home-contents-insurance.page",
+      "source_url": "https://www.uoi.com.sg/index.page",
+      "source_checked_at": "2026-10-27T12:16:00.917839+00:00",
+      "source_labels": [
+        "UniHome Insurance"
+      ],
+      "scope": "public_catalog_or_material_directory_context",
+      "basis": "Exact source href in read official homepage; no path inference, quote/login route or PDF request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/commercial/business-property-insurance.page",
+      "source_url": "https://www.uoi.com.sg/index.page",
+      "source_checked_at": "2026-10-27T12:16:00.917839+00:00",
+      "source_labels": [
+        "Business Property Insurance"
+      ],
+      "scope": "public_catalog_or_material_directory_context",
+      "basis": "Exact source href in read official homepage; no path inference, quote/login route or PDF request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/commercial/general-insurance.page",
+      "source_url": "https://www.uoi.com.sg/index.page",
+      "source_checked_at": "2026-10-27T12:16:00.917839+00:00",
+      "source_labels": [
+        "General Insurance",
+        "Find out more"
+      ],
+      "scope": "public_catalog_or_material_directory_context",
+      "basis": "Exact source href in read official homepage; no path inference, quote/login route or PDF request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/commercial/specialised-insurance.page",
+      "source_url": "https://www.uoi.com.sg/index.page",
+      "source_checked_at": "2026-10-27T12:16:00.917839+00:00",
+      "source_labels": [
+        "Specialised Insurance",
+        "Find out more"
+      ],
+      "scope": "public_catalog_or_material_directory_context",
+      "basis": "Exact source href in read official homepage; no path inference, quote/login route or PDF request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/resources/index.page",
+      "source_url": "https://www.uoi.com.sg/index.page",
+      "source_checked_at": "2026-10-27T12:16:00.917839+00:00",
+      "source_labels": [
+        "Resources"
+      ],
+      "scope": "public_catalog_or_material_directory_context",
+      "basis": "Exact source href in read official homepage; no path inference, quote/login route or PDF request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/personal/upp.page",
+      "source_url": "https://www.uoi.com.sg/index.page",
+      "source_checked_at": "2026-10-27T12:16:00.917839+00:00",
+      "source_labels": [
+        "United Protection Policy (UPP)"
+      ],
+      "scope": "public_catalog_or_material_directory_context",
+      "basis": "Exact source href in read official homepage; no path inference, quote/login route or PDF request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/commercial/business-property-insurance.page",
+      "source_url": "https://www.uoi.com.sg/index.page",
+      "source_checked_at": "2026-10-27T12:16:00.917839+00:00",
+      "source_labels": [
+        "Business Property Insurance"
+      ],
+      "scope": "public_catalog_or_material_directory_context",
+      "basis": "Exact source href in read official homepage; no path inference, quote/login route or PDF request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/personal/accident-and-health.page",
+      "source_url": "https://www.uoi.com.sg/index.page",
+      "source_checked_at": "2026-10-27T12:16:00.917839+00:00",
+      "source_labels": [
+        "Accident and Health"
+      ],
+      "scope": "public_catalog_or_material_directory_context",
+      "basis": "Exact source href in read official homepage; no path inference, quote/login route or PDF request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/takaful.page",
+      "source_url": "https://www.uoi.com.sg/index.page",
+      "source_checked_at": "2026-10-27T12:16:00.917839+00:00",
+      "source_labels": [
+        "Takaful"
+      ],
+      "scope": "public_catalog_or_material_directory_context",
+      "basis": "Exact source href in read official homepage; no path inference, quote/login route or PDF request."
+    }
+  ],
+  "phase2": [
+    {
+      "url": "https://www.uoi.com.sg/uoi/commercial/index.page",
+      "source_url": "https://www.uoi.com.sg/uoi/commercial/general-insurance.page",
+      "source_checked_at": "2026-10-27T12:17:30.932285+00:00",
+      "source_label": "Commercial",
+      "basis": "Exact breadcrumb href in read official commercial catalog"
+    }
+  ]
+}

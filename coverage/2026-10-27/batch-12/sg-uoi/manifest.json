@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-10-27T12:24:08.238649+00:00",
+  "status": "immutable_candidate_content_QA_pending",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 2378,
+      "sha256": "a512c31ed4c095874651996718d9d246fc7f72359e92ab99cbaa016a2da7637d"
+    },
+    {
+      "file": "documents-sg-uoi.jsonl",
+      "bytes": 28953,
+      "sha256": "139b8fd5e443da560930a67d465f651a4eecb6987d3b7589ecea9b4a7e15825e"
+    },
+    {
+      "file": "finite-queues.json",
+      "bytes": 6742,
+      "sha256": "717467ff2f255c0e4e30b011ef0924aa671fd9d6c7d3c8d84495e80dda82cecf"
+    },
+    {
+      "file": "issuer-origin-evidence.json",
+      "bytes": 738,
+      "sha256": "6db8e5e092c9038e4da3bd9fa24707201f94e4a41f7ce39ff94cec152a72d7eb"
+    },
+    {
+      "file": "merge-map.json",
+      "bytes": 509,
+      "sha256": "ce1d450f4cd7b08c8802cc310646dbdb968e77ddff834ca843348240a7afe085"
+    },
+    {
+      "file": "products-sg-uoi.jsonl",
+      "bytes": 56022,
+      "sha256": "56967737d6a6482b7a075996aa50ccac25b9bdb6795eb34095da48a0425d0bc3"
+    },
+    {
+      "file": "publication-safety-gate.json",
+      "bytes": 341,
+      "sha256": "69d87eb5c72ebe2751a5560832f9af5ca81fd107a6fa16e884c0c7179dc884dc"
+    },
+    {
+      "file": "sg-uoi-traversal.json",
+      "bytes": 6458,
+      "sha256": "2551c62c91ef40967c50ecc2137c00902282866bdbab926b13c6ad48045e70e1"
+    },
+    {
+      "file": "source-attempts.json",
+      "bytes": 4114,
+      "sha256": "07d77e126c72715c38c656a75ac4ed1ac6ac3a819103d3d62ccd447808a46269"
+    },
+    {
+      "file": "sources.json",
+      "bytes": 5875,
+      "sha256": "1f43acaee357fccb6f73149c06d8c3f9d784276f53882f6adf1bd263cfe55635"
+    }
+  ]
+}

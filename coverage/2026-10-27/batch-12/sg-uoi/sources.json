@@ -1,0 +1,130 @@
+[
+  {
+    "source_url": "https://www.uoi.com.sg",
+    "final_url": "https://www.uoi.com.sg",
+    "checked_at": "2026-10-27T10:10:54.788112+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "fc7d65f2129d591c84a089f41bfa38243bdd45071c74a4ec95b39fa421a0990b"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/index.page",
+    "final_url": "https://www.uoi.com.sg/index.page",
+    "checked_at": "2026-10-27T12:16:00.917839+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "e01e5927a31229dd4013050cafe30411af5e74072fdb48a5ebcee4a730181457"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/uoi/personal/index.page",
+    "final_url": "https://www.uoi.com.sg/uoi/personal/index.page",
+    "checked_at": "2026-10-27T12:16:53.557479+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "229dbefb00d8343768e73fefdc795c01f00629891d920ad43778d7e1f48ecb7a"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/uoi/personal/travel-insurance.page",
+    "final_url": "https://www.uoi.com.sg/uoi/personal/travel-insurance.page",
+    "checked_at": "2026-10-27T12:17:02.979208+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "066859f79524a36907d548b0d8d6926bf7e2c21b7d2fda32323a3472e2be7159"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/uoi/personal/motor-insurance.page",
+    "final_url": "https://www.uoi.com.sg/uoi/personal/motor-insurance.page",
+    "checked_at": "2026-10-27T12:17:07.747418+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "1446bc8ef983eab6430fe529711c667e06a5dcd54acf6434c2a9500137d09675"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/uoi/personal/accident-protection.page",
+    "final_url": "https://www.uoi.com.sg/uoi/personal/accident-protection.page",
+    "checked_at": "2026-10-27T12:17:12.118512+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "eae2aa037650b1c31a3fb45ebf35e755bf674478a622fb1e7c4c67f9230075eb"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/uoi/personal/home-contents-insurance.page",
+    "final_url": "https://www.uoi.com.sg/uoi/personal/home-contents-insurance.page",
+    "checked_at": "2026-10-27T12:17:19.268196+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "98a61f79bf132cc618b3d733735588f0b5de5fcc09e9b077c0b1224c91550872"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/uoi/commercial/business-property-insurance.page",
+    "final_url": "https://www.uoi.com.sg/uoi/commercial/business-property-insurance.page",
+    "checked_at": "2026-10-27T12:17:24.529948+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "4f338ed2b9c3aa89cdc5ba6d256c8e236896deb87b7751c1eaec2d264b3871e6"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/uoi/commercial/general-insurance.page",
+    "final_url": "https://www.uoi.com.sg/uoi/commercial/general-insurance.page",
+    "checked_at": "2026-10-27T12:17:30.932285+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "4840c67c6e98589425751a9fc8b546ece2bcdcc25ed3bcc7a87df3884a2bea28"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/uoi/commercial/specialised-insurance.page",
+    "final_url": "https://www.uoi.com.sg/uoi/commercial/specialised-insurance.page",
+    "checked_at": "2026-10-27T12:17:34.744940+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "dbdb690b706413ad64060f99db36577aa50c99fc902933bb665ba21c47ac2fc8"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/uoi/resources/index.page",
+    "final_url": "https://www.uoi.com.sg/uoi/resources/index.page",
+    "checked_at": "2026-10-27T12:17:40.449383+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "38b31985a31d1261c5fd16cef007ea129eb0390ac395facc64f6b92ab650aaa6"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/personal/upp.page",
+    "final_url": "https://www.uoi.com.sg/personal/upp.page",
+    "checked_at": "2026-10-27T12:17:44.240040+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "e47008e29f9f4c8bb177d45aa3f8f5ec63e01e04a88cee3c6bd93e0f6888e1f5"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/commercial/business-property-insurance.page",
+    "final_url": "https://www.uoi.com.sg/commercial/business-property-insurance.page",
+    "checked_at": "2026-10-27T12:17:49.691147+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "4f338ed2b9c3aa89cdc5ba6d256c8e236896deb87b7751c1eaec2d264b3871e6"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/uoi/personal/accident-and-health.page",
+    "final_url": "https://www.uoi.com.sg/uoi/personal/accident-and-health.page",
+    "checked_at": "2026-10-27T12:17:53.653902+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "6d7878117b1544d2d096886e9cb0e6aadd16162f9adc8fd6dd03712c3899ce02"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/uoi/takaful.page",
+    "final_url": "https://www.uoi.com.sg/uoi/takaful.page",
+    "checked_at": "2026-10-27T12:17:57.755218+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "a4a91ceddcfe6ed338165e8dbcdca06889d4b16737586e523dedeb6f40e10efc"
+  },
+  {
+    "source_url": "https://www.uoi.com.sg/uoi/commercial/index.page",
+    "final_url": "https://www.uoi.com.sg/uoi/commercial/index.page",
+    "checked_at": "2026-10-27T12:19:17.893587+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "4ac2004068e53135a2660fe79d8e5824ba1c7e90a32d75b78f2c74885ac83b8a"
+  }
+]

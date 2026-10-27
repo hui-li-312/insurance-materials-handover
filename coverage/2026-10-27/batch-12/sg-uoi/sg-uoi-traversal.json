@@ -1,0 +1,127 @@
+{
+  "snapshot_at": "2026-10-27T12:24:08.238649+00:00",
+  "jurisdiction": "SG",
+  "issuer": "UNITED OVERSEAS INSURANCE LIMITED",
+  "issuer_id": "SG-own-ce389c5027e62cba",
+  "official_website": "https://www.uoi.com.sg",
+  "status": "immutable_candidate_content_QA_pending",
+  "products_status": "partial",
+  "whole_issuer_catalog_closed": false,
+  "bounded_HTML_queue_exhausted": true,
+  "source_request_events": 16,
+  "HTTP200_responses": 16,
+  "blocked_or_failed_source_requests": 0,
+  "finite_queue_bounds": {
+    "previously_cached_homepage_stub": 1,
+    "literal_meta_refresh_index": 1,
+    "reviewed_homepage_catalog_context_targets": 13,
+    "additional_exact_commercial_breadcrumb": 1
+  },
+  "inventory_observations": 32,
+  "inventory_role_counts": {
+    "product": 6,
+    "add_on": 3,
+    "coverage_class": 16,
+    "plan": 1,
+    "catalog_category": 6
+  },
+  "document_observations": 16,
+  "document_role_counts": {
+    "document_page": 16
+  },
+  "document_source_counts": {
+    "resource_directory_including_1_PPF_information_link": 12,
+    "accident_health_policy_info": 4
+  },
+  "nested_plan_labels_not_additional_inventory_rows": 9,
+  "material_reference_count": 39,
+  "unique_publishable_material_urls": 29,
+  "material_role_counts": {
+    "brochure": 9,
+    "policy_or_wording_candidate": 13,
+    "promotion_terms_or_information": 3,
+    "product_FAQ_reference": 8,
+    "travel_advisory": 1,
+    "provider_directory": 1,
+    "blank_claim_form": 3,
+    "consumer_protection_information": 1
+  },
+  "material_references_zero_individual_product_material_credit": 6,
+  "raw_PDFs_downloaded": 0,
+  "formal_new_material_file_count": 0,
+  "independently_verified_unique_SKUs": 0,
+  "held_locator_fields_redacted": 0,
+  "additional_email_like_locator_fields_omitted": 0,
+  "source_observed_from": "2026-10-27T10:10:54.788112+00:00",
+  "source_observed_to": "2026-10-27T12:19:17.893587+00:00",
+  "pagination_evidence": "Personal index contains four full named cards (UniTravel, UniCar, UniPA, UniHome); commercial index contains two category cards (General, Specialised). UOB-exclusive Business Property, UPP and Accident & Health targets separately appear on homepage. All targets read. No catalog next/load-more continuation or advertised product-array endpoint found in these read sources.",
+  "same_offering_alias_handling": "Two independently source-advertised Business Property URLs have equal visible-filtered main text; retained as one offering with alias evidence. Homepage United Protection Policy and detail United Property Protection are preserved as UPP name aliases, not two products.",
+  "untraversed_nonproduct_links": [
+    {
+      "url": "https://www.uoi.com.sg/uoi/content-hub/investor-relations.page",
+      "source_urls": [
+        "https://www.uoi.com.sg/index.page"
+      ],
+      "reason": "Corporate/editorial/contact/claim-assistance context, not product catalog. No interaction or request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/content-hub/newsroom.page",
+      "source_urls": [
+        "https://www.uoi.com.sg/index.page"
+      ],
+      "reason": "Corporate/editorial/contact/claim-assistance context, not product catalog. No interaction or request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/content-hub/blogs.page",
+      "source_urls": [
+        "https://www.uoi.com.sg/index.page"
+      ],
+      "reason": "Corporate/editorial/contact/claim-assistance context, not product catalog. No interaction or request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/contact-us.page",
+      "source_urls": [
+        "https://www.uoi.com.sg/index.page",
+        "https://www.uoi.com.sg/uoi/resources/index.page",
+        "https://www.uoi.com.sg/uoi/takaful.page"
+      ],
+      "reason": "Corporate/editorial/contact/claim-assistance context, not product catalog. No interaction or request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/claims-assistance.page",
+      "source_urls": [
+        "https://www.uoi.com.sg/index.page",
+        "https://www.uoi.com.sg/uoi/resources/index.page",
+        "https://www.uoi.com.sg/uoi/takaful.page"
+      ],
+      "reason": "Corporate/editorial/contact/claim-assistance context, not product catalog. No interaction or request."
+    },
+    {
+      "url": "https://www.uoi.com.sg/uoi/index.page",
+      "source_urls": [
+        "https://www.uoi.com.sg/uoi/personal/index.page",
+        "https://www.uoi.com.sg/uoi/personal/travel-insurance.page",
+        "https://www.uoi.com.sg/uoi/personal/motor-insurance.page",
+        "https://www.uoi.com.sg/uoi/personal/accident-protection.page",
+        "https://www.uoi.com.sg/uoi/personal/home-contents-insurance.page",
+        "https://www.uoi.com.sg/uoi/commercial/general-insurance.page",
+        "https://www.uoi.com.sg/uoi/commercial/specialised-insurance.page",
+        "https://www.uoi.com.sg/uoi/resources/index.page",
+        "https://www.uoi.com.sg/uoi/takaful.page",
+        "https://www.uoi.com.sg/uoi/commercial/index.page"
+      ],
+      "reason": "Home breadcrumb alias; index.page already read"
+    }
+  ],
+  "limits": [
+    "Takaful overview describes UOI general takaful business but exposes no named catalog. Named takaful universe remains unresolved; no enquiries/outreach performed.",
+    "Accident & Health page supplies Cancer Care and Hospitalisation policy-wording/FAQ documents; these are document observations, not independently verified current new-sale products.",
+    "UPP own page primarily services existing policies. Its homepage card is not proof of current new-business availability.",
+    "Sixteen commercial cover descriptions are coverage classes; United SME Business Plan is one named package, not six independently counted products.",
+    "Three named optional components have no inherited parent material links. Nine retail tier labels remain nested plan labels, not additional marketed products or SKUs.",
+    "UniPA inline FAQ area contains an error message; linked FAQ PDF content was not read.",
+    "Only public HTML requested. No PDF, authenticated agent portal, quote/application/purchase, contact/update/cancellation form or external bank request.",
+    "Product/material issue/effective dates unknown remain null. Travel-advisory displayed date is scoped separately and is not a product date.",
+    "Single-issuer official catalog mapping identifies source issuer; no independently verified complete contract/base/SKU or application eligibility claim."
+  ]
+}
