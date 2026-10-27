@@ -1,0 +1,57 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import crypto from 'node:crypto';
+import {buildCoverage,serializeCoverage} from '../scripts/coverage.mjs';
+import {addMyTwoCatalog,MY_TWO_FEED,MY_TWO_PREFIX,MY_TWO_FILES,MY_TWO_MANIFEST_SHA} from '../scripts/my-two-catalog-adapter.mjs';
+import {safeURL,scopeOf} from '../public/coverage-core.mjs';
+const root=new URL('../../',import.meta.url),text=p=>fs.readFileSync(new URL(p,root),'utf8'),read=p=>JSON.parse(text(p)),sha=b=>crypto.createHash('sha256').update(b).digest('hex'),lines=p=>text(p).trim().split('\n').map(JSON.parse);
+const payload=buildCoverage(),all=payload.observations,rows=all.filter(r=>r.provenance.feed===MY_TWO_FEED),byId=new Map(rows.map(r=>[r.sourceId,r])),raw=lines(MY_TWO_PREFIX+'products-my-two-catalog.jsonl'),contexts=lines(MY_TWO_PREFIX+'context-my-two-catalog.jsonl'),sources=read(MY_TWO_PREFIX+'sources.json'),context=payload.regionContext.MY.facts.myTwoCatalog;
+const results=[];function check(name,fn){fn();results.push(name);}
+check('Only the 11 corrected T1934Z approved files and exact hashes are consumed; old export is rejected',()=>{
+ const approved=read('website/config/coverage-approved-inputs.json').filter(x=>x.path.startsWith(MY_TWO_PREFIX));assert.equal(approved.length,11);assert.deepEqual(approved.map(x=>x.path.slice(MY_TWO_PREFIX.length)).sort(),[...MY_TWO_FILES].sort());assert.equal(sha(text(MY_TWO_PREFIX+'manifest.json')),MY_TWO_MANIFEST_SHA);
+ const manifest=read(MY_TWO_PREFIX+'manifest.json');for(const [name,e]of Object.entries(manifest.files)){const b=fs.readFileSync(new URL(MY_TWO_PREFIX+name,root));assert.equal(b.length,e.bytes);assert.equal(sha(b),e.sha256);}
+ for(const f of approved){const b=fs.readFileSync(new URL(f.path,root));assert.equal(b.length,f.bytes);assert.equal(sha(b),f.sha256);assert.doesNotMatch(b.toString(),/\/workspace\/|\/home\/agent\/|sediment:\/\/|library_file_id|Bearer\s|[?&](?:token|secret|signature)=/i);}
+ const feed=payload.feeds.find(x=>x.id===MY_TWO_FEED);assert.deepEqual([...feed.files].sort(),approved.map(x=>x.path).sort());
+ for(const changed of ['manifest.json','products-my-two-catalog.jsonl','context-my-two-catalog.jsonl','sources.json','source-level-unread-material-references.jsonl'])assert.throws(()=>addMyTwoCatalog({feeds:new Map([[MY_TWO_FEED,{id:MY_TWO_FEED,path:MY_TWO_PREFIX.slice(9)}]]),rows:[],feedSummaries:[],read:p=>text(p)+(p===MY_TWO_PREFIX+changed?' ':''),sha}),undefined,'Altered '+changed+' must fail closed');
+});
+check('Exactly 129 typed observations are imported once; 20 contexts, 64 memberships and 95 unread source refs add zero rows/materials',()=>{
+ assert.equal(rows.length,129);assert.equal(byId.size,129);assert.deepEqual(Object.fromEntries(['group_product','product','package','unknown','rider','variant'].map(k=>[k,rows.filter(r=>r.kind===k).length])),{group_product:13,product:27,package:2,unknown:2,rider:80,variant:5});
+ assert.equal(context.contexts.length,20);assert.equal(context.sourceLevelUnreadMaterialReferences.length,95);assert.equal(context.sources.length,149);assert.equal(context.counts.uniqueSelectorMemberships,64);assert.equal(context.counts.distinctSelectorOriginRawLinkPairs,63);assert.equal(context.counts.formalOriginalCredit,0);assert.equal(context.counts.verifiedSkuCredit,0);
+ for(const c of contexts){assert(!byId.has(c.observation_id));assert(!all.some(r=>r.sourceId===c.observation_id));}
+ for(const r of rows){assert.deepEqual(r.materials,[]);assert.equal(r.formalOriginalCredit,0);assert.equal(r.verifiedSkuCredit,0);assert.equal(r.legalIssuer,null);assert.equal(r.issuerId,null);assert.equal(r.facts.contractual_entity,null);}
+ assert.equal(new Set(rows.map(r=>r.issuer)).size,2);assert.equal(rows.filter(r=>r.facts.source_company_id==='MY-own-447346ca30a0a5f2').length,80);assert.equal(rows.filter(r=>r.facts.source_company_id==='MY-own-cce842ed63b41679').length,49);
+ assert.equal(rows.reduce((n,r)=>n+(r.facts.catalog_membership_observations?.length||0),0)+context.contexts.reduce((n,r)=>n+(r.catalog_membership_observations?.length||0),0),65,'One shared card membership occurs on both named plans; unique membership count remains 64');
+ assert.deepEqual(payload.baselines,{directoryEntries:2360,formalOriginals:4713,strictVerified:426,newFormalOriginals:0,newVerifiedSkus:0});
+});
+check('Stable exact source IDs, all source facts, timestamps, nullable URLs and original notes survive without publisher-to-underwriter promotion',()=>{
+ const sourceById=new Map(sources.map(s=>[s.source_id,s]));
+ const normalized=new Set(['observation_id','jurisdiction','issuer_id','issuer','official_name','role','product_url','source_catalog_url','material_links','notes']);
+ for(const r of raw){const out=byId.get(r.observation_id);assert(out);assert.equal(out.id,'obs-'+sha(MY_TWO_FEED+':'+r.observation_id).slice(0,20));assert.equal(out.sourceId,r.observation_id);assert.equal(out.name,r.official_name);assert.equal(out.kind,r.role);assert.equal(out.issuer,r.source_publisher+'（法定承保人待核）');assert.equal(out.sourceUrl,safeURL(r.product_url)||null);assert.equal(out.catalogUrl,safeURL(r.source_catalog_url)||null);assert.deepEqual(out.notes,r.notes);for(const [k,v]of Object.entries(r))if(!normalized.has(k))assert.deepEqual(out.facts[k],v,r.official_name+' '+k);assert.deepEqual(out.facts.source_captures,r.source_ids.map(id=>sourceById.get(id)));}
+ assert.equal(rows.filter(r=>r.sourceUrl===null).length,raw.filter(r=>r.product_url===null).length);assert.equal(rows.flatMap(r=>r.materials).filter(m=>m.urlStatus==='withheld_in_public_source').length,0);
+ assert.equal(rows.filter(r=>r.facts.public_page_underwriter_claims).length,2);for(const r of rows.filter(r=>r.facts.public_page_underwriter_claims)){assert.equal(r.legalIssuer,null);assert.equal(r.issuerId,null);}
+ for(const [i,c]of contexts.entries()){const out=context.contexts[i],{provenance,independentProductCountCredit,...retained}=out;assert.deepEqual(retained,c);assert.equal(provenance.path,MY_TWO_PREFIX+'context-my-two-catalog.jsonl');assert.equal(provenance.line,i+1);assert.equal(independentProductCountCredit,0);}
+});
+check('Explicit parent sets and non-parent source relationships remain distinct; combined hub and PRUGrowth do not become products',()=>{
+ for(const r of raw){const out=byId.get(r.observation_id);if(r.parent_observation_ids){assert.deepEqual(out.parentObservations.map(p=>p.sourceId),r.parent_observation_ids);for(const p of out.parentObservations){assert.equal(p.id,byId.get(p.sourceId).id);assert.equal(p.issuer,out.issuer);}}else assert.equal(out.parentObservations,undefined);
+  for(const relation of out.sourceRelationships||[]){const rawTarget=[...raw,...contexts].find(x=>x.observation_id===relation.target_observation_id);assert.equal(relation.targetName,rawTarget.official_name);assert.equal(relation.targetRole,rawTarget.role);assert.equal(relation.sourceContextOnly,rawTarget.role==='context');assert.equal(relation.productObservation===null,rawTarget.role==='context');}}
+ const named=name=>rows.find(x=>x.name===name);assert(named('PRUMan'));assert(named('PRULady'));assert.equal(named('PRUMan & PRULady'),undefined);assert.equal(named('PRUMy Critical Care'),undefined);assert.equal(named('PRUGrowth'),undefined);
+ for(const name of ['PRUMan','PRULady']){const r=named(name);assert.equal(r.sourceRelationships[0].targetName,'PRUMan & PRULady');assert.equal(r.sourceRelationships[0].sourceContextOnly,true);assert.equal(r.parentObservations,undefined);}
+ const plan=named('PRUCover Med — Plan 200');assert.equal(plan.kind,'variant');assert.deepEqual(plan.parentObservations.map(p=>p.name),['PRUCover Med']);
+ for(const name of ['PRUWaiver','Spouse Waiver','Parent Waiver']){const r=named(name);assert.deepEqual(r.parentObservations.map(p=>p.name),['PRUCash Double Reward','PRUCash']);assert(!r.parentObservations.some(p=>/PRUGrowth|PRURetirement Growth/.test(p.name)));}
+ assert.match(named('PRUWaiver').notes.join(' '),/resolves through supported web to PRURetirement Growth/);for(const name of ['Spouse Waiver','Parent Waiver'])assert.match(named(name).notes.join(' '),/this page's target was not exposed or followed/);
+ assert.equal(scopeOf(named('PRUWaiver')),'component');
+});
+check('Method/date boundaries preserve raw HTML, supported text and 10 browser-visible selectors without guessing HTTP or current sale',()=>{
+ const browser=context.sources.filter(s=>s.retrieval_method==='ordinary_cloud_browser_UI_visible_JSON_text_not_raw_HTTP'),web=context.sources.filter(s=>s.retrieval_method==='supported_web_research_text_not_raw_HTML'),html=context.sources.filter(s=>s.retrieval_method==='retained_anonymous_HTTP_GET_HTML');assert.equal(browser.length,10);assert.equal(web.length,116);assert.equal(html.length,23);
+ for(const s of [...browser,...web]){assert.equal(s.http_status,null);assert.equal(s.raw_HTML_sha256,null);assert.equal(s.source_date,null);assert.equal(s.publication_date,null);assert.equal(s.effective_date,null);}for(const s of browser){assert.equal(s.hash_scope,'UTF8_rendered_body_innerText_not_raw_HTTP_bytes');assert.match(s.transport_auth_status,/HTTP_status_unknown/);}assert(web.some(s=>s.tool_reported_crawl_age));
+ const empty=browser.find(s=>s.category_count===0);assert(empty);assert.equal(empty.catalog_card_memberships,0);assert(empty.empty_component_caveat);assert.equal(context.frontier.master_policy_empty_component_not_empty_directory_or_insurer,true);
+ assert.equal(context.frontier.unavailable_PruBSN_HTML_targets,4);assert.equal(context.frontier.DamaiGenZ_CMS_route_conflict_unresolved,true);assert.equal(context.frontier.PRUGrowth_label_target_conflict_unresolved,true);assert.equal(context.frontier.PRUCancer_X_terminology_conflict_unresolved,true);assert.equal(context.frontier.PRUDirect_partner_redirect_unfollowed,true);assert.equal(context.frontier.unnamed_Mom_and_Baby_Care_variants,2);assert.equal(context.frontier.document_bodies_read,0);assert.equal(context.frontier.all_products_complete,false);assert.equal(context.frontier.all_market_complete,false);
+ assert.equal(context.status.historical_failed_web_selector_attempts,1);assert.equal(context.status.historical_web_selector_unattempted,9);assert.equal(context.status.PDF_bodies_read_this_continuation,0);
+ for(const r of rows){assert.equal(r.facts.current_new_business_status,'public_catalog_or_detail_observation_only_not_independently_confirmed');assert.equal(r.facts.base_standalone_contract_status,'not_independently_confirmed');}
+});
+check('Source-level unread references are preserved exactly as non-product provenance, with no inferred PDF/body, visibility or language facts',()=>{
+ assert.deepEqual(context.sourceLevelUnreadMaterialReferences,lines(MY_TWO_PREFIX+'source-level-unread-material-references.jsonl'));assert.deepEqual(context.contextOnlyNamedMentions,read(MY_TWO_PREFIX+'context-only-named-mentions.json'));
+ for(const m of context.sourceLevelUnreadMaterialReferences){assert.equal(m.target_body_requested,false);assert.equal(m.body_status,'unread');assert.equal(m.formal_material_file_credit,0);assert.equal(m.verified_main_policy_wording_credit,0);assert.equal(m.product_specific_material_credit,0);assert.equal(m.language,null);assert.equal(m.language_status,'unverified_not_inferred_from_filename');}
+ for(const [name,out]of serializeCoverage(payload))assert.equal(fs.readFileSync(new URL('website/public/'+name,root),'utf8'),out,'Stale deterministic projection: '+name);
+});
+console.log(JSON.stringify({passed:results.length,checks:results},null,2));
