@@ -1,0 +1,46 @@
+[
+  {
+    "name": "PruBSN Setia",
+    "source_id": "MY2-source-e3e5f3d54a123320e9d4",
+    "role": "context_only_legacy_or_placeholder_mention",
+    "reason": "Rendered Setia link shares a self/placeholder target with AnugerahMax and contact footer entries; click returned same rider page. No distinct product detail established."
+  },
+  {
+    "name": "PRU Signature Prestige",
+    "source_observation_id": "MY2-observation-10dc24d937191e87605f",
+    "role": "context_only_legacy_or_unverified_mention",
+    "reason": "Unlinked FAQ mention on settlement feature page; not conflated with PRUPrestige Legacy or counted as new-business product."
+  },
+  {
+    "name": "PRUMy Critical Care",
+    "source_observation_id": "MY2-observation-dd1dee443c5681135286",
+    "source_url": "https://www.prudential.com.my/en/products/critical-illness-insurance/prumy-critical-care/",
+    "role": "context_only_solution_rider_hub",
+    "reason": "Successor now observes explicit selector card and own detail; solution hub remains context, not base policy or fixed package."
+  },
+  {
+    "name": "PRUTerm Premier",
+    "source_url": "https://www.prudential.com.my/en/products/life-insurance/chi/",
+    "role": "context_only_unlinked_FAQ_mention",
+    "reason": "Example in category FAQ without a current card or product-detail body; no standalone current product claim."
+  },
+  {
+    "name": "PruBSN Microtakaful Jariyah",
+    "source_observation_id": "MY2-observation-7b8725821add62da7db2",
+    "role": "context_only_charitable_program_distribution",
+    "reason": "Named in 2019–2026 Ihsan donation-distribution table, including planned 2027 allocation; not converted into a directly available standalone current product."
+  },
+  {
+    "name": "PruBSN Prihatin",
+    "source_observation_id": "MY2-observation-7b8725821add62da7db2",
+    "role": "context_only_charitable_fund",
+    "reason": "Donation-fund channel, not a policy or rider."
+  },
+  {
+    "name": "PRUGrowth",
+    "source_id": "MY2-source-616aa99e6404cdcb4b74",
+    "source_url": "https://www.prudential.com.my/en/products/riders/pruwaiver/",
+    "role": "context_only_unresolved_attachment_label",
+    "reason": "Literal attachment link returns PRURetirement Growth; different names are not treated as equivalent or as evidence of rider eligibility."
+  }
+]

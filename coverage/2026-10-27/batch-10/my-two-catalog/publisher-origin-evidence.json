@@ -1,0 +1,32 @@
+[
+  {
+    "issuer_id": "MY-own-447346ca30a0a5f2",
+    "legal_names": [
+      "Prudential Assurance Malaysia Berhad"
+    ],
+    "evidence_url": "https://www.prudential.com.my/en/",
+    "source_sha256": "cf7118bbdaf48a2a24894a1acd46abdc861fb1016cd4adc075d72fbb53056bfc",
+    "source_observed_at": "2026-10-27T09:56:25.854003+00:00",
+    "source_effective_URL": "https://www.prudential.com.my/en/",
+    "census_source_url": "https://www.pidm.gov.my/general/how-we-protect-you/takaful-and-insurance-benefits-protection-system",
+    "census_scope": "PIDM mandatory insurer members under FSA/IFSA; full 48 names read; excludes offshore/reinsurance/retakaful/international takaful/financial guarantee",
+    "public_read_scope": "HTML_catalog_only",
+    "PDF_intake_authorized": false,
+    "scope_decision_at": "2026-10-27T15:40:38.779838+00:00"
+  },
+  {
+    "issuer_id": "MY-own-cce842ed63b41679",
+    "legal_names": [
+      "Prudential BSN Takaful Berhad"
+    ],
+    "evidence_url": "https://www.prubsn.com.my/",
+    "source_sha256": "7e9f6ff55fc78a52d63480423590cb790a9950e0eaddc9ccfe4d338a4d541d5e",
+    "source_observed_at": "2026-10-27T10:18:04.668303+00:00",
+    "source_effective_URL": "https://www.prubsn.com.my/ms/",
+    "census_source_url": "https://www.pidm.gov.my/general/how-we-protect-you/takaful-and-insurance-benefits-protection-system",
+    "census_scope": "PIDM mandatory insurer members under FSA/IFSA; full 48 names read; excludes offshore/reinsurance/retakaful/international takaful/financial guarantee",
+    "public_read_scope": "HTML_catalog_only",
+    "PDF_intake_authorized": false,
+    "scope_decision_at": "2026-10-27T15:40:38.779838+00:00"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "source_candidate_frozen_at": "2026-10-27T19:34:07.827865+00:00",
+  "all_products_complete": false,
+  "all_market_complete": false,
+  "exact_dynamic_selectors_resolved_via_ordinary_browser": 10,
+  "exact_dynamic_selectors_unread": 0,
+  "scope_expansion_to_other_models_or_APIs": false,
+  "master_policy_empty_component_not_empty_directory_or_insurer": true,
+  "selector_card_memberships": 64,
+  "unavailable_PruBSN_HTML_targets": 4,
+  "DamaiGenZ_CMS_route_conflict_unresolved": true,
+  "PRUGrowth_label_target_conflict_unresolved": true,
+  "PRUCancer_X_terminology_conflict_unresolved": true,
+  "PRUDirect_partner_redirect_unfollowed": true,
+  "unnamed_Mom_and_Baby_Care_variants": 2,
+  "unread_literal_material_references": 95,
+  "language_alias_coverage": "not_exhaustive",
+  "document_bodies_read": 0,
+  "contractual_underwriter_mapping": "unverified_two_official_page_claims_retained",
+  "historical_web_selector_failure_status": "tool_cannot_read_exact_URL_origin_HTTP_auth_unknown",
+  "ordinary_browser_source_status": "public_visible_JSON_HTTP_status_unknown_cookie_header_state_not_inspected_no_login"
+}

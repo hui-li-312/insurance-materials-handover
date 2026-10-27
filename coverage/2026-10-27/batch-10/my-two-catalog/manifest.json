@@ -1,0 +1,61 @@
+{
+  "frozen_at": "2026-10-27T19:34:07.827865+00:00",
+  "source_candidate_manifest_sha256": "cbee5eda7b7fb24666f127c09b2a3e2b909e1a50efe8ce47f45542b7a41231a3",
+  "files": {
+    "README.md": {
+      "sha256": "c97f828b32840e34308ad051ba276e592ae18d2035b425bea022f0d64e82cd85",
+      "bytes": 1212
+    },
+    "context-my-two-catalog.jsonl": {
+      "sha256": "75f1f99c4bb89fed24feb87f2d4e804ae39ff35e6ddb5e1e273212a49657778a",
+      "bytes": 36730
+    },
+    "context-only-named-mentions.json": {
+      "sha256": "c7b936acdb23247148b175e4e1842c2b81b411a5608fe4f01ec31eacb5b8ce87",
+      "bytes": 2304
+    },
+    "frontier-summary.json": {
+      "sha256": "8a59559fd1ed5c076c385e7642caa9b56f5827da2220baa17487365b360be5be",
+      "bytes": 1116
+    },
+    "products-my-two-catalog.jsonl": {
+      "sha256": "ca74cb61b569c31a9bbed20345dcc7c027675467756440a6d4c7243c57ea1f2d",
+      "bytes": 274774
+    },
+    "public-metadata-allowlist.json": {
+      "sha256": "03fcdae804fb0f112c70ac22658ce6207e44220becca872b76f9aff964e64179",
+      "bytes": 4742
+    },
+    "publisher-origin-evidence.json": {
+      "sha256": "994fdb124566d91c34a51289c6962190fb3927bd36f23f9bcea2a3258c64cae6",
+      "bytes": 1667
+    },
+    "source-level-unread-material-references.jsonl": {
+      "sha256": "e57db049b440a1b33b01d3312698d5a7127082b374bbd49b65c7015aab3e6274",
+      "bytes": 94399
+    },
+    "sources.json": {
+      "sha256": "9118ced509069f13bbfdb687c8e330fffa7f69dfb0655728eb658493462598b6",
+      "bytes": 147588
+    },
+    "status.json": {
+      "sha256": "d9bbcea58f63a69619d545fd05915308bfe5b1ac0bad668a1442ffac1b9b743c",
+      "bytes": 2850
+    }
+  },
+  "scope": "metadata_only_no_captures_fulltexts_local_paths_or_secrets_pending_root_QA",
+  "public_file_allowlist": [
+    "README.md",
+    "context-my-two-catalog.jsonl",
+    "context-only-named-mentions.json",
+    "frontier-summary.json",
+    "manifest.json",
+    "products-my-two-catalog.jsonl",
+    "public-metadata-allowlist.json",
+    "publisher-origin-evidence.json",
+    "source-level-unread-material-references.jsonl",
+    "sources.json",
+    "status.json"
+  ],
+  "superseded_public_export_manifest_sha256": "ecc8f249c397a7beca51ef38556a6945a8c09558990d1b4149aacc9f565e7c9f"
+}

@@ -1,0 +1,77 @@
+{
+  "frozen_at": "2026-10-27T19:34:07.827865+00:00",
+  "scope": "two_Malaysia_publishers_prior_HTML_plus_exact10_public_catalog_selectors_ordinary_browser_and_literal_related_HTML",
+  "status": "metadata_only_successor_pending_root_independent_QA_not_published",
+  "counts": {
+    "observation_rows": 129,
+    "roles": {
+      "group_product": 13,
+      "product": 27,
+      "package": 2,
+      "unknown": 2,
+      "rider": 80,
+      "variant": 5
+    },
+    "context_rows": 20,
+    "sources": 149,
+    "raw_HTML_sources_reused": 23,
+    "supported_web_page_text_observations": 116,
+    "ordinary_browser_selector_visible_JSON_observations": 10,
+    "web_unavailable_results": 4,
+    "literal_material_link_observations_unread": 95,
+    "selector_card_memberships": 64,
+    "selector_distinct_origin_raw_link_pairs": 63,
+    "per_source_company": {
+      "prudential-my": {
+        "rows": 80,
+        "roles": {
+          "rider": 50,
+          "group_product": 8,
+          "package": 1,
+          "product": 18,
+          "variant": 3
+        }
+      },
+      "prubsn-my": {
+        "rows": 49,
+        "roles": {
+          "group_product": 5,
+          "product": 9,
+          "package": 1,
+          "unknown": 2,
+          "rider": 30,
+          "variant": 2
+        }
+      }
+    }
+  },
+  "delta_from_prior_114": {
+    "new_observation_rows": 15,
+    "new_roles": {
+      "product": 7,
+      "rider": 7,
+      "variant": 1
+    },
+    "new_contexts": 2,
+    "preexisting_observation_ids_retained": 114,
+    "new_selector_card_is_not_SKU_rule": true
+  },
+  "frontier_status": "exact10_selectors_resolved_observed_new_HTML_frontier_closed_with_explicit_conflicts_and_prior_gaps",
+  "all_products_complete": false,
+  "all_market_complete": false,
+  "PDF_bodies_read_this_continuation": 0,
+  "new_JS_requests": 0,
+  "direct_scripted_API_requests": 0,
+  "browser_public_selector_URL_reads": 10,
+  "supported_web_HTML_followups": 17,
+  "historical_failed_web_selector_attempts": 1,
+  "historical_web_selector_unattempted": 9,
+  "verified_SKU_count": 0,
+  "formal_material_file_credit": 0,
+  "contractual_entity_mapping_status": "contractual_fields_null_two_official_page_underwriter_claims_recorded_separately",
+  "method_note": "Browser observations are exact rendered visible JSON text, not raw response bytes or HTTP 200 proof. Browser cookie/header state was not inspected and no login used. Prior exact-web-selector failure remains tool limitation, not origin403. Web HTML research is not raw HTML or live HTTP.",
+  "projection_created_at": "2026-10-27T19:34:07.827865+00:00",
+  "source_candidate_manifest_sha256": "cbee5eda7b7fb24666f127c09b2a3e2b909e1a50efe8ce47f45542b7a41231a3",
+  "counting_rule": "129 typed source observations, not independent policies or verified SKUs",
+  "source_snapshot_frozen_at": "2026-10-27T19:25:23.901631+00:00"
+}
