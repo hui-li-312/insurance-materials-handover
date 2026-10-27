@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/funds/",
+    "source_label": "Funds",
+    "scope": "promotion_or_fund_information_not_individual_insurance_product_catalog_target"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/promotions/buildyourfuture/",
+    "source_label": "Learn more",
+    "scope": "promotion_or_fund_information_not_individual_insurance_product_catalog_target"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/ilp/prulink-funds/",
+    "source_label": "click here",
+    "scope": "promotion_or_fund_information_not_individual_insurance_product_catalog_target"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/promotions/celebratingbonds7/",
+    "source_label": "Learn more",
+    "scope": "promotion_or_fund_information_not_individual_insurance_product_catalog_target"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/investments/pruprime-cio-funds/",
+    "source_label": "PRUPrime CIO Funds",
+    "scope": "promotion_or_fund_information_not_individual_insurance_product_catalog_target"
+  }
+]

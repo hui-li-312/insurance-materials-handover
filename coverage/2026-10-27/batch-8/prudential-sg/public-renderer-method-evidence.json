@@ -1,0 +1,15 @@
+{
+  "own_script_url": "https://www.prudential.com.sg/etc.clientlibs/prudential-aem-common/clientlibs/clientlib-site.lc-c80012aca40a2b1794606ed65d73e36f-lc.min.js",
+  "own_script_sha256": "f169c57d70ccfd61e623c94923ed0f554a7d40684479edf5d7ef9f72dc077144",
+  "method": "Public product-comparison selector reads its own DOM data-authconfig and uses fetch(e) with no options, yielding anonymous GET JSON; no data value used as credentials.",
+  "model_scope_proposal_sha256": "1d835dbc43d63460dbfa19c2d2ddaab65bcff2e01bb281148ec43866d40f5436",
+  "exact_model_count": 4,
+  "model_HTTP200_count": 4,
+  "initial_category_arrays_exhaustively_read": true,
+  "source_card_occurrences": 49,
+  "unique_information_URLs": 41,
+  "all41_HTML_bodies_read": true,
+  "script_execution": false,
+  "auth_or_cookie_headers": false,
+  "other_JCR_selectors_or_APIs": false
+}

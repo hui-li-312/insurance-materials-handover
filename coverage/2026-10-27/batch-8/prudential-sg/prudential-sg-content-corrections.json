@@ -1,0 +1,78 @@
+[
+  {
+    "observation_id": "SG-Prudential-observation-55ef3d74cd13c70905a1",
+    "previous_metadata": {
+      "official_name": "PRUActive Protect",
+      "role": "product",
+      "base_standalone_contract_status": "not_independently_confirmed"
+    },
+    "corrected_official_name": "PRUActive Protect Series",
+    "corrected_role": "product_family",
+    "stable_ID_preserved": true,
+    "source_evidence": {
+      "source_url": "https://www.prudential.com.sg/en/products/health/critical-illness/pruactive-protect/",
+      "source_sha256": "f1bfa3d72a9ad8996f4a3957d2d55f76639d75408470787041082ff0b1136a32",
+      "source_checked_at": "2026-10-27T17:16:04.978407+00:00",
+      "literal_source_text": "Within the product series, you can choose between PRUActive Protect, covering 36 severe stage critical illnesses and PRUActive Protect II, covering 64 severe stage critical illnesses.",
+      "basis": "Own HTML body establishes the specific named plan/family/bundle; abbreviated source card or generic metadata title does not override body evidence."
+    },
+    "no_material_URL_or_association_delta": true
+  },
+  {
+    "observation_id": "SG-Prudential-observation-de7f928e352cdfdb7510",
+    "previous_metadata": {
+      "official_name": "DIRECT - PRUProtect Term",
+      "role": "product_family",
+      "base_standalone_contract_status": "not_independently_confirmed"
+    },
+    "corrected_official_name": "DIRECT - PRUProtect Term 5",
+    "corrected_role": "product",
+    "stable_ID_preserved": true,
+    "source_evidence": {
+      "source_url": "https://www.prudential.com.sg/en/products/life/term-life/direct-pruprotect-term-5/",
+      "source_sha256": "e7a3039b62323bdd48f2787018395651ccf2e681566c45b464ee945a606d344b",
+      "source_checked_at": "2026-10-27T17:28:29.426451+00:00",
+      "literal_source_text": "DIRECT - PRUProtect Term 5 Designed to protect your family’s needs should anything unforeseen happen",
+      "basis": "Own HTML body establishes the specific named plan/family/bundle; abbreviated source card or generic metadata title does not override body evidence."
+    },
+    "no_material_URL_or_association_delta": true
+  },
+  {
+    "observation_id": "SG-Prudential-observation-7f7449a61560e2024264",
+    "previous_metadata": {
+      "official_name": "PRUFirst Promise",
+      "role": "product",
+      "base_standalone_contract_status": "not_independently_confirmed"
+    },
+    "corrected_official_name": "PRUFirst Promise",
+    "corrected_role": "bundled_plan",
+    "stable_ID_preserved": true,
+    "source_evidence": {
+      "source_url": "https://www.prudential.com.sg/en/products/life/maternity/prufirst-promise/",
+      "source_sha256": "1c092fa02feb7fc61be559c6f693e39c37311351803d3b9cfb3e5ef8cee66bbc",
+      "source_checked_at": "2026-10-27T17:15:39.607629+00:00",
+      "literal_source_text": "A bundled maternity insurance plan consisting of PRUMum and PRUActive Life V.",
+      "basis": "Own HTML body establishes the specific named plan/family/bundle; abbreviated source card or generic metadata title does not override body evidence."
+    },
+    "no_material_URL_or_association_delta": true
+  },
+  {
+    "observation_id": "SG-Prudential-observation-c069940c4c0f3c7bef4c",
+    "previous_metadata": {
+      "official_name": "PRUFirst Gift II",
+      "role": "product",
+      "base_standalone_contract_status": "not_independently_confirmed"
+    },
+    "corrected_official_name": "PRUFirst Gift II",
+    "corrected_role": "bundled_plan",
+    "stable_ID_preserved": true,
+    "source_evidence": {
+      "source_url": "https://www.prudential.com.sg/en/products/life/maternity/pfg2/",
+      "source_sha256": "ef3abb7a6b7a7adc2f6ac94658281b1fd2503a679a49d97389bdda3ae527fb0a",
+      "source_checked_at": "2026-10-27T17:28:59.276951+00:00",
+      "literal_source_text": "A bundled maternity plan comprising of PRUMum and PRUActive LinkGuard to protect mum and baby from pregnancy up to childbirth and beyond",
+      "basis": "Own HTML body establishes the specific named plan/family/bundle; abbreviated source card or generic metadata title does not override body evidence."
+    },
+    "no_material_URL_or_association_delta": true
+  }
+]

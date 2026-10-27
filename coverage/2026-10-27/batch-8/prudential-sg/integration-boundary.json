@@ -1,0 +1,29 @@
+{
+  "decision": "additive_source_scoped_Prudential_SG_feed_only_after_exact_allowlist_integration",
+  "active_feed_baseline": {
+    "LATEST_sha256": "8981e5c804ae9f7a0a48d79ef3366b5f7f3d1d565aab9e88f3df463e61a61aaf",
+    "hk_sg_my_catalog_rows": 435,
+    "legacy_Prudential_SG_rows": 0,
+    "legacy_Income_SG_rows": 0,
+    "Etiqa_SG_active_path": "2026-10-27/batch-6/etiqa-sg/",
+    "Etiqa_SG_catalog_rows": 127,
+    "Etiqa_SG_separate_document_rows": 58,
+    "Etiqa_MY_active_path": "2026-10-27/batch-6/etiqa-my/",
+    "Etiqa_MY_catalog_rows": 89
+  },
+  "exact_candidate_product_URL_or_observation_ID_overlap_with_active_HK_SG_MY_observation_feeds": 0,
+  "add_once_catalog_observations": 128,
+  "source_card_rows": 49,
+  "source_card_rows_are_additional_products": false,
+  "material_reference_associations": 75,
+  "document_index_rows": 69,
+  "document_index_rows_are_additional_catalog_observations": false,
+  "replaces_active_legacy_observations": 0,
+  "replaces_unpublished_candidate_manifest_sha256": "e123b73d3a8957abc6c32d33f707127480e2511a2c55d66d3e41ff73676a1b19",
+  "unpublished_predecessor_must_not_be_separate_active_feed": true,
+  "active_Etiqa_feeds_unchanged": true,
+  "cross_distributor_Care_Secure": "Income-underwritten and issued, Prudential-distributed; counts only within this Prudential source-scoped catalog traversal, not Prudential-underwritten product or Income own-catalog completion.",
+  "new_formal_original_credit": 0,
+  "new_verified_SKU_credit": 0,
+  "publication_authority": "Metadata QA only; this record does not authorize publication or any raw file release."
+}

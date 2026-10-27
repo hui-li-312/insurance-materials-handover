@@ -1,0 +1,63 @@
+[
+  {
+    "issuer_id": "SG-own-40bf6a1dd276af06",
+    "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+    "C1": "MAS exact entity website and retained public own source; shared platform not a blanket product-underwriter assignment.",
+    "C2": {
+      "status": "selected_public_retail_and_enterprise_HTML_frontier_accounted_not_all_channels",
+      "four_renderer_arrays": 49,
+      "unique_retail_information_URLs_all_read": 41,
+      "new_enterprise_HTML_targets": 6,
+      "additional_pricing_information_pages": 2,
+      "subcategory_redirects_not_followed": 13,
+      "redirect_scope_note": "Ten direct category-tab redirects and three explore-more redirects remain exact source evidence; main category HTML and all four literal public selector models were independently read, not inferred from redirects.",
+      "excluded_scope": "Funds, promotion campaigns, wellness/training/flu services, forms/quotes/accounts and news/research not insurance-product queue targets.",
+      "observations": 128,
+      "role_counts": {
+        "supplementary_plan": 1,
+        "product": 32,
+        "product_and_supplementary_family": 1,
+        "product_or_supplementary_family": 2,
+        "product_family": 3,
+        "bundled_plan": 2,
+        "supplementary_benefit": 64,
+        "supplementary_benefit_family": 2,
+        "catalog_category": 7,
+        "group_plan_family": 2,
+        "group_coverage_component": 6,
+        "rider": 1,
+        "rider_option": 2,
+        "coverage_feature_information": 3
+      },
+      "source_card_link_conflict_count": 1,
+      "whole_issuer_catalog_closed": false
+    },
+    "C3": {
+      "material_associations": 75,
+      "exposed_unique_URLs": 69,
+      "material_types": {
+        "brochure_candidate": 60,
+        "policy_wording_candidate": 2,
+        "premium_rate_schedule": 2,
+        "FAQ_or_change_notice": 5,
+        "document_reference_unclassified": 2,
+        "consumer_or_direct_purchase_information": 2,
+        "promotion_terms_or_marketing_information": 2
+      },
+      "own_page_explicit_underwriter_Care_Secure": "Income Insurance Limited; Prudential distributor only. This is not traversal of Income own-site catalog.",
+      "unresolved_other_underwriter_observations": 127,
+      "catalog_parent_child_materials": "Supplementary names retain parent source references once, no automatic component/main-wording credit."
+    },
+    "C4": {
+      "PDF_requests": 0,
+      "full_contract_reviews": 0,
+      "formal_files": 0,
+      "verified_SKUs": 0
+    },
+    "source_date_scope": {
+      "literal_information_as_of_labels": 46,
+      "retained_in": "prudential-sg-source-scoped-dates.json",
+      "publication_and_contract_effective_dates_remain_unestablished": true
+    }
+  }
+]

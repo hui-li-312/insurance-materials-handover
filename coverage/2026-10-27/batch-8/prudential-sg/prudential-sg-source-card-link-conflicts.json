@@ -1,0 +1,12 @@
+[
+  {
+    "source_url": "https://www.prudential.com.sg/en/products/life/term-life/direct-pruprotect-term-5/",
+    "source_page_sha256": "e7a3039b62323bdd48f2787018395651ccf2e681566c45b464ee945a606d344b",
+    "mislinked_card_title": "PRULife Vantage Achiever Prime Series",
+    "actual_page_title": "DIRECT - PRUProtect Term Insurance",
+    "source_card_ids": [
+      "SG-Prudential-card-196744ccd43999ebb5fa"
+    ],
+    "resolution": "Preserve renderer conflict. Actual term page/materials are NOT credited to Vantage. Separate correctly advertised Vantage page is independently observed."
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "action": "new_Prudential_SG_source_scoped_catalog_metadata",
+  "observations": 128,
+  "renderer_source_card_rows_separate_not_additive": 49,
+  "material_associations": 75,
+  "exposed_unique_URLs": 69,
+  "formal_file_delta": 0,
+  "verified_SKUs": 0,
+  "Care_Secure_Income_underwriter_is_cross_distributor_observation_not_Income_C2_completion": true,
+  "independent_content_QA": "passed_for_exact_successor_metadata_only",
+  "active_legacy_rows_replaced": 0,
+  "unpublished_candidate_replaced_not_added": "e123b73d3a8957abc6c32d33f707127480e2511a2c55d66d3e41ff73676a1b19",
+  "source_scoped_information_as_of_labels": 46,
+  "all_original_source_checked_at_preserved": true,
+  "integration_boundary": "integration-boundary.json"
+}

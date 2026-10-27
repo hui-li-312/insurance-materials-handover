@@ -1,0 +1,533 @@
+[
+  {
+    "url": "https://www.prudential.com.sg/en/products/health/",
+    "checked_at": "2026-10-27T17:13:27.429516+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 348515,
+    "sha256": "784afd522c39e6662646155b97016b6f49bedc289cb41659daf1ca658de8dddf",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/life/",
+    "checked_at": "2026-10-27T17:13:36.891262+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 348215,
+    "sha256": "5cac1ac4e8d9b3a60b14a2ea0ad34186340a9d6ddddcc188c95de467e88f61a9",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/",
+    "checked_at": "2026-10-27T17:13:43.646619+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 348816,
+    "sha256": "d88f83f3e147b478808d8206d6ad272cf920395b1f4115b29e39d6acf4ca0a92",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/legacy-planning/",
+    "checked_at": "2026-10-27T17:13:49.677579+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 349751,
+    "sha256": "2cf1ddca05f1bd9578c89a6281b4d1fc1d59e24b2421eec5d8943e3b4fb1b84d",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/life/whole-life/pruactive-family-care/",
+    "checked_at": "2026-10-27T17:14:14.059239+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 410873,
+    "sha256": "9b3548375c054af5e6b9c7efd49a65c7d271815566e97a5f67353ec1926387a4",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruwealth-income-ii-usd/",
+    "checked_at": "2026-10-27T17:14:20.621999+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 401132,
+    "sha256": "c6e2fa347f34491d6b6f63831e4651f102f67eb8f42a78f6841b31ef340c4c45",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/legacy-planning/pruapex-legacy-index-ii/",
+    "checked_at": "2026-10-27T17:14:28.380769+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 428883,
+    "sha256": "e67529449c8b3cdfb9d2f79c4a197531154ccf488d78f7a4105f0fd81d339974",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/investments/pruvantage-wealth-iii/",
+    "checked_at": "2026-10-27T17:14:34.850081+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 404634,
+    "sha256": "c678ca9639a303a1f46ffcff982fc6afbc962a8c34fe54ca9e5ed69470cb017b",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/life/whole-life/pruactive-life-v/",
+    "checked_at": "2026-10-27T17:14:42.902695+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 395043,
+    "sha256": "a1851e33936ee99b7bff8489795fd740e5a61eecae58f94392e491f28a5e2969",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruapex-multigen-wealth/",
+    "checked_at": "2026-10-27T17:14:49.704725+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 405021,
+    "sha256": "b8b71616093c9345f19ae607b6536e9a55d94a2a449b284a2505a321c52aea40",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/health/medical/prushield/",
+    "checked_at": "2026-10-27T17:14:56.296414+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 659475,
+    "sha256": "8595da008c827b8f0ef8daa91dd60e8fe6734430ec2709b8e75a004d6b25bc5d",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruindex-lifetime-income/",
+    "checked_at": "2026-10-27T17:15:01.725470+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 396588,
+    "sha256": "033500fa6df218fcab0bbed9453d50100e92481758d44a823fd9cf647ae3e687",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruindex-incomeboost/",
+    "checked_at": "2026-10-27T17:15:08.288141+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 396197,
+    "sha256": "ef3c4f4c1a4f4e46aaa6946c336050e19c0515f6748bd7528ee2d90f32c52eb4",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/investments/pruvantage-prosper/",
+    "checked_at": "2026-10-27T17:15:15.774528+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 404242,
+    "sha256": "126a795afc6100f72984a23203f25dbc5b56f6b0452ed79bff5d48233266a059",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/health/medical/pruhospital-care360/",
+    "checked_at": "2026-10-27T17:15:22.591331+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 438735,
+    "sha256": "5030b0573fba835ed03615e8fddfad8264d9446971f6b0a559f981084a14be97",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/health/critical-illness/pruactive-crisis-guard/",
+    "checked_at": "2026-10-27T17:15:29.250642+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 392226,
+    "sha256": "5955d29a462b5e10977da50397bb3761d3b121cb380287d3ea01b1db25c7090c",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/life/maternity/prufirst-promise/",
+    "checked_at": "2026-10-27T17:15:39.607629+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 413465,
+    "sha256": "1c092fa02feb7fc61be559c6f693e39c37311351803d3b9cfb3e5ef8cee66bbc",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/life/term-life/pruactive-term/",
+    "checked_at": "2026-10-27T17:15:45.757882+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 402697,
+    "sha256": "84e9b079930b4220da4e116be77ca5c928b9ab2b41833035c01b31f122c596dc",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/investments/pruvantage-assure-series/",
+    "checked_at": "2026-10-27T17:15:58.196801+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 411686,
+    "sha256": "cfcec2ff633c4ae0fec2391ccca778d5dfac38568b1c808618da2029f53319ca",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/health/critical-illness/pruactive-protect/",
+    "checked_at": "2026-10-27T17:16:04.978407+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 411332,
+    "sha256": "f1bfa3d72a9ad8996f4a3957d2d55f76639d75408470787041082ff0b1136a32",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/etc.clientlibs/prudential-aem-common/clientlibs/clientlib-site.lc-c80012aca40a2b1794606ed65d73e36f-lc.min.js",
+    "checked_at": "2026-10-27T17:16:55.903802+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 357497,
+    "sha256": "f169c57d70ccfd61e623c94923ed0f554a7d40684479edf5d7ef9f72dc077144",
+    "source_kind": "public_script_text_not_executed"
+  },
+  {
+    "url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/health/jcr:content/root/containerextension/column0/containerextension/containerextension_1872446572/column0/productcomparisonsel.model.json",
+    "checked_at": "2026-10-27T17:26:34.577803+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 6603,
+    "sha256": "b87ec0ed0c9307384f8b238f60388d14fe802ba9a8cfb39b775e1d07793590c0",
+    "source_kind": "public_selector_JSON"
+  },
+  {
+    "url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/life/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+    "checked_at": "2026-10-27T17:26:41.341247+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 6552,
+    "sha256": "fbca967c76ebec3257299814f88e59c7183977b6534d8eaac5851002d431b9ea",
+    "source_kind": "public_selector_JSON"
+  },
+  {
+    "url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+    "checked_at": "2026-10-27T17:26:48.329064+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 7753,
+    "sha256": "0ae94bf0812507b5f66afc4ea0d46fef1cbbc4012e129be5350e41286996e906",
+    "source_kind": "public_selector_JSON"
+  },
+  {
+    "url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/legacy-planning/jcr:content/root/containerextension/column0/containerextension/column0/containerextension_1/column0/productcomparisonsel.model.json",
+    "checked_at": "2026-10-27T17:26:53.983816+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 2056,
+    "sha256": "8deb9e2b5dc07e4f3a2added986264ce6f8a415999b941fdae47ad5e7f50da53",
+    "source_kind": "public_selector_JSON"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+    "checked_at": "2026-10-27T17:27:35.021355+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 441520,
+    "sha256": "3753e0e453a2464af8207594f89cd157ed6cc0851b9dd5f56b1df7d33b748bdf",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/health/accident/prupersonal-accident/",
+    "checked_at": "2026-10-27T17:27:43.553094+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 401810,
+    "sha256": "db5a86aa37a53c1d1253846a41435d2f869d58a93c969cfc8a2a41512dc48018",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/life/term-life/pruvital-cover/",
+    "checked_at": "2026-10-27T17:27:50.728700+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 388509,
+    "sha256": "848e0281faf15ac56e2c1358a5478adc23da60749f71ec2d70e1951d75fd001e",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/life/maternity/prumum/",
+    "checked_at": "2026-10-27T17:27:57.421188+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 398038,
+    "sha256": "9e8a4f9843bb9b0d79832b0ba530e6dfe1ef0982e13e70a73e253ae31d942063",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/health/critical-illness/pruman/",
+    "checked_at": "2026-10-27T17:28:03.329292+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 385716,
+    "sha256": "0281667c84ec806c9b933163ee3ac9f2312aab2e9923eca6514238921725feaf",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/health/critical-illness/prulady/",
+    "checked_at": "2026-10-27T17:28:11.039309+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 391185,
+    "sha256": "149f3c09bc5112c831418fba8e99a2daa01901ea5159b602a72fa8799e71e07a",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/health/critical-illness/pruearly-stage-crisis-cover/",
+    "checked_at": "2026-10-27T17:28:16.704709+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 397647,
+    "sha256": "7aa4d5142bb22b3b25ec475fbb437c6a025ce6e916b3971158cb9876500664fb",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/health/critical-illness/prucancer-360/",
+    "checked_at": "2026-10-27T17:28:22.606280+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 390561,
+    "sha256": "1e34460eb568b27b33d7d091aebbc37a4f04e48bac38c3b3831b002a933b215b",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/life/term-life/direct-pruprotect-term-5/",
+    "checked_at": "2026-10-27T17:28:29.426451+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 404665,
+    "sha256": "e7a3039b62323bdd48f2787018395651ccf2e681566c45b464ee945a606d344b",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/life/whole-life/direct-pruprotect-life-ii/",
+    "checked_at": "2026-10-27T17:28:38.760955+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 404580,
+    "sha256": "8c2f21d186f906a49a857abf3a37326c81f7a3a9a0406864b91bc1cbdd64ed71",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/life/whole-life/pruactive-linkguard/",
+    "checked_at": "2026-10-27T17:28:46.368087+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 405381,
+    "sha256": "2d4124d16e9608e3ba5663c66aaa0e7292533a2d70f776374d5c4285455c6a0a",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/life/term-life/direct-pruprotect-term/",
+    "checked_at": "2026-10-27T17:28:52.608475+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 404401,
+    "sha256": "2a6ca5db172d792ff8cb131f0b15a47946b626caf693ca5d50982cc15aeca4d6",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/life/maternity/pfg2/",
+    "checked_at": "2026-10-27T17:28:59.276951+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 406454,
+    "sha256": "ef3abb7a6b7a7adc2f6ac94658281b1fd2503a679a49d97389bdda3ae527fb0a",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/life/mortgage/prumortgage/",
+    "checked_at": "2026-10-27T17:29:06.858180+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 395005,
+    "sha256": "efff2f00e202a31478225f2cc5b660da46e8f59e188b8cd773c7bb25302985cf",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruassure-income-promo/",
+    "checked_at": "2026-10-27T17:29:13.901095+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 432276,
+    "sha256": "b9ffde7e538dd7d1bc885de1a216e3160aa6d339809068fa9b5bd06ba15a5895",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruwealth-income/",
+    "checked_at": "2026-10-27T17:29:20.771507+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 385536,
+    "sha256": "25d29fc06eb2845ed7824fe8d8487f08e8c480a11176d9024b20ae0d7088b156",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruwealth-plus-sgd/",
+    "checked_at": "2026-10-27T17:29:26.495893+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 402155,
+    "sha256": "7a4d63334470d70fe618f937ebb9e3ce74af4afa4e340b2ecff796f12aeb6054",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruactive-saver-iii/",
+    "checked_at": "2026-10-27T17:29:34.560789+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 398797,
+    "sha256": "4fb7dcba6d6b2a0acd8ca444ec7548c9894707e3dbef1ef2b873a7184eec564b",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruactive-cash/",
+    "checked_at": "2026-10-27T17:29:41.146905+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 395641,
+    "sha256": "9761e90328aec918d6d0598192a8cc85efcc749aaa8de9a599fd843aa533a2f4",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/savings/prulifetime-income-plus/",
+    "checked_at": "2026-10-27T17:29:47.899432+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 398671,
+    "sha256": "a74319f0dadfb603c84c9669dc600eec2555326db1b9e2dc3ae096aa440c8dbf",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruwealth-usd/",
+    "checked_at": "2026-10-27T17:29:54.282270+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 388891,
+    "sha256": "30686d0022337f6f61f1cab711c19d04e483b6b89eba0de96101b9f04833982d",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/retirement/pruactive-retirement-ii/",
+    "checked_at": "2026-10-27T17:30:04.682431+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 399128,
+    "sha256": "1ba4f67a7963335ad9c1ddb9304dacca1b84a8c426794e67e0bf7fd3c983ca38",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/investments/prulink-investgrowth/",
+    "checked_at": "2026-10-27T17:30:14.752278+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 391199,
+    "sha256": "e668c3ed6ad9cfd9251c4cb1972d494e161f10c0821589469359c42613b59a4e",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/wealth/investments/pruvantage-wealth-ii/",
+    "checked_at": "2026-10-27T17:30:21.573782+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 402753,
+    "sha256": "a74cf8b37c9021115a992629674e58ee992b0cc547d1b82bb24301f2c713bd73",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/legacy-planning/prulife-vantage-achiever-prime-series/",
+    "checked_at": "2026-10-27T17:30:29.619082+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 407034,
+    "sha256": "e6c282fb49ce4b64c134d14b0b95d5479c552c42e82280666e2ba80567566de7",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/enterprise/",
+    "checked_at": "2026-10-27T17:32:14.648146+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 237171,
+    "sha256": "3b764c69d82b3312bd7543238fe4ec62cc48d90e1c75f764ac711e81476f2851",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/enterprise/employee-benefits/employee-benefit-plans/",
+    "checked_at": "2026-10-27T17:35:12.589579+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 204061,
+    "sha256": "ca3222ec9e9e93fd0e0d2c3f403f4f162399e2fca81085f3a1b41e4f35a6ee98",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/enterprise/employee-benefits/employee-benefit-plans/packaged-plan/",
+    "checked_at": "2026-10-27T17:35:19.929311+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 239325,
+    "sha256": "77186f2d5f08f0a597520d49a82bdfdf4f6d4d082010b7852b592cd8e46deb1b",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/enterprise/employee-benefits/employee-benefit-plans/customised-plan/",
+    "checked_at": "2026-10-27T17:35:26.660653+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 222055,
+    "sha256": "ac6f38ab35eb7d31171959bd76db3d7856e87fcffc2b891c568b5363f850bc31",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/enterprise/employee-benefits/new-products-and-offerings/",
+    "checked_at": "2026-10-27T17:35:32.598249+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 139232,
+    "sha256": "e2b99ac2533318bb6dda202d279ef51dc35ae20052a0e2c8935c1a3a6570d481",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/enterprise/employee-benefits/new-products-and-offerings/pre-crisis-guard/",
+    "checked_at": "2026-10-27T17:35:39.396432+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 180066,
+    "sha256": "27beabd6ec0040db5a8b718d688446b34c1b600d0699bb2cec3966597e631f98",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/enterprise/employee-benefits/new-products-and-offerings/ready-for-100/",
+    "checked_at": "2026-10-27T17:35:45.159656+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 213605,
+    "sha256": "711789ed7232dc647617e47771cd7d1e96e9c946d5dac15c789c91ba89b7c370",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/health/medical/claims-based-pricing/",
+    "checked_at": "2026-10-27T17:41:17.290235+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 337670,
+    "sha256": "ab0d39fe09db5b7969c3d9c84256a557dc839e6df45e4e0033b074dc083b0e6c",
+    "source_kind": "public_HTML"
+  },
+  {
+    "url": "https://www.prudential.com.sg/en/products/health/medical/claims-based-pricing-withdrawnrider/",
+    "checked_at": "2026-10-27T17:41:22.729427+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 367800,
+    "sha256": "6f7386f341e88ccd61c75e1b8b4e52990e9dbdae83ee5c8070cab44ab4730c57",
+    "source_kind": "public_HTML"
+  }
+]

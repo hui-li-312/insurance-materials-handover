@@ -1,0 +1,13 @@
+{
+  "legal_names": [
+    "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED"
+  ],
+  "evidence_url": "https://eservices.mas.gov.sg/fid/custom/printpartial?sector=Insurance",
+  "issuer_id": "SG-own-40bf6a1dd276af06",
+  "literal_official_website": "http://www.prudential.com.sg",
+  "cached_homepage_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+  "positive_origin_scope": "Exact MAS entity website and independently reviewed normal cached HTTPS public homepage on same verifiedwww host; product underwriter association separately recorded.",
+  "public_read_scope": "HTML_catalog_only",
+  "PDF_intake_authorized": false,
+  "scope_decision_at": "2026-10-27T15:40:38.779838+00:00"
+}

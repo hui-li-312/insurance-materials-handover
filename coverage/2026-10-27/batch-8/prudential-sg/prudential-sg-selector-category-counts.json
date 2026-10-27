@@ -1,0 +1,57 @@
+[
+  {
+    "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/health/jcr:content/root/containerextension/column0/containerextension/containerextension_1872446572/column0/productcomparisonsel.model.json",
+    "category": "Medical Insurance",
+    "card_count": 3
+  },
+  {
+    "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/health/jcr:content/root/containerextension/column0/containerextension/containerextension_1872446572/column0/productcomparisonsel.model.json",
+    "category": "Accident",
+    "card_count": 1
+  },
+  {
+    "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/health/jcr:content/root/containerextension/column0/containerextension/containerextension_1872446572/column0/productcomparisonsel.model.json",
+    "category": "Critical Illness",
+    "card_count": 10
+  },
+  {
+    "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/life/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+    "category": "Whole Life",
+    "card_count": 5
+  },
+  {
+    "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/life/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+    "category": "Term Life",
+    "card_count": 4
+  },
+  {
+    "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/life/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+    "category": "Maternity",
+    "card_count": 3
+  },
+  {
+    "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/life/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+    "category": "Mortgage",
+    "card_count": 1
+  },
+  {
+    "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+    "category": "Savings",
+    "card_count": 11
+  },
+  {
+    "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+    "category": "Retirement",
+    "card_count": 1
+  },
+  {
+    "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+    "category": "Investments",
+    "card_count": 6
+  },
+  {
+    "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/legacy-planning/jcr:content/root/containerextension/column0/containerextension/column0/containerextension_1/column0/productcomparisonsel.model.json",
+    "category": "Legacy Planning",
+    "card_count": 4
+  }
+]

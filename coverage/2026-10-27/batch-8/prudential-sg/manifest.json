@@ -1,0 +1,124 @@
+{
+  "frozen_at": "2026-10-27T18:20:49.978030+00:00",
+  "status": "independently_QA_passed_metadata_successor_not_publication_authority",
+  "source_candidate_frozen_at": "2026-10-27T17:44:50.231861+00:00",
+  "supersedes_candidate_manifest_sha256": "e123b73d3a8957abc6c32d33f707127480e2511a2c55d66d3e41ff73676a1b19",
+  "all_original_source_timestamps_preserved": true,
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 4488,
+      "sha256": "19549e8ab320b4b87bede3c55c282a93beff4f52fc3d5a28b5df9cd7aeb03140"
+    },
+    {
+      "file": "documents-prudential-sg.jsonl",
+      "bytes": 84836,
+      "sha256": "5fb323154eb9dfcd357329281ff78d3a62659acc942e1119c7c7007afb280802"
+    },
+    {
+      "file": "finite-source-queues.json",
+      "bytes": 56096,
+      "sha256": "3176969eb8b8a6b116e7837b63322defb11b20212a0f16c3b6762a740c3f1aaa"
+    },
+    {
+      "file": "independent-content-QA-summary.json",
+      "bytes": 1633,
+      "sha256": "ade426c96583e879fd9dfe2faad4753b94793bf94a0f9e0ed3d41a8aeb140cea"
+    },
+    {
+      "file": "integration-boundary.json",
+      "bytes": 1599,
+      "sha256": "45025be226f5d3cbdf660afc25e721f30d8ed4139edf92da44d5b5ecdaaabfbb"
+    },
+    {
+      "file": "issuer-specific-status.json",
+      "bytes": 2760,
+      "sha256": "9207d869de93c0a4a732812e63e0347f26324f69d72f31b4d2972438961d725f"
+    },
+    {
+      "file": "merge-map.json",
+      "bytes": 732,
+      "sha256": "5c828369e0f10f2967e0b4559cf5d215be9fbea312fe3dd529be2ec48dce7ee2"
+    },
+    {
+      "file": "products-prudential-sg.jsonl",
+      "bytes": 311747,
+      "sha256": "651e3f8247dae84290419be51410498a6ecd9e0664ac408463ea4ed0af00ac4a"
+    },
+    {
+      "file": "prudential-sg-content-corrections.json",
+      "bytes": 4166,
+      "sha256": "49a08ef3852829145e42694ace2fb3af554c73527401735d15f319d77394b2d5"
+    },
+    {
+      "file": "prudential-sg-excluded-query-refs.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "file": "prudential-sg-origin-proof.json",
+      "bytes": 710,
+      "sha256": "935cf3095c473e9545cbda237e3996da6a6f2db09df0a2975a706479f04cd237"
+    },
+    {
+      "file": "prudential-sg-pending-renderer-HTML.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "file": "prudential-sg-related-excluded-nonproduct-targets.json",
+      "bytes": 1102,
+      "sha256": "3dfbbc97b7a836cd99261c4e563e282da6df2ea1924479104174e7289bad3f73"
+    },
+    {
+      "file": "prudential-sg-selector-category-counts.json",
+      "bytes": 3251,
+      "sha256": "096c8034e6963a6401f858013c969d897d879341a49d603d2a651a191838db2a"
+    },
+    {
+      "file": "prudential-sg-selector-source-card-observations.json",
+      "bytes": 43418,
+      "sha256": "a7a55d9effd1c3f251346f6e317181c398ab383517c557b6d27a8f9d72304161"
+    },
+    {
+      "file": "prudential-sg-source-card-link-conflicts.json",
+      "bytes": 595,
+      "sha256": "6e1312c8f5fbc60cfe3067676832c9473726c44c99b590ad997e4042d2c62bb9"
+    },
+    {
+      "file": "prudential-sg-source-evidence.json",
+      "bytes": 23649,
+      "sha256": "7ad35f6d0afb975ab7effd751a103045304d1cd6bfbbb07aa0a71a8177d7bfac"
+    },
+    {
+      "file": "prudential-sg-source-scoped-dates.json",
+      "bytes": 38115,
+      "sha256": "64b75cb4cbd02bf6d50aff01de561ada6b3b2691495ee1e24c8eef0f21cd5fa9"
+    },
+    {
+      "file": "prudential-sg-traversal.json",
+      "bytes": 1301,
+      "sha256": "c3a333737049ad5f884801be4fd30331c84903a10825e978df1bc0c1da5fcc92"
+    },
+    {
+      "file": "public-renderer-method-evidence.json",
+      "bytes": 850,
+      "sha256": "a1003db1876b1fe3309b10ec3c240be9559c9e9ec663224b6d7e7eaba000085f"
+    },
+    {
+      "file": "publication-safety-gate.json",
+      "bytes": 277,
+      "sha256": "960576c7b2765c7be5a41d2224ffe8a705538184c26db02e03c33c11d3b76d06"
+    },
+    {
+      "file": "source-attempts.json",
+      "bytes": 41001,
+      "sha256": "9d1fbb1fc6fdb4fee65c6da76e4b41d13deac1a787586f74c7ce7a70bb71372c"
+    },
+    {
+      "file": "successful-source-hashes.json",
+      "bytes": 20751,
+      "sha256": "4e74ebb567f29cf8f96fcc5d2f52dd623dab88ae26c07fcce8a533af3e66870c"
+    }
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "prudential-sg-initial-bounded-HTML-queue.json": [
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/health/",
+      "source_label": "Health protection",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "catalog_hub"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/life/",
+      "source_label": "Life protection",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "catalog_hub"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/wealth/",
+      "source_label": "Wealth accumulation",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "catalog_hub"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/legacy-planning/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/legacy-planning/",
+      "source_label": "Legacy planning",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "catalog_hub"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/srs/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/srs/",
+      "source_label": "SRS",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "catalog_hub"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/enterprise/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/enterprise/",
+      "source_label": "Employee Plans",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "catalog_hub"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/whole-life/pruactive-family-care/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/life/whole-life/pruactive-family-care/",
+      "source_label": "Find out more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruwealth-income-ii-usd/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/wealth/savings/pruwealth-income-ii-usd/",
+      "source_label": "NEW PRUWealth Income II (USD) Cultivate income from your wealth, while building lasting wealth for generations. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/legacy-planning/pruapex-legacy-index-ii/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/legacy-planning/pruapex-legacy-index-ii/",
+      "source_label": "NEW PRUApex Legacy Index II A bespoke Indexed Universal Life plan - where every detail intricately layers into a legacy that grows and endures. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/investments/pruvantage-wealth-iii/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/wealth/investments/pruvantage-wealth-iii/",
+      "source_label": "NEW PRUVantage Wealth III (SGD) The wealth plan that stays on course. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/whole-life/pruactive-life-v/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/life/whole-life/pruactive-life-v/",
+      "source_label": "NEW PRUActive Life V A lifelong promise of protection – strengthened by multiplied coverage and comprehensive critical illness protection. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruapex-multigen-wealth/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/wealth/savings/pruapex-multigen-wealth/",
+      "source_label": "NEW PRUApex MultiGen Wealth A perpetual wealth solution crafted to endure - growing today and across generations. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/medical/prushield/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/health/medical/prushield/",
+      "source_label": "PROMOTION PRUShield EasySwitch Make the switch with PRUShield EasySwitch and enjoy 20% off your first-year premium. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruindex-lifetime-income/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/wealth/savings/pruindex-lifetime-income/",
+      "source_label": "NEW PRUIndex Lifetime Income Build monthly income you can count on - powered by growth potential and guaranteed payouts. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruindex-incomeboost/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/wealth/savings/pruindex-incomeboost/",
+      "source_label": "NEW PRUIndex Income Boost Harness Index growth to generate income while safeguarding your savings from market downturns. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/investments/pruvantage-prosper/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/wealth/investments/pruvantage-prosper/",
+      "source_label": "NEW PRUVantage Prosper A Whole of Life Investment- Linked Plan that nurtures wealth to yield a lasting bloom. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/medical/pruhospital-care360/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/health/medical/pruhospital-care360/",
+      "source_label": "NEW PRUHospital Care360 Affordable care that keeps you going during hospitalisation, because life doesn't wait. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/critical-illness/pruactive-crisis-guard/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/health/critical-illness/pruactive-crisis-guard/",
+      "source_label": "NEW PRUActive Crisis Guard Be covered against health crises that require serious treatments. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/maternity/prufirst-promise/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/life/maternity/prufirst-promise/",
+      "source_label": "POPULAR PRUFirst Promise A bundled maternity insurance plan that protects both mum and baby from as early as week 13 of pregnancy, providing baby with a gift of protection from day one and beyond. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/term-life/pruactive-term/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/life/term-life/pruactive-term/",
+      "source_label": "POPULAR PRUActive Term A unique and customisable term insurance plan designed to keep up with your changing needs. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/investments/pruvantage-assure-series/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/wealth/investments/pruvantage-assure-series/",
+      "source_label": "POPULAR PRUVantage Assure Series A flexible investment-linked plan that protects and grows your wealth so that you can keep up with changing times. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/critical-illness/pruactive-protect/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "legal_name": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "source_url": "https://www.prudential.com.sg",
+      "advertising_source_sha256": "506535549fedf1152fa4b57d2c1cc2e229add81842ebcd9c2f8cfbd0a2da501c",
+      "literal_href": "/en/products/health/critical-illness/pruactive-protect/",
+      "source_label": "POPULAR PRUActive Protect A customisable critical illness insurance plan that can be built as you grow, providing coverage against recurring early stage critical illnesses and more. Learn more",
+      "read_scope": "anonymous_public_HTML_only_no_PDF_or_nonHTML_acquisition",
+      "source_target_role": "named_product_info_page"
+    }
+  ],
+  "prudential-sg-one-enterprise-HTML-queue.json": [
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/enterprise/.html",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "source_url": "https://www.prudential.com.sg/en/products/enterprise/",
+      "observed_HTTP_status": 302,
+      "literal_Location": "/en/enterprise/.html",
+      "read_scope": "one_exact_observed_public_enterprise_HTML_Location_no_PDF_auth_or_implicit_redirects"
+    }
+  ],
+  "prudential-sg-one-enterprise-canonical-HTML-queue.json": [
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/enterprise/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "source_url": "https://www.prudential.com.sg/en/enterprise/.html",
+      "observed_HTTP_status": 301,
+      "literal_Location": "https://www.prudential.com.sg/en/enterprise/",
+      "read_scope": "single_actual_canonical_enterprise_public_HTML_no_implicit_redirect"
+    }
+  ],
+  "prudential-sg-selector-unread-HTML-queue.json": [
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/health/jcr:content/root/containerextension/column0/containerextension/containerextension_1872446572/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "b87ec0ed0c9307384f8b238f60388d14fe802ba9a8cfb39b775e1d07793590c0",
+      "literal_JSON_pointer": "/categories/0/products/0/link",
+      "literal_link": "/en/products/health/medical/care-secure/",
+      "source_card_names": [
+        "Care Secure (CareShield Life Supplement)"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/accident/prupersonal-accident/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/health/jcr:content/root/containerextension/column0/containerextension/containerextension_1872446572/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "b87ec0ed0c9307384f8b238f60388d14fe802ba9a8cfb39b775e1d07793590c0",
+      "literal_JSON_pointer": "/categories/1/products/0/link",
+      "literal_link": "/en/products/health/accident/prupersonal-accident/",
+      "source_card_names": [
+        "PRUPersonal Accident"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/term-life/pruvital-cover/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/health/jcr:content/root/containerextension/column0/containerextension/containerextension_1872446572/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "b87ec0ed0c9307384f8b238f60388d14fe802ba9a8cfb39b775e1d07793590c0",
+      "literal_JSON_pointer": "/categories/2/products/1/link",
+      "literal_link": "/en/products/life/term-life/pruvital-cover/",
+      "source_card_names": [
+        "PRUVital Cover",
+        "PRUVital Cover"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/maternity/prumum/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/health/jcr:content/root/containerextension/column0/containerextension/containerextension_1872446572/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "b87ec0ed0c9307384f8b238f60388d14fe802ba9a8cfb39b775e1d07793590c0",
+      "literal_JSON_pointer": "/categories/2/products/2/link",
+      "literal_link": "/en/products/life/maternity/prumum/",
+      "source_card_names": [
+        "PRUMum",
+        "PRUMum"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/critical-illness/pruman/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/health/jcr:content/root/containerextension/column0/containerextension/containerextension_1872446572/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "b87ec0ed0c9307384f8b238f60388d14fe802ba9a8cfb39b775e1d07793590c0",
+      "literal_JSON_pointer": "/categories/2/products/3/link",
+      "literal_link": "/en/products/health/critical-illness/pruman/",
+      "source_card_names": [
+        "PRUMan"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/critical-illness/prulady/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/health/jcr:content/root/containerextension/column0/containerextension/containerextension_1872446572/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "b87ec0ed0c9307384f8b238f60388d14fe802ba9a8cfb39b775e1d07793590c0",
+      "literal_JSON_pointer": "/categories/2/products/4/link",
+      "literal_link": "/en/products/health/critical-illness/prulady/",
+      "source_card_names": [
+        "PRULady"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/critical-illness/pruearly-stage-crisis-cover/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/health/jcr:content/root/containerextension/column0/containerextension/containerextension_1872446572/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "b87ec0ed0c9307384f8b238f60388d14fe802ba9a8cfb39b775e1d07793590c0",
+      "literal_JSON_pointer": "/categories/2/products/5/link",
+      "literal_link": "/en/products/health/critical-illness/pruearly-stage-crisis-cover/",
+      "source_card_names": [
+        "PRUEarly Stage Crisis Cover"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/critical-illness/prucancer-360/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/health/jcr:content/root/containerextension/column0/containerextension/containerextension_1872446572/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "b87ec0ed0c9307384f8b238f60388d14fe802ba9a8cfb39b775e1d07793590c0",
+      "literal_JSON_pointer": "/categories/2/products/6/link",
+      "literal_link": "/en/products/health/critical-illness/prucancer-360/",
+      "source_card_names": [
+        "PRUCancer 360"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/term-life/direct-pruprotect-term-5/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/life/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/life/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "fbca967c76ebec3257299814f88e59c7183977b6534d8eaac5851002d431b9ea",
+      "literal_JSON_pointer": "/categories/0/products/2/link",
+      "literal_link": "/en/products/life/term-life/direct-pruprotect-term-5/",
+      "source_card_names": [
+        "PRULife Vantage Achiever Prime Series",
+        "DIRECT - PRUProtect Term 5"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/whole-life/direct-pruprotect-life-ii/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/life/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/life/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "fbca967c76ebec3257299814f88e59c7183977b6534d8eaac5851002d431b9ea",
+      "literal_JSON_pointer": "/categories/0/products/3/link",
+      "literal_link": "/en/products/life/whole-life/direct-pruprotect-life-ii/",
+      "source_card_names": [
+        "DIRECT - PRUProtect Life II"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/whole-life/pruactive-linkguard/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/life/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/life/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "fbca967c76ebec3257299814f88e59c7183977b6534d8eaac5851002d431b9ea",
+      "literal_JSON_pointer": "/categories/0/products/4/link",
+      "literal_link": "/en/products/life/whole-life/pruactive-linkguard/",
+      "source_card_names": [
+        "PRUActive LinkGuard",
+        "PRUActive LinkGuard"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/term-life/direct-pruprotect-term/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/life/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/life/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "fbca967c76ebec3257299814f88e59c7183977b6534d8eaac5851002d431b9ea",
+      "literal_JSON_pointer": "/categories/1/products/1/link",
+      "literal_link": "/en/products/life/term-life/direct-pruprotect-term/",
+      "source_card_names": [
+        "DIRECT - PRUProtect Term"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/maternity/pfg2/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/life/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/life/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "fbca967c76ebec3257299814f88e59c7183977b6534d8eaac5851002d431b9ea",
+      "literal_JSON_pointer": "/categories/2/products/2/link",
+      "literal_link": "/en/products/life/maternity/pfg2/",
+      "source_card_names": [
+        "PRUFirst Gift II"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/mortgage/prumortgage/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/life/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/life/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "fbca967c76ebec3257299814f88e59c7183977b6534d8eaac5851002d431b9ea",
+      "literal_JSON_pointer": "/categories/3/products/0/link",
+      "literal_link": "/en/products/life/mortgage/prumortgage/",
+      "source_card_names": [
+        "PRUMortgage"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruassure-income-promo/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/wealth/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "0ae94bf0812507b5f66afc4ea0d46fef1cbbc4012e129be5350e41286996e906",
+      "literal_JSON_pointer": "/categories/0/products/0/link",
+      "literal_link": "/en/products/wealth/savings/pruassure-income-promo/",
+      "source_card_names": [
+        "PRUAssure Income (USD)"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruwealth-income/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/wealth/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "0ae94bf0812507b5f66afc4ea0d46fef1cbbc4012e129be5350e41286996e906",
+      "literal_JSON_pointer": "/categories/0/products/5/link",
+      "literal_link": "/en/products/wealth/savings/pruwealth-income/",
+      "source_card_names": [
+        "PRUWealth Income"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruwealth-plus-sgd/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/wealth/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "0ae94bf0812507b5f66afc4ea0d46fef1cbbc4012e129be5350e41286996e906",
+      "literal_JSON_pointer": "/categories/0/products/6/link",
+      "literal_link": "/en/products/wealth/savings/pruwealth-plus-sgd/",
+      "source_card_names": [
+        "PRUWealth Plus (SGD)"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruactive-saver-iii/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/wealth/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "0ae94bf0812507b5f66afc4ea0d46fef1cbbc4012e129be5350e41286996e906",
+      "literal_JSON_pointer": "/categories/0/products/7/link",
+      "literal_link": "/en/products/wealth/savings/pruactive-saver-iii/",
+      "source_card_names": [
+        "PRUActive Saver III"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruactive-cash/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/wealth/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "0ae94bf0812507b5f66afc4ea0d46fef1cbbc4012e129be5350e41286996e906",
+      "literal_JSON_pointer": "/categories/0/products/8/link",
+      "literal_link": "/en/products/wealth/savings/pruactive-cash/",
+      "source_card_names": [
+        "PRUActive Cash"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/savings/prulifetime-income-plus/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/wealth/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "0ae94bf0812507b5f66afc4ea0d46fef1cbbc4012e129be5350e41286996e906",
+      "literal_JSON_pointer": "/categories/0/products/9/link",
+      "literal_link": "/en/products/wealth/savings/prulifetime-income-plus/",
+      "source_card_names": [
+        "PRULifetime Income Plus",
+        "PRULifetime Income Plus"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/savings/pruwealth-usd/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/wealth/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "0ae94bf0812507b5f66afc4ea0d46fef1cbbc4012e129be5350e41286996e906",
+      "literal_JSON_pointer": "/categories/0/products/10/link",
+      "literal_link": "/en/products/wealth/savings/pruwealth-usd/",
+      "source_card_names": [
+        "PRUWealth (USD)"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/retirement/pruactive-retirement-ii/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/wealth/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "0ae94bf0812507b5f66afc4ea0d46fef1cbbc4012e129be5350e41286996e906",
+      "literal_JSON_pointer": "/categories/1/products/0/link",
+      "literal_link": "/en/products/wealth/retirement/pruactive-retirement-ii/",
+      "source_card_names": [
+        "PRUActive Retirement II"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/investments/prulink-investgrowth/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/wealth/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "0ae94bf0812507b5f66afc4ea0d46fef1cbbc4012e129be5350e41286996e906",
+      "literal_JSON_pointer": "/categories/2/products/1/link",
+      "literal_link": "/en/products/wealth/investments/prulink-investgrowth/",
+      "source_card_names": [
+        "PRULink InvestGrowth"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/investments/pruvantage-wealth-ii/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/wealth/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "0ae94bf0812507b5f66afc4ea0d46fef1cbbc4012e129be5350e41286996e906",
+      "literal_JSON_pointer": "/categories/2/products/4/link",
+      "literal_link": "/en/products/wealth/investments/pruvantage-wealth-ii/",
+      "source_card_names": [
+        "PRUVantage Wealth II (USD)"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/legacy-planning/prulife-vantage-achiever-prime-series/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/legacy-planning/",
+      "source_model_url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/legacy-planning/jcr:content/root/containerextension/column0/containerextension/column0/containerextension_1/column0/productcomparisonsel.model.json",
+      "advertising_source_sha256": "8deb9e2b5dc07e4f3a2added986264ce6f8a415999b941fdae47ad5e7f50da53",
+      "literal_JSON_pointer": "/categories/0/products/2/link",
+      "literal_link": "/en/products/legacy-planning/prulife-vantage-achiever-prime-series/",
+      "source_card_names": [
+        "PRULife Vantage Achiever Prime Series"
+      ],
+      "read_scope": "bounded_source_literal_public_HTML_only_no_PDF_or_implicit_redirect"
+    }
+  ],
+  "prudential-sg-six-enterprise-child-HTML-queue.json": [
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/enterprise/employee-benefits/employee-benefit-plans/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "source_url": "https://www.prudential.com.sg/en/enterprise/",
+      "advertising_source_sha256": "3b764c69d82b3312bd7543238fe4ec62cc48d90e1c75f764ac711e81476f2851",
+      "literal_href": "/en/enterprise/employee-benefits/employee-benefit-plans/",
+      "source_label": "Employee benefit plans",
+      "read_scope": "bounded_literal_public_enterprise_information_HTML_only_not_application_or_quote"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/enterprise/employee-benefits/employee-benefit-plans/packaged-plan/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "source_url": "https://www.prudential.com.sg/en/enterprise/",
+      "advertising_source_sha256": "3b764c69d82b3312bd7543238fe4ec62cc48d90e1c75f764ac711e81476f2851",
+      "literal_href": "/en/enterprise/employee-benefits/employee-benefit-plans/packaged-plan/",
+      "source_label": "Packaged plan (PRUTreasures Flexi II)",
+      "read_scope": "bounded_literal_public_enterprise_information_HTML_only_not_application_or_quote"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/enterprise/employee-benefits/employee-benefit-plans/customised-plan/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "source_url": "https://www.prudential.com.sg/en/enterprise/",
+      "advertising_source_sha256": "3b764c69d82b3312bd7543238fe4ec62cc48d90e1c75f764ac711e81476f2851",
+      "literal_href": "/en/enterprise/employee-benefits/employee-benefit-plans/customised-plan/",
+      "source_label": "Customised plan",
+      "read_scope": "bounded_literal_public_enterprise_information_HTML_only_not_application_or_quote"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/enterprise/employee-benefits/new-products-and-offerings/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "source_url": "https://www.prudential.com.sg/en/enterprise/",
+      "advertising_source_sha256": "3b764c69d82b3312bd7543238fe4ec62cc48d90e1c75f764ac711e81476f2851",
+      "literal_href": "/en/enterprise/employee-benefits/new-products-and-offerings/",
+      "source_label": "New products and offerings",
+      "read_scope": "bounded_literal_public_enterprise_information_HTML_only_not_application_or_quote"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/enterprise/employee-benefits/new-products-and-offerings/pre-crisis-guard/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "source_url": "https://www.prudential.com.sg/en/enterprise/",
+      "advertising_source_sha256": "3b764c69d82b3312bd7543238fe4ec62cc48d90e1c75f764ac711e81476f2851",
+      "literal_href": "/en/enterprise/employee-benefits/new-products-and-offerings/pre-crisis-guard/",
+      "source_label": "Pre-crisis guard",
+      "read_scope": "bounded_literal_public_enterprise_information_HTML_only_not_application_or_quote"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/enterprise/employee-benefits/new-products-and-offerings/ready-for-100/",
+      "method": "GET",
+      "issuer_id": "SG-own-40bf6a1dd276af06",
+      "source_url": "https://www.prudential.com.sg/en/enterprise/",
+      "advertising_source_sha256": "3b764c69d82b3312bd7543238fe4ec62cc48d90e1c75f764ac711e81476f2851",
+      "literal_href": "/en/enterprise/employee-benefits/new-products-and-offerings/ready-for-100/",
+      "source_label": "Ready for 100",
+      "read_scope": "bounded_literal_public_enterprise_information_HTML_only_not_application_or_quote"
+    }
+  ],
+  "prudential-sg-fifteen-related-HTML-queue.json": [
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/medical/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+      "advertising_source_sha256": "3753e0e453a2464af8207594f89cd157ed6cc0851b9dd5f56b1df7d33b748bdf",
+      "literal_href": "/en/products/health/medical/",
+      "source_label": "Medical",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/accident/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+      "advertising_source_sha256": "3753e0e453a2464af8207594f89cd157ed6cc0851b9dd5f56b1df7d33b748bdf",
+      "literal_href": "/en/products/health/accident/",
+      "source_label": "Accident",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/critical-illness/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+      "advertising_source_sha256": "3753e0e453a2464af8207594f89cd157ed6cc0851b9dd5f56b1df7d33b748bdf",
+      "literal_href": "/en/products/health/critical-illness/",
+      "source_label": "Critical illness",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/explore-more/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+      "advertising_source_sha256": "3753e0e453a2464af8207594f89cd157ed6cc0851b9dd5f56b1df7d33b748bdf",
+      "literal_href": "/en/products/health/explore-more/",
+      "source_label": "Explore more",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/whole-life/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+      "advertising_source_sha256": "3753e0e453a2464af8207594f89cd157ed6cc0851b9dd5f56b1df7d33b748bdf",
+      "literal_href": "/en/products/life/whole-life/",
+      "source_label": "Whole life",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/term-life/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+      "advertising_source_sha256": "3753e0e453a2464af8207594f89cd157ed6cc0851b9dd5f56b1df7d33b748bdf",
+      "literal_href": "/en/products/life/term-life/",
+      "source_label": "Term life",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/maternity/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+      "advertising_source_sha256": "3753e0e453a2464af8207594f89cd157ed6cc0851b9dd5f56b1df7d33b748bdf",
+      "literal_href": "/en/products/life/maternity/",
+      "source_label": "Maternity",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/mortgage/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+      "advertising_source_sha256": "3753e0e453a2464af8207594f89cd157ed6cc0851b9dd5f56b1df7d33b748bdf",
+      "literal_href": "/en/products/life/mortgage/",
+      "source_label": "Mortgage",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/life/explore-more/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+      "advertising_source_sha256": "3753e0e453a2464af8207594f89cd157ed6cc0851b9dd5f56b1df7d33b748bdf",
+      "literal_href": "/en/products/life/explore-more/",
+      "source_label": "Explore more",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/savings/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+      "advertising_source_sha256": "3753e0e453a2464af8207594f89cd157ed6cc0851b9dd5f56b1df7d33b748bdf",
+      "literal_href": "/en/products/wealth/savings/",
+      "source_label": "Savings",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/retirement/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+      "advertising_source_sha256": "3753e0e453a2464af8207594f89cd157ed6cc0851b9dd5f56b1df7d33b748bdf",
+      "literal_href": "/en/products/wealth/retirement/",
+      "source_label": "Retirement",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/investments/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+      "advertising_source_sha256": "3753e0e453a2464af8207594f89cd157ed6cc0851b9dd5f56b1df7d33b748bdf",
+      "literal_href": "/en/products/wealth/investments/",
+      "source_label": "Investments",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/wealth/explore-more/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/care-secure/",
+      "advertising_source_sha256": "3753e0e453a2464af8207594f89cd157ed6cc0851b9dd5f56b1df7d33b748bdf",
+      "literal_href": "/en/products/wealth/explore-more/",
+      "source_label": "Explore more",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/medical/claims-based-pricing/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/prushield/",
+      "advertising_source_sha256": "8595da008c827b8f0ef8daa91dd60e8fe6734430ec2709b8e75a004d6b25bc5d",
+      "literal_href": "/en/products/health/medical/claims-based-pricing/",
+      "source_label": "Claims-based premium pricing",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    },
+    {
+      "region": "SG",
+      "url": "https://www.prudential.com.sg/en/products/health/medical/claims-based-pricing-withdrawnrider/",
+      "method": "GET",
+      "source_url": "https://www.prudential.com.sg/en/products/health/medical/prushield/",
+      "advertising_source_sha256": "8595da008c827b8f0ef8daa91dd60e8fe6734430ec2709b8e75a004d6b25bc5d",
+      "literal_href": "/en/products/health/medical/claims-based-pricing-withdrawnrider/",
+      "source_label": "here",
+      "read_scope": "bounded_literal_public_catalog_subcategory_or_PRUShield_pricing_information_HTML_only"
+    }
+  ],
+  "public_selector_model_queue": [
+    {
+      "url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/health/jcr:content/root/containerextension/column0/containerextension/containerextension_1872446572/column0/productcomparisonsel.model.json",
+      "method": "GET",
+      "query_parameters": {},
+      "source_url": "https://www.prudential.com.sg/en/products/health/",
+      "advertising_source_sha256": "784afd522c39e6662646155b97016b6f49bedc289cb41659daf1ca658de8dddf",
+      "literal_DOM_value": "/content/prudential-aem-lbu/pacs/en/products/health/jcr:content/root/containerextension/column0/containerextension/containerextension_1872446572/column0/productcomparisonsel.model.json",
+      "source_DOM_attribute": "section.product-comparison.product-comparison--selector[data-authconfig]",
+      "source_component_id": "productcomparisonselector-75a357e5a5",
+      "public_script_url": "https://www.prudential.com.sg/etc.clientlibs/prudential-aem-common/clientlibs/clientlib-site.lc-c80012aca40a2b1794606ed65d73e36f-lc.min.js",
+      "public_script_sha256": "f169c57d70ccfd61e623c94923ed0f554a7d40684479edf5d7ef9f72dc077144",
+      "possible_source_issuer_ids": [
+        "SG-own-40bf6a1dd276af06"
+      ]
+    },
+    {
+      "url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/life/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "method": "GET",
+      "query_parameters": {},
+      "source_url": "https://www.prudential.com.sg/en/products/life/",
+      "advertising_source_sha256": "5cac1ac4e8d9b3a60b14a2ea0ad34186340a9d6ddddcc188c95de467e88f61a9",
+      "literal_DOM_value": "/content/prudential-aem-lbu/pacs/en/products/life/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "source_DOM_attribute": "section.product-comparison.product-comparison--selector[data-authconfig]",
+      "source_component_id": "productcomparisonselector-2f65ea5848",
+      "public_script_url": "https://www.prudential.com.sg/etc.clientlibs/prudential-aem-common/clientlibs/clientlib-site.lc-c80012aca40a2b1794606ed65d73e36f-lc.min.js",
+      "public_script_sha256": "f169c57d70ccfd61e623c94923ed0f554a7d40684479edf5d7ef9f72dc077144",
+      "possible_source_issuer_ids": [
+        "SG-own-40bf6a1dd276af06"
+      ]
+    },
+    {
+      "url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "method": "GET",
+      "query_parameters": {},
+      "source_url": "https://www.prudential.com.sg/en/products/wealth/",
+      "advertising_source_sha256": "d88f83f3e147b478808d8206d6ad272cf920395b1f4115b29e39d6acf4ca0a92",
+      "literal_DOM_value": "/content/prudential-aem-lbu/pacs/en/products/wealth/jcr:content/root/containerextension/column0/containerextension/containerextension_1/column0/productcomparisonsel.model.json",
+      "source_DOM_attribute": "section.product-comparison.product-comparison--selector[data-authconfig]",
+      "source_component_id": "productcomparisonselector-1d8d5828fb",
+      "public_script_url": "https://www.prudential.com.sg/etc.clientlibs/prudential-aem-common/clientlibs/clientlib-site.lc-c80012aca40a2b1794606ed65d73e36f-lc.min.js",
+      "public_script_sha256": "f169c57d70ccfd61e623c94923ed0f554a7d40684479edf5d7ef9f72dc077144",
+      "possible_source_issuer_ids": [
+        "SG-own-40bf6a1dd276af06"
+      ]
+    },
+    {
+      "url": "https://www.prudential.com.sg/content/prudential-aem-lbu/pacs/en/products/legacy-planning/jcr:content/root/containerextension/column0/containerextension/column0/containerextension_1/column0/productcomparisonsel.model.json",
+      "method": "GET",
+      "query_parameters": {},
+      "source_url": "https://www.prudential.com.sg/en/products/legacy-planning/",
+      "advertising_source_sha256": "2cf1ddca05f1bd9578c89a6281b4d1fc1d59e24b2421eec5d8943e3b4fb1b84d",
+      "literal_DOM_value": "/content/prudential-aem-lbu/pacs/en/products/legacy-planning/jcr:content/root/containerextension/column0/containerextension/column0/containerextension_1/column0/productcomparisonsel.model.json",
+      "source_DOM_attribute": "section.product-comparison.product-comparison--selector[data-authconfig]",
+      "source_component_id": "productcomparisonselector-4a1ceb3683",
+      "public_script_url": "https://www.prudential.com.sg/etc.clientlibs/prudential-aem-common/clientlibs/clientlib-site.lc-c80012aca40a2b1794606ed65d73e36f-lc.min.js",
+      "public_script_sha256": "f169c57d70ccfd61e623c94923ed0f554a7d40684479edf5d7ef9f72dc077144",
+      "possible_source_issuer_ids": [
+        "SG-own-40bf6a1dd276af06"
+      ]
+    }
+  ]
+}
