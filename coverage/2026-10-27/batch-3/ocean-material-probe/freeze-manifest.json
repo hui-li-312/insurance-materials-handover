@@ -1,0 +1,26 @@
+{
+  "snapshot_at": "2026-10-27T12:44:49.663379+00:00",
+  "supersedes": "ocean-material-probe-metadata-v2",
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "a1136c52bcffa7935e4183a208a8ff922b38dbb687f5447bbd8fa235b17a1d33",
+      "bytes": 1179
+    },
+    {
+      "file": "materials.jsonl",
+      "sha256": "27a98d56ad6d111c2fba50f94941632aa44f610a726e2ceaa3c23fd308192568",
+      "bytes": 5360
+    },
+    {
+      "file": "run-status.json",
+      "sha256": "f8d5db279222c7fea8ae475e1dd3b9123f71468903133ae4ec1ed7856c435662",
+      "bytes": 1289
+    },
+    {
+      "file": "sources.json",
+      "sha256": "635b1d60c6b8ee22e2636a9e26f3131644e70f1e3afe0664e2f33eea21a1ab35",
+      "bytes": 574
+    }
+  ]
+}

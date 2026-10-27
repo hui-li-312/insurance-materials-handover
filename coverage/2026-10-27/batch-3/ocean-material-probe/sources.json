@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://smart.oic.or.th/EService/Menu12",
+    "scope": "OIC life-insurer directory associates the issuer with https://www.ocean.co.th.",
+    "source_date": null
+  },
+  {
+    "url": "https://www.ocean.co.th/our-products/tax-saving/oceanlife-superreturn105",
+    "sha256": "eed067ef31a7ccd03417fa0f4d5122e42aebbc77b2a0886ff0f639a8ad7fee0a",
+    "scope": "Matching named product page contains the two exact download hrefs; no redirect or external material origin was used.",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:23:43.139578+00:00"
+  }
+]
