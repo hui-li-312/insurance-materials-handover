@@ -1,0 +1,31 @@
+{
+  "created_at": "2026-10-27T12:48:18.160301+00:00",
+  "status": "immutable_metadata_only_candidate_intake_and_content_QA_pending",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 1704,
+      "sha256": "03202dddc38b244719a5cd72ea3964599e9c5469898b03d4bc904842aca30fcf"
+    },
+    {
+      "file": "private-original-intake-metadata.json",
+      "bytes": 7297,
+      "sha256": "59c50ee8cde3136bdad8c8aa8aead9e14d9128e45a1775191f09a44330d4c9e8"
+    },
+    {
+      "file": "proposed-issuer-role-corrections.json",
+      "bytes": 5759,
+      "sha256": "9f1eeb8132dfbe4d5e2db16b0e30854c7d6aaa6dc134a2d639fba60d9211c95d"
+    },
+    {
+      "file": "publication-safety-gate.json",
+      "bytes": 230,
+      "sha256": "a19834729025616ec4e399d98a93a767d0f8a6c5f73caa15889a54cae43cf536"
+    },
+    {
+      "file": "status.json",
+      "bytes": 904,
+      "sha256": "77d0a4424846afc7273764dd6b66b6028fe16c8cdf4a0b2f4927696bf203fd28"
+    }
+  ]
+}
