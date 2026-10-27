@@ -1,0 +1,64 @@
+{
+  "source_date": null,
+  "category_catalogs": [
+    {
+      "catalog_url": "https://product.thailife.com/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95",
+      "page_sha256": "a1b12999aa463bd95f1b7c93adea725f2c4c0d6d15de138069b103e0df5f5e83",
+      "distinct_detail_route_cards": 5,
+      "pagination_controls_detected": 0
+    },
+    {
+      "catalog_url": "https://product.thailife.com/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A5%E0%B8%94%E0%B8%AB%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5",
+      "page_sha256": "401088e3a1d768fda1a97d9fabf9bccde9dfae413fbc1e6a514fa6e6eef224ba",
+      "distinct_detail_route_cards": 13,
+      "pagination_controls_detected": 0
+    },
+    {
+      "catalog_url": "https://product.thailife.com/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A0%E0%B8%B2%E0%B8%9E",
+      "page_sha256": "cbf5a678342b66102d9066f7b5eb7c2a78563f9343bd5d9ce70f026e7c764710",
+      "distinct_detail_route_cards": 8,
+      "pagination_controls_detected": 0
+    },
+    {
+      "catalog_url": "https://product.thailife.com/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8",
+      "page_sha256": "2291f65e9e4afcd10b5c9055e5a731bcadb6b1a700787ea8412f5aedc9b761ce",
+      "distinct_detail_route_cards": 7,
+      "pagination_controls_detected": 0
+    },
+    {
+      "catalog_url": "https://product.thailife.com/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%B5%E0%B8%A2%E0%B8%93",
+      "page_sha256": "c4b08f948014cf550b4da19d07d435c9e405c18cb7103239b5074e565865a075",
+      "distinct_detail_route_cards": 3,
+      "pagination_controls_detected": 0
+    },
+    {
+      "catalog_url": "https://product.thailife.com/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%81",
+      "page_sha256": "ca0645285053da344ac4c0bc0345b077bd9c7eafc040a4bf905f8c5a2089a72b",
+      "distinct_detail_route_cards": 1,
+      "pagination_controls_detected": 0
+    },
+    {
+      "catalog_url": "https://product.thailife.com/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8",
+      "page_sha256": "5afa14acb27234e2d48b8e32a56ca3edd081af949ced5904b0ed924373c85807",
+      "distinct_detail_route_cards": 5,
+      "pagination_controls_detected": 0
+    },
+    {
+      "catalog_url": "https://product.thailife.com/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A3%E0%B8%87",
+      "page_sha256": "b0f6d9c78a6d85c4942f8d554212b9d7dfe96601b8929df4445d54ff4fd74a29",
+      "distinct_detail_route_cards": 3,
+      "pagination_controls_detected": 0
+    },
+    {
+      "catalog_url": "https://product.thailife.com/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A1%E0%B8%A3%E0%B8%94%E0%B8%81",
+      "page_sha256": "0f939f7816a3110782c57804a145749ad0b4a8925ee27e60417c84f5fb06d57b",
+      "distinct_detail_route_cards": 1,
+      "pagination_controls_detected": 0
+    }
+  ],
+  "additional_homepage_sustainability_detail": {
+    "url": "https://product.thailife.com/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%A2%E0%B8%B7%E0%B8%99/%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A2%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B8%B7%E0%B8%99",
+    "card_name_source": "Own detail-page document title; source homepage navigation label was only the sustainability category."
+  },
+  "scope_note": "Nine category catalogs plus the actual sustainability detail link; group/other channels and hidden or retired catalogs not closed."
+}

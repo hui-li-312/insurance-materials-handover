@@ -1,0 +1,47 @@
+{
+  "metadata_reviewed_at": "2026-10-27T21:31:46.691171+00:00",
+  "original_snapshot_at": "2026-10-27T11:22:44.124636+00:00",
+  "original_manifest_sha256": "03dfa9e42cbc582bd0b78fb68a24ea13b2237783d78ffed6aa6582aa2320d21f",
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "df9a1296119311f70b9e3676dfcb178f02461bff9dc86d47ababd842532b3352",
+      "bytes": 1300
+    },
+    {
+      "file": "catalog-cards.jsonl",
+      "sha256": "b3b9bc649abc3d12c79ab40a35dc642fbd20b3b3b2a8e112ef738130ceaa6049",
+      "bytes": 88775
+    },
+    {
+      "file": "catalog-sources.json",
+      "sha256": "d1e2e97e6c8214d05a9935e717689c123c5fad6e79918ec1927a789f958eed55",
+      "bytes": 4448
+    },
+    {
+      "file": "coverage-gaps.json",
+      "sha256": "779d1f85caea737ea2a9e2cf47c8715f7614714496a3aaecabe1577f3428173f",
+      "bytes": 644
+    },
+    {
+      "file": "coverage-status.json",
+      "sha256": "ba3befb42a6a8dc6267f83794074266b9367964985f35baa96da23b8cb5b9185",
+      "bytes": 1105
+    },
+    {
+      "file": "products.jsonl",
+      "sha256": "06bb113a1a4d92207d0d81ddc5bccf346cc7881bfb93f30fe99715911c1a50cf",
+      "bytes": 157195
+    },
+    {
+      "file": "source-identity.json",
+      "sha256": "1cece5250e7ca4d03d0d5e9b76bfe2b8b3c34ecaebae9e12445694544ec5b617",
+      "bytes": 2005
+    },
+    {
+      "file": "source-visits.jsonl",
+      "sha256": "13af48f5d6aaecc96e5c6261ebba8ee89e111db5b06f582c0cd4422a2429ece7",
+      "bytes": 80526
+    }
+  ]
+}

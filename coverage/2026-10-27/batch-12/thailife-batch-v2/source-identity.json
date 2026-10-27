@@ -1,0 +1,30 @@
+{
+  "region": "TH",
+  "issuer_id": "own-th-546b0efeba67",
+  "issuer_id_scheme": "local_name_sha256_12_not_regulator_id",
+  "legal_name": "บริษัท ไทยประกันชีวิต จำกัด (มหาชน) (THAI LIFE INSURANCE PUBLIC COMPANY LIMITED)",
+  "official_website": "https://www.thailife.com/",
+  "regulator_source_url": "https://smart.oic.or.th/EService/Menu12",
+  "regulator_source_date": null,
+  "regulator_observed_at": "2026-10-27T09:45:48Z",
+  "regulator_evidence_type": "cached_public_directory_text_extraction_and_structured_row",
+  "regulator_text_sha256": "7dee8c7a861b31bef3889064e8c4355a89c4f22b78e6572ef3afc0edf8c36575",
+  "regulator_structured_rows_sha256": "fac53401c9e7ca0371c6bd09fa6372f6ccb287e9d902f219f7d932aebea36fa0",
+  "regulator_row_label": "บริษัท ไทยประกันชีวิต จำกัด (มหาชน) (THAI LIFE INSURANCE PUBLIC COMPANY LIMITED)",
+  "regulator_original_live_page_reverified_in_this_review": false,
+  "cached_homepage_url": "https://www.thailife.com/",
+  "cached_homepage_sha256": "9568879d7598f6f354be7f10098dc2ab630c988af4e5bd4478174129700d078e",
+  "homepage_observed_at": "2026-10-27T09:47:41.708224+00:00",
+  "homepage_catalog_links": [
+    {
+      "url": "https://product.thailife.com/",
+      "published_link_label": "แบบประกันทั้งหมด",
+      "source_element_locator": "/html[1]/body/div/div[1]/div/header/div[1]/div[2]/div[5]/div[5]/ul/li[8]/a"
+    }
+  ],
+  "company_catalog_association_verified": true,
+  "contract_underwriter_verified_from_policy_document": false,
+  "source_date": null,
+  "currentness_limit": "Directory presence and public marketing pages do not establish active new-business sale, unique contracts, all channels, all product variants, or current policy versions.",
+  "entity_distinction": "THAI LIFE INSURANCE PUBLIC COMPANY LIMITED is not MUANG THAI LIFE ASSURANCE PUBLIC COMPANY LIMITED; no name-based company merge is made."
+}

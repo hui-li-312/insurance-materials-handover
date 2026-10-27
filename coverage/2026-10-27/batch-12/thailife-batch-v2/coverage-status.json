@@ -1,0 +1,34 @@
+{
+  "category_catalog_pages_checked": 9,
+  "category_card_routes": 46,
+  "additional_named_sustainability_detail": 1,
+  "named_detail_route_observations": 47,
+  "roles": {
+    "product": 38,
+    "rider": 7,
+    "plan": 2
+  },
+  "name_confirmation_counts": {
+    "own_main_content_heading": 39,
+    "own_document_title": 6,
+    "own_main_content_text": 2
+  },
+  "material_link_occurrences": 21,
+  "unique_material_urls": 21,
+  "material_files_requested": 0,
+  "new_formal_original_files": 0,
+  "selected_category_card_routes_detail_attempts_complete": true,
+  "issuer_all_public_catalogs_complete": false,
+  "all_skus_complete": false,
+  "all_wordings_complete": false,
+  "original_snapshot_at": "2026-10-27T11:22:44.124636+00:00",
+  "metadata_reviewed_at": "2026-10-27T21:31:46.691171+00:00",
+  "observation_timestamps_preserved": true,
+  "source_date": null,
+  "source_naming_warning_count": 2,
+  "formal_original_count_credit": 0,
+  "unique_SKU_count": null,
+  "all_channels_complete": false,
+  "company_catalog_association_verified": true,
+  "contractual_issuer_verified_from_policy_contract": false
+}

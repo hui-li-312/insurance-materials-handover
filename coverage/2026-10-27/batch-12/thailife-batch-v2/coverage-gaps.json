@@ -1,0 +1,17 @@
+[
+  {
+    "scope": "group_and_other_distribution_channels",
+    "status": "not_closed",
+    "reason": "Selected categories do not close group, bank-specific, online, or other channel catalogs."
+  },
+  {
+    "scope": "other_languages_hidden_and_retired_catalogs",
+    "status": "not_closed",
+    "reason": "No complete inventory of other languages, hidden pages or retired offerings has been established."
+  },
+  {
+    "scope": "policy_wordings_and_unique_contracts",
+    "status": "not_established",
+    "reason": "Only HTML observations and PDF candidate anchors are recorded; documents and all contract/SKU variants remain unverified."
+  }
+]
