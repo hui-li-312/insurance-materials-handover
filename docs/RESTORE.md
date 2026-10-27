@@ -12,6 +12,6 @@ Git 保存小型索引、交接文档、校验脚本和台账；大量原件使�
 
 脚本不联网、不运行 PDF 内的脚本、不解析或更改原件正文、不安装软件、不读取凭据。输出目录应由接手人自行选择；若存在同路径不同字节文件，立即停止而不是覆盖。
 
-没有权限取得私有 Release 附件时，应由仓库所有者授予所需的最小读取权限，不共享个人登录凭据。
+没有权限取得私有 Release 附件时，应由仓库所有者明确授权访问，不共享个人登录凭据。个人私有仓库的协作者权限包含写入，不能设为只读；邀请前需确认该权限范围。参见 [GitHub 官方权限说明](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/permission-levels-for-a-personal-account-repository)。
 
 隔离材料并未逐一重新完成个人信息排查。其中有一项原核验记录提示“疑似标识符形态的隐藏文字，真实性未知”；哈希一致不代表无个人信息或可公开传播。
