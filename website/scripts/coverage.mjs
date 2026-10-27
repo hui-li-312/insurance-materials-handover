@@ -123,6 +123,52 @@ export function buildCoverage(){
   const row=observation(r,c,{region:r.region,issuer:r.issuer,legalIssuer:r.issuer,issuerId:r.issuer_id,name:`${r.official_product_name} — ${r.official_document_title}`,kind:'document_page',sourceUrl:r.product_url,catalogUrl:r.product_url,materials:[material(r,0,r.document_type,{sourceUrl:r.product_url,title:r.official_document_title})]});
   row.facts.association_scope='explicit_source_product_page_and_material_only_not_product_census';return row;
  });
+ // Batch 6 is an explicit fixed-schema import; indexes/intakes never add duplicate product rows.
+ const batch6MaterialKeys=['source_visibility_status','source_visibility_classes','current_visible_product_material_credit','current_offering_association_status','association_visibility_scope','parent_main_policy_wording_credit','parent_product_material_coverage_credit','complete_parent_contract_credit','full_policy_wording_credit','main_policy_wording_credit','product_material_credit','material_for_named_component','material_for_named_related_offering','association_role','different_offering_name','source_association_context','association_scope','material_role_scope','role_scope','version_applicability_label','all_version_applicability_labels','date_scope','version_scope','application_date_from','application_date_before','applicable_until','specimen_status','content_review_status','visibility_status','contract_content_verified','product_specific_main_contract_verified','full_content_safety_review_complete','source_role_conflict','role_basis','additional_observed_labels','source_stated_update_date','source_stated_update_date_scope','applicability_date','applicability_date_scope','applicability_date_basis','acquisition_as_of','acquisition_status'];
+ const batch6ObservationKeys=['source_publisher','issuer_mapping_status','underwriter_identity_evidence','identity_review_scope','issuer_identity_evidence','candidate_legal_entity_evidence','source_visibility_status','current_product_coverage_credit','availability_evidence_limit','directory_label_applicability_scope','parent_observation_id','component_role_basis','role_evidence','catalog_limit','product_count_credit','observation_class','official_name_basis','unique_sku_status','unique_current_sku_verified','all_public_catalog_complete','source_origin_now_closed','source_origin_scope','embedded_context_label','same_observed_name_context_group','related_inventory_ids_shared_material_context','same_offering_context_review','related_route_context_group','related_route_identity','role_basis'];
+ const sgHidden='ancestor_explicitly_hidden_on_desktop_tablet_and_mobile';
+ function batch6Material(m,i,kind,sourceUrl){const out=material(m,i,kind,{sourceUrl});Object.assign(out.facts,facts(m,batch6MaterialKeys));if(m.material_ref_id)out.id=m.material_ref_id;return out;}
+ function etiqa(r,c){
+  const isSG=r.jurisdiction==='SG';
+  const publisherOnly=isSG&&r.issuer_mapping_status==='official_source_publisher_confirmed_policy_contract_underwriter_not_independently_verified';
+  const legal=publisherOnly?null:r.issuer;
+  const ms=r.material_links.map((m,i)=>batch6Material(m,i,m.type,r.product_url));
+  const row=observation(r,c,{region:r.jurisdiction,issuer:legal||`${isSG?'Etiqa Singapore / Tiq':r.source_brand}（法定承保人待核）`,legalIssuer:legal,issuerId:r.issuer_id,name:r.official_name,sourceUrl:r.product_url,catalogUrl:r.source_catalog_url,materials:ms.filter(m=>m.facts.source_visibility_status!==sgHidden)});
+  const hidden=ms.filter(m=>m.facts.source_visibility_status===sgHidden);if(hidden.length)row.hiddenMaterials=hidden;
+  Object.assign(row.facts,facts(r,batch6ObservationKeys));return row;
+ }
+ assert.equal(rows.filter(r=>r.provenance.feed==='hk_sg_my_catalog'&&/etiqa/i.test(r.issuer)).length,0,'Unexpected Etiqa predecessor overlap requires explicit replacement review');
+ add('etiqa_sg_catalog',['products-sg-etiqa-expanded.jsonl','documents-sg-etiqa-expanded.jsonl'],etiqa);
+ add('etiqa_my_catalog',['products-etiqa-my.jsonl'],etiqa);
+ // Exact-ID and exact-null-safe-URL enrichments only. Preserve source visibility and association limitations.
+ function etiqaReview(feedId,parentFeed,file,separate){
+  const f=feeds.get(feedId),p='coverage/'+f.path+file,rs=JSON.parse(read(p));let count=0;
+  for(const [i,r]of rs.entries()){
+   const parent=rows.find(x=>x.provenance.feed===parentFeed&&x.sourceId===r.observation_id);assert(parent,'Etiqa exact review parent missing');
+   assert(safeURL(r.material_url),'Review locator must be a safe non-held exact URL');
+   const all=[...parent.materials,...(parent.hiddenMaterials||[])],matches=all.filter(m=>m.url!==null&&m.url===r.material_url);assert.equal(matches.length,1,'Review must match one exact non-held source reference');
+   const m=matches[0];m.kind=r.material_type;m.materialRole=r.material_type;m.sourceStatus=r.status;
+   Object.assign(m.facts,facts(r,['body_review_status','document_form_status','sample_marking_scope','document_version_label_from_reviewed_page','version_scope','version_caution','date_scope','source_application_applicability_label','application_date_from','visual_review_scope','narrow_legal_identity_evidence','narrow_identity_evidence','full_contract_acceptance','full_contract_review','raw_release_authorized']));
+   m.facts.pages=Number(r.pdf_permissions_and_structure.Pages);m.publicationDate=r.publication_date??null;m.effectiveDate=r.effective_date??null;
+   m.provenance={feed:feedId,path:p,index:i};count++;
+  }
+  assert.equal(count,separate?4:7);
+  if(separate)feedSummaries.push({...f,inputRows:count,displayRows:0,enrichedExistingMaterials:count,files:[p]});
+  else {const summary=feedSummaries.find(x=>x.id===parentFeed);summary.enrichedExistingMaterials=count;summary.files.push(p);}
+ }
+ etiqaReview('etiqa_sg_material_review','etiqa_sg_catalog','private-intake-metadata.json',true);
+ etiqaReview('etiqa_my_catalog','etiqa_my_catalog','private-intake-metadata.json',false);
+ const vnFeed=feeds.get('vn_catalog_contexts');
+ const vnIdentities=new Map(JSON.parse(read('coverage/'+vnFeed.path+'identity-resolution.json')).map(x=>[x.issuer_id,x]));assert.equal(vnIdentities.size,60);
+ add('vn_catalog_contexts',['products.jsonl'],(r,c)=>{
+  const identity=vnIdentities.get(r.issuer_id);assert(identity,'VN explicit issuer identity missing');
+  const row=observation(r,c,{region:r.region,issuer:r.legal_entity,legalIssuer:r.legal_entity,issuerId:r.issuer_id,name:r.official_name,sourceUrl:r.url,catalogUrl:r.source_urls?.[0],materials:r.materials.map((m,i)=>batch6Material(m,i,m.document_role,m.source_page_url||r.url))});
+  Object.assign(row.facts,facts(r,batch6ObservationKeys));row.facts.issuer_identity_context=facts(identity,['identity_resolution','source_roster_scope','current_license_status','current_sale_or_runoff_status','brand_name_observed','current_legal_name_observed']);
+  return row;
+ });
+ const sgRows=rows.filter(r=>r.provenance.feed==='etiqa_sg_catalog'),myRows=rows.filter(r=>r.provenance.feed==='etiqa_my_catalog'),vnRows=rows.filter(r=>r.provenance.feed==='vn_catalog_contexts');
+ assert.equal(sgRows.length,185);assert.equal(sgRows.reduce((n,r)=>n+(r.hiddenMaterials?.length||0),0),29);assert.equal(myRows.length,89);assert.equal(vnRows.length,933);
+ assert.equal(vnRows.filter(r=>r.kind.startsWith('resource_only_')).length,368);
  assert.equal(feedSummaries.length,latest.feeds.length,'An active feed has no explicit adapter');
  // Preserve variant identities as subordinate facts, never add them as products.
  const vfeed=feeds.get('hk_vhis_scheme_registry');let variantCount=0;
@@ -139,9 +185,11 @@ export function buildCoverage(){
  const initial=JSON.parse(read(initialPath));
  const regionContext={};
  for(const id of ['VN','BN','KH','LA','MM'])regionContext[id]={sourcePath:regionalPath,sourceCheckedAt:regional.checked_at,scope:'regional_queue_snapshot_not_market_completion',facts:facts(regional.regions[id],['census_status','product_status','issuer_catalog_status_counts']),blocks:regional.blocks.filter(b=>b.region===id).map(b=>({result:b.result,reason:b.reason}))};
+ const vnStatusPath='coverage/'+vnFeed.path+'run-status.json',vnStatus=JSON.parse(read(vnStatusPath));
+ regionContext.VN={sourcePath:vnStatusPath,sourceCheckedAt:vnStatus.frozen_at,scope:'VN_finite_source_contexts_not_current_market_or_contract_completion',facts:{C1:vnStatus.C1,C2:vnStatus.C2,C3:vnStatus.C3,C4:vnStatus.C4},blocks:[]};
  for(const id of ['TH','ID','PH'])regionContext[id]={sourcePath:initialPath,sourceCheckedAt:initial.snapshot_at,scope:'initial_roster_snapshot_later_catalog_observations_are_separate',facts:facts(initial.regions[id],['whole_region_current_licensed_denominator_complete','all_products_obtained']),blocks:[]};
 
- return {schemaVersion:1,snapshot:'2026-10-27',compiledFrom:latest.compiled_at,limitations:['这是公开来源观察，不是已核验独立 SKU、当前在售清单或全市场完成证明。','目录类别、附加险、保障组件、版本、登记组及文件目录记录分别标注；不能把它们相加当作产品数。','法定承保人待核的共享品牌不分配到候选公司，不复制为多家公司产品。','材料是来源引用；被隐去的链接保持 null。链接、文件抓取、正式入库及全文核验是不同状态。','原目录 2,360 条、正式原件 4,713 份及严格核验 426 份均保持不变；本视图新增正式原件和核验 SKU 均为 0。','VHIS 最新登记不等于当前可投保；历史组、登记变体与补充资料保留原有范围。','区域累计 706 条替代旧 428 条；16 条 GGI 隐藏源码材料引用单独保留，不计可见／当前提供；候选 URL 与隐私 HOLD 分别处理。'],baselines:{directoryEntries:2360,formalOriginals:4713,strictVerified:426,newFormalOriginals:0,newVerifiedSkus:0},regionContext,aggregationRule:latest.aggregation_rule,publicProjectionRule:latest.public_projection_rule,feeds:feedSummaries,replacements,regions:[['HK','香港'],['SG','新加坡'],['MY','马来西亚'],['TH','泰国'],['ID','印度尼西亚'],['PH','菲律宾'],['VN','越南'],['BN','文莱'],['KH','柬埔寨'],['LA','老挝'],['MM','缅甸'],['TL','东帝汶']].map(([id,name])=>({id,name})),summary:{observationRows:rows.length,materialReferences:materials.length,displayedMaterialReferences:visibleMaterials.length,hiddenMarkupMaterialReferences:hiddenMaterials.length,exposedMaterialOccurrences:materials.filter(m=>m.url).length,withheldMaterialOccurrences:materials.filter(m=>m.urlStatus==='withheld_in_public_source').length,subordinateRegistryVariants:variantCount},sourceInputs:[...consumed.values()].sort((a,b)=>a.path.localeCompare(b.path)),observations:rows};
+ return {schemaVersion:1,snapshot:'2026-10-27',compiledFrom:latest.compiled_at,limitations:['这是公开来源观察，不是已核验独立 SKU、当前在售清单或全市场完成证明。','目录类别、附加险、保障组件、版本、登记组及文件目录记录分别标注；不能把它们相加当作产品数。','法定承保人待核的共享品牌不分配到候选公司，不复制为多家公司产品。','材料是来源引用；被隐去的链接保持 null。链接、文件抓取、正式入库及全文核验是不同状态。','原目录 2,360 条、正式原件 4,713 份及严格核验 426 份均保持不变；本视图新增正式原件和核验 SKU 均为 0。','VHIS 最新登记不等于当前可投保；历史组、登记变体与补充资料保留原有范围。','区域累计 706 条替代旧 428 条；16 条 GGI 隐藏源码材料引用单独保留，不计可见／当前提供；候选 URL 与隐私 HOLD 分别处理。','Etiqa SG 127 条目录与 58 条材料目录只导入一次；另 29 条隐藏材料引用、1 个隐藏组件、5 条隐藏目录行不证明当前展示或在售。MY 89 条中 85 条法定承保人待核，8 条汽车相关引用不计父产品主条款。','越南 933 条观察中 368 条仅资料语境，不是独立产品；来源身份、品牌别名与当前牌照／合同承保人核验不同，不作模糊合并。Cathay 目录差异未闭合；重复嵌入 PDF 不增加原件。'],baselines:{directoryEntries:2360,formalOriginals:4713,strictVerified:426,newFormalOriginals:0,newVerifiedSkus:0},regionContext,aggregationRule:latest.aggregation_rule,publicProjectionRule:latest.public_projection_rule,feeds:feedSummaries,replacements,regions:[['HK','香港'],['SG','新加坡'],['MY','马来西亚'],['TH','泰国'],['ID','印度尼西亚'],['PH','菲律宾'],['VN','越南'],['BN','文莱'],['KH','柬埔寨'],['LA','老挝'],['MM','缅甸'],['TL','东帝汶']].map(([id,name])=>({id,name})),summary:{observationRows:rows.length,materialReferences:materials.length,displayedMaterialReferences:visibleMaterials.length,hiddenMarkupMaterialReferences:hiddenMaterials.length,exposedMaterialOccurrences:materials.filter(m=>m.url).length,withheldMaterialOccurrences:materials.filter(m=>m.urlStatus==='withheld_in_public_source').length,subordinateRegistryVariants:variantCount},sourceInputs:[...consumed.values()].sort((a,b)=>a.path.localeCompare(b.path)),observations:rows};
 }
 export function serializeCoverage(payload){
  const {observations,...index}=payload;
