@@ -1,0 +1,62 @@
+{
+  "metadata_reviewed_at": "2026-10-27T21:31:46.691171+00:00",
+  "original_snapshot_at": "2026-10-27T16:54:33.277063+00:00",
+  "original_manifest_sha256": "f7614c738aeb8a4151b52872538576eb70420834b21adeec85f16ff7ae0765d8",
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "020c6f9c28899a87b1be865455b25837fc1bc5c90c3260e3c209b120049c4508",
+      "bytes": 1621
+    },
+    {
+      "file": "coverage-classes.jsonl",
+      "sha256": "0a6ea96181a0fb4cd23dc51d9a2ee20b68d9a74c047d9741946036390bb2649f",
+      "bytes": 4338
+    },
+    {
+      "file": "coverage-gaps.json",
+      "sha256": "1afa77306b6091f98510a32debd1bad609366772ea32e0cb66d3667d0e713aba",
+      "bytes": 1725
+    },
+    {
+      "file": "coverage-status.json",
+      "sha256": "7a57d6d97b1973cbba9d0d40abd4c35de4f599bf85b487b78a0488b4bb5bbd14",
+      "bytes": 1293
+    },
+    {
+      "file": "distributed-coverage-classes.jsonl",
+      "sha256": "f11c018484ee18df428dd40e8125a4995a9ce4748186aba4a4ed8fb473515df4",
+      "bytes": 17534
+    },
+    {
+      "file": "distributed-product-references.jsonl",
+      "sha256": "4e2276b7817f44be9206942f74b49b83e8c4f042a63c7b50a61afab9934b71ae",
+      "bytes": 42857
+    },
+    {
+      "file": "distributed-unnamed-references.jsonl",
+      "sha256": "27cd317ab8c7cbead67fea661db2fddbfe791139bfe5e1626db6c354e3d4cb9d",
+      "bytes": 24076
+    },
+    {
+      "file": "plan-and-design-references.jsonl",
+      "sha256": "29859fc6f286d34b1cf3255017afa6a4f79e32fb6ab8da2dfb508e41ba4dd3b1",
+      "bytes": 2865
+    },
+    {
+      "file": "products.jsonl",
+      "sha256": "a8125697672fd61579e885083ac0c07137b72b73e406475d36f688d3e51e706d",
+      "bytes": 71831
+    },
+    {
+      "file": "source-identity.json",
+      "sha256": "22a06f230982b153fb9d7969f4c3435c74ce8c646f790df0a72b5f1b1692bace",
+      "bytes": 2993
+    },
+    {
+      "file": "source-visits.jsonl",
+      "sha256": "b1e8ccc4612317499c2dafab93396627726baa6fb5e461e5b259d4ea79a37778",
+      "bytes": 8994
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "region": "TH",
+  "issuer_id": "own-th-c86f37936f82",
+  "issuer_id_scheme": "local_name_sha256_12_not_regulator_id",
+  "legal_name": "บริษัท ฟิลลิปประกันชีวิต จำกัด (มหาชน) (PHILLIP LIFE ASSURANCE PUBLIC COMPANY LIMITED)",
+  "official_website": "https://www.philliplife.com/",
+  "regulator_source_url": "https://smart.oic.or.th/EService/Menu12",
+  "regulator_source_date": null,
+  "regulator_observed_at": "2026-10-27T09:45:48Z",
+  "regulator_evidence_type": "cached_public_directory_text_extraction_and_structured_row",
+  "regulator_text_sha256": "7dee8c7a861b31bef3889064e8c4355a89c4f22b78e6572ef3afc0edf8c36575",
+  "regulator_structured_rows_sha256": "fac53401c9e7ca0371c6bd09fa6372f6ccb287e9d902f219f7d932aebea36fa0",
+  "regulator_row_label": "บริษัท ฟิลลิปประกันชีวิต จำกัด (มหาชน) (PHILLIP LIFE ASSURANCE PUBLIC COMPANY LIMITED)",
+  "regulator_original_live_page_reverified_in_this_review": false,
+  "cached_homepage_url": "https://www.philliplife.com/",
+  "cached_homepage_sha256": "2732fea4abec8bcb7b77f0e9ded04bf37d31fb03bf7d7aba520870ca298a5728",
+  "homepage_observed_at": "2026-10-27T09:47:41.708910+00:00",
+  "homepage_catalog_links": [
+    {
+      "url": "https://www.philliplife.com/product",
+      "published_link_label": "ผลิตภัณฑ์",
+      "source_element_locator": "/html/body/div[1]/footer/aside[1]/div/div/div/div/div/div/div[2]/div/div[2]/div/div/div/div/div/div/div[2]/div/div[1]/div/a"
+    },
+    {
+      "url": "https://www.philliplife.com/product",
+      "published_link_label": "ประกันชีวิต",
+      "source_element_locator": "/html/body/div[1]/footer/aside[1]/div/div/div/div/div/div/div[2]/div/div[2]/div/div/div/div/div/div/div[2]/div/div[2]/div/a"
+    },
+    {
+      "url": "https://www.philliplife.com/corporate-insurance",
+      "published_link_label": "สำหรับองค์กร",
+      "source_element_locator": "/html/body/div[1]/footer/aside[1]/div/div/div/div/div/div/div[2]/div/div[2]/div/div/div/div/div/div/div[2]/div/div[4]/div/a"
+    },
+    {
+      "url": "https://www.philliplife.com/general-insurance",
+      "published_link_label": "ประกันภัย",
+      "source_element_locator": "/html/body/div[1]/footer/aside[1]/div/div/div/div/div/div/div[2]/div/div[2]/div/div/div/div/div/div/div[2]/div/div[5]/div/a"
+    }
+  ],
+  "company_catalog_association_verified": true,
+  "contract_underwriter_verified_from_policy_document": false,
+  "source_date": null,
+  "currentness_limit": "Directory presence and public marketing pages do not establish active new-business sale, unique contracts, all channels, all product variants, or current policy versions.",
+  "third_party_table_limit": "Displayed insurer labels on the undated general-insurance distribution table are not mapped to current licensed entities or credited as Phillip-underwritten products."
+}

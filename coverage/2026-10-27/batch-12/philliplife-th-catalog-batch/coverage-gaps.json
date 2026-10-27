@@ -1,0 +1,38 @@
+[
+  {
+    "region": "TH",
+    "issuer_id": "own-th-c86f37936f82",
+    "scope": "current_rendered_product_grid",
+    "status": "55_card_occurrences_24_exact_routes_retrieved",
+    "source_page_url": "https://www.philliplife.com/product/",
+    "source_page_sha256": "cf2f90eb4816a9da0078d2b3f6ad11cf567cf0c728395106f4b35aaf4277fe15",
+    "all_public_catalogs_complete": false
+  },
+  {
+    "region": "TH",
+    "issuer_id": "own-th-c86f37936f82",
+    "scope": "Load More control",
+    "status": "dynamic_pagination_not_executed",
+    "source_page_url": "https://www.philliplife.com/product/",
+    "source_page_sha256": "cf2f90eb4816a9da0078d2b3f6ad11cf567cf0c728395106f4b35aaf4277fe15",
+    "reason": "Observed control links back to the same page; no AJAX/admin endpoint, form or guessed pagination request made. Additional rows unknown.",
+    "control_evidence": {
+      "source_element_locator": "/html/body/div[1]/div[3]/div[2]/div/main/article/div/div/div[2]/div/div/div/div/div/div/div[2]/div[1]/div/div/div/div[3]",
+      "text": "Load More"
+    }
+  },
+  {
+    "region": "TH",
+    "issuer_id": "own-th-c86f37936f82",
+    "scope": "English catalogs and online subdomain",
+    "status": "not_observed_in_this_snapshot",
+    "reason": "Actual language/online links remain distinct unvisited scopes. Account and quote/form routes were not used."
+  },
+  {
+    "region": "TH",
+    "issuer_id": "own-th-c86f37936f82",
+    "scope": "third_party_nonlife_table",
+    "status": "offline_inventory_only_underwriter_currentness_unresolved",
+    "reason": "Insurer labels include potentially historical names. No current legal entity, active sale or underwriting is inferred from source labels, repeated rows or quote-only cells."
+  }
+]
