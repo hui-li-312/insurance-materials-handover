@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-10-27T10:58:29.084733+00:00",
+  "scope": "VHIS scheme government product registry only; no whole-HK-market completion or independent SKU count",
+  "source_array_counts": {
+    "standard-plans.json": {
+      "group_records": 33,
+      "variant_records": 33,
+      "bytes": 89621,
+      "checked_at": "2026-10-27T10:50:44.494329+00:00"
+    },
+    "flexi-plans.json": {
+      "group_records": 70,
+      "variant_records": 546,
+      "bytes": 763659,
+      "checked_at": "2026-10-27T10:50:49.028031+00:00"
+    },
+    "historical-standard-plans.json": {
+      "group_records": 82,
+      "variant_records": 82,
+      "bytes": 181292,
+      "checked_at": "2026-10-27T10:50:52.947934+00:00"
+    },
+    "historical-flexi-plans.json": {
+      "group_records": 244,
+      "variant_records": 1928,
+      "bytes": 2539767,
+      "checked_at": "2026-10-27T10:50:56.913766+00:00"
+    }
+  },
+  "latest_group_source_records": 103,
+  "historical_group_version_records": 326,
+  "variant_version_rows": 2589,
+  "latest_variant_rows": 579,
+  "historical_variant_rows": 2010,
+  "PDFs_downloaded": 0,
+  "formal_material_file_count": 0,
+  "verified_SKUs": 0,
+  "latest_status_counts": {
+    "latest_registry_version_listing_not_independent_new_business_eligibility_confirmation": 89,
+    "provider_deregistered_latest_record_retained_not_current_new_business": 4,
+    "official_registry_renewal_only": 8,
+    "official_registry_partial_renewal_only_variants_need_separate_status": 2
+  },
+  "latest_unique_named_issuer_plan_pairs": 103,
+  "latest_unique_certification_prefixes": 103,
+  "unique_vhis_product_ids": 2589,
+  "distinct_issuers": 33,
+  "other_info_source_records": 4,
+  "supplementary_item_records": 12,
+  "pagination_evidence": "Both list pages explicitly load-certified-plans.js; its four exact public JSON arrays read in full. JS generates tables from entire certified-plans arrays, plus historical version tables, no server pagination. Whole arrays parse successfully and record/child counts reconcile.",
+  "source_page_urls": [
+    "https://www.vhis.gov.hk/en/consumer_corner/list-plans.html",
+    "https://www.vhis.gov.hk/en/consumer_corner/standard-plan.html",
+    "https://www.vhis.gov.hk/en/consumer_corner/flexi-plan.html"
+  ],
+  "limitations": [
+    "Current JSON arrays also retain de-registered/unavailable/renewal-only plans; latest is not synonymous with current new-sale availability.",
+    "Historical versions remain separate, not counted as current products.",
+    "No issuer-private underwriting, partner-channel eligibility, PDF wording completeness or legal advice verification.",
+    "Current registry company source names map to provider roster; historical Chubb00015 stays distinct from current Chubb00044 unless explicit transfer evidence is separately recorded."
+  ],
+  "source_observed_unique_material_reference_urls": 7323,
+  "publicly_visible_unique_material_urls": 7299,
+  "withheld_unique_material_references": 24,
+  "current_source_PDF_bytes_fetched": 0,
+  "publication_redaction_scope": "Known historical held-locator identities; current-byte confidentiality status not determined.",
+  "redaction_checked_at": "2026-10-27T11:37:15.523735+00:00"
+}

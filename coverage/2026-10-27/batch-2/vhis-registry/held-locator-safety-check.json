@@ -1,0 +1,18 @@
+{
+  "checked_at": "2026-10-27T11:37:15.523735+00:00",
+  "historical_held_identity_registry_count": 51,
+  "known_locator_registry_rows": 52,
+  "source_observed_unique_material_references": 7323,
+  "publicly_visible_unique_material_urls": 7299,
+  "withheld_unique_reference_identities": 24,
+  "redacted_occurrences_by_file": {
+    "hk-vhis-material-links.jsonl": 24,
+    "hk-vhis-plan-variants.jsonl": 24,
+    "hk-vhis-latest-plan-observations.jsonl": 24
+  },
+  "all_group_variant_provider_identifiers_preserved": true,
+  "current_PDF_bytes_fetched": 0,
+  "formal_file_increment": 0,
+  "verified_SKU_increment": 0,
+  "scan_scope": "All public structured/text files checked for exact known locator strings and conservative same-host/percent-decoded-path aliases; no private registry or raw held locator exported."
+}

@@ -1,0 +1,71 @@
+{
+  "frozen_at": "2026-10-27T11:37:15.523735+00:00",
+  "scope": "Redacted VHIS scheme registry only; independent safety QA required; historical holds retained pending review",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 5295,
+      "sha256": "73b0b47d8b7a8e9e7ade37d017826c538b5bd6bd7478307106fe61505c023918"
+    },
+    {
+      "file": "held-locator-safety-check.json",
+      "bytes": 813,
+      "sha256": "5404167029ea4246a23496ff0de71794f54fb116c093896b68f45815f9477046"
+    },
+    {
+      "file": "hk-vhis-historical-plan-observations.jsonl",
+      "bytes": 3920116,
+      "sha256": "31b2e0e6456fb42239f4fea97f3258a4ff6050a30763cce8116bb398639918d9"
+    },
+    {
+      "file": "hk-vhis-inventory-status.json",
+      "bytes": 3191,
+      "sha256": "512569eacbbb043a8a49c99599debdf500fcec1a841005decd2481fdbbd2bdb5"
+    },
+    {
+      "file": "hk-vhis-latest-plan-observations.jsonl",
+      "bytes": 1253409,
+      "sha256": "11ac7c241c1dca7bfc0f0e1a3a766ebefadfb9f9399198a5fe8ed90c7a2c324d"
+    },
+    {
+      "file": "hk-vhis-material-links.jsonl",
+      "bytes": 3757546,
+      "sha256": "232acc46bea3d1fe46c24bb18cd721d4779da63afcabefb727bb9c7872901583"
+    },
+    {
+      "file": "hk-vhis-plan-variants.jsonl",
+      "bytes": 5952391,
+      "sha256": "c6b59a68ba1aadaf20e7eb5fa48b12907f3338b161ae00ac9de175c1de7f5022"
+    },
+    {
+      "file": "hk-vhis-providers.jsonl",
+      "bytes": 45591,
+      "sha256": "82d7b6d0d9cb4911d0de5272607d7d818c0cdb0a2a2a4ed59c94a56f9bb73b28"
+    },
+    {
+      "file": "hk-vhis-roster-status.json",
+      "bytes": 1074,
+      "sha256": "44880c1ee93c61dbdf3085075f0e75993e0ec42b8396ada62c5c267e6c4ffc77"
+    },
+    {
+      "file": "hk-vhis-supplementary-information.jsonl",
+      "bytes": 23471,
+      "sha256": "da6d8133f61ba4cea6adc7859c57c1ac0ff0bfbeac626fbbef80111df4b6bed1"
+    },
+    {
+      "file": "primary-issuer-queue-delta.jsonl",
+      "bytes": 1838,
+      "sha256": "66ea6c412b47e5a65ef788f2f49b23607a83b28f1a152239c4e12c5dafbcf88a"
+    },
+    {
+      "file": "source-provenance.json",
+      "bytes": 8516,
+      "sha256": "698a0c84a83ea273b923767bc2808999cb7b9bd99c6c9bbc4f887ca1be830cbd"
+    },
+    {
+      "file": "validation.json",
+      "bytes": 973,
+      "sha256": "e697102b9f61377e36fa5498205c9fe34cdb9bdc6d196bbc1b95d6f74d0c6f16"
+    }
+  ]
+}

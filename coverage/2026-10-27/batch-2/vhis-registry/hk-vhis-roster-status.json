@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-10-27T10:44:22.543286+00:00",
+  "registered": 30,
+  "deregistered": 3,
+  "full_scheme_arrays_read": true,
+  "pagination_evidence": "Official load-list-providers.js GETs registered-providers.json and deregistered-providers.json; each complete providers array fully read with no pagination;33unique scheme IDs. Static hidden HTML includes oldnames/all33 and must not be treated as30currentnames.",
+  "whole_HK_regulator_denominator_closed": false,
+  "source_page": "https://www.vhis.gov.hk/en/consumer_corner/list-providers.html",
+  "source_scripts": [
+    "https://www.vhis.gov.hk/js/common.js",
+    "https://www.vhis.gov.hk/js/load-list-providers.js"
+  ],
+  "conservative_HKFI_entity_matches": 31,
+  "primary_issuer_queue_matches": 32,
+  "existing_HKFI_entity_matches": 31,
+  "additional_primary_issuer_entities": 1,
+  "historical_scheme_entities_kept_separate": 1,
+  "working_primary_HK_union_rows": 120,
+  "primary_HK_union_scope": "119 HKFI member entities plus one separately registered VHIS provider; not a full IA authorised-insurer roster."
+}
