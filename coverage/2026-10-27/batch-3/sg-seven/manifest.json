@@ -1,0 +1,111 @@
+{
+  "created_at": "2026-10-27T12:50:50.390517+00:00",
+  "status": "immutable_candidate_v3_for_final_QA",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 3416,
+      "sha256": "21d325d6b6146dbc311201928636d0b0e6e1ced772ea8c6101e10e29500cca21"
+    },
+    {
+      "file": "batch-status.json",
+      "bytes": 6306,
+      "sha256": "9e88a55b9cce3119a0490d0db13bb2f455587ed9f4b2421afef1e4333ced67b8"
+    },
+    {
+      "file": "cached-rider-audit.json",
+      "bytes": 263376,
+      "sha256": "0d831e8eaecfc8a924329ae7c50127dc41073a8757bd80e7b06fc1a406089a59"
+    },
+    {
+      "file": "issuer-origin-evidence.json",
+      "bytes": 4934,
+      "sha256": "13b37d320f7f4baa06c8f38712d859da2b2131b83770dabf5ab3db5a947185e3"
+    },
+    {
+      "file": "merge-replacement-map.json",
+      "bytes": 2918,
+      "sha256": "752382c14880719cd44b8c3f300b0a50a92d27bf7f5087e0157d3cbb4fb08337"
+    },
+    {
+      "file": "products-sg-aia.jsonl",
+      "bytes": 413513,
+      "sha256": "a5f6f0e2df37720ee29aa4f09ba52c2b2919ecaccb7df6c42d7b8389d47ea22f"
+    },
+    {
+      "file": "products-sg-chubb.jsonl",
+      "bytes": 237973,
+      "sha256": "f4fbbc118cea7d44774c2d4d35e0d3826ebbca63fe864ede452dbe8d29486f1f"
+    },
+    {
+      "file": "products-sg-eq.jsonl",
+      "bytes": 85878,
+      "sha256": "1b6981014185b001ce3d597425f515e530f4ce6b03a68aa831350c730a7cbb74"
+    },
+    {
+      "file": "products-sg-hsbc.jsonl",
+      "bytes": 186614,
+      "sha256": "32b9f3b3137136c41db781b425af7588982db2a94e918e3cc8efada78ae18c02"
+    },
+    {
+      "file": "products-sg-manulife.jsonl",
+      "bytes": 212199,
+      "sha256": "434952752f5aecc78048ad6d144b25d58c4fce1fdd05813fe3fa8ac0be33317f"
+    },
+    {
+      "file": "products-sg-singlife.jsonl",
+      "bytes": 268071,
+      "sha256": "fc9a2f03b61157f4625ca56a6dbe1411a4a38adee16d5d9b202d62032be07209"
+    },
+    {
+      "file": "products-sg-taiping.jsonl",
+      "bytes": 174986,
+      "sha256": "e4237b1309cd476674f5f4d0ab2d0cce6538500a75ce6166812d9d20ef9a05b6"
+    },
+    {
+      "file": "publication-safety-gate.json",
+      "bytes": 157,
+      "sha256": "51d287bd2c5ccd3babf8a0598217f740de057e5c257efb8b265362b96d12c649"
+    },
+    {
+      "file": "sg-aia-traversal.json",
+      "bytes": 54350,
+      "sha256": "81afb4ff4fb1821d9e9998804e2934df2996c4711ff543633c8538440d906845"
+    },
+    {
+      "file": "sg-chubb-traversal.json",
+      "bytes": 48577,
+      "sha256": "f232948c6a3b131ff04a850c4bf926ac12be8f160f18acc32588a8baaca1e1c9"
+    },
+    {
+      "file": "sg-eq-traversal.json",
+      "bytes": 14518,
+      "sha256": "168453c86023e55e685fad504f390358968bc42044b016847dab1b2df2f9457e"
+    },
+    {
+      "file": "sg-hsbc-traversal.json",
+      "bytes": 20273,
+      "sha256": "cac8721999330d03d2e2a266c720d18bb5f113b467d06d39aceda2e0bf703ff0"
+    },
+    {
+      "file": "sg-manulife-traversal.json",
+      "bytes": 36365,
+      "sha256": "32c6dce351e74f663c710a36cb9c189a2924a75889b2f50cdffb99ef73da9659"
+    },
+    {
+      "file": "sg-singlife-traversal.json",
+      "bytes": 26863,
+      "sha256": "1de7391717d088b818bd0ce7a027eb20d3f89c614abb7c40118855afd59ccbd2"
+    },
+    {
+      "file": "sg-taiping-traversal.json",
+      "bytes": 34076,
+      "sha256": "c59f2e4272f527c65cb3948b9fc26a4be320d758625c60b710a774d5ebf6443c"
+    },
+    {
+      "file": "v3-corrections.json",
+      "bytes": 6119,
+      "sha256": "4fca4ea808bc0a124001951a4e0a36e434cf72c62f81eef4a484c7d68681a2e8"
+    }
+  ]
+}

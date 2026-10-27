@@ -1,0 +1,628 @@
+{
+  "issuer_id": "SG-own-bd749201a09dd532",
+  "legal_name": "SINGAPORE LIFE LTD.",
+  "jurisdiction": "SG",
+  "official_origin": "https://singlife.com",
+  "products_status": "partial",
+  "run_state": "bounded_reviewed_queues_attempted_wider_channels_partial",
+  "snapshot_at": "2026-10-27T12:50:50.390517+00:00",
+  "observed_rows": 95,
+  "role_counts": {
+    "catalog_category": 14,
+    "product": 40,
+    "group": 7,
+    "plan": 2,
+    "rider": 32
+  },
+  "unique_observed_page_urls": 63,
+  "material_reference_count": 172,
+  "unique_material_urls": 125,
+  "material_role_counts": {
+    "brochure": 77,
+    "public_attachment_unclassified": 68,
+    "product_summary": 6,
+    "policy_wording_candidate": 11,
+    "blank_proposal_or_application_form": 2,
+    "cited_external_research": 2,
+    "general_consumer_information": 6
+  },
+  "verified_unique_SKUs": 0,
+  "raw_product_PDFs_downloaded": 0,
+  "formal_new_material_file_count": 0,
+  "source_catalog_urls": [
+    "https://singlife.com",
+    "https://singlife.com/en/accident-insurance",
+    "https://singlife.com/en/business",
+    "https://singlife.com/en/business/general-insurance/commercial-vehicle-insurance",
+    "https://singlife.com/en/critical-illness-insurance",
+    "https://singlife.com/en/disability-insurance",
+    "https://singlife.com/en/life-insurance",
+    "https://singlife.com/en/maternity-care",
+    "https://singlife.com/en/medical-insurance",
+    "https://singlife.com/en/pinnacle",
+    "https://singlife.com/en/savings"
+  ],
+  "catalog_path_scope": [
+    "/en/life-insurance",
+    "/en/medical-insurance",
+    "/en/critical-illness-insurance",
+    "/en/disability-insurance",
+    "/en/maternity-care",
+    "/en/accident-insurance",
+    "/en/car-insurance",
+    "/en/travel-insurance",
+    "/en/home-insurance",
+    "/en/savings",
+    "/en/investment-linked-plan",
+    "/en/singlife-account",
+    "/en/pinnacle",
+    "/en/legacy-indexed-universal-life",
+    "/en/business",
+    "/en/retirement",
+    "/en/mindef-and-mha",
+    "/en/public-officers"
+  ],
+  "source_request_event_count": 66,
+  "unique_attempted_request_urls": 66,
+  "attempts": [
+    {
+      "url": "https://singlife.com",
+      "checked_at": "2026-10-27T10:10:48.924093+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business",
+      "checked_at": "2026-10-27T10:21:32.733377+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/life-insurance",
+      "checked_at": "2026-10-27T10:21:40.093981+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/life-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/medical-insurance",
+      "checked_at": "2026-10-27T10:21:44.469128+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/medical-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/critical-illness-insurance",
+      "checked_at": "2026-10-27T10:21:48.528383+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/critical-illness-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/disability-insurance",
+      "checked_at": "2026-10-27T10:21:52.650534+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/disability-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/maternity-care",
+      "checked_at": "2026-10-27T10:21:56.781660+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/maternity-care",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/accident-insurance",
+      "checked_at": "2026-10-27T10:22:00.599046+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/accident-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/car-insurance",
+      "checked_at": "2026-10-27T10:22:04.806240+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/car-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/travel-insurance",
+      "checked_at": "2026-10-27T10:22:09.275278+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/travel-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/home-insurance",
+      "checked_at": "2026-10-27T10:22:13.695267+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/home-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/mindef-and-mha/mindef-group-insurance",
+      "checked_at": "2026-10-27T10:22:18.361921+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/mindef-and-mha/mindef-group-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/mindef-and-mha/mha-group-insurance",
+      "checked_at": "2026-10-27T10:22:24.192248+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/mindef-and-mha/mha-group-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/savings",
+      "checked_at": "2026-10-27T10:22:30.419543+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/savings",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/investment-linked-plan",
+      "checked_at": "2026-10-27T10:22:35.729745+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/investment-linked-plan",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/singlife-account",
+      "checked_at": "2026-10-27T10:22:40.609883+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/singlife-account",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/investment-linked-plan/resources",
+      "checked_at": "2026-10-27T10:22:45.295707+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/investment-linked-plan/resources",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/retirement",
+      "checked_at": "2026-10-27T10:22:51.934292+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/retirement",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/pinnacle",
+      "checked_at": "2026-10-27T10:22:56.256986+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/pinnacle",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/pinnacle/heritage-reserve",
+      "checked_at": "2026-10-27T10:23:00.923566+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/pinnacle/heritage-reserve",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/legacy-indexed-universal-life",
+      "checked_at": "2026-10-27T10:23:06.280246+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/legacy-indexed-universal-life",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/pinnacle/legacy-invest",
+      "checked_at": "2026-10-27T10:23:11.232368+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/pinnacle/legacy-invest",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/pinnacle/legacy-indexed-income",
+      "checked_at": "2026-10-27T10:23:14.669169+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/pinnacle/legacy-indexed-income",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/corporate-insurance/group-hospital-and-surgical-care",
+      "checked_at": "2026-10-27T10:23:19.077869+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business/corporate-insurance/group-hospital-and-surgical-care",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/disability-insurance/careshield",
+      "checked_at": "2026-10-27T10:23:25.859722+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/disability-insurance/careshield",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/investment-linked-plan/savvy-invest-ii",
+      "checked_at": "2026-10-27T10:23:29.395698+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/investment-linked-plan/savvy-invest-ii",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/mindef-and-mha",
+      "checked_at": "2026-10-27T10:23:34.060470+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/mindef-and-mha",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/corporate-insurance/group-term-life",
+      "checked_at": "2026-10-27T10:23:39.884277+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business/corporate-insurance/group-term-life",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/accident-insurance/accident-care",
+      "checked_at": "2026-10-27T10:27:56.188074+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/accident-insurance/accident-care",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/accident-insurance/personal-accident",
+      "checked_at": "2026-10-27T10:28:11.439066+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/accident-insurance/personal-accident",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/corporate-insurance/group-critical-illness",
+      "checked_at": "2026-10-27T10:28:20.602949+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business/corporate-insurance/group-critical-illness",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/corporate-insurance/group-preferred-care-plus",
+      "checked_at": "2026-10-27T10:28:25.117351+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business/corporate-insurance/group-preferred-care-plus",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/corporate-insurance/group-personal-accident",
+      "checked_at": "2026-10-27T10:28:30.617296+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business/corporate-insurance/group-personal-accident",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/corporate-insurance/group-disability-protection",
+      "checked_at": "2026-10-27T10:28:35.426292+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business/corporate-insurance/group-disability-protection",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/corporate-insurance/myglobal-benefits",
+      "checked_at": "2026-10-27T10:28:39.690413+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business/corporate-insurance/myglobal-benefits",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/corporate-insurance/mybenefits-plus",
+      "checked_at": "2026-10-27T10:28:43.872305+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business/corporate-insurance/mybenefits-plus",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/general-insurance/mybusiness-insurance",
+      "checked_at": "2026-10-27T10:28:48.135249+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business/general-insurance/mybusiness-insurance",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/general-insurance/cyber",
+      "checked_at": "2026-10-27T10:28:54.919433+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business/general-insurance/cyber",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/general-insurance/complete",
+      "checked_at": "2026-10-27T10:28:59.135106+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business/general-insurance/complete",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/general-insurance/commercial-vehicle-insurance",
+      "checked_at": "2026-10-27T10:29:03.582079+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business/general-insurance/commercial-vehicle-insurance",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/general-insurance/corporate-travel-insurance",
+      "checked_at": "2026-10-27T10:29:08.065162+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business/general-insurance/corporate-travel-insurance",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/critical-illness-insurance/multipay-critical-illness-ii",
+      "checked_at": "2026-10-27T10:29:12.463538+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/critical-illness-insurance/multipay-critical-illness-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/general-insurance",
+      "checked_at": "2026-10-27T10:38:16.658557+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/critical-illness-insurance/comprehensive-critical-illness-ii",
+      "checked_at": "2026-10-27T10:38:30.676693+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/critical-illness-insurance/comprehensive-critical-illness-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/critical-illness-insurance/essential-critical-illness-ii",
+      "checked_at": "2026-10-27T10:38:35.700040+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/critical-illness-insurance/essential-critical-illness-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/business/group-insurance/group-hospital-and-surgical-insurance",
+      "checked_at": "2026-10-27T10:38:39.684078+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/business/corporate-insurance/group-hospital-and-surgical-care",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/disability-insurance/dementia-cover",
+      "checked_at": "2026-10-27T10:38:47.171778+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/disability-insurance/dementia-cover",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/disability-insurance/disability-income",
+      "checked_at": "2026-10-27T10:38:51.981692+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/disability-insurance/disability-income",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/disability-insurance/eldershield",
+      "checked_at": "2026-10-27T10:38:56.311202+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/disability-insurance/eldershield",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/life-insurance/simple-term",
+      "checked_at": "2026-10-27T10:39:00.983896+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/life-insurance/simple-term",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/life-insurance/elite-term-ii",
+      "checked_at": "2026-10-27T10:39:05.404009+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/life-insurance/elite-term-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/life-insurance/whole-life-choice",
+      "checked_at": "2026-10-27T10:39:09.475176+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/life-insurance/whole-life-choice",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/life-insurance/direct-term-life",
+      "checked_at": "2026-10-27T10:39:13.589465+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/life-insurance/direct-term-life",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/life-insurance/direct-whole-life",
+      "checked_at": "2026-10-27T10:39:17.387500+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/life-insurance/direct-whole-life",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/medical-insurance/shield",
+      "checked_at": "2026-10-27T10:39:21.848726+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/medical-insurance/shield",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/medical-insurance/singlife-cancer-cover-plus-ii",
+      "checked_at": "2026-10-27T10:39:27.158126+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/medical-insurance/singlife-cancer-cover-plus-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/pinnacle/heritage-income",
+      "checked_at": "2026-10-27T10:39:31.295831+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/pinnacle/heritage-income",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/pinnacle/multipay-critical-illness-ii",
+      "checked_at": "2026-10-27T10:39:36.545020+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/pinnacle/multipay-critical-illness-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/pinnacle/elite-term-ii",
+      "checked_at": "2026-10-27T10:39:41.657281+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/pinnacle/elite-term-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/pinnacle/flexi-retirement-ii",
+      "checked_at": "2026-10-27T10:39:45.520448+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/pinnacle/flexi-retirement-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/pinnacle/flexi-life-income-ii",
+      "checked_at": "2026-10-27T10:39:50.194105+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/pinnacle/flexi-life-income-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/savings/heritage-income",
+      "checked_at": "2026-10-27T10:39:55.189358+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/savings/heritage-income",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/savings/smart-saver",
+      "checked_at": "2026-10-27T10:39:59.739118+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/savings/smart-saver",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/savings/flexi-life-income-ii",
+      "checked_at": "2026-10-27T10:40:05.345059+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/savings/flexi-life-income-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/savings/steadypay-saver",
+      "checked_at": "2026-10-27T10:40:10.346111+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/savings/steadypay-saver",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://singlife.com/en/savings/legacy-income",
+      "checked_at": "2026-10-27T10:40:16.564558+00:00",
+      "http_status": 200,
+      "final_url": "https://singlife.com/en/savings/legacy-income",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    }
+  ],
+  "observed_detail_urls_without_successful_HTTP200": [],
+  "reviewed_remaining_link_dispositions": [
+    {
+      "url": "https://singlife.com/en/business/corporate-insurance/mybenefits-plus/dental-panel-listing",
+      "source_catalog_url": "https://singlife.com/en/business",
+      "source_label": "Dental Panel Listing",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://singlife.com/en/business/corporate-insurance/mybenefits-plus/gp-panel-listing",
+      "source_catalog_url": "https://singlife.com/en/business",
+      "source_label": "Medical Panel Listing",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://singlife.com/en/business/downloads",
+      "source_catalog_url": "https://singlife.com/en/business",
+      "source_label": "Form Library",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://singlife.com/en/business/corporate-wellness-programme",
+      "source_catalog_url": "https://singlife.com/en/business",
+      "source_label": "Corporate Wellness",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://singlife.com/en/medical-insurance/shield/log",
+      "source_catalog_url": "https://singlife.com/en/medical-insurance/shield",
+      "source_label": "Find out more",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    }
+  ],
+  "untraversed_channels": [
+    "Bank, affinity, broker, invitation-only, unlinked legacy, separately hosted partner and non-English channels remain unclosed.",
+    "Full policy-document packages and complete rider/variant universes remain unverified; linked PDFs were not downloaded."
+  ],
+  "limits": [
+    "This is seven selected direct insurers, not the full MAS 76-direct-insurer target or all 223 regulated entities.",
+    "Public source observations are not unique insurance SKUs; role=product is not proof of standalone/base contract.",
+    "Bank, affinity, broker, invitation-only, unlinked legacy, separately hosted partner and non-English channels remain unclosed.",
+    "Full policy-document packages and complete rider/variant universes remain unverified; linked PDFs were not downloaded.",
+    "Source information-as-of statements and card server-updated metadata are not product launch/effective dates. Old information dates do not prove withdrawal; current listing does not prove eligibility or current new-business availability."
+  ],
+  "issuer_specific_findings": [
+    "Retail/Pinnacle aliases and Family Accident variants retained. Group Critical Illness is a named optional-rider family, not a standalone group product. Its accelerated/additional payout variants remain distinct.",
+    "32 rider observations; Elite Term retail and Pinnacle pages list different versions, retained separately without assuming identical availability. No parent brochure inherited by inline rider.",
+    "4 external statistical/research/consumer-reference occurrences reclassified with zero individual-product-material coverage credit; URLs retained, not downloaded."
+  ],
+  "pagination_evidence": "No numbered continuation links recorded in reviewed finite HTML catalog queues. AIA dynamic card arrays reconciled separately. No whole-site pagination completeness claim.",
+  "source_date_policy": "Unknown publication/effective dates are null; explicit information-as-of dates have separate scope.",
+  "first_observed_at": "2026-10-27T10:10:48.924093+00:00",
+  "last_observed_at": "2026-10-27T10:40:16.564558+00:00",
+  "cited_external_or_consumer_reference_occurrences_reclassified_in_v3": 4
+}

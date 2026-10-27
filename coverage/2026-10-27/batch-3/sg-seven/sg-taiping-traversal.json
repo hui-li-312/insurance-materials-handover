@@ -1,0 +1,750 @@
+{
+  "issuer_id": "SG-own-273af31bee58617b",
+  "legal_name": "CHINA TAIPING INSURANCE (SINGAPORE) PTE. LTD.",
+  "jurisdiction": "SG",
+  "official_origin": "https://www.sg.cntaiping.com",
+  "products_status": "partial",
+  "run_state": "bounded_reviewed_queues_attempted_wider_channels_partial",
+  "snapshot_at": "2026-10-27T12:50:50.390517+00:00",
+  "observed_rows": 73,
+  "role_counts": {
+    "catalog_category": 19,
+    "product": 32,
+    "coverage_class": 19,
+    "group": 3
+  },
+  "unique_observed_page_urls": 73,
+  "material_reference_count": 121,
+  "unique_material_urls": 112,
+  "material_role_counts": {
+    "brochure": 32,
+    "public_attachment_unclassified": 24,
+    "blank_proposal_or_application_form": 33,
+    "policy_wording_candidate": 29,
+    "product_disclosure": 3
+  },
+  "verified_unique_SKUs": 0,
+  "raw_product_PDFs_downloaded": 0,
+  "formal_new_material_file_count": 0,
+  "source_catalog_urls": [
+    "https://www.sg.cntaiping.com",
+    "https://www.sg.cntaiping.com/en/personal/life/critical-illness/",
+    "https://www.sg.cntaiping.com/en/personal/life/term/",
+    "https://www.sg.cntaiping.com/en/personal/life/whole-life/",
+    "https://www.sg.cntaiping.com/en/personal/protection/motor-insurance/",
+    "https://www.sg.cntaiping.com/en/personal/wealth/savings/"
+  ],
+  "catalog_path_scope": [
+    "/en/personal/",
+    "/en/business/"
+  ],
+  "source_request_event_count": 90,
+  "unique_attempted_request_urls": 89,
+  "attempts": [
+    {
+      "url": "https://www.sg.cntaiping.com",
+      "checked_at": "2026-10-27T10:10:30.631271+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/protection/",
+      "checked_at": "2026-10-27T10:21:32.741050+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/protection/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/protection/motor-insurance/",
+      "checked_at": "2026-10-27T10:21:42.676636+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/protection/motor-insurance/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/protection/unihome-safe-home-insurance/",
+      "checked_at": "2026-10-27T10:21:52.133754+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/protection/unihome-safe-home-insurance/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/protection/domestic-maid-insurance/",
+      "checked_at": "2026-10-27T10:22:00.863736+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/protection/domestic-maid-insurance/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/protection/travel-safe-flight-insurance/",
+      "checked_at": "2026-10-27T10:22:09.635772+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/protection/travel-safe-flight-insurance/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/protection/personal-accident-safe/",
+      "checked_at": "2026-10-27T10:22:14.330711+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/protection/personal-accident-safe/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/protection/panda-safe/",
+      "checked_at": "2026-10-27T10:22:18.577002+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/protection/panda-safe/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/protection/study-safe/",
+      "checked_at": "2026-10-27T10:22:24.866424+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/protection/study-safe/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/life/",
+      "checked_at": "2026-10-27T10:22:31.892145+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/life/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/life/whole-life/",
+      "checked_at": "2026-10-27T10:22:37.043403+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/life/whole-life/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/life/term/",
+      "checked_at": "2026-10-27T10:22:43.098781+00:00",
+      "status": "incomplete_response"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/life/critical-illness/",
+      "checked_at": "2026-10-27T10:22:48.653843+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/life/critical-illness/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/wealth/",
+      "checked_at": "2026-10-27T10:22:53.986822+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/wealth/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/wealth/savings/",
+      "checked_at": "2026-10-27T10:22:59.318816+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/wealth/savings/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/wealth/retirement/",
+      "checked_at": "2026-10-27T10:23:06.533073+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/wealth/retirement/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/wealth/legacy/",
+      "checked_at": "2026-10-27T10:23:11.796209+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/wealth/legacy/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/infinite-series/",
+      "checked_at": "2026-10-27T10:23:16.588931+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/infinite-series/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-indexed-legacy-usd/",
+      "checked_at": "2026-10-27T10:23:21.120400+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-indexed-legacy-usd/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-indexed-wealth-usd/",
+      "checked_at": "2026-10-27T10:23:26.804174+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-indexed-wealth-usd/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-elite-legacy-usd/",
+      "checked_at": "2026-10-27T10:23:33.957527+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-elite-legacy-usd/",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/life/term",
+      "checked_at": "2026-10-27T10:27:56.173217+00:00",
+      "status": "redirect_destination_quarantined_not_followed",
+      "redirect_destination_origin": "https://ctpis-cw-prod-alb-2081538518.ap-southeast-1.elb.amazonaws.com"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-elite-harvest-usd",
+      "checked_at": "2026-10-27T10:28:12.864440+00:00",
+      "status": "redirect_destination_quarantined_not_followed",
+      "redirect_destination_origin": "https://ctpis-cw-prod-alb-2081538518.ap-southeast-1.elb.amazonaws.com"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-legacy-2",
+      "checked_at": "2026-10-27T10:28:20.703078+00:00",
+      "status": "redirect_destination_quarantined_not_followed",
+      "redirect_destination_origin": "https://ctpis-cw-prod-alb-2081538518.ap-southeast-1.elb.amazonaws.com"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-harvest-plus-2",
+      "checked_at": "2026-10-27T10:28:26.138146+00:00",
+      "status": "redirect_destination_quarantined_not_followed",
+      "redirect_destination_origin": "https://ctpis-cw-prod-alb-2081538518.ap-southeast-1.elb.amazonaws.com"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/marine",
+      "checked_at": "2026-10-27T10:28:33.448411+00:00",
+      "status": "redirect_destination_quarantined_not_followed",
+      "redirect_destination_origin": "https://ctpis-cw-prod-alb-2081538518.ap-southeast-1.elb.amazonaws.com"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/marine/marine-cargo",
+      "checked_at": "2026-10-27T10:28:38.271367+00:00",
+      "status": "redirect_destination_quarantined_not_followed",
+      "redirect_destination_origin": "https://ctpis-cw-prod-alb-2081538518.ap-southeast-1.elb.amazonaws.com"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/marine/marine-hull",
+      "checked_at": "2026-10-27T10:28:44.071710+00:00",
+      "status": "redirect_destination_quarantined_not_followed",
+      "redirect_destination_origin": "https://ctpis-cw-prod-alb-2081538518.ap-southeast-1.elb.amazonaws.com"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/financial-lines",
+      "checked_at": "2026-10-27T10:28:51.986528+00:00",
+      "status": "redirect_destination_quarantined_not_followed",
+      "redirect_destination_origin": "https://ctpis-cw-prod-alb-2081538518.ap-southeast-1.elb.amazonaws.com"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/financial-lines/credit-insurance",
+      "checked_at": "2026-10-27T10:28:58.994163+00:00",
+      "status": "redirect_destination_quarantined_not_followed",
+      "redirect_destination_origin": "https://ctpis-cw-prod-alb-2081538518.ap-southeast-1.elb.amazonaws.com"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/financial-lines/professional-indemnity",
+      "checked_at": "2026-10-27T10:29:04.121251+00:00",
+      "status": "redirect_destination_quarantined_not_followed",
+      "redirect_destination_origin": "https://ctpis-cw-prod-alb-2081538518.ap-southeast-1.elb.amazonaws.com"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/business-packages",
+      "checked_at": "2026-10-27T10:29:09.968827+00:00",
+      "status": "redirect_destination_quarantined_not_followed",
+      "redirect_destination_origin": "https://ctpis-cw-prod-alb-2081538518.ap-southeast-1.elb.amazonaws.com"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-elite-harvest-usd/",
+      "checked_at": "2026-10-27T10:38:16.653406+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-elite-harvest-usd/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-legacy-2/",
+      "checked_at": "2026-10-27T10:38:28.058347+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-legacy-2/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-harvest-plus-2/",
+      "checked_at": "2026-10-27T10:38:36.167047+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/infinite-series/infinite-harvest-plus-2/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/marine/",
+      "checked_at": "2026-10-27T10:38:41.517405+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/marine/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/marine/marine-cargo/",
+      "checked_at": "2026-10-27T10:38:48.174962+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/marine/marine-cargo/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/marine/marine-hull/",
+      "checked_at": "2026-10-27T10:38:55.579085+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/marine/marine-hull/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/financial-lines/",
+      "checked_at": "2026-10-27T10:38:59.976924+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/financial-lines/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/financial-lines/credit-insurance/",
+      "checked_at": "2026-10-27T10:39:05.218541+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/financial-lines/credit-insurance/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/financial-lines/professional-indemnity/",
+      "checked_at": "2026-10-27T10:39:11.228999+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/financial-lines/professional-indemnity/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/business-packages/",
+      "checked_at": "2026-10-27T10:39:16.958223+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/business-packages/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/business-packages/biztrenz-food-beverage/",
+      "checked_at": "2026-10-27T10:39:21.968212+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/business-packages/biztrenz-food-beverage/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/business-packages/biztrenz-office/",
+      "checked_at": "2026-10-27T10:39:26.736590+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/business-packages/biztrenz-office/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/business-packages/biztrenz-retail/",
+      "checked_at": "2026-10-27T10:39:32.431482+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/business-packages/biztrenz-retail/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/business-packages/biztrenz-service/",
+      "checked_at": "2026-10-27T10:39:38.507107+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/business-packages/biztrenz-service/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/business-packages/biztrenz-light-industrial/",
+      "checked_at": "2026-10-27T10:39:45.543692+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/business-packages/biztrenz-light-industrial/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/casualty/",
+      "checked_at": "2026-10-27T10:39:52.924359+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/casualty/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/casualty/work-injury-compensation/",
+      "checked_at": "2026-10-27T10:39:58.593500+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/casualty/work-injury-compensation/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/casualty/public-liability-insurance/",
+      "checked_at": "2026-10-27T10:40:04.430860+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/casualty/public-liability-insurance/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/casualty/error-omission-mcst/",
+      "checked_at": "2026-10-27T10:40:13.364882+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/casualty/error-omission-mcst/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/medical-health/",
+      "checked_at": "2026-10-27T10:40:18.992011+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/medical-health/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/medical-health/foreign-workers-medical-insurance/",
+      "checked_at": "2026-10-27T10:40:23.664754+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/medical-health/foreign-workers-medical-insurance/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/medical-health/biztrenz-employee-benefits-package/",
+      "checked_at": "2026-10-27T10:40:28.439807+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/medical-health/biztrenz-employee-benefits-package/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/medical-health/group-hospital-surgical/",
+      "checked_at": "2026-10-27T10:40:33.975192+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/medical-health/group-hospital-surgical/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/medical-health/group-term-life-group-critical-illness/",
+      "checked_at": "2026-10-27T10:40:38.663738+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/medical-health/group-term-life-group-critical-illness/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/property-insurance/",
+      "checked_at": "2026-10-27T10:40:43.458320+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/property-insurance/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/property-insurance/fire-property-all-risks/",
+      "checked_at": "2026-10-27T10:40:48.327859+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/property-insurance/fire-property-all-risks/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/property-insurance/industrial-all-risks/",
+      "checked_at": "2026-10-27T10:40:54.025745+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/property-insurance/industrial-all-risks/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/property-insurance/business-interruption/",
+      "checked_at": "2026-10-27T10:41:02.085284+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/property-insurance/business-interruption/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/property-insurance/burglary/",
+      "checked_at": "2026-10-27T10:41:10.724368+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/property-insurance/burglary/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/property-insurance/money-insurance/",
+      "checked_at": "2026-10-27T10:41:17.370140+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/property-insurance/money-insurance/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/property-insurance/plate-glass/",
+      "checked_at": "2026-10-27T10:41:24.119025+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/property-insurance/plate-glass/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/property-insurance/fidelity-guarantee/",
+      "checked_at": "2026-10-27T10:41:30.754540+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/property-insurance/fidelity-guarantee/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/property-insurance/equipment-all-risks/",
+      "checked_at": "2026-10-27T10:41:36.016162+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/property-insurance/equipment-all-risks/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/engineering/",
+      "checked_at": "2026-10-27T10:41:42.109227+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/engineering/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/engineering/contractors-all-risks-erection-all-risks/",
+      "checked_at": "2026-10-27T10:41:46.590594+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/engineering/contractors-all-risks-erection-all-risks/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/bonds/",
+      "checked_at": "2026-10-27T10:41:52.314390+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/bonds/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/bonds/foreign-worker-bonds/",
+      "checked_at": "2026-10-27T10:41:58.031413+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/bonds/foreign-worker-bonds/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/business/bonds/performance-bonds/",
+      "checked_at": "2026-10-27T10:42:04.274292+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/business/bonds/performance-bonds/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "http://www.sg.cntaiping.com/en/personal/life/whole-life/i-secure-legacy-ii/",
+      "checked_at": "2026-10-27T10:42:12.065918+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/life/whole-life/i-secure-legacy-ii/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "http://www.sg.cntaiping.com/en/personal/protection/travel-safe-flight-insurance/",
+      "checked_at": "2026-10-27T10:42:29.531164+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/protection/travel-safe-flight-insurance/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/wealth/retirement/i-retire/",
+      "checked_at": "2026-10-27T10:42:43.587750+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/wealth/retirement/i-retire/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/life/critical-illness/i-completecare/",
+      "checked_at": "2026-10-27T10:42:49.245177+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/life/critical-illness/i-completecare/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/life/term/i-care/",
+      "checked_at": "2026-10-27T10:42:56.022241+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/life/term/i-care/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/life/term/i-protect/",
+      "checked_at": "2026-10-27T10:43:05.084834+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/life/term/i-protect/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/life/whole-life/i-assure99/",
+      "checked_at": "2026-10-27T10:43:14.853261+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/life/whole-life/i-assure99/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/wealth/savings/i-cashlife-ii/",
+      "checked_at": "2026-10-27T10:43:20.535111+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/wealth/savings/i-cashlife-ii/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/life/whole-life/direct-whole-life-iii/",
+      "checked_at": "2026-10-27T10:43:26.433723+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/life/whole-life/direct-whole-life-iii/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/accident-health/personal-accident-safe/",
+      "checked_at": "2026-10-27T10:43:32.385786+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/protection/personal-accident-safe/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/accident-health/panda-safe/",
+      "checked_at": "2026-10-27T10:43:45.438585+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/protection/panda-safe/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/accident-health/study-safe/",
+      "checked_at": "2026-10-27T10:44:02.600150+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/protection/study-safe/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/protection/motor-insurance-commercial/",
+      "checked_at": "2026-10-27T10:44:12.095347+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/protection/motor-insurance-commercial/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/protection/motor-excess-protector/",
+      "checked_at": "2026-10-27T10:44:16.037407+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/protection/motor-excess-protector/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/wealth/savings/i-wealthsaver/",
+      "checked_at": "2026-10-27T10:44:20.543346+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/wealth/savings/i-wealthsaver/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/wealth/savings/i-saver8/",
+      "checked_at": "2026-10-27T10:44:25.741827+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/wealth/savings/i-saver8/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/life/term/",
+      "checked_at": "2026-10-27T10:56:26.378199+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/life/term/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/life/term/direct-term/",
+      "checked_at": "2026-10-27T10:58:52.701104+00:00",
+      "http_status": 200,
+      "final_url": "https://www.sg.cntaiping.com/en/personal/life/term/direct-term/",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/?page_id=15026",
+      "checked_at": "2026-10-27T10:58:59.279296+00:00",
+      "http_status": 404,
+      "status": "http_error"
+    },
+    {
+      "url": "https://www.sg.cntaiping.com/en/?page_id=3754",
+      "checked_at": "2026-10-27T10:59:07.946699+00:00",
+      "http_status": 404,
+      "status": "http_error"
+    }
+  ],
+  "observed_detail_urls_without_successful_HTTP200": [
+    "https://www.sg.cntaiping.com/en/?page_id=15026",
+    "https://www.sg.cntaiping.com/en/?page_id=3754"
+  ],
+  "reviewed_remaining_link_dispositions": [
+    {
+      "url": "https://www.sg.cntaiping.com/en/personal/life/term/",
+      "source_catalog_url": "http://www.sg.cntaiping.com/en/personal/life/whole-life/i-secure-legacy-ii/",
+      "source_label": "Term",
+      "status": "read",
+      "reason": null
+    }
+  ],
+  "untraversed_channels": [
+    "Bank, affinity, broker, invitation-only, unlinked legacy, separately hosted partner and non-English channels remain unclosed.",
+    "Full policy-document packages and complete rider/variant universes remain unverified; linked PDFs were not downloaded."
+  ],
+  "limits": [
+    "This is seven selected direct insurers, not the full MAS 76-direct-insurer target or all 223 regulated entities.",
+    "Public source observations are not unique insurance SKUs; role=product is not proof of standalone/base contract.",
+    "Bank, affinity, broker, invitation-only, unlinked legacy, separately hosted partner and non-English channels remain unclosed.",
+    "Full policy-document packages and complete rider/variant universes remain unverified; linked PDFs were not downloaded.",
+    "Source information-as-of statements and card server-updated metadata are not product launch/effective dates. Old information dates do not prove withdrawal; current listing does not prove eligibility or current new-business availability."
+  ],
+  "issuer_specific_findings": [
+    "Two exact homepage query-route links return404: Accident & Health and Hospital Safe. Current-offer status unverified.",
+    "11 normalized no-trailing-slash requests redirected toward an unapproved AWS ELB. Destination was never requested. Exact source hrefs with trailing slashes were separately reviewed; no failed redirect request was retried.",
+    "Term category recovered after a single delayed retry of incomplete response; linked DIRECT - Term detail read."
+  ],
+  "pagination_evidence": "No numbered continuation links recorded in reviewed finite HTML catalog queues. AIA dynamic card arrays reconciled separately. No whole-site pagination completeness claim.",
+  "source_date_policy": "Unknown publication/effective dates are null; explicit information-as-of dates have separate scope.",
+  "first_observed_at": "2026-10-27T10:10:30.631271+00:00",
+  "last_observed_at": "2026-10-27T10:59:07.946699+00:00",
+  "cited_external_or_consumer_reference_occurrences_reclassified_in_v3": 0
+}

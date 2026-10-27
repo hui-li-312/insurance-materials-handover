@@ -1,0 +1,96 @@
+{
+  "created_at": "2026-10-27T12:50:50.390517+00:00",
+  "scope": "Cached-only source-context material-role correction requested by independent QA; no inventory expansion.",
+  "source_snapshot": "sg-seven-ready-20261027T111622Z-v2",
+  "material_reclassifications": [
+    {
+      "file": "products-sg-manulife.jsonl",
+      "observation_id": "SG-observation-b554ada2718a145432ea",
+      "official_name": "Health Insurance Plans in Singapore",
+      "product_url": "https://www.manulife.com.sg/en/solutions/health/health.html",
+      "material_url": "https://www.lia.org.sg/media/3974/lia-pgs-2022-report_final_8-sep-2023.pdf",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "cited_external_research",
+      "individual_product_material_credit": false,
+      "formal_material_file_count_credit": 0,
+      "reason": "Cached official page uses this external document as a statistical, research or consumer-information citation, not as product-specific contractual material. No file-body download or source-date inference."
+    },
+    {
+      "file": "products-sg-manulife.jsonl",
+      "observation_id": "SG-observation-4c844f141964e5258fbd",
+      "official_name": "Health Insurance Plans in Singapore",
+      "product_url": "https://www.manulife.com.sg/en/solutions/health.html",
+      "material_url": "https://www.lia.org.sg/media/3974/lia-pgs-2022-report_final_8-sep-2023.pdf",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "cited_external_research",
+      "individual_product_material_credit": false,
+      "formal_material_file_count_credit": 0,
+      "reason": "Cached official page uses this external document as a statistical, research or consumer-information citation, not as product-specific contractual material. No file-body download or source-date inference."
+    },
+    {
+      "file": "products-sg-manulife.jsonl",
+      "observation_id": "SG-observation-765c0f4c4779aae2badf",
+      "official_name": "Critical Illness Insurance in Singapore",
+      "product_url": "https://www.manulife.com.sg/en/solutions/health/critical-illness.html",
+      "material_url": "https://www.lia.org.sg/media/3974/lia-pgs-2022-report_final_8-sep-2023.pdf",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "cited_external_research",
+      "individual_product_material_credit": false,
+      "formal_material_file_count_credit": 0,
+      "reason": "Cached official page uses this external document as a statistical, research or consumer-information citation, not as product-specific contractual material. No file-body download or source-date inference."
+    },
+    {
+      "file": "products-sg-singlife.jsonl",
+      "observation_id": "SG-observation-9c309b040386dc5fe526",
+      "official_name": "Singlife Comprehensive Critical Illness II",
+      "product_url": "https://singlife.com/en/critical-illness-insurance/comprehensive-critical-illness-ii",
+      "material_url": "https://www.nrdo.gov.sg/docs/librariesprovider3/default-document-library/scr-ar-2022_web-report6c6e8522-cf39-416f-9390-5fe903065927.pdf?sfvrsn=3712e8bb_1",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "cited_external_research",
+      "individual_product_material_credit": false,
+      "formal_material_file_count_credit": 0,
+      "reason": "Cached official page uses this external document as a statistical, research or consumer-information citation, not as product-specific contractual material. No file-body download or source-date inference."
+    },
+    {
+      "file": "products-sg-singlife.jsonl",
+      "observation_id": "SG-observation-db34891bb41747c3df17",
+      "official_name": "Singlife Essential Critical Illness II",
+      "product_url": "https://singlife.com/en/critical-illness-insurance/essential-critical-illness-ii",
+      "material_url": "https://isomer-user-content.by.gov.sg/3/28c3b8f9-9216-46be-8fc9-b614098666a9/nphs-2022-survey-report_final.pdf",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "cited_external_research",
+      "individual_product_material_credit": false,
+      "formal_material_file_count_credit": 0,
+      "reason": "Cached official page uses this external document as a statistical, research or consumer-information citation, not as product-specific contractual material. No file-body download or source-date inference."
+    },
+    {
+      "file": "products-sg-singlife.jsonl",
+      "observation_id": "SG-observation-432d415a6237b2a55924",
+      "official_name": "Singlife Dementia Cover",
+      "product_url": "https://singlife.com/en/disability-insurance/dementia-cover",
+      "material_url": "https://dementia.org.sg/wp-content/uploads/2023/07/VoicesForHopeToolkit.pdf",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "general_consumer_information",
+      "individual_product_material_credit": false,
+      "formal_material_file_count_credit": 0,
+      "reason": "Cached official page uses this external document as a statistical, research or consumer-information citation, not as product-specific contractual material. No file-body download or source-date inference."
+    },
+    {
+      "file": "products-sg-singlife.jsonl",
+      "observation_id": "SG-observation-5b4299e077b494095ea0",
+      "official_name": "Singlife Cancer Cover Plus II",
+      "product_url": "https://singlife.com/en/medical-insurance/singlife-cancer-cover-plus-ii",
+      "material_url": "https://www.lia.org.sg/media/3553/non-cdl-classification-framework.pdf",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "general_consumer_information",
+      "individual_product_material_credit": false,
+      "formal_material_file_count_credit": 0,
+      "reason": "Cached official page uses this external document as a statistical, research or consumer-information citation, not as product-specific contractual material. No file-body download or source-date inference."
+    }
+  ],
+  "observation_rows_before_and_after": 604,
+  "material_references_before_and_after": 761,
+  "unique_material_URLs_before_and_after": 656,
+  "network_requests": 0,
+  "frozen_v2_modified": false
+}

@@ -1,0 +1,1143 @@
+{
+  "issuer_id": "SG-own-1d1ae22653921856",
+  "legal_name": "AIA SINGAPORE PRIVATE LIMITED",
+  "jurisdiction": "SG",
+  "official_origin": "https://www.aia.com.sg",
+  "products_status": "partial",
+  "run_state": "bounded_reviewed_queues_attempted_wider_channels_partial",
+  "snapshot_at": "2026-10-27T12:50:50.390517+00:00",
+  "observed_rows": 138,
+  "role_counts": {
+    "catalog_category": 24,
+    "product": 56,
+    "group": 2,
+    "rider": 56
+  },
+  "unique_observed_page_urls": 82,
+  "material_reference_count": 132,
+  "unique_material_urls": 106,
+  "material_role_counts": {
+    "brochure": 108,
+    "public_attachment_unclassified": 18,
+    "blank_proposal_or_application_form": 4,
+    "blank_fact_finding_form": 2
+  },
+  "verified_unique_SKUs": 0,
+  "raw_product_PDFs_downloaded": 0,
+  "formal_new_material_file_count": 0,
+  "source_catalog_urls": [
+    "https://www.aia.com.sg",
+    "https://www.aia.com.sg/en/our-products/accident-protection",
+    "https://www.aia.com.sg/en/our-products/health",
+    "https://www.aia.com.sg/en/our-products/life-insurance",
+    "https://www.aia.com.sg/en/our-products/platinum",
+    "https://www.aia.com.sg/en/our-products/save-and-invest",
+    "https://www.aia.com.sg/en/our-products/travel-and-lifestyle"
+  ],
+  "catalog_path_scope": [
+    "/en/our-products"
+  ],
+  "source_request_event_count": 104,
+  "unique_attempted_request_urls": 102,
+  "attempts": [
+    {
+      "url": "https://www.aia.com.sg",
+      "checked_at": "2026-10-27T10:10:30.620919+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/index",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health",
+      "checked_at": "2026-10-27T10:21:32.724393+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/critical-illness",
+      "checked_at": "2026-10-27T10:21:41.357814+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/critical-illness",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/medical-insurance",
+      "checked_at": "2026-10-27T10:21:45.021894+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/medical-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/disability-income-insurance",
+      "checked_at": "2026-10-27T10:21:49.289848+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/disability-income-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/explore-more",
+      "checked_at": "2026-10-27T10:21:53.560106+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/life-insurance",
+      "checked_at": "2026-10-27T10:22:00.942155+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/life-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/life-insurance/whole-life-insurance",
+      "checked_at": "2026-10-27T10:22:06.423993+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/life-insurance/whole-life-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/life-insurance/term-insurance",
+      "checked_at": "2026-10-27T10:22:12.038076+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/life-insurance/term-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/life-insurance/explore-more",
+      "checked_at": "2026-10-27T10:22:15.296127+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/life-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest",
+      "checked_at": "2026-10-27T10:22:24.374187+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/participating-savings",
+      "checked_at": "2026-10-27T10:22:30.546573+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/participating-savings",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked",
+      "checked_at": "2026-10-27T10:22:35.802013+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/explore-more",
+      "checked_at": "2026-10-27T10:22:41.791417+00:00",
+      "http_status": 502,
+      "status": "http_error"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/accident-protection",
+      "checked_at": "2026-10-27T10:22:46.581141+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/accident-protection",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum",
+      "checked_at": "2026-10-27T10:22:52.299322+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/wealth-accumulation",
+      "checked_at": "2026-10-27T10:22:57.045403+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/wealth-accumulation",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning",
+      "checked_at": "2026-10-27T10:23:02.510423+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/accident-health",
+      "checked_at": "2026-10-27T10:23:07.123774+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/accident-health",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/explore-more",
+      "checked_at": "2026-10-27T10:23:16.171072+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle",
+      "checked_at": "2026-10-27T10:23:26.890081+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/travel",
+      "checked_at": "2026-10-27T10:23:34.309054+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/travel",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/explore-more",
+      "checked_at": "2026-10-27T10:27:56.167972+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest",
+      "content_type": "text/html",
+      "access_status": "blocked_soft_WAF_challenge",
+      "status": "original_soft_WAF_flag_corrected_after_visible_content_QA",
+      "correction_scope": "Exact HTTP200 evidence only; telemetry phrase absent from visible page; no real access-denial exception.",
+      "corrected_evidence_sha256": "17f39f17092cb125cd4fa2babec33fd4b0cac527a8133b86a0096235976e5f73",
+      "correction_approved_at": "2026-10-27T10:32:37Z"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/health.model.json",
+      "checked_at": "2026-10-27T10:38:18.559299+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/health/critical-illness.model.json",
+      "checked_at": "2026-10-27T10:39:28.907585+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/critical-illness.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/health/medical-insurance.model.json",
+      "checked_at": "2026-10-27T10:39:39.550132+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/medical-insurance.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/health/disability-income-insurance.model.json",
+      "checked_at": "2026-10-27T10:39:49.090574+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/disability-income-insurance.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/life-insurance.model.json",
+      "checked_at": "2026-10-27T10:39:57.580170+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/life-insurance.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/life-insurance/whole-life-insurance.model.json",
+      "checked_at": "2026-10-27T10:40:07.223442+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/life-insurance/whole-life-insurance.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/life-insurance/term-insurance.model.json",
+      "checked_at": "2026-10-27T10:40:18.529560+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/life-insurance/term-insurance.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/save-and-invest.model.json",
+      "checked_at": "2026-10-27T10:40:30.280255+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/save-and-invest/participating-savings.model.json",
+      "checked_at": "2026-10-27T10:40:39.557196+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/participating-savings.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/save-and-invest/investment-linked.model.json",
+      "checked_at": "2026-10-27T10:40:50.122682+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/accident-protection.model.json",
+      "checked_at": "2026-10-27T10:40:58.895440+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/accident-protection.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/platinum.model.json",
+      "checked_at": "2026-10-27T10:41:09.632230+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/platinum/wealth-accumulation.model.json",
+      "checked_at": "2026-10-27T10:41:21.079252+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/wealth-accumulation.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/platinum/legacy-planning.model.json",
+      "checked_at": "2026-10-27T10:41:30.995046+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/platinum/accident-health.model.json",
+      "checked_at": "2026-10-27T10:41:40.761429+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/accident-health.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/travel-and-lifestyle.model.json",
+      "checked_at": "2026-10-27T10:41:50.789690+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/travel-and-lifestyle/travel.model.json",
+      "checked_at": "2026-10-27T10:42:00.924167+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/travel.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/disability-income-insurance/aia-premier-disability-cover",
+      "checked_at": "2026-10-27T10:45:11.334562+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/disability-income-insurance/aia-premier-disability-cover",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/disability-income-insurance/aia-pay-protector",
+      "checked_at": "2026-10-27T10:45:16.117484+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/disability-income-insurance/aia-pay-protector",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-diabetes-care",
+      "checked_at": "2026-10-27T10:45:20.715736+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-diabetes-care",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-absolute-critical-cover",
+      "checked_at": "2026-10-27T10:45:24.144193+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-absolute-critical-cover",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-prime-critical-cover",
+      "checked_at": "2026-10-27T10:45:27.754522+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-prime-critical-cover",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-glow-of-life",
+      "checked_at": "2026-10-27T10:45:32.380678+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-glow-of-life",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-beyond-critical-care",
+      "checked_at": "2026-10-27T10:45:35.886425+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-beyond-critical-care",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/medical-insurance/aia-mum2baby-choices",
+      "checked_at": "2026-10-27T10:45:40.731851+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/medical-insurance/aia-mum2baby-choices",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/medical-insurance/aia-hospital-income",
+      "checked_at": "2026-10-27T10:45:45.195433+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/medical-insurance/aia-hospital-income",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-ultimate-critical-cover",
+      "checked_at": "2026-10-27T10:45:49.572208+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-ultimate-critical-cover",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/medical-insurance/aia-platinum-international-health",
+      "checked_at": "2026-10-27T10:45:53.322139+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/medical-insurance/aia-platinum-international-health",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-enhanced-cancer-protect",
+      "checked_at": "2026-10-27T10:45:57.036219+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-enhanced-cancer-protect",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-protect-3",
+      "checked_at": "2026-10-27T10:46:00.957644+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/critical-illness/aia-protect-3",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/health/medical-insurance/aia-healthshield-gold-max",
+      "checked_at": "2026-10-27T10:46:04.514002+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/health/medical-insurance/aia-healthshield-gold-max",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/life-insurance/term-insurance/aia-mortgage-reducing-term-assurance",
+      "checked_at": "2026-10-27T10:46:09.067341+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/life-insurance/term-insurance/aia-mortgage-reducing-term-assurance",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/life-insurance/term-insurance/aia-secure-flexi-term",
+      "checked_at": "2026-10-27T10:46:15.459276+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/life-insurance/term-insurance/aia-secure-flexi-term",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/life-insurance/term-insurance/direct-aia-term-cover",
+      "checked_at": "2026-10-27T10:46:20.320797+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/life-insurance/term-insurance/direct-aia-term-cover",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/life-insurance/whole-life-insurance/aia-life-dividends",
+      "checked_at": "2026-10-27T10:46:25.049434+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/life-insurance/whole-life-insurance/aia-life-dividends",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/life-insurance/whole-life-insurance/aia-pro-lifetime-protector-ii",
+      "checked_at": "2026-10-27T10:46:29.941897+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/life-insurance/whole-life-insurance/aia-pro-lifetime-protector-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/life-insurance/whole-life-insurance/direct-aia-whole-life-cover-ii",
+      "checked_at": "2026-10-27T10:46:34.411742+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/life-insurance/whole-life-insurance/direct-aia-whole-life-cover-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/life-insurance/whole-life-insurance/aia-guaranteed-protect-plus-iv",
+      "checked_at": "2026-10-27T10:46:39.340704+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/life-insurance/whole-life-insurance/aia-guaranteed-protect-plus-iv",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-platinum-wealth-legacy",
+      "checked_at": "2026-10-27T10:46:43.974088+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-platinum-wealth-legacy",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-elite-secure-income",
+      "checked_at": "2026-10-27T10:46:48.067319+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-elite-secure-income",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-invest-easy",
+      "checked_at": "2026-10-27T10:46:51.970545+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-invest-easy",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-pro-achiever-iii",
+      "checked_at": "2026-10-27T10:46:56.029558+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-pro-achiever-iii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-pro-lifetime-protector-ii",
+      "checked_at": "2026-10-27T10:47:00.168776+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-pro-lifetime-protector-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-platinum-retirement-elite",
+      "checked_at": "2026-10-27T10:47:04.225256+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-platinum-retirement-elite",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/participating-savings/aia-smart-wealth-builder-series",
+      "checked_at": "2026-10-27T10:47:09.287158+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/participating-savings/aia-smart-wealth-builder-series",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/participating-savings/aia-smart-flexi-growth",
+      "checked_at": "2026-10-27T10:47:13.432855+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/participating-savings/aia-smart-flexi-growth",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/participating-savings/aia-smart-flexi-rewards-ii",
+      "checked_at": "2026-10-27T10:47:17.460578+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/participating-savings/aia-smart-flexi-rewards-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/participating-savings/aia-retirement-saver-iv",
+      "checked_at": "2026-10-27T10:47:21.488847+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/participating-savings/aia-retirement-saver-iv",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/participating-savings/aia-guaranteed-protect-plus-iv",
+      "checked_at": "2026-10-27T10:47:26.849776+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/participating-savings/aia-guaranteed-protect-plus-iv",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-platinum-wealth-elite-ii",
+      "checked_at": "2026-10-27T10:47:32.615429+00:00",
+      "http_status": 502,
+      "status": "http_error"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-wealth-venture",
+      "checked_at": "2026-10-27T10:47:38.653960+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-wealth-venture",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-platinum-wealth-venture-iii",
+      "checked_at": "2026-10-27T10:47:42.590074+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-platinum-wealth-venture-iii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/accident-protection/aia-star-protector-plus",
+      "checked_at": "2026-10-27T10:47:47.514730+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/accident-protection/aia-star-protector-plus",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/accident-protection/aia-prime-assured",
+      "checked_at": "2026-10-27T10:47:51.482912+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/accident-protection/aia-prime-assured",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/accident-protection/aia-platinum-accidentcare",
+      "checked_at": "2026-10-27T10:47:55.475809+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/accident-protection/aia-platinum-accidentcare",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/accident-protection/aia-solitaire-personal-accident",
+      "checked_at": "2026-10-27T10:47:59.531517+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/accident-protection/aia-solitaire-personal-accident",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/accident-protection/aia-centurion-pa",
+      "checked_at": "2026-10-27T10:48:03.875434+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/accident-protection/aia-centurion-pa",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/accident-protection/aia-genfit-pa",
+      "checked_at": "2026-10-27T10:48:08.813037+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/accident-protection/aia-genfit-pa",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/accident-health/aia-platinum-accidentcare",
+      "checked_at": "2026-10-27T10:48:13.954300+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/accident-health/aia-platinum-accidentcare",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/wealth-accumulation/aia-platinum-gift-for-life-series",
+      "checked_at": "2026-10-27T10:48:17.862781+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/wealth-accumulation/aia-platinum-gift-for-life-series",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/wealth-accumulation/aia-platinum-retirement-elite",
+      "checked_at": "2026-10-27T10:48:21.810402+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/wealth-accumulation/aia-platinum-retirement-elite",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning/aia-platinum-wealth-legacy",
+      "checked_at": "2026-10-27T10:48:26.147459+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning/aia-platinum-wealth-legacy",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning/aia-platinum-generations-ii",
+      "checked_at": "2026-10-27T10:48:31.192958+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning/aia-platinum-generations-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning/aia-platinum-heritage-wealth-ii",
+      "checked_at": "2026-10-27T10:48:37.639733+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning/aia-platinum-heritage-wealth-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning/aia-platinum-legacy-ix",
+      "checked_at": "2026-10-27T10:48:42.313908+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning/aia-platinum-legacy-ix",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/accident-health/aia-platinum-international-health",
+      "checked_at": "2026-10-27T10:48:56.032869+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/accident-health/aia-platinum-international-health",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning/aia-platinum-wealth-elite-ii",
+      "checked_at": "2026-10-27T10:49:00.792095+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning/aia-platinum-wealth-elite-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/wealth-accumulation/aia-platinum-infinite-wealth-ii",
+      "checked_at": "2026-10-27T10:49:06.585943+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/wealth-accumulation/aia-platinum-infinite-wealth-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning/aia-platinum-indexed-legacy-iii",
+      "checked_at": "2026-10-27T10:49:12.529766+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning/aia-platinum-indexed-legacy-iii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/platinum/wealth-accumulation/aia-platinum-wealth-venture-iii",
+      "checked_at": "2026-10-27T10:49:16.722582+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/platinum/wealth-accumulation/aia-platinum-wealth-venture-iii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/travel/aia-around-the-world-plus-ii",
+      "checked_at": "2026-10-27T10:49:21.942392+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/travel/aia-around-the-world-plus-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/home/aia-mortgage-reducing-term-assurance",
+      "checked_at": "2026-10-27T10:49:27.521068+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/home/aia-mortgage-reducing-term-assurance",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/home/aia-elite-homecare",
+      "checked_at": "2026-10-27T10:49:32.294308+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/home/aia-elite-homecare",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/home",
+      "checked_at": "2026-10-27T10:49:37.623770+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/home",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/employee-benefits",
+      "checked_at": "2026-10-27T10:49:42.908580+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/employee-benefits",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/corporate-international-medical",
+      "checked_at": "2026-10-27T10:49:46.560535+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/corporate-international-medical/aia-premier-international-medical",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/corporate-international-medical/aia-premier-international-medical",
+      "checked_at": "2026-10-27T10:49:56.758910+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/corporate-international-medical/aia-premier-international-medical",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/corporate-medical-insurance",
+      "checked_at": "2026-10-27T10:50:00.188584+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/corporate-medical-insurance/aia-foreign-worker-protector-plus",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/corporate-medical-insurance/aia-foreign-worker-protector-plus",
+      "checked_at": "2026-10-27T10:50:10.881718+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/corporate-medical-insurance/aia-foreign-worker-protector-plus",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/travel-and-lifestyle/home.model.json",
+      "checked_at": "2026-10-27T10:53:05.238427+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/home.model.json",
+      "content_type": "application/json",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-platinum-wealth-elite-ii",
+      "checked_at": "2026-10-27T10:53:22.770648+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked/aia-platinum-wealth-elite-ii",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    }
+  ],
+  "observed_detail_urls_without_successful_HTTP200": [],
+  "reviewed_remaining_link_dispositions": [
+    {
+      "url": "https://www.aia.com.sg/en/our-products/save-and-invest/explore-more",
+      "source_catalog_url": "https://www.aia.com.sg",
+      "source_label": "Explore more",
+      "status": "read",
+      "reason": null
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/explore-more",
+      "source_catalog_url": "https://www.aia.com.sg",
+      "source_label": "Explore more",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/employee-benefits/building-mental-resilience",
+      "source_catalog_url": "https://www.aia.com.sg",
+      "source_label": "Building Mental Resilience",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/employee-benefits/workwell",
+      "source_catalog_url": "https://www.aia.com.sg",
+      "source_label": "WorkWell with AIA",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/employee-benefits/explore-more",
+      "source_catalog_url": "https://www.aia.com.sg",
+      "source_label": "Explore more",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/corporate-international-medical/explore-more",
+      "source_catalog_url": "https://www.aia.com.sg",
+      "source_label": "Explore more",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://www.aia.com.sg/en/our-products/corporate-medical-insurance/explore-more",
+      "source_catalog_url": "https://www.aia.com.sg",
+      "source_label": "Explore more",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    }
+  ],
+  "untraversed_channels": [
+    "Bank, affinity, broker, invitation-only, unlinked legacy, separately hosted partner and non-English channels remain unclosed.",
+    "Full policy-document packages and complete rider/variant universes remain unverified; linked PDFs were not downloaded."
+  ],
+  "limits": [
+    "This is seven selected direct insurers, not the full MAS 76-direct-insurer target or all 223 regulated entities.",
+    "Public source observations are not unique insurance SKUs; role=product is not proof of standalone/base contract.",
+    "Bank, affinity, broker, invitation-only, unlinked legacy, separately hosted partner and non-English channels remain unclosed.",
+    "Full policy-document packages and complete rider/variant universes remain unverified; linked PDFs were not downloaded.",
+    "Source information-as-of statements and card server-updated metadata are not product launch/effective dates. Old information dates do not prove withdrawal; current listing does not prove eligibility or current new-business availability."
+  ],
+  "issuer_specific_findings": [
+    "18 explicitly advertised same-origin public JSON endpoints read; first17 return56 unique product paths/47 exact display names; Home child returns2 already-present paths. No pagination fields in returned product arrays.",
+    "56 named optional-rider observations across26 exact names were text-confirmed on cached parent pages; repeated parents/versions remain separate observations, not SKUs. Parent brochures were not automatically assigned to riders.",
+    "AIA JSON riders:null does not establish absence of riders; inline named-rider pass is limited to reviewed public detail text."
+  ],
+  "pagination_evidence": "No numbered continuation links recorded in reviewed finite HTML catalog queues. AIA dynamic card arrays reconciled separately. No whole-site pagination completeness claim.",
+  "source_date_policy": "Unknown publication/effective dates are null; explicit information-as-of dates have separate scope.",
+  "first_observed_at": "2026-10-27T10:10:30.620919+00:00",
+  "last_observed_at": "2026-10-27T10:53:22.770648+00:00",
+  "public_JSON_reconciliation": {
+    "attempts": [
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/health.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:38:18.559299+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 14,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/health",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/health/critical-illness.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:39:28.907585+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 8,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/health/critical-illness",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/health/medical-insurance.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:39:39.550132+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 4,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/health/medical-insurance",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/health/disability-income-insurance.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:39:49.090574+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 2,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/health/disability-income-insurance",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/life-insurance.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:39:57.580170+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 7,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/life-insurance",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/life-insurance/whole-life-insurance.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:40:07.223442+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 4,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/life-insurance/whole-life-insurance",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/life-insurance/term-insurance.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:40:18.529560+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 3,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/life-insurance/term-insurance",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/save-and-invest.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:40:30.280255+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 14,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/save-and-invest",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/save-and-invest/participating-savings.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:40:39.557196+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 5,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/save-and-invest/participating-savings",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/save-and-invest/investment-linked.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:40:50.122682+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 9,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/save-and-invest/investment-linked",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/accident-protection.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:40:58.895440+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 6,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/accident-protection",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/platinum.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:41:09.632230+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 12,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/platinum",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/platinum/wealth-accumulation.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:41:21.079252+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 4,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/platinum/wealth-accumulation",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/platinum/legacy-planning.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:41:30.995046+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 6,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/platinum/legacy-planning",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/platinum/accident-health.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:41:40.761429+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 2,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/platinum/accident-health",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/travel-and-lifestyle.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:41:50.789690+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 3,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle",
+        "pagination_fields": {}
+      },
+      {
+        "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/travel-and-lifestyle/travel.model.json",
+        "status": "official_public_catalog_JSON_read",
+        "checked_at": "2026-10-27T10:42:00.924167+00:00",
+        "top_level_keys": [
+          "products"
+        ],
+        "product_card_rows": 1,
+        "source_catalog_url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/travel",
+        "pagination_fields": {}
+      }
+    ],
+    "advertised_endpoint_queue_size": 17,
+    "queue_exhausted": true,
+    "unique_product_paths": 56,
+    "card_rows_not_unique_SKUs": true,
+    "scope": "Exact data-search-endpoint URLs advertised on already read AIA category HTML; unlinked endpoints not probed."
+  },
+  "home_JSON_reconciliation": {
+    "url": "https://www.aia.com.sg/content/sg-wise/en/our-products/travel-and-lifestyle/home.model.json",
+    "source_catalog_url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/home",
+    "source_attribute": "data-search-endpoint",
+    "checked_at": "2026-10-27T10:53:05.238427+00:00",
+    "product_card_rows": 2,
+    "cards": [
+      {
+        "official_name": "AIA Mortgage Reducing Term Assurance",
+        "product_url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/home/aia-mortgage-reducing-term-assurance"
+      },
+      {
+        "official_name": "AIA Elite HomeCare",
+        "product_url": "https://www.aia.com.sg/en/our-products/travel-and-lifestyle/home/aia-elite-homecare"
+      }
+    ],
+    "new_paths_not_in_previously_read_parent_arrays": [],
+    "status": "official_advertised_child_JSON_read_reconciled"
+  },
+  "cited_external_or_consumer_reference_occurrences_reclassified_in_v3": 0
+}

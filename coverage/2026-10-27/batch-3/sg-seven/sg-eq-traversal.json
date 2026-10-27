@@ -1,0 +1,343 @@
+{
+  "issuer_id": "SG-own-de4b4acf7adc19b2",
+  "legal_name": "EQ INSURANCE COMPANY LTD.",
+  "jurisdiction": "SG",
+  "official_origin": "https://www.eqinsurance.com.sg",
+  "products_status": "partial",
+  "run_state": "bounded_reviewed_queues_attempted_wider_channels_partial",
+  "snapshot_at": "2026-10-27T12:50:50.390517+00:00",
+  "observed_rows": 33,
+  "role_counts": {
+    "catalog_category": 3,
+    "product": 26,
+    "group": 3,
+    "rider": 1
+  },
+  "unique_observed_page_urls": 33,
+  "material_reference_count": 64,
+  "unique_material_urls": 64,
+  "material_role_counts": {
+    "brochure": 17,
+    "blank_proposal_or_application_form": 21,
+    "policy_wording_candidate": 13,
+    "public_attachment_unclassified": 5,
+    "general_consumer_information": 6,
+    "blank_fact_finding_form": 1,
+    "product_summary": 1
+  },
+  "verified_unique_SKUs": 0,
+  "raw_product_PDFs_downloaded": 0,
+  "formal_new_material_file_count": 0,
+  "source_catalog_urls": [
+    "https://www.eqinsurance.com.sg",
+    "https://www.eqinsurance.com.sg/Commercial",
+    "https://www.eqinsurance.com.sg/Products"
+  ],
+  "catalog_path_scope": [
+    "/Products",
+    "/Personal",
+    "/Commercial",
+    "/Product/"
+  ],
+  "source_request_event_count": 35,
+  "unique_attempted_request_urls": 35,
+  "attempts": [
+    {
+      "url": "https://www.eqinsurance.com.sg",
+      "checked_at": "2026-10-27T10:10:37.048450+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Products",
+      "checked_at": "2026-10-27T10:21:32.686628+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Products",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Personal",
+      "checked_at": "2026-10-27T10:21:40.952971+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Personal",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Commercial",
+      "checked_at": "2026-10-27T10:21:44.714990+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Commercial",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/ReadyToBuy",
+      "checked_at": "2026-10-27T10:21:50.187850+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/ReadyToBuy",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-travelsafe",
+      "checked_at": "2026-10-27T10:21:53.285450+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-travelsafe",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-private-motor",
+      "checked_at": "2026-10-27T10:21:56.954018+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-private-motor",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-personal-accident",
+      "checked_at": "2026-10-27T10:22:01.209635+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-personal-accident",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-protector",
+      "checked_at": "2026-10-27T10:22:05.294547+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-protector",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-maidsafe",
+      "checked_at": "2026-10-27T10:22:09.073777+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-maidsafe",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-homeguard-plus",
+      "checked_at": "2026-10-27T10:22:13.462197+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-homeguard-plus",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-hospital-surgical",
+      "checked_at": "2026-10-27T10:22:17.902956+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-hospital-surgical",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-travel-lite",
+      "checked_at": "2026-10-27T10:22:23.165962+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-travel-lite",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-homeguard",
+      "checked_at": "2026-10-27T10:22:28.444889+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-homeguard",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-pleasure-craft",
+      "checked_at": "2026-10-27T10:22:32.551587+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-pleasure-craft",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-employee-benefits",
+      "checked_at": "2026-10-27T10:22:35.827025+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-employee-benefits",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-gpa-for-care-learning-centre",
+      "checked_at": "2026-10-27T10:22:40.348770+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-gpa-for-care-learning-centre",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-healthsaver",
+      "checked_at": "2026-10-27T10:22:45.193520+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-healthsaver",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-clinical-insurance-(rider)",
+      "checked_at": "2026-10-27T10:22:48.504776+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-clinical-insurance-(rider)",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-fire-insurance",
+      "checked_at": "2026-10-27T10:22:52.741105+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-fire-insurance",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-contractor's-erection-all-risks",
+      "checked_at": "2026-10-27T10:22:57.064324+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-contractor's-erection-all-risks",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-public-liability",
+      "checked_at": "2026-10-27T10:23:01.404576+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-public-liability",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-burglary",
+      "checked_at": "2026-10-27T10:23:05.867970+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-burglary",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-machinery-all-risk%2c-electronic-all-risk",
+      "checked_at": "2026-10-27T10:23:10.841002+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-machinery-all-risk%2c-electronic-all-risk",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-plate-glass",
+      "checked_at": "2026-10-27T10:23:16.409785+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-plate-glass",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-business-package",
+      "checked_at": "2026-10-27T10:23:21.041812+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-business-package",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-performance-bonds",
+      "checked_at": "2026-10-27T10:23:27.726305+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-performance-bonds",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-consequential-loss",
+      "checked_at": "2026-10-27T10:23:33.469074+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-consequential-loss",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-enhanced-fwmi",
+      "checked_at": "2026-10-27T10:27:56.206581+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-enhanced-fwmi",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-commercial-vehicle",
+      "checked_at": "2026-10-27T10:28:12.690166+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-commercial-vehicle",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-biz-care-travel",
+      "checked_at": "2026-10-27T10:28:18.900544+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-biz-care-travel",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-work-injury-compensation",
+      "checked_at": "2026-10-27T10:28:22.629862+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-work-injury-compensation",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-money-insurance",
+      "checked_at": "2026-10-27T10:28:27.286522+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-money-insurance",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-fidelity-guarantee",
+      "checked_at": "2026-10-27T10:28:31.009034+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-fidelity-guarantee",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Product/eq-marine-cargo",
+      "checked_at": "2026-10-27T10:28:36.002278+00:00",
+      "http_status": 200,
+      "final_url": "https://www.eqinsurance.com.sg/Product/eq-marine-cargo",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    }
+  ],
+  "observed_detail_urls_without_successful_HTTP200": [],
+  "reviewed_remaining_link_dispositions": [],
+  "untraversed_channels": [
+    "Bank, affinity, broker, invitation-only, unlinked legacy, separately hosted partner and non-English channels remain unclosed.",
+    "Full policy-document packages and complete rider/variant universes remain unverified; linked PDFs were not downloaded."
+  ],
+  "limits": [
+    "This is seven selected direct insurers, not the full MAS 76-direct-insurer target or all 223 regulated entities.",
+    "Public source observations are not unique insurance SKUs; role=product is not proof of standalone/base contract.",
+    "Bank, affinity, broker, invitation-only, unlinked legacy, separately hosted partner and non-English channels remain unclosed.",
+    "Full policy-document packages and complete rider/variant universes remain unverified; linked PDFs were not downloaded.",
+    "Source information-as-of statements and card server-updated metadata are not product launch/effective dates. Old information dates do not prove withdrawal; current listing does not prove eligibility or current new-business availability."
+  ],
+  "issuer_specific_findings": [
+    "Products, Personal and Commercial roots reconcile30 unique named child URLs with zero missing; this closes only those observed directory roots, not all issuer channels.",
+    "22 provider/contact-directory references removed in initial EQ QA; later zero-removal passes do not erase that history.",
+    "Explicit policy-issue-date boundary on EQ Hospital & Surgical materials: old wording on/before2026-07-23 and new wording/brochure on/after2026-07-24."
+  ],
+  "pagination_evidence": "No numbered continuation links recorded in reviewed finite HTML catalog queues. AIA dynamic card arrays reconciled separately. No whole-site pagination completeness claim.",
+  "source_date_policy": "Unknown publication/effective dates are null; explicit information-as-of dates have separate scope.",
+  "first_observed_at": "2026-10-27T10:10:37.048450+00:00",
+  "last_observed_at": "2026-10-27T10:28:36.002278+00:00",
+  "catalog_root_reconciliation": [
+    {
+      "url": "https://www.eqinsurance.com.sg/Products",
+      "checked_at": "2026-10-27T10:21:32.686628+00:00",
+      "named_product_or_rider_child_urls": 27,
+      "pagination_links": []
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Personal",
+      "checked_at": "2026-10-27T10:21:40.952971+00:00",
+      "named_product_or_rider_child_urls": 10,
+      "pagination_links": []
+    },
+    {
+      "url": "https://www.eqinsurance.com.sg/Commercial",
+      "checked_at": "2026-10-27T10:21:44.714990+00:00",
+      "named_product_or_rider_child_urls": 20,
+      "pagination_links": []
+    }
+  ],
+  "directory_child_urls_without_observation": [],
+  "material_QA_excluded_provider_directory_references": 22,
+  "cited_external_or_consumer_reference_occurrences_reclassified_in_v3": 0
+}

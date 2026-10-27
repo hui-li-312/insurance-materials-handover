@@ -1,0 +1,716 @@
+{
+  "issuer_id": "SG-own-1db6d684f51eb1cb",
+  "legal_name": "MANULIFE (SINGAPORE) PTE. LTD.",
+  "jurisdiction": "SG",
+  "official_origin": "https://www.manulife.com.sg",
+  "products_status": "partial",
+  "run_state": "bounded_reviewed_queues_attempted_wider_channels_partial",
+  "snapshot_at": "2026-10-27T12:50:50.390517+00:00",
+  "observed_rows": 84,
+  "role_counts": {
+    "catalog_category": 15,
+    "product": 30,
+    "document_page": 30,
+    "plan": 2,
+    "rider": 7
+  },
+  "unique_observed_page_urls": 77,
+  "material_reference_count": 98,
+  "unique_material_urls": 90,
+  "material_role_counts": {
+    "cited_external_research": 3,
+    "public_attachment_unclassified": 30,
+    "brochure": 65
+  },
+  "verified_unique_SKUs": 0,
+  "raw_product_PDFs_downloaded": 0,
+  "formal_new_material_file_count": 0,
+  "source_catalog_urls": [
+    "https://www.manulife.com.sg",
+    "https://www.manulife.com.sg/en/solutions/health/accident/manulife-ready-protect.html",
+    "https://www.manulife.com.sg/en/solutions/health/critical-illness/critical-selectcare.html",
+    "https://www.manulife.com.sg/en/solutions/health/critical-illness/manulife-early-completecare.html",
+    "https://www.manulife.com.sg/en/solutions/health/critical-illness/manulife-earlycancer-protect.html",
+    "https://www.manulife.com.sg/en/solutions/health/health.html",
+    "https://www.manulife.com.sg/en/solutions/health/maternity/ready-mummy.html",
+    "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans.html",
+    "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/investready-growth.html",
+    "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/investready.html",
+    "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/manuinvestduo.html",
+    "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/manulink-investor.html",
+    "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/smartretire.html",
+    "https://www.manulife.com.sg/en/solutions/life/life-insurance.html",
+    "https://www.manulife.com.sg/en/solutions/life/term-life-insurance/manuprotect-decreasing.html",
+    "https://www.manulife.com.sg/en/solutions/life/term-life-insurance/manuprotect-term.html",
+    "https://www.manulife.com.sg/en/solutions/life/whole-life-insurance/life-ready-plus.html",
+    "https://www.manulife.com.sg/en/solutions/save.html",
+    "https://www.manulife.com.sg/en/solutions/save/retirement/retire-ready-plus.html",
+    "https://www.manulife.com.sg/en/solutions/save/save.html",
+    "https://www.manulife.com.sg/en/solutions/save/savings-plans/Manulife-IncomeGen.html",
+    "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-goal.html",
+    "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-growsecure.html",
+    "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-incomesecure.html",
+    "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-indexed-income.html",
+    "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-indexed-wealth.html",
+    "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-wealthgen.html",
+    "https://www.manulife.com.sg/en/solutions/signature/signature.html",
+    "https://www.manulife.com.sg/en/solutions/signature/signature/Signature-Indexed-Universal-Life-Select.html",
+    "https://www.manulife.com.sg/en/solutions/signature/signature/heirloom.html",
+    "https://www.manulife.com.sg/en/solutions/signature/signature/signature-income.html",
+    "https://www.manulife.com.sg/en/solutions/signature/signature/signature-indexed-income.html",
+    "https://www.manulife.com.sg/en/solutions/signature/signature/signature-legacy-growth.html",
+    "https://www.manulife.com.sg/en/solutions/signature/signature/signature-legacy-harvest.html",
+    "https://www.manulife.com.sg/en/solutions/signature/signature/signature-life-elite-prestige.html",
+    "https://www.manulife.com.sg/en/solutions/signature/signature/signature-life.html",
+    "https://www.manulife.com.sg/en/solutions/signature/signature/signature-wealth.html"
+  ],
+  "catalog_path_scope": [
+    "/en/solutions"
+  ],
+  "source_request_event_count": 80,
+  "unique_attempted_request_urls": 80,
+  "attempts": [
+    {
+      "url": "https://www.manulife.com.sg",
+      "checked_at": "2026-10-27T10:10:43.623161+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions.html",
+      "checked_at": "2026-10-27T10:21:32.664551+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/life/life-insurance.html",
+      "checked_at": "2026-10-27T10:21:39.297086+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/life/life-insurance.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health/health.html",
+      "checked_at": "2026-10-27T10:21:43.968268+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/health.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/save.html",
+      "checked_at": "2026-10-27T10:21:47.934849+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/save.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans.html",
+      "checked_at": "2026-10-27T10:21:52.566002+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature.html",
+      "checked_at": "2026-10-27T10:21:55.318976+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/goals.html",
+      "checked_at": "2026-10-27T10:21:58.439387+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/goals.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health.html",
+      "checked_at": "2026-10-27T10:22:02.775587+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/health.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save.html",
+      "checked_at": "2026-10-27T10:22:10.573463+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/save.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/life/term-life-insurance.html",
+      "checked_at": "2026-10-27T10:22:18.266325+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/life/term-life-insurance.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/life/whole-life-insurance.html",
+      "checked_at": "2026-10-27T10:22:23.446565+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/life/whole-life-insurance.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/life/whole-life-insurance/life-ready-plus.html",
+      "checked_at": "2026-10-27T10:22:28.067026+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/life/whole-life-insurance/life-ready-plus.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/life/term-life-insurance/manuprotect-term.html",
+      "checked_at": "2026-10-27T10:22:33.317844+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/life/term-life-insurance/manuprotect-term.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/life/term-life-insurance/manuprotect-decreasing.html",
+      "checked_at": "2026-10-27T10:22:40.036565+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/life/term-life-insurance/manuprotect-decreasing.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/life/term-life-insurance/direct-manuassure-term.html",
+      "checked_at": "2026-10-27T10:22:43.406504+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/life/term-life-insurance/direct-manuassure-term.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/life/whole-life-insurance/direct-manuassure-life.html",
+      "checked_at": "2026-10-27T10:22:47.737520+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/life/whole-life-insurance/direct-manuassure-life.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health/maternity.html",
+      "checked_at": "2026-10-27T10:22:52.353944+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/maternity.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health/critical-illness.html",
+      "checked_at": "2026-10-27T10:22:56.371028+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/critical-illness.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health/accident.html",
+      "checked_at": "2026-10-27T10:23:00.916213+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/accident.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health/critical-illness/manulife-early-completecare.html",
+      "checked_at": "2026-10-27T10:23:05.748383+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/critical-illness/manulife-early-completecare.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health/critical-illness/manulife-earlycancer-protect.html",
+      "checked_at": "2026-10-27T10:23:09.373102+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/critical-illness/manulife-earlycancer-protect.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health/maternity/ready-mummy.html",
+      "checked_at": "2026-10-27T10:23:14.622425+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/maternity/ready-mummy.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health/accident/manulife-ready-protect.html",
+      "checked_at": "2026-10-27T10:23:18.194486+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/accident/manulife-ready-protect.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health/critical-illness/critical-selectcare.html",
+      "checked_at": "2026-10-27T10:23:23.183322+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/critical-illness/critical-selectcare.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans.html",
+      "checked_at": "2026-10-27T10:23:26.463822+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/retirement.html",
+      "checked_at": "2026-10-27T10:23:33.090847+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/retirement.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-indexed-wealth.html",
+      "checked_at": "2026-10-27T10:23:37.823002+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-indexed-wealth.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health/accident/manulife-ready-protect-brochure.html",
+      "checked_at": "2026-10-27T10:27:56.172092+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/accident/manulife-ready-protect-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health/critical-illness/critical-selectcare-brochure.html",
+      "checked_at": "2026-10-27T10:28:10.931268+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/critical-illness/critical-selectcare-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health/critical-illness/manulife-early-completecare-brochure.html",
+      "checked_at": "2026-10-27T10:28:17.769259+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/critical-illness/manulife-early-completecare-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health/critical-illness/manulife-earlycancer-protect-brochure.html",
+      "checked_at": "2026-10-27T10:28:21.501871+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/critical-illness/manulife-earlycancer-protect-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/health/maternity/ready-mummy-brochure.html",
+      "checked_at": "2026-10-27T10:28:26.174423+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/health/maternity/ready-mummy-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/investready-growth.html",
+      "checked_at": "2026-10-27T10:28:30.262170+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/investready-growth.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/investready.html",
+      "checked_at": "2026-10-27T10:28:35.257320+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/investready.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/smartretire.html",
+      "checked_at": "2026-10-27T10:28:39.014001+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/smartretire.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/manulink-investor.html",
+      "checked_at": "2026-10-27T10:28:42.883823+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/manulink-investor.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/manuinvestduo.html",
+      "checked_at": "2026-10-27T10:28:47.180163+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/manuinvestduo.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/life/term-life-insurance/manuprotect-decreasing-brochure.html",
+      "checked_at": "2026-10-27T10:28:51.127454+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/life/term-life-insurance/manuprotect-decreasing-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/life/term-life-insurance/manuprotect-term-brochure.html",
+      "checked_at": "2026-10-27T10:28:56.998179+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/life/term-life-insurance/manuprotect-term-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/life/whole-life-insurance/life-ready-plus-brochure.html",
+      "checked_at": "2026-10-27T10:29:01.003977+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/life/whole-life-insurance/life-ready-plus-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-indexed-income.html",
+      "checked_at": "2026-10-27T10:29:05.001691+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-indexed-income.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-wealthgen.html",
+      "checked_at": "2026-10-27T10:29:10.192397+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-wealthgen.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/investready-growth-brochure.html",
+      "checked_at": "2026-10-27T10:38:16.650482+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/investready-growth-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/investready-brochure.html",
+      "checked_at": "2026-10-27T10:38:23.581025+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/investready-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/manuinvestduo-brochure.html",
+      "checked_at": "2026-10-27T10:38:30.620187+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/manuinvestduo-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/manulink-investor-brochure.html",
+      "checked_at": "2026-10-27T10:38:34.591059+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/manulink-investor-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/smartretire-brochure.html",
+      "checked_at": "2026-10-27T10:38:38.437267+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/invest/investment-linked-plans/smartretire-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-goal.html",
+      "checked_at": "2026-10-27T10:38:42.857363+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-goal.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/Manulife-IncomeGen.html",
+      "checked_at": "2026-10-27T10:38:46.531501+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/Manulife-IncomeGen.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-growsecure.html",
+      "checked_at": "2026-10-27T10:38:50.721483+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-growsecure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-incomesecure.html",
+      "checked_at": "2026-10-27T10:39:03.264070+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-incomesecure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/retirement/retire-ready-plus.html",
+      "checked_at": "2026-10-27T10:39:08.268514+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/retirement/retire-ready-plus.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-indexed-income-brochure.html",
+      "checked_at": "2026-10-27T10:39:12.209791+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-indexed-income-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/Signature-Indexed-Universal-Life-Select.html",
+      "checked_at": "2026-10-27T10:39:16.106942+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/Signature-Indexed-Universal-Life-Select.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-indexed-wealth-brochure.html",
+      "checked_at": "2026-10-27T10:39:19.566832+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-indexed-wealth-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-wealthgen-brochure.html",
+      "checked_at": "2026-10-27T10:39:23.533411+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-wealthgen-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-life-elite-prestige.html",
+      "checked_at": "2026-10-27T10:39:27.526863+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-life-elite-prestige.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-legacy-harvest.html",
+      "checked_at": "2026-10-27T10:39:31.973182+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-legacy-harvest.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-indexed-income.html",
+      "checked_at": "2026-10-27T10:39:37.371556+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-indexed-income.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-legacy-growth.html",
+      "checked_at": "2026-10-27T10:39:41.508348+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-legacy-growth.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-income.html",
+      "checked_at": "2026-10-27T10:39:46.522141+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-income.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-life.html",
+      "checked_at": "2026-10-27T10:39:50.671525+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-life.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/heirloom.html",
+      "checked_at": "2026-10-27T10:39:54.747164+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/heirloom.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-wealth.html",
+      "checked_at": "2026-10-27T10:39:59.879737+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-wealth.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/retirement/retire-ready-plus-brochure.html",
+      "checked_at": "2026-10-27T10:48:24.339013+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/retirement/retire-ready-plus-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/Manulife-IncomeGen-brochure.html",
+      "checked_at": "2026-10-27T10:48:32.744720+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/Manulife-IncomeGen-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-goal-brochure.html",
+      "checked_at": "2026-10-27T10:48:38.843662+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-goal-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-growsecure-brochure.html",
+      "checked_at": "2026-10-27T10:48:56.512975+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-growsecure-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-incomesecure-brochure.html",
+      "checked_at": "2026-10-27T10:49:02.516588+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-incomesecure-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-goal-special-brochure.html",
+      "checked_at": "2026-10-27T10:49:10.072243+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/save/savings-plans/manulife-goal.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/Signature-Indexed-Universal-Life-Select-brochure.html",
+      "checked_at": "2026-10-27T10:49:18.854409+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/Signature-Indexed-Universal-Life-Select-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/heirloom-brochure.html",
+      "checked_at": "2026-10-27T10:49:22.384735+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/heirloom-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-income-brochure.html",
+      "checked_at": "2026-10-27T10:49:26.851853+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-income-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-indexed-income-brochure.html",
+      "checked_at": "2026-10-27T10:49:31.713761+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-indexed-income-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-legacy-growth-brochure.html",
+      "checked_at": "2026-10-27T10:49:35.926804+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-legacy-growth-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-legacy-harvest-brochure.html",
+      "checked_at": "2026-10-27T10:49:40.250040+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-legacy-harvest-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-life-elite-prestige-brochure.html",
+      "checked_at": "2026-10-27T10:49:43.863123+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-life-elite-prestige-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-life-brochure.html",
+      "checked_at": "2026-10-27T10:49:50.147842+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-life-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-wealth-brochure.html",
+      "checked_at": "2026-10-27T10:49:53.578785+00:00",
+      "http_status": 200,
+      "final_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-wealth-brochure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    }
+  ],
+  "observed_detail_urls_without_successful_HTTP200": [],
+  "reviewed_remaining_link_dispositions": [
+    {
+      "url": "https://www.manulife.com.sg/en/solutions",
+      "source_catalog_url": "https://www.manulife.com.sg/en/solutions/signature/signature/signature-life-brochure.html",
+      "source_label": "Manulife Singapore Solutions",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    }
+  ],
+  "untraversed_channels": [
+    "Bank, affinity, broker, invitation-only, unlinked legacy, separately hosted partner and non-English channels remain unclosed.",
+    "Full policy-document packages and complete rider/variant universes remain unverified; linked PDFs were not downloaded."
+  ],
+  "limits": [
+    "This is seven selected direct insurers, not the full MAS 76-direct-insurer target or all 223 regulated entities.",
+    "Public source observations are not unique insurance SKUs; role=product is not proof of standalone/base contract.",
+    "Bank, affinity, broker, invitation-only, unlinked legacy, separately hosted partner and non-English channels remain unclosed.",
+    "Full policy-document packages and complete rider/variant universes remain unverified; linked PDFs were not downloaded.",
+    "Source information-as-of statements and card server-updated metadata are not product launch/effective dates. Old information dates do not prove withdrawal; current listing does not prove eligibility or current new-business availability."
+  ],
+  "issuer_specific_findings": [
+    "30 brochure landing pages are document_page, not30 extra products. Maternity hero is a category. Signature Income/Life series remain plan-family observations with explicit currency/version variants.",
+    "3 external statistical/research/consumer-reference occurrences reclassified with zero individual-product-material coverage credit; URLs retained, not downloaded."
+  ],
+  "pagination_evidence": "No numbered continuation links recorded in reviewed finite HTML catalog queues. AIA dynamic card arrays reconciled separately. No whole-site pagination completeness claim.",
+  "source_date_policy": "Unknown publication/effective dates are null; explicit information-as-of dates have separate scope.",
+  "first_observed_at": "2026-10-27T10:10:43.623161+00:00",
+  "last_observed_at": "2026-10-27T10:49:53.578785+00:00",
+  "cited_external_or_consumer_reference_occurrences_reclassified_in_v3": 3
+}

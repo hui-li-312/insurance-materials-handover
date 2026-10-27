@@ -1,0 +1,97 @@
+[
+  {
+    "issuer_id": "SG-own-1d1ae22653921856",
+    "action": "add_candidate_or_replace_existing_same_issuer_current_catalog_batch_after_QA",
+    "candidate_file": "products-sg-aia.jsonl",
+    "row_count": 138,
+    "match_key": [
+      "issuer_id",
+      "product_url",
+      "official_name",
+      "role"
+    ],
+    "existing_material_file_index_action": "no_change_no_download_credit"
+  },
+  {
+    "issuer_id": "SG-own-273af31bee58617b",
+    "action": "add_candidate_or_replace_existing_same_issuer_current_catalog_batch_after_QA",
+    "candidate_file": "products-sg-taiping.jsonl",
+    "row_count": 73,
+    "match_key": [
+      "issuer_id",
+      "product_url",
+      "official_name",
+      "role"
+    ],
+    "existing_material_file_index_action": "no_change_no_download_credit"
+  },
+  {
+    "issuer_id": "SG-own-1db6d684f51eb1cb",
+    "action": "add_candidate_or_replace_existing_same_issuer_current_catalog_batch_after_QA",
+    "candidate_file": "products-sg-manulife.jsonl",
+    "row_count": 84,
+    "match_key": [
+      "issuer_id",
+      "product_url",
+      "official_name",
+      "role"
+    ],
+    "existing_material_file_index_action": "no_change_no_download_credit"
+  },
+  {
+    "issuer_id": "SG-own-bd749201a09dd532",
+    "action": "add_candidate_or_replace_existing_same_issuer_current_catalog_batch_after_QA",
+    "candidate_file": "products-sg-singlife.jsonl",
+    "row_count": 95,
+    "match_key": [
+      "issuer_id",
+      "product_url",
+      "official_name",
+      "role"
+    ],
+    "existing_material_file_index_action": "no_change_no_download_credit"
+  },
+  {
+    "issuer_id": "SG-own-5acf60a33997b495",
+    "action": "add_candidate_or_replace_existing_same_issuer_current_catalog_batch_after_QA",
+    "candidate_file": "products-sg-hsbc.jsonl",
+    "row_count": 69,
+    "match_key": [
+      "issuer_id",
+      "product_url",
+      "official_name",
+      "role"
+    ],
+    "existing_material_file_index_action": "no_change_no_download_credit"
+  },
+  {
+    "issuer_id": "SG-own-2cfa54532183dfa1",
+    "action": "add_candidate_or_replace_existing_same_issuer_current_catalog_batch_after_QA",
+    "candidate_file": "products-sg-chubb.jsonl",
+    "row_count": 112,
+    "match_key": [
+      "issuer_id",
+      "product_url",
+      "official_name",
+      "role"
+    ],
+    "existing_material_file_index_action": "no_change_no_download_credit"
+  },
+  {
+    "issuer_id": "SG-own-de4b4acf7adc19b2",
+    "action": "replace_existing_same_issuer_current_catalog_observations_not_append",
+    "candidate_file": "products-sg-eq.jsonl",
+    "row_count": 33,
+    "match_key": [
+      "issuer_id",
+      "product_url",
+      "official_name",
+      "role"
+    ],
+    "existing_material_file_index_action": "no_change_no_download_credit",
+    "replaces_prior_file": "sg-eq-ready-20261027T1033Z-v2/products-sg-eq.jsonl",
+    "prior_rows": 33,
+    "same_observation_keys": true,
+    "new_EQ_observations": 0
+  }
+]

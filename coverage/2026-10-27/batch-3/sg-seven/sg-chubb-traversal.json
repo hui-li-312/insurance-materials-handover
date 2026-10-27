@@ -1,0 +1,1062 @@
+{
+  "issuer_id": "SG-own-2cfa54532183dfa1",
+  "legal_name": "CHUBB INSURANCE SINGAPORE LIMITED",
+  "jurisdiction": "SG",
+  "official_origin": "https://www.chubb.com",
+  "products_status": "partial",
+  "run_state": "bounded_reviewed_queues_attempted_wider_channels_partial",
+  "snapshot_at": "2026-10-27T12:50:50.390517+00:00",
+  "observed_rows": 112,
+  "role_counts": {
+    "product": 10,
+    "coverage_class": 66,
+    "catalog_category": 27,
+    "service": 9
+  },
+  "unique_observed_page_urls": 112,
+  "material_reference_count": 90,
+  "unique_material_urls": 81,
+  "material_role_counts": {
+    "public_attachment_unclassified": 77,
+    "brochure": 4,
+    "blank_proposal_or_application_form": 9
+  },
+  "verified_unique_SKUs": 0,
+  "raw_product_PDFs_downloaded": 0,
+  "formal_new_material_file_count": 0,
+  "source_catalog_urls": [
+    "https://www.chubb.com/sg",
+    "https://www.chubb.com/sg-en/business/accident-health.html",
+    "https://www.chubb.com/sg-en/business/cargo-insurance.html",
+    "https://www.chubb.com/sg-en/business/casualty.html",
+    "https://www.chubb.com/sg-en/business/chubb-assembly.html",
+    "https://www.chubb.com/sg-en/business/climate-renewable-energy.html",
+    "https://www.chubb.com/sg-en/business/construction-industry.html",
+    "https://www.chubb.com/sg-en/business/cyber.html",
+    "https://www.chubb.com/sg-en/business/education-industry.html",
+    "https://www.chubb.com/sg-en/business/energy-industry.html",
+    "https://www.chubb.com/sg-en/business/environmental-industry.html",
+    "https://www.chubb.com/sg-en/business/environmental.html",
+    "https://www.chubb.com/sg-en/business/financial-institutions.html",
+    "https://www.chubb.com/sg-en/business/financial-lines.html",
+    "https://www.chubb.com/sg-en/business/group-business-travel-insurance.html",
+    "https://www.chubb.com/sg-en/business/industries.html",
+    "https://www.chubb.com/sg-en/business/industry-focus.html",
+    "https://www.chubb.com/sg-en/business/industry-practices.html",
+    "https://www.chubb.com/sg-en/business/large-multinational-businesses.html",
+    "https://www.chubb.com/sg-en/business/life-sciences.html",
+    "https://www.chubb.com/sg-en/business/manufacturing-industry.html",
+    "https://www.chubb.com/sg-en/business/marine-industry.html",
+    "https://www.chubb.com/sg-en/business/marine.html",
+    "https://www.chubb.com/sg-en/business/mm-insurance-products.html",
+    "https://www.chubb.com/sg-en/business/property.html",
+    "https://www.chubb.com/sg-en/business/services.html",
+    "https://www.chubb.com/sg-en/business/small-medium-businesses.html",
+    "https://www.chubb.com/sg-en/business/transportation-industry.html",
+    "https://www.chubb.com/sg-en/individuals-families/home-insurance.html"
+  ],
+  "catalog_path_scope": [
+    "/sg-en/individuals-families/",
+    "/sg-en/business/"
+  ],
+  "source_request_event_count": 117,
+  "unique_attempted_request_urls": 117,
+  "attempts": [
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/travel-insurance.html",
+      "checked_at": "2026-10-27T10:21:32.715302+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/travel-insurance.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/staycation-insurance.html",
+      "checked_at": "2026-10-27T10:21:38.813596+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/staycation-insurance.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/coach-and-ferry-travel-insurance.html",
+      "checked_at": "2026-10-27T10:21:42.490709+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/coach-and-ferry-travel-insurance.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/home-insurance.html",
+      "checked_at": "2026-10-27T10:21:47.769239+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/home-insurance.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/personal-accident-insurance.html",
+      "checked_at": "2026-10-27T10:21:50.665957+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/personal-accident-insurance.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/dental-insurance.html",
+      "checked_at": "2026-10-27T10:21:54.273421+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/dental-insurance.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/hospital-income-insurance.html",
+      "checked_at": "2026-10-27T10:21:58.388294+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/hospital-income-insurance.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/jewellery-watch-insurance.html",
+      "checked_at": "2026-10-27T10:22:03.951019+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/jewellery-watch-insurance.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/mobile-phone-insurance.html",
+      "checked_at": "2026-10-27T10:22:07.475535+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/mobile-phone-insurance.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/accident-health.html",
+      "checked_at": "2026-10-27T10:22:12.189924+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/accident-health.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/financial-lines.html",
+      "checked_at": "2026-10-27T10:22:15.987262+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/financial-lines.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/property.html",
+      "checked_at": "2026-10-27T10:22:20.468762+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/property.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/marine.html",
+      "checked_at": "2026-10-27T10:22:23.681635+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/marine.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cyber.html",
+      "checked_at": "2026-10-27T10:22:27.708371+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/cyber.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/casualty.html",
+      "checked_at": "2026-10-27T10:22:31.721525+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/casualty.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/construction.html",
+      "checked_at": "2026-10-27T10:22:35.831963+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/construction.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/energy.html",
+      "checked_at": "2026-10-27T10:22:40.772492+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/energy.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/products.html",
+      "checked_at": "2026-10-27T10:22:45.613243+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/products.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/construction-industry.html",
+      "checked_at": "2026-10-27T10:22:55.436103+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/construction.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/education-industry.html",
+      "checked_at": "2026-10-27T10:23:05.357777+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/education-industry.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/energy-industry.html",
+      "checked_at": "2026-10-27T10:23:12.184083+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/energy-industry.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/environmental-industry.html",
+      "checked_at": "2026-10-27T10:23:16.490489+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/environmental-industry.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/financial-institutions.html",
+      "checked_at": "2026-10-27T10:23:21.271832+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/financial-institutions.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/healthcare-industry.html",
+      "checked_at": "2026-10-27T10:23:27.141856+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/healthcare-industry.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/life-science-industry.html",
+      "checked_at": "2026-10-27T10:23:33.227671+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/life-science-industry.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/manufacturing-industry.html",
+      "checked_at": "2026-10-27T10:23:37.933402+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/manufacturing-industry.html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/industries.html",
+      "checked_at": "2026-10-27T10:27:56.192327+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/industries.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/services.html",
+      "checked_at": "2026-10-27T10:28:18.403140+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/services.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/small-medium-businesses.html",
+      "checked_at": "2026-10-27T10:28:22.339630+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/small-medium-businesses.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/large-multinational-businesses.html",
+      "checked_at": "2026-10-27T10:28:26.300380+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/large-multinational-businesses.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/group-business-travel-insurance.html",
+      "checked_at": "2026-10-27T10:28:30.225375+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/group-business-travel-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/group-personal-accident-insurance.html",
+      "checked_at": "2026-10-27T10:28:33.848627+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/group-personal-accident-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/worksite-marketing.html",
+      "checked_at": "2026-10-27T10:28:38.250938+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/worksite-marketing.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/work-from-home-insurance.html",
+      "checked_at": "2026-10-27T10:28:41.770926+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/work-from-home-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/work-injury-compensation.html",
+      "checked_at": "2026-10-27T10:28:46.314917+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/work-injury-compensation.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/chubb-assembly.html",
+      "checked_at": "2026-10-27T10:28:49.645705+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/chubb-assembly.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/multinational-liability.html",
+      "checked_at": "2026-10-27T10:28:54.430526+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/multinational-liability.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/product-liability-insurance.html",
+      "checked_at": "2026-10-27T10:28:58.068941+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/product-liability-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/public-general-liability.html",
+      "checked_at": "2026-10-27T10:29:02.181362+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/public-general-liability.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/select.html",
+      "checked_at": "2026-10-27T10:29:08.416437+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/select.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/construction-all-risks-builders-risk-insurance.html",
+      "checked_at": "2026-10-27T10:29:12.263206+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/construction-all-risks-builders-risk-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/errors-on-omissions-for-manufacturers.html",
+      "checked_at": "2026-10-27T10:38:16.643375+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/errors-on-omissions-for-manufacturers.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cyber-insurance.html",
+      "checked_at": "2026-10-27T10:38:23.807806+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/cyber.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/property-all-risks.html",
+      "checked_at": "2026-10-27T10:38:32.178051+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/property-all-risks.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/environmental.html",
+      "checked_at": "2026-10-27T10:38:37.059576+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/environmental.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/construction-all-risks-civil-engineering-insurance.html",
+      "checked_at": "2026-10-27T10:38:41.912453+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/construction-all-risks-civil-engineering-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/commercial-crime-insurance.html",
+      "checked_at": "2026-10-27T10:38:46.422218+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/commercial-crime-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/erection-all-risks-insurance.html",
+      "checked_at": "2026-10-27T10:38:51.465385+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/erection-all-risks-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/professional-indemnity-insurance.html",
+      "checked_at": "2026-10-27T10:38:54.960731+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/professional-indemnity-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/terrorism-insurance.html",
+      "checked_at": "2026-10-27T10:38:58.989126+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/terrorism-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/directors-officers-liability-insurance.html",
+      "checked_at": "2026-10-27T10:39:03.791966+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/directors-officers-liability-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cyber-services-enrolment.html",
+      "checked_at": "2026-10-27T10:39:07.237147+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/cyber-services-enrolment.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cyber/chubb-cyber-index.html",
+      "checked_at": "2026-10-27T10:39:12.000926+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/cyber/chubb-cyber-index.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cyber/cyber-incident-response-index.html",
+      "checked_at": "2026-10-27T10:39:16.055526+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/cyber/cyber-incident-response-index.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cyber/catastrophic-cyber-risks.html",
+      "checked_at": "2026-10-27T10:39:20.932781+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/cyber/catastrophic-cyber-risks.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cyber/how-to-report-a-cyber-incident.html",
+      "checked_at": "2026-10-27T10:39:26.459481+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/cyber/how-to-report-a-cyber-incident.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/school-liability-insurance.html",
+      "checked_at": "2026-10-27T10:39:31.375349+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/school-liability-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/boiler-machinery-breakdown-insurance.html",
+      "checked_at": "2026-10-27T10:39:36.598525+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/boiler-machinery-breakdown-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/environment-impairment-liability.html",
+      "checked_at": "2026-10-27T10:39:40.061855+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/environment-impairment-liability.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/financial-institution-crime-insurance.html",
+      "checked_at": "2026-10-27T10:39:43.652136+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/financial-institution-crime-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/financial-institutions-civil-liability.html",
+      "checked_at": "2026-10-27T10:39:48.580456+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/financial-institutions-civil-liability.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/investment-managers-insurance.html",
+      "checked_at": "2026-10-27T10:39:52.677271+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/investment-managers-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/financial-institutions-professional-indemnity-insurance.html",
+      "checked_at": "2026-10-27T10:39:56.737480+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/financial-institutions-professional-indemnity-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/medical-malpractice-insurance.html",
+      "checked_at": "2026-10-27T10:40:03.077929+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/medical-malpractice-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/private-equity-venture-capital-insurance.html",
+      "checked_at": "2026-10-27T10:40:07.709295+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/private-equity-venture-capital-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/chubb-travel-smart.html",
+      "checked_at": "2026-10-27T10:40:11.529886+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/chubb-travel-smart.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/life-sciences.html",
+      "checked_at": "2026-10-27T10:40:16.341117+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/life-sciences.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/marine-industry.html",
+      "checked_at": "2026-10-27T10:40:21.132167+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/marine-industry.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/property-industry.html",
+      "checked_at": "2026-10-27T10:40:26.043022+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/property.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/technology-industry.html",
+      "checked_at": "2026-10-27T10:40:34.948988+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/technology-industry.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/transportation-industry.html",
+      "checked_at": "2026-10-27T10:40:39.810734+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/transportation-industry.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/industry-practices.html",
+      "checked_at": "2026-10-27T10:40:44.424365+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/industry-practices.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/worldview.html",
+      "checked_at": "2026-10-27T10:40:49.419878+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/worldview.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cargo-insurance.html",
+      "checked_at": "2026-10-27T10:40:54.781990+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/cargo-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/marine/cargo-insurance.html",
+      "checked_at": "2026-10-27T10:40:59.368389+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/marine/cargo-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/marine/logistics-insurance.html",
+      "checked_at": "2026-10-27T10:41:03.907973+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/marine/logistics-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/marine/fine-art-and-specie-insurance.html",
+      "checked_at": "2026-10-27T10:41:08.999783+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/marine/fine-art-and-specie-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/marine/specialty-liability.html",
+      "checked_at": "2026-10-27T10:41:14.198120+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/marine/specialty-liability.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/marine/plant-and-machinery-insurance.html",
+      "checked_at": "2026-10-27T10:41:19.954560+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/marine/plant-and-machinery-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/marine/marine-hull-insurance.html",
+      "checked_at": "2026-10-27T10:41:24.300318+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/marine/marine-hull-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/non-damage-terrorism-solution.html",
+      "checked_at": "2026-10-27T10:41:29.174017+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/non-damage-terrorism-solution.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/terrorism-risk-evaluation-services.html",
+      "checked_at": "2026-10-27T10:41:33.904067+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/terrorism-risk-evaluation-services.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/risk-engineering-services.html",
+      "checked_at": "2026-10-27T10:41:38.486285+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/risk-engineering-services.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/global-health-safety-environmental-services.html",
+      "checked_at": "2026-10-27T10:41:43.028556+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/global-health-safety-environmental-services.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/international-excess.html",
+      "checked_at": "2026-10-27T10:41:46.812230+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/international-excess.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/transportation-risk-management.html",
+      "checked_at": "2026-10-27T10:41:50.788076+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/transportation-risk-management.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/industry-focus.html",
+      "checked_at": "2026-10-27T10:41:54.942005+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/industry-focus.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/sme-insurance-products.html",
+      "checked_at": "2026-10-27T10:41:59.428835+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/sme-insurance-products.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/mm-insurance-products.html",
+      "checked_at": "2026-10-27T10:42:05.398271+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/mm-insurance-products.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/home-contents-insurance.html",
+      "checked_at": "2026-10-27T10:42:10.827876+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/home-contents-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/valuable-articles-insurance.html",
+      "checked_at": "2026-10-27T10:42:15.551418+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/valuable-articles-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/jewellery-insurance.html",
+      "checked_at": "2026-10-27T10:42:20.686278+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/jewellery-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/art-insurance.html",
+      "checked_at": "2026-10-27T10:42:27.157136+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/art-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/wine-insurance.html",
+      "checked_at": "2026-10-27T10:42:31.941034+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/wine-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/individuals-families/personal-liability-insurance.html",
+      "checked_at": "2026-10-27T10:42:36.780538+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/individuals-families/personal-liability-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cargo-plus.html",
+      "checked_at": "2026-10-27T10:48:24.339305+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/cargo-plus.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/logistics-insurance.html",
+      "checked_at": "2026-10-27T10:48:31.700905+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/logistics-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/project-cargo-insurance.html",
+      "checked_at": "2026-10-27T10:48:38.961972+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/project-cargo-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/climate-renewable-energy.html",
+      "checked_at": "2026-10-27T10:48:53.004724+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/climate-renewable-energy.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/clean-tech.html",
+      "checked_at": "2026-10-27T10:49:05.676524+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/clean-tech.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cultural-institutions.html",
+      "checked_at": "2026-10-27T10:49:09.807470+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/cultural-institutions.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/education.html",
+      "checked_at": "2026-10-27T10:49:12.819102+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/education.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/entertainment-leisure.html",
+      "checked_at": "2026-10-27T10:49:17.567984+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/entertainment-leisure.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/healthcare.html",
+      "checked_at": "2026-10-27T10:49:21.915927+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/healthcare.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/manufacturing.html",
+      "checked_at": "2026-10-27T10:49:25.178209+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/manufacturing.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/real-estate-hospitality.html",
+      "checked_at": "2026-10-27T10:49:28.869094+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/real-estate-hospitality.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/retail.html",
+      "checked_at": "2026-10-27T10:49:32.286768+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/retail.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/technology-companies.html",
+      "checked_at": "2026-10-27T10:49:36.677149+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/technology-companies.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/event-liability.html",
+      "checked_at": "2026-10-27T10:49:40.990094+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/event-liability.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/premier-life-science.html",
+      "checked_at": "2026-10-27T10:49:44.912990+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/premier-life-science.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/clinical-trials-insurance.html",
+      "checked_at": "2026-10-27T10:49:50.207505+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/clinical-trials-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/marine-hull-specialty-insurance.html",
+      "checked_at": "2026-10-27T10:49:55.140796+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/marine-hull-specialty-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/fine-art-valuable-goods-insurance.html",
+      "checked_at": "2026-10-27T10:49:59.450671+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/fine-art-valuable-goods-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/life-science-liability-insurance.html",
+      "checked_at": "2026-10-27T10:50:03.947417+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/life-science-liability-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/technology-liability-insurance.html",
+      "checked_at": "2026-10-27T10:50:07.411145+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/technology-liability-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cargo-liability-insurance.html",
+      "checked_at": "2026-10-27T10:50:11.367093+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/cargo-liability-insurance.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/premier-climate.html",
+      "checked_at": "2026-10-27T10:54:19.240974+00:00",
+      "http_status": 200,
+      "final_url": "https://www.chubb.com/sg-en/business/premier-climate.html",
+      "content_type": "text/html",
+      "status": "official_response_read"
+    }
+  ],
+  "observed_detail_urls_without_successful_HTTP200": [],
+  "reviewed_remaining_link_dispositions": [
+    {
+      "url": "https://www.chubb.com/sg-en/business/premier-climate.html",
+      "source_catalog_url": "https://www.chubb.com/sg-en/business/climate-renewable-energy.html",
+      "source_label": "Find out about PremierClimate",
+      "status": "read",
+      "reason": null
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cyber/cyber-incident-response-index/cyber-incident-response-vendors-apac.html",
+      "source_catalog_url": "https://www.chubb.com/sg-en/business/cyber/cyber-incident-response-index.html",
+      "source_label": "Australia",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cyber/cyber-incident-response-index/cyber-incident-response-vendors-middle-east-africa.html",
+      "source_catalog_url": "https://www.chubb.com/sg-en/business/cyber/cyber-incident-response-index.html",
+      "source_label": "Pakistan",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cyber/cyber-incident-response-index/cyber-incident-response-vendors-europe.html",
+      "source_catalog_url": "https://www.chubb.com/sg-en/business/cyber/cyber-incident-response-index.html",
+      "source_label": "Austria",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/cyber/cyber-incident-response-index/cyber-incident-response-vendors-latam.html",
+      "source_catalog_url": "https://www.chubb.com/sg-en/business/cyber/cyber-incident-response-index.html",
+      "source_label": "Argentina",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/protecting-businesses.html",
+      "source_catalog_url": "https://www.chubb.com/sg-en/business/risk-engineering-services.html",
+      "source_label": null,
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/risk-engineering-resource-centre.html",
+      "source_catalog_url": "https://www.chubb.com/sg-en/business/risk-engineering-services.html",
+      "source_label": null,
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/solutions-for-major-corporate-clients.html",
+      "source_catalog_url": "https://www.chubb.com/sg-en/business/worldview.html",
+      "source_label": "Solutions for Major Corporate Clients",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    },
+    {
+      "url": "https://www.chubb.com/sg-en/business/global-accounts.html",
+      "source_catalog_url": "https://www.chubb.com/sg-en/business/worldview.html",
+      "source_label": "Global Accounts",
+      "status": "excluded_or_deferred_nonproduct_resource",
+      "reason": "Navigation alias, wellness service, panel/provider directory, claims/guarantee help, vendor/resource page, or non-product client-segment hub; not named product credit."
+    }
+  ],
+  "untraversed_channels": [
+    "Bank, affinity, broker, invitation-only, unlinked legacy, separately hosted partner and non-English channels remain unclosed.",
+    "Full policy-document packages and complete rider/variant universes remain unverified; linked PDFs were not downloaded."
+  ],
+  "limits": [
+    "This is seven selected direct insurers, not the full MAS 76-direct-insurer target or all 223 regulated entities.",
+    "Public source observations are not unique insurance SKUs; role=product is not proof of standalone/base contract.",
+    "Bank, affinity, broker, invitation-only, unlinked legacy, separately hosted partner and non-English channels remain unclosed.",
+    "Full policy-document packages and complete rider/variant universes remain unverified; linked PDFs were not downloaded.",
+    "Source information-as-of statements and card server-updated metadata are not product launch/effective dates. Old information dates do not prove withdrawal; current listing does not prove eligibility or current new-business availability."
+  ],
+  "issuer_specific_findings": [
+    "Masterpiece parent identified from own-page prose;6 related personal-property/liability pages are coverage classes. Generic business lines and industry hubs remain distinct from branded offerings.",
+    "Jewellery & Watch Cover explicitly unavailable for new-policy purchase during website migration; service-provider change date is not product cessation date."
+  ],
+  "pagination_evidence": "No numbered continuation links recorded in reviewed finite HTML catalog queues. AIA dynamic card arrays reconciled separately. No whole-site pagination completeness claim.",
+  "source_date_policy": "Unknown publication/effective dates are null; explicit information-as-of dates have separate scope.",
+  "first_observed_at": "2026-10-27T10:21:32.715302+00:00",
+  "last_observed_at": "2026-10-27T10:54:19.240974+00:00",
+  "cited_external_or_consumer_reference_occurrences_reclassified_in_v3": 0
+}

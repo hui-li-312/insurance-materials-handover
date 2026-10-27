@@ -1,0 +1,204 @@
+{
+  "supersedes": "sg-seven-ready-20261027T111622Z-v2",
+  "revision": "v3: seven cited external research/consumer-information material references reclassified with zero individual-product-material credit; no row expansion, URL deletion, network or file downloads.",
+  "snapshot_at": "2026-10-27T12:50:50.390517+00:00",
+  "status": "immutable_candidate_for_independent_QA_not_publication_authorization",
+  "jurisdiction": "SG",
+  "issuer_count": 7,
+  "observation_rows": 604,
+  "role_counts": {
+    "catalog_category": 112,
+    "product": 228,
+    "group": 19,
+    "rider": 117,
+    "coverage_class": 85,
+    "document_page": 30,
+    "plan": 4,
+    "service": 9
+  },
+  "material_reference_count": 761,
+  "unique_material_urls": 656,
+  "material_role_counts": {
+    "brochure": 343,
+    "public_attachment_unclassified": 247,
+    "blank_proposal_or_application_form": 72,
+    "blank_fact_finding_form": 6,
+    "policy_wording_candidate": 56,
+    "product_disclosure": 4,
+    "cited_external_research": 5,
+    "product_summary": 10,
+    "general_consumer_information": 18
+  },
+  "new_observations_excluding_EQ_replacement": 571,
+  "verified_unique_SKUs": 0,
+  "raw_product_files_downloaded": 0,
+  "formal_new_material_file_count": 0,
+  "per_issuer": [
+    {
+      "issuer_id": "SG-own-1d1ae22653921856",
+      "legal_name": "AIA SINGAPORE PRIVATE LIMITED",
+      "observed_rows": 138,
+      "role_counts": {
+        "catalog_category": 24,
+        "product": 56,
+        "group": 2,
+        "rider": 56
+      },
+      "material_reference_count": 132,
+      "unique_material_urls": 106,
+      "material_role_counts": {
+        "brochure": 108,
+        "public_attachment_unclassified": 18,
+        "blank_proposal_or_application_form": 4,
+        "blank_fact_finding_form": 2
+      },
+      "source_request_event_count": 104,
+      "unique_attempted_request_urls": 102,
+      "products_status": "partial"
+    },
+    {
+      "issuer_id": "SG-own-273af31bee58617b",
+      "legal_name": "CHINA TAIPING INSURANCE (SINGAPORE) PTE. LTD.",
+      "observed_rows": 73,
+      "role_counts": {
+        "catalog_category": 19,
+        "product": 32,
+        "coverage_class": 19,
+        "group": 3
+      },
+      "material_reference_count": 121,
+      "unique_material_urls": 112,
+      "material_role_counts": {
+        "brochure": 32,
+        "public_attachment_unclassified": 24,
+        "blank_proposal_or_application_form": 33,
+        "policy_wording_candidate": 29,
+        "product_disclosure": 3
+      },
+      "source_request_event_count": 90,
+      "unique_attempted_request_urls": 89,
+      "products_status": "partial"
+    },
+    {
+      "issuer_id": "SG-own-1db6d684f51eb1cb",
+      "legal_name": "MANULIFE (SINGAPORE) PTE. LTD.",
+      "observed_rows": 84,
+      "role_counts": {
+        "catalog_category": 15,
+        "product": 30,
+        "document_page": 30,
+        "plan": 2,
+        "rider": 7
+      },
+      "material_reference_count": 98,
+      "unique_material_urls": 90,
+      "material_role_counts": {
+        "cited_external_research": 3,
+        "public_attachment_unclassified": 30,
+        "brochure": 65
+      },
+      "source_request_event_count": 80,
+      "unique_attempted_request_urls": 80,
+      "products_status": "partial"
+    },
+    {
+      "issuer_id": "SG-own-bd749201a09dd532",
+      "legal_name": "SINGAPORE LIFE LTD.",
+      "observed_rows": 95,
+      "role_counts": {
+        "catalog_category": 14,
+        "product": 40,
+        "group": 7,
+        "plan": 2,
+        "rider": 32
+      },
+      "material_reference_count": 172,
+      "unique_material_urls": 125,
+      "material_role_counts": {
+        "brochure": 77,
+        "public_attachment_unclassified": 68,
+        "product_summary": 6,
+        "policy_wording_candidate": 11,
+        "blank_proposal_or_application_form": 2,
+        "cited_external_research": 2,
+        "general_consumer_information": 6
+      },
+      "source_request_event_count": 66,
+      "unique_attempted_request_urls": 66,
+      "products_status": "partial"
+    },
+    {
+      "issuer_id": "SG-own-5acf60a33997b495",
+      "legal_name": "HSBC LIFE (SINGAPORE) PTE. LTD.",
+      "observed_rows": 69,
+      "role_counts": {
+        "product": 34,
+        "catalog_category": 10,
+        "group": 4,
+        "rider": 21
+      },
+      "material_reference_count": 84,
+      "unique_material_urls": 78,
+      "material_role_counts": {
+        "brochure": 40,
+        "public_attachment_unclassified": 25,
+        "general_consumer_information": 6,
+        "blank_fact_finding_form": 3,
+        "product_summary": 3,
+        "blank_proposal_or_application_form": 3,
+        "policy_wording_candidate": 3,
+        "product_disclosure": 1
+      },
+      "source_request_event_count": 48,
+      "unique_attempted_request_urls": 48,
+      "products_status": "partial"
+    },
+    {
+      "issuer_id": "SG-own-2cfa54532183dfa1",
+      "legal_name": "CHUBB INSURANCE SINGAPORE LIMITED",
+      "observed_rows": 112,
+      "role_counts": {
+        "product": 10,
+        "coverage_class": 66,
+        "catalog_category": 27,
+        "service": 9
+      },
+      "material_reference_count": 90,
+      "unique_material_urls": 81,
+      "material_role_counts": {
+        "public_attachment_unclassified": 77,
+        "brochure": 4,
+        "blank_proposal_or_application_form": 9
+      },
+      "source_request_event_count": 117,
+      "unique_attempted_request_urls": 117,
+      "products_status": "partial"
+    },
+    {
+      "issuer_id": "SG-own-de4b4acf7adc19b2",
+      "legal_name": "EQ INSURANCE COMPANY LTD.",
+      "observed_rows": 33,
+      "role_counts": {
+        "catalog_category": 3,
+        "product": 26,
+        "group": 3,
+        "rider": 1
+      },
+      "material_reference_count": 64,
+      "unique_material_urls": 64,
+      "material_role_counts": {
+        "brochure": 17,
+        "blank_proposal_or_application_form": 21,
+        "policy_wording_candidate": 13,
+        "public_attachment_unclassified": 5,
+        "general_consumer_information": 6,
+        "blank_fact_finding_form": 1,
+        "product_summary": 1
+      },
+      "source_request_event_count": 35,
+      "unique_attempted_request_urls": 35,
+      "products_status": "partial"
+    }
+  ],
+  "cited_external_or_consumer_reference_occurrences_reclassified_in_v3": 7
+}
