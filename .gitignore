@@ -1,0 +1,11 @@
+# 原件由私有 Release 提供，不进入 Git 历史
+originals/
+quarantine/
+release-assets/
+*.zip
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+.DS_Store
