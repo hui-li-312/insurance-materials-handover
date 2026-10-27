@@ -121,3 +121,7 @@ SAMPLE／示范件仍可以是真正的主保单条款，不等于宣传册；�
 本地候选为 5,502 条混合来源观察 / 30 feed descriptors（26 个实际贡献行），SG 1,049／MY 1,609 条。原目录 2,360、正式原件 4,713、严格核验 426 不变。只纳入上述 42 个准入源文件（AIA3／MY11／GE28），不纳入旧 GE v3、私有控制记录或原件正文；未部署。源 metadata 的 pending/未发布状态保留其原始时点，不覆盖成新来源观察。发布前仍须按实际远端 HEAD 重新基线并保留最新部署文档。
 
 第十批精确输入、主体证据层级、计数与复现说明见 [REGIONAL_REFRESH_BATCH10.md](../docs/REGIONAL_REFRESH_BATCH10.md)。
+
+## 第十一批：菲律宾三家公司与印尼两来源目录
+
+固定41个元数据输入追加218条类型观察：MCBL24、BPI AIA45、Pru Life PH72、AIA Indonesia50、Generali Indonesia27。PH199、ID90，总5,720条混合观察／35个feed descriptors，不是独立SKU数。新增182条材料引用均未读PDF；全部新增实际合同承保人未核。印尼后续42条语言队列的1次工具403与41条未请求单独保留，旧冻结不改、AIA不受影响。精确父关系、共享页面歧义、渠道冲突、角色和缺口见 [REGIONAL_REFRESH_BATCH11.md](../docs/REGIONAL_REFRESH_BATCH11.md)。此为源码候选说明，不代表已部署；实际状态以 CURRENT_DEPLOYMENT.json 为准。原目录、正式原件与严格核验基线不变。

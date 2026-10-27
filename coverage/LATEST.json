@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "compiled_at": "2026-10-27T19:57:00Z",
+  "compiled_at": "2026-10-27T20:57:08.251841+00:00",
   "status": "in_progress_not_all_market_complete",
   "formal_original_baseline": 4713,
   "new_formal_original_credit": 0,
@@ -384,10 +384,89 @@
       "new_formal_original_credit": 0,
       "new_verified_SKU_credit": 0,
       "aggregation_notice": "Append exact source IDs once in supplemental observations; document/card/date indexes are nonadditive. Keep 6 webpage underwritten-by statements distinct from 58 webpage policy-issuer statements; actual contract underwriter is unverified. Children inherit neither entity nor material. Legacy overlaps do not authorize product merge, new SKU or reused PDF review."
+    },
+    {
+      "id": "mcbl_ph_source_catalog",
+      "path": "2026-10-27/batch-11/manulife-chinabank-ph-batch/",
+      "regions": [
+        "PH"
+      ],
+      "source_observations": 24,
+      "unit": "typed_source_observations_not_verified_contracts_or_unique_SKUs",
+      "source_material_occurrences": 18,
+      "source_unique_material_urls": 16,
+      "accepted_source_manifest_sha256": "26491094ec615e701e0583d3ad2ab14683314331aa5f904eeccbce9b7cfb7741",
+      "whole_issuer_catalog_closed": false,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "actual_contract_body_reviews": 0,
+      "aggregation_notice": "Exact parent-context source IDs only; no brand/entity/contract merge, no material inheritance, no current-sale or full-catalog assertion."
+    },
+    {
+      "id": "bpi_aia_ph_source_catalog",
+      "path": "2026-10-27/batch-11/bpi-aia-ph-catalog-batch/",
+      "regions": [
+        "PH"
+      ],
+      "source_observations": 45,
+      "unit": "typed_source_observations_not_verified_contracts_or_unique_SKUs",
+      "source_material_occurrences": 7,
+      "source_unique_material_urls": 7,
+      "accepted_source_manifest_sha256": "354615338c529d49350564cdc6b8b650cdd89c0c7ca46c921c041bf763adf21b",
+      "whole_issuer_catalog_closed": false,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "actual_contract_body_reviews": 0,
+      "aggregation_notice": "Exact parent-context source IDs only; no brand/entity/contract merge, no material inheritance, no current-sale or full-catalog assertion."
+    },
+    {
+      "id": "pru_life_ph_source_catalog",
+      "path": "2026-10-27/batch-11/pru-life-ph-batch/",
+      "regions": [
+        "PH"
+      ],
+      "source_observations": 72,
+      "unit": "typed_source_observations_not_verified_contracts_or_unique_SKUs",
+      "source_material_occurrences": 22,
+      "source_unique_material_urls": 22,
+      "accepted_source_manifest_sha256": "7d512312ce44a393116f7c724920d47e32ddbd8ee1cc02666ab703a9a204b462",
+      "whole_issuer_catalog_closed": false,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "actual_contract_body_reviews": 0,
+      "aggregation_notice": "Exact parent-context source IDs only; no brand/entity/contract merge, no material inheritance, no current-sale or full-catalog assertion."
+    },
+    {
+      "id": "aia_id_source_catalog",
+      "path": "2026-10-27/batch-11/id-aia-generali/",
+      "regions": [
+        "ID"
+      ],
+      "source_observations": 50,
+      "unit": "own_name_source_clusters_not_verified_contracts_or_SKUs",
+      "whole_issuer_catalog_closed": false,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "accepted_source_manifest_sha256": "66d2866792a12fa139d878372c8436eb4fe31360f52b2cb14d55d4a48b33b025",
+      "aggregation_notice": "Each exact source-company pool imported once. The 42-route language frontier is nonadditive; newer gap dispositions do not rewrite the frozen source acquisition results."
+    },
+    {
+      "id": "generali_id_source_catalog",
+      "path": "2026-10-27/batch-11/id-aia-generali/",
+      "regions": [
+        "ID"
+      ],
+      "source_observations": 27,
+      "unit": "own_name_source_clusters_not_verified_contracts_or_SKUs",
+      "whole_issuer_catalog_closed": false,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "accepted_source_manifest_sha256": "66d2866792a12fa139d878372c8436eb4fe31360f52b2cb14d55d4a48b33b025",
+      "aggregation_notice": "Each exact source-company pool imported once. The 42-route language frontier is nonadditive; newer gap dispositions do not rewrite the frozen source acquisition results."
     }
   ],
   "public_projection_rule": "Known historical or already-held raw locators are withheld; observed source-reference counts are not the count of exposed download URLs. No current-file confidentiality finding or fresh-byte verification is inferred.",
-  "last_projection_correction": "Batch 10: corrected MY two-publisher T1934Z 129 typed rows with 20 separate source contexts and 95 non-product unread references; GE public-v4 272 typed rows (SG126/MY146) with distinct webpage entity evidence, 544 unread material references and scoped dates, no inherited child entities/materials; separate exact-key AIA Cambodia limited review overlay preserves frozen source/C4/time and legacy deduplication-only identity. No new raw originals, formal-file or verified-SKU credit.",
+  "last_projection_correction": "Batch 11 PH: append 141 typed source observations from MCBL24, BPI AIA45 and Pru Life PH72, including parent-scoped riders and built-in benefit contexts, not independent SKUs. Preserve all older feeds and baselines; no PDF/contract-body review, source-company identity is not verified contract underwriting. Indonesia: 77 exact own-name source clusters with 82 routes, 135 unread material references and separate 42-route gap overlay (1 tool403,41 unrequested); all actual contractual underwriters unverified. No contract identity merging.",
   "document_review_overlays": [
     {
       "id": "document-review-aia-kh-4b414b3c8f4df54f-20261027",
