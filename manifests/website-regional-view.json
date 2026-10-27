@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "status": "local_source_candidate_not_deployed",
+  "baseline_public_commit": "58fb5d5c5ab09e74c4f3be88d2c9fa1d7b8f144b",
+  "baseline_public_files": 313,
+  "baseline_public_manifest_sha256": "27b2494bc438e42ce11f359f6c2f6aac7d332f054a55922d6ffde7d2d99f3ba3",
+  "site_project_id": "appgprj_6ad9e50081d881919e1b20b3843c8426",
+  "method": "Explicit 20-active-feed adapter; deterministic SHA256-approved public metadata inputs; no private originals or unapproved working freezes",
+  "existing_runtime_files_unchanged": 25,
+  "existing_directory_entries": 2360,
+  "formal_originals_unchanged": 4713,
+  "strict_verified_unchanged": 426,
+  "new_formal_originals": 0,
+  "new_verified_skus": 0,
+  "changes": [
+    {
+      "path": "docs/REGIONAL_VIEW.md",
+      "bytes": 9102,
+      "sha256": "3a49b217eeab92de56339fd4406e665421376e196ef86cd6785fa5b48fad361b",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "docs/WEBSITE_OPERATIONS.md",
+      "bytes": 9792,
+      "sha256": "155422cbc63d20b1650bdad3a762d3eeac20bb64d65c0911ecc26956c4339a0e",
+      "action": "modify",
+      "previous_sha256": "345e70bf5b6382cf3bb69bcf2848cbb6c893ddc8246a4a202af9ff5da49547e3"
+    },
+    {
+      "path": "docs/WEBSITE_PROVENANCE.md",
+      "bytes": 5245,
+      "sha256": "90328bb373fd3e1aac4890f92a5e98d0cb4d17054a9c46ba8f403e097097f1a6",
+      "action": "modify",
+      "previous_sha256": "dff6a7e47fdf451fe1e58e0f89c1c33b792011006ebc8dbf18c2de0dd3d13aca"
+    },
+    {
+      "path": "website/README.md",
+      "bytes": 3815,
+      "sha256": "340fcee9eb0651692eb62a8c50e5d1497ef8811ac880f07d2f9c131974ecdfea",
+      "action": "modify",
+      "previous_sha256": "4181e3e8605348bddaf8270f36cef3b0b6f29825262cdfc4fc6d6ac4c4b5e6ee"
+    },
+    {
+      "path": "website/config/coverage-approved-inputs.json",
+      "bytes": 44528,
+      "sha256": "d3f2c54243810d72cc4e32c486e9b6d771199c5f56cf03b5d840c3493fd3ff32",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/package.json",
+      "bytes": 863,
+      "sha256": "371b10663458c36fe003d76a0d1e3645042def0948d1b8e1d1546246c48ffe13",
+      "action": "modify",
+      "previous_sha256": "3d08f22e455cd6441eb5c77c62c45897e9b0bcce622c43af4900c645d52d3524"
+    },
+    {
+      "path": "website/public/coverage-app.js",
+      "bytes": 9449,
+      "sha256": "6d87aa79fb4fc5f3b1aec180f9bcbc7231847c9adcf57baa334cc47a98121549",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage-core.mjs",
+      "bytes": 11208,
+      "sha256": "78c4aecb5ff7130eed5827410e541ccde407746df9fdab532e82cb1388a01f6d",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage-observations-BN.json",
+      "bytes": 236443,
+      "sha256": "2091f3ebfa6a71dd046606d43a50282a7cb95f5e2d4b28bb10e3c7aeb81e8f8c",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage-observations-HK.json",
+      "bytes": 7970068,
+      "sha256": "cdbd2dd48d3ef1db806b039ee7e134b8b668a44269893409ff276e1084e6df59",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage-observations-ID.json",
+      "bytes": 26271,
+      "sha256": "8fa157b66c987d66005bfc522a7ef8948af6a3568d35d18b3a68a0e6c929a6d1",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage-observations-KH.json",
+      "bytes": 476356,
+      "sha256": "32a9376bd2397cb57d8c9fdbb863e8fa6ecd4def599b7fd5312d9dcb6887a2b9",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage-observations-LA.json",
+      "bytes": 76,
+      "sha256": "7b18c51e60d091613e01c9446565f499f6e2238b9a0711202dcc07028d7ed592",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage-observations-MM.json",
+      "bytes": 76,
+      "sha256": "889407bbac7556c0d55cd1c2ad3cedfd1b68bf2c422aab4eec4a27094c3eb7d0",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage-observations-MY.json",
+      "bytes": 3023208,
+      "sha256": "3b4f806570ff663fbaf2678d28d415ad2ea737d9aa7c16dea49c2caf4e1ee2c9",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage-observations-PH.json",
+      "bytes": 6430,
+      "sha256": "a6b3dcb9e3f4816cb44dfd78b3450873f70a93cebfdb1b024ce3e2a924182056",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage-observations-SG.json",
+      "bytes": 1373991,
+      "sha256": "532ce98eeb0c9acd050f0e37d6b31688a8c449944ac41767b6f49f0f4e8b2438",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage-observations-TH.json",
+      "bytes": 437318,
+      "sha256": "bef19cd123e369dee0c4b6d239d1cd8ce0513cf7ea20ecb8bc0f46e409289d02",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage-observations-TL.json",
+      "bytes": 76,
+      "sha256": "dff3fa895e36df2292212e8de4067de53852fa2b39d6756e7e0a94cef11e7347",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage-observations-VN.json",
+      "bytes": 76,
+      "sha256": "0fcbf5e57535b05fbd2183b7f686c4194b80d87889ce152646d867e9ff6c4757",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage-observations.json",
+      "bytes": 28235,
+      "sha256": "3db45e8fd252df05cc2c749c76ad0ee282b4152f87f378cbc7c5c275473804d5",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage.css",
+      "bytes": 3727,
+      "sha256": "e1aca57b692378cd264f6ed28fcaac8ea7ca8efe1fad8fffdaf3affb4763d17b",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/coverage.html",
+      "bytes": 5403,
+      "sha256": "be598cf0512cebf34d46bab9e2c2069632d0f98ea8c0129c4ef1b69c0c8643ac",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/public/index.html",
+      "bytes": 5106,
+      "sha256": "3370da84f3f0573c25f34b9efb83c8905500f0fe71d47c8d1688e0efda478a30",
+      "action": "modify",
+      "previous_sha256": "fcd4499bc6559530bcb49a8ea11631a4a09d60948ed4dd79178fa46e04e5aa4f"
+    },
+    {
+      "path": "website/scripts/build.mjs",
+      "bytes": 793,
+      "sha256": "3facb3533312edcc138fa2e8adf5aa4fc029a9beb4263b8383f60d9156d4a2f6",
+      "action": "modify",
+      "previous_sha256": "dde97083f278dcd0464b6ce83ed03d53fb6e9cc1df7248115f348432d1a89076"
+    },
+    {
+      "path": "website/scripts/coverage.mjs",
+      "bytes": 17983,
+      "sha256": "55712fe0fdcdee71114a67cfe1d2c2e92fc2589436e7935b4fda23f447897e1c",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/tests/coverage-ui.mjs",
+      "bytes": 12006,
+      "sha256": "715961b5ed4362f92b3d0163c5c66691643bfa5bff1d7465a338cf217534ddb5",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/tests/coverage.mjs",
+      "bytes": 10312,
+      "sha256": "b5646f5a02099b46832fd79363a607936c8aeeed80ad35518dbaa89ef8cea662",
+      "action": "add",
+      "previous_sha256": null
+    },
+    {
+      "path": "website/tests/http.mjs",
+      "bytes": 1566,
+      "sha256": "b2d5a7bdd81d6df735c2f583d71896e6cf05b9c9f84f444826b964317893e8ad",
+      "action": "modify",
+      "previous_sha256": "d855ecc428a894d01c05c9b01ecedecfb2b6861c9755d696dca1062ec8d5ae5c"
+    }
+  ],
+  "manifest_self_not_hashed": true,
+  "validation": {
+    "offline_install": "passed",
+    "existing_test_suite": "passed",
+    "new_data_check_groups": 17,
+    "new_DOM_stub_check_groups": 25,
+    "HTTP_all_runtime_assets": "passed",
+    "runtime_public_dist_byte_equal_files": 43,
+    "reproducibility": "byte_equal",
+    "build": "passed",
+    "browser_visual": "not_run_managed_preview_startup_timeout_no_route",
+    "deployment": "not_attempted",
+    "sharing": "unchanged",
+    "known_held_locator_gate": {
+      "files_scanned": 30,
+      "known_aliases": 61,
+      "known_sha_identities": 57,
+      "URL_only_hold_records": 1,
+      "matched_fields": 0
+    }
+  }
+}
