@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "compiled_at": "2026-10-27T13:19:07.972794+00:00",
+  "compiled_at": "2026-10-27T13:33:40.466491+00:00",
   "status": "in_progress_not_all_market_complete",
   "formal_original_baseline": 4713,
   "new_formal_original_credit": 0,
@@ -11,7 +11,20 @@
       "path": "2026-10-27/batch-2/hk-sg-my/",
       "source_observations": 435,
       "supersedes": "2026-10-27/hk-sg-my/",
-      "unit": "mixed_named_products_riders_groups_categories_services_not_unique_skus"
+      "unit": "mixed_named_products_riders_groups_categories_services_not_unique_skus",
+      "replacement_exclusions": [
+        {
+          "issuer_scope": "EQ Insurance Singapore",
+          "source_observations": 33,
+          "replaced_by": "sg_seven_catalog"
+        },
+        {
+          "issuer_scope": "Trinity Hong Kong",
+          "source_observations": 3,
+          "replaced_by": "hk_my_four_catalog"
+        }
+      ],
+      "aggregation_notice": "Retain historical snapshot but exclude these predecessor issuer observations when combining active feeds; source snapshot remains 435 rows."
     },
     {
       "id": "bn_kh_catalog_and_regional_queues",
@@ -63,6 +76,65 @@
       "path": "2026-10-27/th-id-ph/",
       "source_observations": 13,
       "unit": "bounded_initial_two_issuer_observations_and_dated_regional_census"
+    },
+    {
+      "id": "ocean_material_probe",
+      "path": "2026-10-27/batch-3/ocean-material-probe/",
+      "document_observations": 2,
+      "new_product_observations": 0,
+      "unit": "19_page_conditions_bundle_and_4_page_brochure_not_complete_individualized_contract",
+      "raw_files_included": false
+    },
+    {
+      "id": "samsung_life_catalog",
+      "path": "2026-10-27/batch-3/samsung-life/",
+      "source_observations": 53,
+      "unit": "named_catalog_observations_including_riders_and_packages_not_verified_skus",
+      "supplement_feed": "samsung888_supplement"
+    },
+    {
+      "id": "samsung888_supplement",
+      "path": "2026-10-27/batch-3/samsung888/",
+      "source_observations": 1,
+      "combined_samsung_named_observations": 54,
+      "unit": "one_additional_named_observation_and_separate_image_candidates_not_downloads"
+    },
+    {
+      "id": "sg_seven_catalog",
+      "path": "2026-10-27/batch-3/sg-seven/",
+      "source_observations": 604,
+      "replaces_prior_observations": 33,
+      "net_additional_observations": 571,
+      "unit": "mixed_source_observations_not_unique_skus"
+    },
+    {
+      "id": "manulife_my_catalog",
+      "path": "2026-10-27/batch-3/manulife-my/",
+      "source_observations": 65,
+      "unit": "mixed_offering_rider_component_observations_not_unique_skus"
+    },
+    {
+      "id": "hk_my_four_catalog",
+      "path": "2026-10-27/batch-3/hk-my-four/",
+      "source_observations": 283,
+      "replaces_prior_observations": 3,
+      "net_additional_observations": 280,
+      "unit": "mixed_source_observations_not_unique_skus"
+    },
+    {
+      "id": "sunlife_my_shared_catalog",
+      "path": "2026-10-27/batch-3/sunlife-my/",
+      "offering_observations": 61,
+      "document_observations": 218,
+      "legal_issuer_assignment": "offering_rows_unresolved_shared_site_document_rows_heading_scoped",
+      "unit": "separate_offering_and_document_observations_not_unique_products"
+    },
+    {
+      "id": "generali_my_shared_catalog",
+      "path": "2026-10-27/batch-3/generali-my/",
+      "offering_component_category_observations": 84,
+      "document_observations": 46,
+      "unit": "mixed_source_observations_with_scoped_or_unresolved_legal_underwriter_not_unique_products"
     }
   ],
   "public_projection_rule": "Known historical or already-held raw locators are withheld; observed source-reference counts are not the count of exposed download URLs. No current-file confidentiality finding or fresh-byte verification is inferred.",

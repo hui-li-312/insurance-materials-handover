@@ -57,3 +57,18 @@ Krungthai-AXA Life 的泰文主目录29个卡位已逐项访问，并与英文�
 本批仅发布检查过的必要元数据。原始监管表、网页快照、联系人、内部执行日志、待核原件及受限文件不在此目录中。对拒绝访问、旧年份来源、无效链接和语言限制保留实际状态，不绕过限制，也不把读取失败写成没有产品。
 
 公司名录和产品观察应结合各子目录的来源、时间与限制阅读。全市场覆盖仍在进行，任何覆盖率必须有明确分母、范围和处理证据。
+
+## 第三批已复核元数据
+
+以下为有界官网目录与材料线索，不是全部在售产品或已核验原件。读取 LATEST.json 的替代规则：新加坡七家公司批次替代旧 EQ 的33条观察；香港／马来西亚四家公司批次替代旧 Trinity 的3条观察。历史数据保留，不重复累计。
+
+- [Ocean Life 两份材料内容核对](2026-10-27/batch-3/ocean-material-probe/README.md)
+- [Samsung Life Thailand 53条目录观察](2026-10-27/batch-3/samsung-life/README.md)
+- [Samsung 888 补充，合计54条命名观察](2026-10-27/batch-3/samsung888/README.md)
+- [新加坡七家公司604条混合观察，替代旧EQ33条](2026-10-27/batch-3/sg-seven/README.md)
+- [Manulife Malaysia 65条混合观察](2026-10-27/batch-3/manulife-my/README.md)
+- [香港／马来西亚四家公司283条混合观察，替代旧Trinity3条](2026-10-27/batch-3/hk-my-four/README.md)
+- [Sun Life Malaysia 61条未定法律主体的产品／附加险观察与218条独立文档目录记录](2026-10-27/batch-3/sunlife-my/README.md)
+- [Generali Malaysia 84条产品／组件／类别观察与46条独立文档记录](2026-10-27/batch-3/generali-my/README.md)
+
+共享品牌站点的承保主体不从页脚猜测；目录文档、附加组件和语言版本不自动成为独立产品。新增PDF正文仍不随本批发布，正式原件和严格主条款计数不增加。
