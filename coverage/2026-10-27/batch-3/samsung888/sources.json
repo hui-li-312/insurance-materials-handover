@@ -1,0 +1,12 @@
+{
+  "regulator_url": "https://smart.oic.or.th/EService/Menu12",
+  "official_website": "https://samsunglife.co.th",
+  "source_date": null,
+  "prior_batch_manifest_sha256": "760f09e65e0b1dcc80b8616e64f7692a11fe97d465f0594b6997d1b8763b0fd7",
+  "samsung888_source": {
+    "url": "https://samsunglife.co.th/samsung888/",
+    "sha256": "36969a1fc4cdbc47b685fbd0516d2d09ac7528dcf04c4edab162a247fdc7146c",
+    "checked_at": "2026-10-27T11:06:49.571960+00:00"
+  },
+  "scope_note": "Only one new page requested; representative image and HTML information identified offline in saved pages, with no image request or arbitrary script execution."
+}

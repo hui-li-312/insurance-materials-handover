@@ -1,0 +1,19 @@
+{
+  "snapshot_at": "2026-10-27T11:09:41.835256+00:00",
+  "new_named_entries_verified": 1,
+  "cumulative_samsung_named_entries_with_prior_batch": 54,
+  "cumulative_visible_markup_entries": 52,
+  "cumulative_hidden_markup_entries": 2,
+  "remaining_failed_candidates": 1,
+  "failed_candidate_status": "Cancer Protect555 HTTP500; not retried",
+  "prior_unattempted_samsung888_gap_now_attempted": true,
+  "representative_html_pages_inspected": 6,
+  "embedded_image_candidate_links": 12,
+  "new_product_embedded_image_candidate_links": 2,
+  "material_image_files_requested": 0,
+  "new_formal_original_files": 0,
+  "issuer_all_public_catalogs_complete": false,
+  "all_skus_complete": false,
+  "all_wordings_complete": false,
+  "status": "ready_for_QA_not_publication"
+}
