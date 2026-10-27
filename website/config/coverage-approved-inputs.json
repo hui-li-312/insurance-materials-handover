@@ -1140,6 +1140,336 @@
     "sha256": "d7ffcaeb7bfa55679838f03d3aca989367483b4345675cb03b46b5b40e096419"
   },
   {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/README.md",
+    "bytes": 3539,
+    "sha256": "2459e28deb8e46d69b65e0a6ff695d377e1db76f3894f4ba9d23b9d6ab73957b"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/documents-etiqa-my.jsonl",
+    "bytes": 171747,
+    "sha256": "baee4d9f593276f7a832526921c91d38bffe6b666e22c1fb31b5421e76f05e4c"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/etiqa-my-catalog-source-status.json",
+    "bytes": 31099,
+    "sha256": "479d69495d95faa2502703c7ff495049707289d4c7d7382995f727fee7951bb6"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/etiqa-my-phase1-queue.json",
+    "bytes": 10651,
+    "sha256": "f15d57e11a70fd62e3d7c3c57982c9e6c872204f3f7b40d138566b5d6cf1ee97"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/etiqa-my-phase2-queue.json",
+    "bytes": 7905,
+    "sha256": "6d4378eda57f86b01bc02acb7d7dfb911ec141ee0d2eb9cf6b914cd004784a98"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/etiqa-my-phase3-queue.json",
+    "bytes": 967,
+    "sha256": "026988d57f1c80e1d4d6773afbe1a36f4b2e4b92aac9af320de380b7726e8f76"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/etiqa-my-positive-origin-evidence.json",
+    "bytes": 1068,
+    "sha256": "53e12a04d8b9a0debba6e39b51cb40e1d8b7913bfeeb5e822d783035160ed0e6"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/etiqa-my-separate-service-hrefs.json",
+    "bytes": 340,
+    "sha256": "91e54c3a2a76c8a732e6d57fb4c14e351cbe422ed6da1f9c6435a804c590c070"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/etiqa-my-source-metadata.json",
+    "bytes": 18685,
+    "sha256": "03f41f49dc91f8f2d19f0a89e0eba0cc469bcc412f00fe10fed21af829b979d6"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/etiqa-my-traversal.json",
+    "bytes": 3203,
+    "sha256": "b425180254b62ba6c7cd755df4d67c3be4493ee98c129155642a10366f4fedd8"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/intake-status.json",
+    "bytes": 1051,
+    "sha256": "3bbb33c8c0fb5a3ae98234a28fe55ca085658e584f2722c33d0475280523df92"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/issuer-specific-status.json",
+    "bytes": 3301,
+    "sha256": "b8df4c2276c5dd341b74df1a468eb140cfb2dce3a9f5d91596e004eb011857c5"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/manifest.json",
+    "bytes": 2889,
+    "sha256": "c7bd63522a5c31a011d96cc91121d11c8f817f31fc795c5bc0d40ed52ceae202"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/merge-map.json",
+    "bytes": 655,
+    "sha256": "d75cd63ab3a1ba284f345f38671816ca289e8e7cebfa9d5db36e5597000cdfeb"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/private-intake-metadata.json",
+    "bytes": 16991,
+    "sha256": "4ee5879b7de5ee63209ed287e1c83482f0e002fe909cd55b475b4e384971bf40"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/products-etiqa-my.jsonl",
+    "bytes": 281642,
+    "sha256": "20bec425751f641069022c974b82bd111f56873ff13f8fc6fc70507258db86de"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/publication-safety-gate.json",
+    "bytes": 238,
+    "sha256": "8d508688e4563cd19a820f7bf633fc8e2c93bdf2d918c65d815a86a935cfb868"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-my/v2-related-material-corrections.json",
+    "bytes": 4382,
+    "sha256": "2e39b6c75b1a8febd43ceb6437f431ff40b6a3fd622db2fabde4617bd620f173"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg-intake/README.md",
+    "bytes": 1705,
+    "sha256": "3c7afd6a1fff937d84ceac3f0314fbea8b98b7a70c3fd3548354e2a6b2ba6531"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg-intake/finite-source-linked-queue.json",
+    "bytes": 4231,
+    "sha256": "fc1c202642e6db5c8271de42c541579ff610a3ece296d0b9ea78996dbe71cfc0"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg-intake/manifest.json",
+    "bytes": 1091,
+    "sha256": "9a1ea4e2f4bcc1ad3d936f26050853af2ea0d8cb22dd6d6e0fe5f77aaed8c6ec"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg-intake/private-intake-metadata.json",
+    "bytes": 12436,
+    "sha256": "0b507e97b28d64cb611106ca2905f20861b56197fe9d95f8999f1fd6c55e49a2"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg-intake/proposed-observation-identity-patches.json",
+    "bytes": 4867,
+    "sha256": "c9b48128184f32eaa295b710a1e1fb99afcadd835478650578b297f22116c9ca"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg-intake/publication-safety-gate.json",
+    "bytes": 238,
+    "sha256": "8d508688e4563cd19a820f7bf633fc8e2c93bdf2d918c65d815a86a935cfb868"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg-intake/status.json",
+    "bytes": 674,
+    "sha256": "37f99a3671f896d4f0c5e960f5b4b3897176ce2b87f62dcc0abbabd5aa3f41fa"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/README.md",
+    "bytes": 5199,
+    "sha256": "17d48e4118b0df7c56dc01bcfeee63744ec8a8ec3ecfc76f0af990e9c5d36e63"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/documents-sg-etiqa-expanded.jsonl",
+    "bytes": 113060,
+    "sha256": "3afae6f9bbead2a35d813559fe989f2712c5067bf400f9b1b3882ec6d634a22c"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/initial-static-finite-queues.json",
+    "bytes": 15342,
+    "sha256": "8470ffc226197812463751ed5197be0704eef9930b24688ba05a10d3d7e88d2b"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/initial-static-issuer-origin-evidence.json",
+    "bytes": 839,
+    "sha256": "a81e54b90ee5f5f77d621f37abfda9141d4377fcf7b8528067171253e0a834c1"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/initial-static-source-attempts.json",
+    "bytes": 7769,
+    "sha256": "be19798a83e9c611dff9a49db02a8efe5f6c998ec215d0dc4d0af2986a3ecf96"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/initial-static-sources.json",
+    "bytes": 11019,
+    "sha256": "f664941c8977e2b34048ca3888319595ae9220658619d06b5a030374dd6742e8"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/issuer-specific-status.json",
+    "bytes": 2126,
+    "sha256": "6e3cf82cd592155a27d8ea7d78f2f822b58ca70a0af10594054df4b181c526e8"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/manifest.json",
+    "bytes": 4577,
+    "sha256": "e57789d4a03f628be25f7e69ffb602dba28f1ea5c8213da9d6f4b326ef728334"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/merge-map.json",
+    "bytes": 1237,
+    "sha256": "209b6ee6cff74b7779c5789de11cecffa30c821d2d75690b2b85ba01c875b37a"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/products-sg-etiqa-expanded.jsonl",
+    "bytes": 453786,
+    "sha256": "5481389f97b573335e9291b2999d51fe84334e0b19860e77d668e564ca5a4163"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/publication-safety-gate.json",
+    "bytes": 238,
+    "sha256": "8d508688e4563cd19a820f7bf633fc8e2c93bdf2d918c65d815a86a935cfb868"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/sg-etiqa-expanded-detail-sources.json",
+    "bytes": 16460,
+    "sha256": "1b2af110806884037d21d4b82b4831ed46cfbb6db8c10d9fc1dc1da11f278980"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/sg-etiqa-expanded-traversal.json",
+    "bytes": 3769,
+    "sha256": "df5931b0e1bd661d723f33dc4a6d8fa20a15484dd5621d7b625bcb53f6c702ac"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/sg-etiqa-expanded-visibility-audit.json",
+    "bytes": 12432,
+    "sha256": "12761d0453c52d8a3884b8719a26302d173782bf179afffa7c63bf4464b104dc"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/sg-etiqa-public-renderer-category-attempts.json",
+    "bytes": 22834,
+    "sha256": "9f05b9caa52dd5fd157d0e706f4ff53404e44c0b40696dca47cfce7ddab1cf74"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/sg-etiqa-public-renderer-offline-assessment.json",
+    "bytes": 2290,
+    "sha256": "21e383fa1196f3ccf88911133366c7da9eded75aea9c4eeb3f27e31ead85ee19"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/sg-etiqa-public-renderer-proposed-category-queue.json",
+    "bytes": 7686,
+    "sha256": "f90255bd153ae39c6224f2e60859d46c866dd6f447862ecf018aea4d82c38bc9"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/sg-etiqa-rendered-card-observations.jsonl",
+    "bytes": 48227,
+    "sha256": "66f21208c2a52e3b6e17c5ec6f86462ceec2e534f7366d6a0d8260d8ff286295"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/sg-etiqa-rendered-detail-attempts.json",
+    "bytes": 14849,
+    "sha256": "5b4f742bb1ad86abcc0753fca8527bfcaff24db0817401a0b8cc5391992ffd3e"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/sg-etiqa-rendered-detail-proposed-queue.json",
+    "bytes": 17728,
+    "sha256": "05b2e6a8f962955a8ec087b5b15d1eebd1ad63e1e97639795042ca44b2eb1d63"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/sg-etiqa-renderer-initial-offline-parse-correction.json",
+    "bytes": 675,
+    "sha256": "0f95352d880da94b2008884ebe362da790afea894d56fe1a7ddce9ae9a201f70"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/sg-etiqa-renderer-sources.json",
+    "bytes": 15981,
+    "sha256": "8143fb3d82548206a9dd4112c836fd5377c38b350eda3033d8267d8c99da1e84"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/sg-tiq-fourteen-attempts.json",
+    "bytes": 12796,
+    "sha256": "a0ab2437ee83ff37f85f7ee2756d9473fb4078d7232a0d9818faaf2d9dc6d922"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/sg-tiq-fourteen-readonly-proposal.json",
+    "bytes": 9934,
+    "sha256": "00e88d4ced96729eb235642f444c0c6586ac0bc24c068d7ec6f381c2a156e607"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/sg-tiq-pet-redirect-recovery.json",
+    "bytes": 1257,
+    "sha256": "6adc9ebfcc44e8a7e2eb451685a7a59b6c52fbbf9625df1be1d75aead32c763d"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/v2-material-role-corrections.json",
+    "bytes": 508,
+    "sha256": "ea9078de2e629b15918ec5036e922f1b628e1cfc6ccaee36e2aa97cc9d62f2e7"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/etiqa-sg/v3-consolidated-QA-corrections.json",
+    "bytes": 13166,
+    "sha256": "0fd182a672183a6b19435de89c5b774f2e959834b8f94745706bb1c049546789"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/vn/README.md",
+    "bytes": 2461,
+    "sha256": "53b6f8dd6044fe47d64237331c85badb008f307b77e6ac0c04667997ed3994bc"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/vn/catalog-observations.jsonl",
+    "bytes": 382462,
+    "sha256": "75be181acc5d75369fa15e39d8c8fc469584b80c67af3fd4cbc2bf0bd225e7ff"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/vn/cathay-catalog-scope.json",
+    "bytes": 3995,
+    "sha256": "8a6d0868d7d5fb92441c6696910f590fb1d3e0c9129e84f2780cc144c56b443c"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/vn/content-qa-corrections-v2.json",
+    "bytes": 17826,
+    "sha256": "c22799a5f3e5f40be0a26afa71a7271a389ba67b95dae832bfdc37ac5fbf4361"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/vn/coverage-layers-status.json",
+    "bytes": 162526,
+    "sha256": "83c712c66613484f5deaa52c2fad52cd849fb2796bdd59435f97926ee387d7a9"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/vn/identity-resolution.json",
+    "bytes": 154460,
+    "sha256": "18100c88e2432d0115f8f4837391ef1fa00251ec41b6ffedbe207c3329a4cef7"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/vn/issuer-queue.jsonl",
+    "bytes": 45902,
+    "sha256": "8729aa4fd7137b5e3858bfc5440c53175fe90c1e5020bf445cdcb08f51ce3140"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/vn/issuers.jsonl",
+    "bytes": 155122,
+    "sha256": "62d3e4b44f19dcc59aa195f2d4d35787e40908a2f32d0ae52670bc9965c0d2b9"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/vn/manifest.json",
+    "bytes": 2164,
+    "sha256": "fbbbab1571c83c208a581c2f22180724c244c80ecafc497ca92bb72e0e70ea1c"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/vn/material-source-observations.jsonl",
+    "bytes": 1837017,
+    "sha256": "5c9024a2bd8a7e7223e062bc6134d42f90a62c9aeee1cd79e7ffa399f8152407"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/vn/products.jsonl",
+    "bytes": 4560537,
+    "sha256": "8320cfcce309f98f1360e9403383f514469207316b35482d142ef0cba4dc0230"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/vn/projection-notes.json",
+    "bytes": 1156,
+    "sha256": "b72427dc065d4eec33b898a0158f081fe3aec1a5f797b1b0a28bbcf654333212"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/vn/run-status.json",
+    "bytes": 4461,
+    "sha256": "e33cecc40a8eef3c77d170a4715394cd5a89eea9867ea5b30d16c630e9fbc81b"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-6/vn/sources.json",
+    "bytes": 45674,
+    "sha256": "756d02bef13ae82d72f27ab9b16cefdebdbe8c5497393d8aa267e78bcb43ff5e"
+  },
+  {
     "path": "coverage/2026-10-27/hk-sg-my/README.md",
     "bytes": 5650,
     "sha256": "4c18513f42af4738d19fb8ad5467526c7ac866146cf87ff1ea4f89bcc3abcc54"
@@ -1316,12 +1646,12 @@
   },
   {
     "path": "coverage/LATEST.json",
-    "bytes": 8375,
-    "sha256": "77337bc44c97223bb45024c0aa015ab51eba21d77d4899884cc1ceca553b6218"
+    "bytes": 11069,
+    "sha256": "8981e5c804ae9f7a0a48d79ef3366b5f7f3d1d565aab9e88f3df463e61a61aaf"
   },
   {
     "path": "coverage/README.md",
-    "bytes": 10434,
-    "sha256": "e70c594eddf84b7957e46c1240c08412a4f7151f9d0c239078166f9d30008cf9"
+    "bytes": 12557,
+    "sha256": "8a3a71081d674d41de691dbdd814d58e913372a7ace60f6062f11526df3be4db"
   }
 ]
