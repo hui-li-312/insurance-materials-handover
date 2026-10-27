@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import {filterProducts} from '../public/library-core.mjs';
+const data = JSON.parse(fs.readFileSync(new URL('../public/product-library.json', import.meta.url), 'utf8'));
+const results = filterProducts(data.products, {region:'HK', q:'iTarget', category:''});
+assert.equal(results.length, 1);
+assert.match(results[0].id, /itarget3/i);
+assert(results[0].materials.some(material => String(material.version).includes('2020')));
+assert.equal(filterProducts(data.products, {region:'SG', q:'iTarget', category:''}).length, 0);
+console.log('PASS canonical product identifier alias search, region boundary and historical material retention');
