@@ -109,3 +109,15 @@ SAMPLE／示范件仍可以是真正的主保单条款，不等于宣传册；�
 ## 第九批：泰国两家寿险来源目录
 
 [Muang Thai Life 固定源](2026-10-27/batch-9/muangthai-life-th/README.md) 56 条与 [Bangkok Life corrected v2 QA 固定源](2026-10-27/batch-9/bangkok-life-th/README.md) 59 条命名观察各导入一次；合计 5,101 条混合观察 / 28 feeds，不是产品／SKU 数。44 条从属组件／变体及 7 条类别、受众与比较语境不另计产品；8 张仅文件卡、2 张未访问在线卡和 Bangkok 4 条未访问渠道引用保持各自状态。118 条文件候选与另列的 227 条未审图片引用（183 个唯一 URL）没有新增正式原件、OCR／视觉审查或完整条款信用。完整范围与本地验证见 [REGIONAL_REFRESH_BATCH9.md](../docs/REGIONAL_REFRESH_BATCH9.md)。该候选未部署；基于已验证完整 batch8 HEAD `8845a19e3ba2c364f642c2c7ec335bcc47d9c935`，发布前须复核当前 HEAD 并保留较新的部署文档。
+
+## 第十批：马来西亚两来源目录与柬埔寨有限文档审读
+
+只纳入 [MY 两来源 T1934Z 纠正版](2026-10-27/batch-10/my-two-catalog/README.md) 的 11 个已批准元数据文件：129 条明确类型观察（27 product、13 group_product、80 rider、2 package、5 variant、2 unknown）各导入一次；20 条来源语境独立保留，不凑入 active observation 行。64 个 selector membership / 63 个不同 origin+raw-link 不是额外产品。所有合同承保人字段为 null；来源发布者不是合同主体结论。95 条未读文件引用仅保留为来源级语境，观察 materials 保持空，不继承到产品。PRUMan 与 PRULady 为两条命名观察，共同页面不另造第三产品；PRUGrowth 非父产品，Spouse/Parent 自身目标仍未暴露且未读。DamaiGenZ CMS、PRUCancer X、不可用详情、语言路线和 master-policy 空组件边界均保留。
+
+[AIA Cambodia 已批准审读输入](2026-10-27/batch-10/aia-kh-document-review/README.md) 的候选措辞保留为原始冻结时点记录；准入与运行时精确绑定由本批入口及固定 SHA 配置记录。仅一条材料新增独立 review overlay：保留原 material_ref_id 后按材料 ID、精确 URL、父观察、issuer 和审读 PDF SHA 验证，拒绝 reference-3 回退。冻结来源角色、C4 和时间不改。文件确含基本主保单、健康附加险及服务条款；91 页视觉查看、41 页英文 OCR/语义审读不等于高棉文逐条法律审校。法律日期、在售、个人完整签发包未知；既有相同 URL+SHA 只去重原件、不合并产品。
+
+[GE public-v4 固定源](2026-10-27/batch-10/great-eastern-sg-my/README.md) 的 28 个公开元数据文件新增 272 条类型观察（SG126／MY146），不是唯一合同或 SKU。6 个官网 underwritten-by 声明与 58 个官网 policy-issuer 声明分别保留，不声称已读实际合同；79 个 MY 子观察不继承主体或材料。GREAT Business Care 为 SME 组合方案系列，5 个命名 package 变体各自保留；544 个材料关联／357 个 URL 都未读正文，141 个 rider 与 10 个 package 关联不计父主条款。91 个 as-of 标签和 5 个其他范围日期不转换成发布或生效日期。158 次已记录来源请求为历史采集事实，不能复用为访问许可。既有目录 SG17 行／14 页与 MY13 行／4 页的重合仅保留溯源，不合并产品或继承原 PDF 审核。
+
+本地候选为 5,502 条混合来源观察 / 30 feed descriptors（26 个实际贡献行），SG 1,049／MY 1,609 条。原目录 2,360、正式原件 4,713、严格核验 426 不变。只纳入上述 42 个准入源文件（AIA3／MY11／GE28），不纳入旧 GE v3、私有控制记录或原件正文；未部署。源 metadata 的 pending/未发布状态保留其原始时点，不覆盖成新来源观察。发布前仍须按实际远端 HEAD 重新基线并保留最新部署文档。
+
+第十批精确输入、主体证据层级、计数与复现说明见 [REGIONAL_REFRESH_BATCH10.md](../docs/REGIONAL_REFRESH_BATCH10.md)。

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "compiled_at": "2026-10-27T18:47:00Z",
+  "compiled_at": "2026-10-27T19:57:00Z",
   "status": "in_progress_not_all_market_complete",
   "formal_original_baseline": 4713,
   "new_formal_original_credit": 0,
@@ -335,8 +335,70 @@
       "new_formal_original_credit": 0,
       "new_verified_SKU_credit": 0,
       "aggregation_notice": "Import named observations once by issuer and stable source record ID; subordinate components, variants, generic classes, audience and comparison routes, and unvisited channels are non-additive. Document/image references are unreviewed, not complete policy wordings."
+    },
+    {
+      "id": "my_two_publisher_catalog",
+      "path": "2026-10-27/batch-10/my-two-catalog/",
+      "regions": [
+        "MY"
+      ],
+      "source_observations": 129,
+      "nonadditive_source_contexts": 20,
+      "unit": "typed_source_products_groups_riders_packages_variants_unknown_not_independent_contracts_or_SKUs",
+      "source_company_ids": [
+        "MY-own-447346ca30a0a5f2",
+        "MY-own-cce842ed63b41679"
+      ],
+      "contractual_issuer_mapping": "unverified_all_contractual_fields_null",
+      "source_material_occurrences": 0,
+      "nonadditive_source_level_unread_material_references": 95,
+      "selector_memberships": 64,
+      "selector_distinct_origin_raw_link_pairs": 63,
+      "accepted_source_manifest_sha256": "548975cfaf4a1a14fed80543b28c38334329b5f7c865b02a842b3af8a69d79c3",
+      "whole_issuer_catalog_closed": false,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "aggregation_notice": "Import 129 stable typed observations once; keep 20 contexts, selector memberships and source-level unread references separate and non-additive. Publisher identity is not contractual issuer verification; no inherited product materials."
+    },
+    {
+      "id": "great_eastern_sg_my_catalog",
+      "path": "2026-10-27/batch-10/great-eastern-sg-my/",
+      "regions": [
+        "SG",
+        "MY"
+      ],
+      "source_observations": 272,
+      "observations_by_region": {
+        "SG": 126,
+        "MY": 146
+      },
+      "unit": "typed_shared_source_products_families_riders_packages_variants_components_audience_not_verified_contracts_or_SKUs",
+      "source_material_occurrences": 544,
+      "source_unique_material_urls": 357,
+      "nonadditive_document_index_rows": 357,
+      "official_page_underwritten_by_statements": 6,
+      "official_page_policy_issuer_statements": 58,
+      "actual_contract_body_reviews": 0,
+      "accepted_source_manifest_sha256": "5ee33f778f1f406e626974aa698a1cc4b6f8aaf3776b3019a8a33cdd94e15c55",
+      "whole_issuer_catalog_closed": false,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "aggregation_notice": "Append exact source IDs once in supplemental observations; document/card/date indexes are nonadditive. Keep 6 webpage underwritten-by statements distinct from 58 webpage policy-issuer statements; actual contract underwriter is unverified. Children inherit neither entity nor material. Legacy overlaps do not authorize product merge, new SKU or reused PDF review."
     }
   ],
   "public_projection_rule": "Known historical or already-held raw locators are withheld; observed source-reference counts are not the count of exposed download URLs. No current-file confidentiality finding or fresh-byte verification is inferred.",
-  "last_projection_correction": "Batch 9: exact independently approved Muang Thai Life (56) and corrected Bangkok Life v2 QA (59) named observations added once. Preserve all contract-role uncertainty, routes, source timestamps, subordinate relations, document-only and unvisited channels, and unreviewed image references. Life issuers stay separate from similarly named nonlife companies; no formal-original or verified-SKU additions."
+  "last_projection_correction": "Batch 10: corrected MY two-publisher T1934Z 129 typed rows with 20 separate source contexts and 95 non-product unread references; GE public-v4 272 typed rows (SG126/MY146) with distinct webpage entity evidence, 544 unread material references and scoped dates, no inherited child entities/materials; separate exact-key AIA Cambodia limited review overlay preserves frozen source/C4/time and legacy deduplication-only identity. No new raw originals, formal-file or verified-SKU credit.",
+  "document_review_overlays": [
+    {
+      "id": "document-review-aia-kh-4b414b3c8f4df54f-20261027",
+      "path": "2026-10-27/batch-10/aia-kh-document-review/document-review.json",
+      "sha256": "ea36923a161234e49125c860e47074010b1c0a776ef8f9cdb447a15543190fbd",
+      "enriched_existing_materials": 1,
+      "new_observation_rows": 0,
+      "new_formal_original_credit": 0,
+      "new_strict_verified_credit": 0,
+      "preserved_frozen_source_and_C4": true,
+      "scope": "exact_original_material_id_document_URL_parent_issuer_and_reviewed_PDF_SHA; separate_limited_visual_and_English_semantic_review_not_Khmer_legal_clearance"
+    }
+  ]
 }
