@@ -1,0 +1,66 @@
+{
+  "snapshot_at": "2026-10-27T14:57:37.371344+00:00",
+  "metadata_audited_at": "2026-10-27T21:27:16Z",
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "44f52f497c38d94e2c9ca06a0308d9a6b777ec4feed83777b8d1ac4e4f380c87",
+      "bytes": 3110
+    },
+    {
+      "file": "audit-summary.json",
+      "sha256": "bb4311fef4271eb02e7792767642b995ca965ec919e969e5c25f6f958fedad20",
+      "bytes": 2765
+    },
+    {
+      "file": "catalog-mapping.jsonl",
+      "sha256": "3ee31e738f27d57cc9ace73512cefed75f7505ab8b6e8046528e4332459a2ed5",
+      "bytes": 10317
+    },
+    {
+      "file": "document-catalog-links.jsonl",
+      "sha256": "07be14de3b36186cf32f5c1dad070c43b0623f5d6473c43121dae7d088d63578",
+      "bytes": 11062
+    },
+    {
+      "file": "image-candidates.jsonl",
+      "sha256": "f92bd399843bb61062a0eee548a2358ac089991ddd59b0ff0e088bdf046421cf",
+      "bytes": 3878
+    },
+    {
+      "file": "issuer-frontier.jsonl",
+      "sha256": "a3c442c81794c141c1736c3c335b59f0acdb296b96ded18d208a491700c198ed",
+      "bytes": 6250
+    },
+    {
+      "file": "pension-material-links.jsonl",
+      "sha256": "010825dc0ecc4654d7910a29133d841e3dbdbb4150f8f2327f61bfacc63fce27",
+      "bytes": 4044
+    },
+    {
+      "file": "pension-programs.jsonl",
+      "sha256": "6c53884c0dae52fa6bf6d4b0c8fe17ec570445d410698e6c09376ed9b3b7218c",
+      "bytes": 1448
+    },
+    {
+      "file": "products.jsonl",
+      "sha256": "2dbc197aacabf3a0950a7c0e33dce7f054e65cd04ec092ea4743543d1f3e89d4",
+      "bytes": 121339
+    },
+    {
+      "file": "run-status.json",
+      "sha256": "e9de03b2459200df9e2d586134a24ff10dc36798ac3e9fbcc73d599e9b728472",
+      "bytes": 1609
+    },
+    {
+      "file": "sources.json",
+      "sha256": "10653c2a45f202c8b34d44f1bf1ad911573d3f566d1bdc4d997edaa543e867ed",
+      "bytes": 14284
+    },
+    {
+      "file": "visited-pages.jsonl",
+      "sha256": "c3095b9e664da75b2411e6bb2823b105f114de7da7a9c45e3ffa84ec3b10c756",
+      "bytes": 17680
+    }
+  ]
+}

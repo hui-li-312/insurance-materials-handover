@@ -1,0 +1,61 @@
+{
+  "audit_at": "2026-10-27T21:27:16Z",
+  "scope": "Finite local metadata audit of 40 cached source pages",
+  "source_pages_actual_hash_verified": 40,
+  "observations": 33,
+  "role_counts": {
+    "product": 23,
+    "group": 10
+  },
+  "per_issuer_observations": {
+    "own-id-f9752fb748ed": 7,
+    "own-id-f4233d7451fc": 6,
+    "own-id-a23c77728c31": 11,
+    "own-id-1e3012626627": 9
+  },
+  "product_material_association_slots": 58,
+  "public_product_material_target_references": 57,
+  "withheld_product_material_slots": 1,
+  "separate_document_directory_references": 9,
+  "separate_pension_programs": 2,
+  "separate_pension_document_references": 4,
+  "unreviewed_image_references": 5,
+  "baseline_ID_observations_compared": 90,
+  "baseline_exact_observation_overlap": 0,
+  "legacy_exact_safe_material_locator_matches": 1,
+  "legacy_match_limit": "A matching locator is not byte identity or inherited content review. Negative issuer-label matches do not establish no prior coverage.",
+  "legacy_Victoria_legal_name_rows": 3,
+  "legacy_Victoria_brand_only_rows": 1,
+  "metadata_corrections": [
+    {
+      "scope": "one held material association",
+      "change": "Removed all prior-hold controls and known fingerprint metadata. Kept a generic withheld slot with null target and no target fallback."
+    },
+    {
+      "scope": "33 observations",
+      "change": "Publisher/source entity is explicit and contract underwriter remains unverified. Named observations retain credit 1; individual-product and unique-SKU credits are zero."
+    },
+    {
+      "scope": "11 Indolife catalog mappings",
+      "change": "Described named card plus adjacent generic read-more anchor accurately instead of claiming the anchor itself carries the product name."
+    },
+    {
+      "scope": "CLII Excellent Group Protection",
+      "change": "Exact product name is title/catalog supported; exact body-name match was not present. Retained product-specific benefit-body evidence without upgrading it."
+    },
+    {
+      "scope": "China Life source-language description",
+      "change": "English-navigation routes contain mixed Indonesian and English body content. Document language remains source-link-label evidence only, including two original misspelled language labels."
+    },
+    {
+      "scope": "historical directory website provenance",
+      "change": "Stored the observed www. website strings separately from normalized HTTPS official-source URLs. Historical directory membership is not current licensing or contract-underwriter verification."
+    }
+  ],
+  "network_requests_in_audit": 0,
+  "new_formal_original_credit": 0,
+  "new_unique_sku_credit": 0,
+  "all_catalogs_complete": false,
+  "all_wordings_complete": false,
+  "current_license_denominator_verified": false
+}

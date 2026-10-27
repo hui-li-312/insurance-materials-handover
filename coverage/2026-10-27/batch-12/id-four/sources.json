@@ -1,0 +1,321 @@
+{
+  "snapshot_at": "2026-10-27T14:57:37.371344+00:00",
+  "region": "ID",
+  "regulator_source_url": "https://ojk.go.id/id/kanal/iknb/data-dan-statistik/direktori/asuransi/Documents/Direktori%20Asuransi%20Triwulan%20III%202025.xlsx",
+  "source_period": "2025 Q3",
+  "source_date": null,
+  "source_publication_date": "2025-10-29",
+  "currentness_limit": "Historical OJK head-office roster, not a current 2026 active-license determination.",
+  "identity_evidence": [
+    {
+      "issuer_id": "own-id-f9752fb748ed",
+      "legal_name": "PT Capital Life Indonesia",
+      "source_locator": "Asuransi Jiwa!row 31",
+      "regulator_website_observed": "www.capitallife.co.id",
+      "normalized_official_website": "https://www.capitallife.co.id",
+      "evidence_scope": "historical_directory_identity_and_site_origin_only"
+    },
+    {
+      "issuer_id": "own-id-f4233d7451fc",
+      "legal_name": "PT Victoria Alife Indonesia",
+      "source_locator": "Asuransi Jiwa!row 41",
+      "regulator_website_observed": "www.victorialife.co.id",
+      "normalized_official_website": "https://www.victorialife.co.id",
+      "evidence_scope": "historical_directory_identity_and_site_origin_only"
+    },
+    {
+      "issuer_id": "own-id-a23c77728c31",
+      "legal_name": "PT Indolife Pensiontama",
+      "source_locator": "Asuransi Jiwa!row 36",
+      "regulator_website_observed": "www.indolife.co.id",
+      "normalized_official_website": "https://www.indolife.co.id",
+      "evidence_scope": "historical_directory_identity_and_site_origin_only"
+    },
+    {
+      "issuer_id": "own-id-1e3012626627",
+      "legal_name": "PT China Life Insurance Indonesia",
+      "source_locator": "Asuransi Jiwa!row 32",
+      "regulator_website_observed": "www.chinalife.co.id",
+      "normalized_official_website": "https://www.chinalife.co.id",
+      "evidence_scope": "historical_directory_identity_and_site_origin_only"
+    }
+  ],
+  "source_pages_in_this_snapshot": 40,
+  "new_requests": 37,
+  "reused_same_day_details_hash_verified": 3,
+  "reused_detail_sources": [
+    {
+      "url": "https://www.chinalife.co.id/products/clii-excellent-hospital-income-plan",
+      "page_sha256": "e045dbe98d6fac1e8f438722b0d10d8e40cac3760744fef39a345bfa9f369b02",
+      "source_fetched_at": "2026-10-27T10:02:48.366213+00:00"
+    },
+    {
+      "url": "https://www.chinalife.co.id/products/clii-excellent-insurance-plan",
+      "page_sha256": "46b557cc010c1ddc80854e04ac8e90cf3b59a52f8813ad21cc2a6bc4d85a8566",
+      "source_fetched_at": "2026-10-27T10:05:32.100508+00:00"
+    },
+    {
+      "url": "https://www.chinalife.co.id/products/CLII-Critical-Insurance-Plan",
+      "page_sha256": "a86189608760fb7fe94fbd40330804145533645aa3929c8ecd6d025d80c86080",
+      "source_fetched_at": "2026-10-27T10:04:24.290105+00:00"
+    }
+  ],
+  "scope_limits": [
+    "Categories and navigation hubs are not individual products. Named observations do not establish unique SKUs, new-business sale status or full contracts.",
+    "Only exact title matching joins the two VAI embedded cards to their detail routes; differing VIP navigation labels remain explicit source inconsistencies.",
+    "Capital Life standalone RIPLAY catalog rows are retained separately instead of name-only merging with its own detail-page documents.",
+    "Chinese/Indonesian language variants, other channels and source-page pagination semantics are not universally closed. No pagination control was identified in these selected catalog HTML bodies; this is not a companywide exhaustion assertion.",
+    "Source entities are website/catalog publishers. Contract-underwriter identity for each observation, current licenses, new-business availability, unique SKUs and complete wordings are not independently established.",
+    "China Life routes selected from English navigation contain mixed Indonesian and English body text. Source-link language labels do not establish the downloaded document language.",
+    "The 33 records are named source observations, not 33 proven unique or newly discovered insurance products.",
+    "A generic withheld material slot has no public target. Its safe ordinary source-page reference is not a material-download substitute."
+  ],
+  "material_status": "57 non-held product material target references and one withheld null-target slot. Source labels/filenames are metadata only. No PDF/image download or content review in this batch; all wording candidates remain unverified here.",
+  "audit_checked_at": "2026-10-27T21:27:16Z",
+  "audit_method": "Local hash recomputation and parsed cached HTML link/name/source association verification; no new retrievals.",
+  "audit_network_requests": 0,
+  "source_publication_date_verification": "reported_in_original_collection_metadata_not_independently_reverified_by_local_audit",
+  "regulator_source_sha256": "ca5382e8309c7e9ccfd35754c6a27f1580cedc710c2ade94ae19b04b9a06cec7",
+  "source_capture_references": [
+    {
+      "url": "https://www.capitallife.co.id/riplay",
+      "sha256": "1c73d78ea0349b7414585f06101dc056053da6f4f53ba7c7f54f904a474ca1dd",
+      "bytes": 52189,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.capitallife.co.id/individu",
+      "sha256": "9fe2290edcb91ac2dfd09d5cefdae5453d4d70f9beb5d29d1f2f8d0d2aeb8276",
+      "bytes": 54470,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.capitallife.co.id/kumpulan",
+      "sha256": "0969976dfb2128a7b844c02044734266a0a4eada55417063411ab76517e1bebd",
+      "bytes": 57482,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.capitallife.co.id/pensiun",
+      "sha256": "e0a9794b1ffc4109b6cbc2ec9858e40d011f01efaa13876bbf4a5e4fbfd6e82d",
+      "bytes": 57714,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.capitallife.co.id/individu/detil/38/asuransi-capital-sakti",
+      "sha256": "ac171aab2d574c34c81c36f11d62f668db5fdbf5236309f65ac9a33456ade5de",
+      "bytes": 50408,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.capitallife.co.id/individu/detil/9/asuransi-capital-proteksi-plus-(idr)",
+      "sha256": "61098eb6dfaff6303efaae824c63450ba1cea171cae67c841629ccaeecf9eb5f",
+      "bytes": 53001,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.capitallife.co.id/individu/detil/36/asuransi-capital-proteksi",
+      "sha256": "96098b3d50f560dccc3a9d789b04b260d87896db5738a7c3a68a9598d5ea8392",
+      "bytes": 48506,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.capitallife.co.id/kumpulan/detil/41/asuransi-capital-proteksi-kredit",
+      "sha256": "37128a9077e270b1e0552a9727246450b3c34607d7c20a6a2205c06db1246e7a",
+      "bytes": 49181,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.capitallife.co.id/kumpulan/detil/39/asuransi-capital-personal-accident-group",
+      "sha256": "0d31f2d09bf5eeaaa8f4b171e14f652a20d90444815e3852c07e7b5ac224db71",
+      "bytes": 49731,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.capitallife.co.id/kumpulan/detil/57/asuransi-capital-eka-proteksi-plus-group-(cakap-plus)",
+      "sha256": "ffecfacea1c891d2b434f7c96c3e460b180428cf3edf2f081d743ca0d45011dc",
+      "bytes": 48666,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.capitallife.co.id/kumpulan/detil/40/asuransi-capital-proteksi-group-(acpg)",
+      "sha256": "3ddb3386fae26d4241286ae02b3dc9b46d19694074a11186a90f17496a07b1d2",
+      "bytes": 48976,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.victorialife.co.id/produk-kami/",
+      "sha256": "ac0c3cc79195a194d4dd79cc6ac851d54c1b7c5eead6afec744b6825e3d6d4f7",
+      "bytes": 44058,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.victorialife.co.id/vip-whole-life/",
+      "sha256": "5d2c8fbc873e7cd5c3bb5588eeece84ebfbabcf47db9fc0ef847283a2bec73d2",
+      "bytes": 40280,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.victorialife.co.id/vai-term-life-assurance/",
+      "sha256": "3492f760203151f9ac18fae506dcee625e04229df04b1726e7445d1f155b9f45",
+      "bytes": 38678,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.victorialife.co.id/vip-life-assurance-protection/",
+      "sha256": "c0834dfa00a4299eb911b728b6d3b89e55a4cf9cd6e084d6e723ec1b400a956f",
+      "bytes": 38318,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.victorialife.co.id/vai-accident-assurance/",
+      "sha256": "81c6a89584dba2dc961ee1040f9f2907f33cd6d5331a73a329f50b69c07ca80d",
+      "bytes": 39931,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.indolife.co.id/Reads/Index/asuransi--jiwa--individu",
+      "sha256": "da2b9c41366af515b749a0c98d63117a8b292cf457cfd0cd25cc5ccbda087e10",
+      "bytes": 25870,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.indolife.co.id/Reads/Index/asuransi--jiwa--kumpulan",
+      "sha256": "45f7b81b23cef4ea442ea5200dbcb55a672ba4f5c67d1c5dbf614ee7f0cc5791",
+      "bytes": 19937,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.indolife.co.id/Read/Detail/usave",
+      "sha256": "51d4effa5b48f39fe1d891abf1d0c8afc0db3882881ff0014dbca592fc9220af",
+      "bytes": 23505,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.indolife.co.id/Read/Detail/studysave--300",
+      "sha256": "2e38607753bf4c827382b162427f3934a247807dbf06504d3b5d3726ec7f7dd1",
+      "bytes": 23130,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.indolife.co.id/Read/Detail/sentosa",
+      "sha256": "34c3ec0c70956d66deccd37d2745a47078d2f31ce8d499ecc9bba4a63852d184",
+      "bytes": 22732,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.indolife.co.id/Read/Detail/anuitas--seumur--hidup",
+      "sha256": "0345dc90c4bf0131bdb5fd6edea2117e1fdd96671c2e3177393be4f5188e9bcb",
+      "bytes": 22871,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.indolife.co.id/Read/Detail/studysave--dwiguna",
+      "sha256": "a402ec956caee6de8132efb143d0a002fc940ab54407fcb1b3f6084507787a7c",
+      "bytes": 22797,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.indolife.co.id/Read/Detail/studysave--bertahap",
+      "sha256": "f83a3f762959bf9a1e8a882a1f2cb4b716985972988e8e9b724a16c75e2bcb70",
+      "bytes": 23285,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.indolife.co.id/Read/Detail/studysave--mustika",
+      "sha256": "e4ad472e4b293ab355541128b0acbbb684f0aaf2cdacb5e3d61a13208814b19b",
+      "bytes": 23995,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.indolife.co.id/Read/Detail/studysave--plus",
+      "sha256": "7bbcf59655b347d3f2d6b17843dd3577267dc73e9260da897cca85fd31327f4b",
+      "bytes": 24760,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.indolife.co.id/Read/Detail/studysave--permata",
+      "sha256": "742734b2561d37f2dd8bf513c3f94c0b75341d94af03ade6084660c6a47d89b0",
+      "bytes": 23835,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.indolife.co.id/Read/Detail/group--term-first--(gtf)",
+      "sha256": "1e9aecccdf38a26b3b0222c81557ab5857a34b71ff95c3a65ccfc7c205bb9bba",
+      "bytes": 23542,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.indolife.co.id/Read/Detail/micro-50",
+      "sha256": "51793551a1f56d9f43d9268060d20e3a7f920e57c697ffecc8036b4b4f416791",
+      "bytes": 23728,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.chinalife.co.id/products/Individual-Product",
+      "sha256": "5aa39c72117a07d94aa1c0a4a7576123adbc5204640cac0e47fafd7748b13f7a",
+      "bytes": 67534,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.chinalife.co.id/products/Group-Term-Life",
+      "sha256": "dd0b0c8e02c1b6256598924bb16b1bfa93508e0f8c6b2bf10b438ec30b95c74f",
+      "bytes": 61356,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.chinalife.co.id/products/insurance/cli-excellent-academic-assurance-plan",
+      "sha256": "1e71ecf74d83b36ec6d6ddb62f6470539d44527683a4e9e4e93523e4765db989",
+      "bytes": 61057,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.chinalife.co.id/products/insurance/clii-excellent-hospital-income-plan-plus",
+      "sha256": "fe40b17b2af5ad12bf910b5c79c1e5343f9a5cd67ac501cc833346013a6ced06",
+      "bytes": 59535,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.chinalife.co.id/products/CLII-Excellent-Group-Protection",
+      "sha256": "d0bb5c23a65f054a2e7beb441a47954e0373bc11a523640a30eeb5e1816ba00c",
+      "bytes": 52822,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.chinalife.co.id/products/CLII-Excellent-Group-Health-Care",
+      "sha256": "624ec7220dd4699b3ef37ac30e7dd1466e82c64e5f65d99783ff5704de93400e",
+      "bytes": 66024,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.chinalife.co.id/products/CLI-Group-Accident-Protection-Plan",
+      "sha256": "51e71cc075132ec1a98acb8923834488a8b7255a749eeba60c9088459fa19b95",
+      "bytes": 59527,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.chinalife.co.id/products/insurance/cli-group-accident-flexible-protection-plan",
+      "sha256": "21b8b39e1467a8255db570280577a4f7d19f35aa7cbe430fa995911a7ee7673d",
+      "bytes": 59707,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.chinalife.co.id/products/clii-excellent-hospital-income-plan",
+      "sha256": "e045dbe98d6fac1e8f438722b0d10d8e40cac3760744fef39a345bfa9f369b02",
+      "bytes": 64178,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.chinalife.co.id/products/clii-excellent-insurance-plan",
+      "sha256": "46b557cc010c1ddc80854e04ac8e90cf3b59a52f8813ad21cc2a6bc4d85a8566",
+      "bytes": 61956,
+      "local_hash_reverified": true
+    },
+    {
+      "url": "https://www.chinalife.co.id/products/CLII-Critical-Insurance-Plan",
+      "sha256": "a86189608760fb7fe94fbd40330804145533645aa3929c8ecd6d025d80c86080",
+      "bytes": 61878,
+      "local_hash_reverified": true
+    }
+  ]
+}
