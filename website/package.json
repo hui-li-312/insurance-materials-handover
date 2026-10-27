@@ -4,14 +4,18 @@
   "private": true,
   "type": "module",
   "description": "Portable handover of the deployed products and terms library; not the news journal",
-  "engines": { "node": ">=24.0.0" },
+  "engines": {
+    "node": ">=24.0.0"
+  },
   "scripts": {
     "start": "node scripts/serve.mjs --dir public",
     "preview": "node scripts/serve.mjs --dir dist",
     "check": "node scripts/check.mjs",
-    "test": "npm run check && node tests/catalog.mjs && node tests/ui.mjs && node tests/search.mjs && node tests/http.mjs",
+    "test": "npm run check && node tests/catalog.mjs && node tests/ui.mjs && node tests/search.mjs && node tests/http.mjs && node tests/coverage.mjs && node tests/coverage-ui.mjs",
     "build": "node scripts/build.mjs",
     "catalog:export": "node scripts/catalog.mjs export",
-    "catalog:import": "node scripts/catalog.mjs import"
+    "catalog:import": "node scripts/catalog.mjs import",
+    "coverage:import": "node scripts/coverage.mjs",
+    "coverage:check": "node scripts/coverage.mjs --check"
   }
 }
