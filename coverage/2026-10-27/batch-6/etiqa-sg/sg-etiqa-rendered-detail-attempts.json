@@ -1,0 +1,354 @@
+[
+  {
+    "url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/essential-cancer-care/",
+    "official_name": "Essential Cancer Care",
+    "source_response_sha256": "a4af4c592e9da4bd5269711386260bd9ff3e5c70f0f53e2880319e2b7516bd16",
+    "source_category_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+    "status": "read",
+    "source_card_ids": [
+      "475"
+    ],
+    "checked_at": "2026-10-27T14:07:52.040373+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/essential-cancer-care/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/essential-term-life-cover/",
+    "official_name": "Essential term life cover",
+    "source_response_sha256": "a4af4c592e9da4bd5269711386260bd9ff3e5c70f0f53e2880319e2b7516bd16",
+    "source_category_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+    "status": "read",
+    "source_card_ids": [
+      "116"
+    ],
+    "checked_at": "2026-10-27T14:07:59.389658+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/essential-term-life-cover/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/essential-critical-secure/",
+    "official_name": "Essential critical secure",
+    "source_response_sha256": "a4af4c592e9da4bd5269711386260bd9ff3e5c70f0f53e2880319e2b7516bd16",
+    "source_category_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+    "status": "read",
+    "source_card_ids": [
+      "10661"
+    ],
+    "checked_at": "2026-10-27T14:08:04.272024+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/essential-critical-secure/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/essential-lifetime-secure/",
+    "official_name": "Essential lifetime secure",
+    "source_response_sha256": "a4af4c592e9da4bd5269711386260bd9ff3e5c70f0f53e2880319e2b7516bd16",
+    "source_category_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+    "status": "read",
+    "source_card_ids": [
+      "12274"
+    ],
+    "checked_at": "2026-10-27T14:08:10.163834+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/essential-lifetime-secure/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/essential-whole-life-cover/",
+    "official_name": "Essential whole life cover",
+    "source_response_sha256": "a4af4c592e9da4bd5269711386260bd9ff3e5c70f0f53e2880319e2b7516bd16",
+    "source_category_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+    "status": "read",
+    "source_card_ids": [
+      "122"
+    ],
+    "checked_at": "2026-10-27T14:08:15.204475+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/essential-whole-life-cover/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/investments/invest-starter/",
+    "official_name": "Invest starter",
+    "source_response_sha256": "46f6fe501c52a87ce379dfb35c3434e7d248d11346fceb2864010dfde16c8557",
+    "source_category_url": "https://www.etiqa.com.sg/personal/investments/",
+    "status": "read",
+    "source_card_ids": [
+      "3517"
+    ],
+    "checked_at": "2026-10-27T14:08:21.463337+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/investments/invest-starter/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/investments/invest-flex-prime-ii/",
+    "official_name": "Invest flex prime II",
+    "source_response_sha256": "46f6fe501c52a87ce379dfb35c3434e7d248d11346fceb2864010dfde16c8557",
+    "source_category_url": "https://www.etiqa.com.sg/personal/investments/",
+    "status": "read",
+    "source_card_ids": [
+      "16084"
+    ],
+    "source_literal_relative_href": "/personal/investments/invest-flex-prime-ii/",
+    "checked_at": "2026-10-27T14:08:30.004051+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/investments/invest-flex-prime-ii/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/investments/invest-flex-pro/",
+    "official_name": "Invest flex pro",
+    "source_response_sha256": "46f6fe501c52a87ce379dfb35c3434e7d248d11346fceb2864010dfde16c8557",
+    "source_category_url": "https://www.etiqa.com.sg/personal/investments/",
+    "status": "read",
+    "source_card_ids": [
+      "13750"
+    ],
+    "checked_at": "2026-10-27T14:08:35.119556+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/investments/invest-flex-pro/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/investments/invest-flex-wealth-ii/",
+    "official_name": "Invest flex wealth II",
+    "source_response_sha256": "46f6fe501c52a87ce379dfb35c3434e7d248d11346fceb2864010dfde16c8557",
+    "source_category_url": "https://www.etiqa.com.sg/personal/investments/",
+    "status": "read",
+    "source_card_ids": [
+      "15652"
+    ],
+    "checked_at": "2026-10-27T14:08:40.381528+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/investments/invest-flex-wealth-ii/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/investments/invest-plus-sp/",
+    "official_name": "Invest plus SP",
+    "source_response_sha256": "46f6fe501c52a87ce379dfb35c3434e7d248d11346fceb2864010dfde16c8557",
+    "source_category_url": "https://www.etiqa.com.sg/personal/investments/",
+    "status": "read",
+    "source_card_ids": [
+      "482"
+    ],
+    "checked_at": "2026-10-27T14:08:46.090895+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/investments/invest-plus-sp/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/investments/invest-smart-flex-ii/",
+    "official_name": "Invest smart flex II",
+    "source_response_sha256": "46f6fe501c52a87ce379dfb35c3434e7d248d11346fceb2864010dfde16c8557",
+    "source_category_url": "https://www.etiqa.com.sg/personal/investments/",
+    "status": "read",
+    "source_card_ids": [
+      "15482"
+    ],
+    "checked_at": "2026-10-27T14:08:52.695872+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/investments/invest-smart-flex-ii/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/investments/invest-smart-vista/",
+    "official_name": "Invest Smart Vista",
+    "source_response_sha256": "46f6fe501c52a87ce379dfb35c3434e7d248d11346fceb2864010dfde16c8557",
+    "source_category_url": "https://www.etiqa.com.sg/personal/investments/",
+    "status": "read",
+    "source_card_ids": [
+      "16171"
+    ],
+    "checked_at": "2026-10-27T14:08:58.167747+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/investments/invest-smart-vista/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/investments/invest-vista/",
+    "official_name": "Invest vista",
+    "source_response_sha256": "46f6fe501c52a87ce379dfb35c3434e7d248d11346fceb2864010dfde16c8557",
+    "source_category_url": "https://www.etiqa.com.sg/personal/investments/",
+    "status": "read",
+    "source_card_ids": [
+      "14360"
+    ],
+    "checked_at": "2026-10-27T14:09:03.143857+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/investments/invest-vista/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/investments/invest-wealth-purpose/",
+    "official_name": "Invest Wealth Purpose",
+    "source_response_sha256": "46f6fe501c52a87ce379dfb35c3434e7d248d11346fceb2864010dfde16c8557",
+    "source_category_url": "https://www.etiqa.com.sg/personal/investments/",
+    "status": "read",
+    "source_card_ids": [
+      "16448"
+    ],
+    "checked_at": "2026-10-27T14:09:10.191921+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/investments/invest-wealth-purpose/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-assure/",
+    "official_name": "Enrich assure",
+    "source_response_sha256": "51690fea3ec5e006a735d87ebd772b2b575309e9f74e9dc4dba1ff92e3956a00",
+    "source_category_url": "https://www.etiqa.com.sg/personal/savings-retirement/",
+    "status": "read",
+    "source_card_ids": [
+      "484"
+    ],
+    "checked_at": "2026-10-27T14:09:16.190048+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-assure/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-flex-plus/",
+    "official_name": "Enrich flex plus",
+    "source_response_sha256": "51690fea3ec5e006a735d87ebd772b2b575309e9f74e9dc4dba1ff92e3956a00",
+    "source_category_url": "https://www.etiqa.com.sg/personal/savings-retirement/",
+    "status": "read",
+    "source_card_ids": [
+      "488"
+    ],
+    "checked_at": "2026-10-27T14:09:20.599738+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-flex-plus/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-goal/",
+    "official_name": "Enrich goal",
+    "source_response_sha256": "51690fea3ec5e006a735d87ebd772b2b575309e9f74e9dc4dba1ff92e3956a00",
+    "source_category_url": "https://www.etiqa.com.sg/personal/savings-retirement/",
+    "status": "read",
+    "source_card_ids": [
+      "489"
+    ],
+    "checked_at": "2026-10-27T14:09:25.510794+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-goal/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-income/",
+    "official_name": "Enrich income",
+    "source_response_sha256": "51690fea3ec5e006a735d87ebd772b2b575309e9f74e9dc4dba1ff92e3956a00",
+    "source_category_url": "https://www.etiqa.com.sg/personal/savings-retirement/",
+    "status": "read",
+    "source_card_ids": [
+      "8479"
+    ],
+    "source_literal_relative_href": "/personal/savings-retirement/enrich-income/",
+    "checked_at": "2026-10-27T14:09:30.665808+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-income/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-retirement/",
+    "official_name": "Enrich retirement",
+    "source_response_sha256": "51690fea3ec5e006a735d87ebd772b2b575309e9f74e9dc4dba1ff92e3956a00",
+    "source_category_url": "https://www.etiqa.com.sg/personal/savings-retirement/",
+    "status": "read",
+    "source_card_ids": [
+      "486"
+    ],
+    "checked_at": "2026-10-27T14:09:36.179423+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-retirement/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-rewards/",
+    "official_name": "Enrich rewards",
+    "source_response_sha256": "51690fea3ec5e006a735d87ebd772b2b575309e9f74e9dc4dba1ff92e3956a00",
+    "source_category_url": "https://www.etiqa.com.sg/personal/savings-retirement/",
+    "status": "read",
+    "source_card_ids": [
+      "487"
+    ],
+    "checked_at": "2026-10-27T14:09:40.272161+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-rewards/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-saver/",
+    "official_name": "Enrich saver",
+    "source_response_sha256": "51690fea3ec5e006a735d87ebd772b2b575309e9f74e9dc4dba1ff92e3956a00",
+    "source_category_url": "https://www.etiqa.com.sg/personal/savings-retirement/",
+    "status": "read",
+    "source_card_ids": [
+      "485"
+    ],
+    "checked_at": "2026-10-27T14:09:45.072900+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-saver/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/personal-accident/solitaire-protect/",
+    "official_name": "Etiqa Solitaire Protect",
+    "source_response_sha256": "53d9e9dba6b5b3dee98b0434aff62cad18695674ca29791fa0b2bd9456c50f37",
+    "source_category_url": "https://www.etiqa.com.sg/personal/personal-accident/",
+    "status": "read",
+    "source_card_ids": [
+      "8427"
+    ],
+    "checked_at": "2026-10-27T14:09:50.535171+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/personal-accident/solitaire-protect/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/travel-insurance/travel-infinite/",
+    "official_name": "Travel Infinite",
+    "source_response_sha256": "bcf3a43bc670ac2085bfadb27877fcb86943e75420b74c1c81436cd0ff5a466f",
+    "source_category_url": "https://www.etiqa.com.sg/personal/travel-insurance/",
+    "status": "read",
+    "source_card_ids": [
+      "498"
+    ],
+    "checked_at": "2026-10-27T14:09:57.255033+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/travel-insurance/travel-infinite/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/travel-insurance/travel-takaful/",
+    "official_name": "Travel Takaful",
+    "source_response_sha256": "bcf3a43bc670ac2085bfadb27877fcb86943e75420b74c1c81436cd0ff5a466f",
+    "source_category_url": "https://www.etiqa.com.sg/personal/travel-insurance/",
+    "status": "read",
+    "source_card_ids": [
+      "16626"
+    ],
+    "checked_at": "2026-10-27T14:10:02.243942+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/travel-insurance/travel-takaful/",
+    "request_performed": true
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/home-insurance/eprotect-mortgage/",
+    "official_name": "ePROTECT mortgage",
+    "source_response_sha256": "3f13383c838cb31e6d8cb5376c44dee9412149cbb5614dd40beb61a7a77dd005",
+    "source_category_url": "https://www.etiqa.com.sg/personal/home-insurance/",
+    "status": "read",
+    "source_card_ids": [
+      "500"
+    ],
+    "checked_at": "2026-10-27T14:10:08.941505+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/home-insurance/eprotect-mortgage/",
+    "request_performed": true
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "url": "http://www.etiqa.com.sg/",
+    "checked_at": "2026-10-27T13:24:53.526004+00:00",
+    "error": "Redirect not followed: quarantined_origin_mapping_unverified; target_origin=https://www.etiqa.com.sg"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/",
+    "checked_at": "2026-10-27T13:25:50.472475+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/",
+    "checked_at": "2026-10-27T13:27:17.730282+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+    "checked_at": "2026-10-27T13:27:23.436642+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/premier-solutions/",
+    "checked_at": "2026-10-27T13:27:29.587703+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/premier-solutions/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/investments/",
+    "checked_at": "2026-10-27T13:27:33.605771+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/investments/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/savings-retirement/",
+    "checked_at": "2026-10-27T13:27:37.645296+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/savings-retirement/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/personal-accident/",
+    "checked_at": "2026-10-27T13:27:43.658091+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/personal-accident/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/personal-cyber-insurance/",
+    "checked_at": "2026-10-27T13:27:47.908943+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/personal-cyber-insurance/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/maid-insurance/",
+    "checked_at": "2026-10-27T13:27:53.689060+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/maid-insurance/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/travel-insurance/",
+    "checked_at": "2026-10-27T13:27:58.259011+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/travel-insurance/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/home-insurance/",
+    "checked_at": "2026-10-27T13:28:02.440777+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/home-insurance/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/fire-insurance/",
+    "checked_at": "2026-10-27T13:28:07.160586+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/fire-insurance/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/pet-insurance/",
+    "checked_at": "2026-10-27T13:28:14.990726+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/pet-insurance/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/motor-insurance/",
+    "checked_at": "2026-10-27T13:28:20.502132+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/motor-insurance/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/business-insurance/",
+    "checked_at": "2026-10-27T13:28:25.613096+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/business-insurance/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/business-insurance/accident-health/",
+    "checked_at": "2026-10-27T13:28:30.593001+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/business-insurance/accident-health/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/business-insurance/commercial-vehicle/",
+    "checked_at": "2026-10-27T13:28:35.838435+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/business-insurance/commercial-vehicle/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/business-insurance/casualty/",
+    "checked_at": "2026-10-27T13:28:40.961789+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/business-insurance/casualty/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/business-insurance/corporate-travel/",
+    "checked_at": "2026-10-27T13:28:47.940064+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/business-insurance/corporate-travel/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/business-insurance/engineering/",
+    "checked_at": "2026-10-27T13:29:00.844341+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/business-insurance/engineering/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/business-insurance/marine/",
+    "checked_at": "2026-10-27T13:29:05.095263+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/business-insurance/marine/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/business-insurance/business-owners-super-suite/",
+    "checked_at": "2026-10-27T13:29:13.336857+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/business-insurance/business-owners-super-suite/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/business-insurance/miscellaneous/",
+    "checked_at": "2026-10-27T13:29:17.618934+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/business-insurance/miscellaneous/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/business-insurance/property/",
+    "checked_at": "2026-10-27T13:29:21.810253+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/business-insurance/property/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/corporate-employee-scheme/",
+    "checked_at": "2026-10-27T13:29:25.968755+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/corporate-employee-scheme/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/savings-retirement/enrichaspirevii/",
+    "checked_at": "2026-10-27T13:29:30.676268+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/savings-retirement/enrichaspirevii/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-index-income/",
+    "checked_at": "2026-10-27T13:29:35.009308+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-index-income/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/valuables-collections-insurance/etiqa-valuables-protect/",
+    "checked_at": "2026-10-27T13:29:39.442549+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/valuables-collections-insurance/etiqa-valuables-protect/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/investments/invest-prime-purpose/",
+    "checked_at": "2026-10-27T13:29:43.691516+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/investments/invest-prime-purpose/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/policy-wordings/",
+    "checked_at": "2026-10-27T13:29:47.779382+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/policy-wordings/"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/wp-content/themes/hello-theme-child-master/theme/default/js/wp-etiqa-ajax.js",
+    "checked_at": "2026-10-27T13:31:04.088144+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/wp-content/themes/hello-theme-child-master/theme/default/js/wp-etiqa-ajax.js"
+  },
+  {
+    "url": "https://www.etiqa.com.sg/personal/valuables-collections-insurance/",
+    "checked_at": "2026-10-27T13:34:42.308903+00:00",
+    "http_status": 200,
+    "final_url": "https://www.etiqa.com.sg/personal/valuables-collections-insurance/"
+  }
+]

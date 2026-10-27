@@ -1,0 +1,21 @@
+{
+  "action": "replace_entire_prior_static_scope_not_append",
+  "supersedes_snapshot": "sg-etiqa-static-ready-20261027T133842Z",
+  "prior_offering_category_rows": 47,
+  "new_offering_category_component_rows": 127,
+  "net_observation_change": 80,
+  "prior_document_rows": 58,
+  "new_document_rows": 58,
+  "unchanged_document_row_action": "reuse_not_duplicate",
+  "three_exact_existing_detail_IDs_retained": [
+    "SG-Etiqa-static-observation-b59380f8de1fc34ea85a",
+    "SG-Etiqa-static-observation-f0b36a04fb74cfce9fbb",
+    "SG-Etiqa-static-observation-09231cb233fa091c33f5"
+  ],
+  "shared_named_product_and_rider_overlaps": "Not a verified unique-product merge; overlapping digital/main channels and rider-parent associations remain explicitly observation-scoped.",
+  "held_source_reference_scope": "Two historical held locators remain null, unfetched; separate four-PDF intake involved other non-held references only. No current confidentiality assertion.",
+  "independent_content_QA_status": "source_content_review_complete_narrow_final_delta_verification_pending",
+  "consolidated_revision_of": "sg-etiqa-expanded-ready-20261027T143415Z-redacted-v2",
+  "revision_counts_unchanged": true,
+  "exact_legal_identity_patches_applied": 4
+}

@@ -1,0 +1,290 @@
+[
+  {
+    "source_url": "https://www.etiqa.com.sg/",
+    "checked_at": "2026-10-27T13:25:50.472475+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 224967,
+    "content_sha256": "e98d9058c724db2f9f7fe7faabfd0a65d0355e194be7079dd14089ec09d157a7"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/",
+    "checked_at": "2026-10-27T13:27:17.730282+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 228156,
+    "content_sha256": "ab30344b2aea5eb754a5e78b953c2918a695558876bdd6fcad39f60ca68c5bc8"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+    "checked_at": "2026-10-27T13:27:23.436642+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 222838,
+    "content_sha256": "8356a6d03a40815eb2dc6272a502b084ad7b69e4dbf511c9a39f28bc020af953"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/premier-solutions/",
+    "checked_at": "2026-10-27T13:27:29.587703+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 239062,
+    "content_sha256": "2894b6a389466c1f3a9c572642fd3af050bc5eae5bb99058fede9e85e73b4aff"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/investments/",
+    "checked_at": "2026-10-27T13:27:33.605771+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 217994,
+    "content_sha256": "0e79bcdcf99f06cc80d80822913853a15c292a6aa05cc72b4b7b902ad31102dd"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/savings-retirement/",
+    "checked_at": "2026-10-27T13:27:37.645296+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 204342,
+    "content_sha256": "34f206240a5fe92abd0e33ccc8529a02905c1fd83a3b5e27402bd554c3ec0568"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/personal-accident/",
+    "checked_at": "2026-10-27T13:27:43.658091+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 204058,
+    "content_sha256": "c3745ddc2ded680a07fe61d1d1ed91980298595c82ce60cee077804732c5471a"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/personal-cyber-insurance/",
+    "checked_at": "2026-10-27T13:27:47.908943+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 232056,
+    "content_sha256": "8328ae7e6fd1c9071601f0ce021e9add1a4ea85b3d25b8cdb75ea544c913d5f8"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/maid-insurance/",
+    "checked_at": "2026-10-27T13:27:53.689060+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 264914,
+    "content_sha256": "2d15125f1caf1419ebeaf0b08d443946d393d3318f9cb9494f57b2221a3d746c"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/travel-insurance/",
+    "checked_at": "2026-10-27T13:27:58.259011+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 205494,
+    "content_sha256": "768da325232165a5bd7d459a7ff36a20532525b40b8b3570b31d0648644e809f"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/home-insurance/",
+    "checked_at": "2026-10-27T13:28:02.440777+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 204610,
+    "content_sha256": "26cbab4085e2e4fa9bdb95b49d7688f957f6fba22394cbb07ab9182932d0691b"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/fire-insurance/",
+    "checked_at": "2026-10-27T13:28:07.160586+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 275023,
+    "content_sha256": "5c9694ac20a3ec8f6cdb6e1d8067dfa4962747ddbc4ab1ba0d7a42bdfeb8d620"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/pet-insurance/",
+    "checked_at": "2026-10-27T13:28:14.990726+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 266065,
+    "content_sha256": "90e82a96b5ad7ce05a226b3ea87d82bebd61bef12b3047b95761c021096da512"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/motor-insurance/",
+    "checked_at": "2026-10-27T13:28:20.502132+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 217932,
+    "content_sha256": "9d1536a45b902169cb2fa744ac1e741bf0d78c5b5a3e5a29225272932dc01089"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/business-insurance/",
+    "checked_at": "2026-10-27T13:28:25.613096+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 208320,
+    "content_sha256": "85366db78333e27e10f73a8c048c0bbc5499226352a99cc98e8628616deb04fe"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/business-insurance/accident-health/",
+    "checked_at": "2026-10-27T13:28:30.593001+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 214933,
+    "content_sha256": "28aad6b5832ef059ca253d10867197213c15625b9444cde30b9ca6f0836a99fd"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/business-insurance/commercial-vehicle/",
+    "checked_at": "2026-10-27T13:28:35.838435+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 251330,
+    "content_sha256": "aff21fc122b0e4514089364cc89aa0e2ec7597da60514eb8b1a1b97a5cb6082c"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/business-insurance/casualty/",
+    "checked_at": "2026-10-27T13:28:40.961789+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 211287,
+    "content_sha256": "d8826248f298df59ab1ebfde5175c8911ae5b032bd5a535b937291607c58dc2a"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/business-insurance/corporate-travel/",
+    "checked_at": "2026-10-27T13:28:47.940064+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 231978,
+    "content_sha256": "ef5c6f1375595c97c4593131aaf881dd468ece7262520f1a2e2bcfd315c48b48"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/business-insurance/engineering/",
+    "checked_at": "2026-10-27T13:29:00.844341+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 202055,
+    "content_sha256": "495756196eadc3602c979be3e02e8fdd7b55c8fe5564c22a872bce8de1c299b6"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/business-insurance/marine/",
+    "checked_at": "2026-10-27T13:29:05.095263+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 195936,
+    "content_sha256": "ef5b1861d61237e48d7db1c61e22c1897e040ab5d984890613554529e3c7debb"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/business-insurance/business-owners-super-suite/",
+    "checked_at": "2026-10-27T13:29:13.336857+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 344174,
+    "content_sha256": "5499ce7de9645efc2c1ff543a630d91347cdcb687f1452c23a57958baa4648a4"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/business-insurance/miscellaneous/",
+    "checked_at": "2026-10-27T13:29:17.618934+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 204284,
+    "content_sha256": "8b4055c72f93396edf3da01036cafe8bb93b7ecb703ad2738b1e3d297bfa0eae"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/business-insurance/property/",
+    "checked_at": "2026-10-27T13:29:21.810253+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 201644,
+    "content_sha256": "4a1d00e9bc63a2e7d24a498e19413720e0eb70a2064820588eacf429b04af5f7"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/corporate-employee-scheme/",
+    "checked_at": "2026-10-27T13:29:25.968755+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 219626,
+    "content_sha256": "ec4d89161c6d9dec074a6716994f9da9030c473568cc1cdcfaf1ebdd39c7002c"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/savings-retirement/enrichaspirevii/",
+    "checked_at": "2026-10-27T13:29:30.676268+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 234517,
+    "content_sha256": "21bd826163eacc658d7bb15301a72e05cb2c4e2adf44e68da570690eb317a204"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-index-income/",
+    "checked_at": "2026-10-27T13:29:35.009308+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 277714,
+    "content_sha256": "f2e8b8a561e1a83ffb5c87cbd58db913ff43bbd8bc6c2a563f6241f923a233c7"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/valuables-collections-insurance/etiqa-valuables-protect/",
+    "checked_at": "2026-10-27T13:29:39.442549+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 243026,
+    "content_sha256": "09164e170972b1641e922e5eb43456ff418ec4e312865ef057f5c25d75285788"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/investments/invest-prime-purpose/",
+    "checked_at": "2026-10-27T13:29:43.691516+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 273447,
+    "content_sha256": "997926fd9283987b807baa282f0177ebf73c6247ae33feabc761445747156af9"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/policy-wordings/",
+    "checked_at": "2026-10-27T13:29:47.779382+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 244977,
+    "content_sha256": "2ae1e5681b3b5fd4680ad14b56da99b328428171448cd5132ba87784243a823a"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/wp-content/themes/hello-theme-child-master/theme/default/js/wp-etiqa-ajax.js",
+    "checked_at": "2026-10-27T13:31:04.088144+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "public_script_text_not_executed",
+    "bytes": 33144,
+    "content_sha256": "9c1d682a5f4e011049ab16087517c0c0a2abf3a572faf77b9da0c04b4e1d4ca2"
+  },
+  {
+    "source_url": "https://www.etiqa.com.sg/personal/valuables-collections-insurance/",
+    "checked_at": "2026-10-27T13:34:42.308903+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 206128,
+    "content_sha256": "84d7cb79aed3a9caca5ce2d899f815bad1d4a56e78205df0cf332fc679ae500a"
+  }
+]

@@ -1,0 +1,243 @@
+{
+  "HTTP_identity": [
+    {
+      "url": "http://www.etiqa.com.sg/",
+      "source_url": "https://www.sdic.org.sg/api/PPFLSchemeMemberList.json",
+      "source_row": 5,
+      "source_checked_at": "2026-10-27T12:55:31.302420+00:00",
+      "source_content_sha256": "a8ba6f853918c5c1a054bc21578f4cf0c4178fe7a5b1b24bb286ffb836255ccd",
+      "scope": "Exact SDIC-published homepage; different origin redirect quarantined before request."
+    }
+  ],
+  "HTTPS_identity": [
+    {
+      "url": "https://www.etiqa.com.sg/",
+      "source_url": "http://www.etiqa.com.sg/",
+      "scope": "Single approved HTTPS homepage after source-mapped same-host scheme redirect review; HTTP request not repeated."
+    }
+  ],
+  "root_static_targets": [
+    {
+      "url": "https://www.etiqa.com.sg/personal/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Personal",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Life & Critical Illness Protection",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/premier-solutions/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Premier Solutions",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/investments/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Investments",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/savings-retirement/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Savings & Retirement",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/personal-accident/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Personal Accident",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/personal-cyber-insurance/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Personal Cyber Insurance",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/maid-insurance/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Maid Insurance",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/travel-insurance/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Travel Insurance",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/home-insurance/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Home Insurance",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/fire-insurance/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "HDB Fire Insurance",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/pet-insurance/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Pet Insurance",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/motor-insurance/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Motor Insurance",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/business-insurance/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Business",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/business-insurance/accident-health/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Accident & Health",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/business-insurance/commercial-vehicle/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Commercial Vehicle",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/business-insurance/casualty/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Casualty",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/business-insurance/corporate-travel/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Corporate Travel",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/business-insurance/engineering/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Engineering",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/business-insurance/marine/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Marine",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/business-insurance/business-owners-super-suite/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Business Owners Super Suite",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/business-insurance/miscellaneous/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Miscellaneous",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/business-insurance/property/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Property",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/corporate-employee-scheme/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Corporate Employee Scheme",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/savings-retirement/enrichaspirevii/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Click Here",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/savings-retirement/enrich-index-income/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Find Out More",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/valuables-collections-insurance/etiqa-valuables-protect/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Find Out More",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/personal/investments/invest-prime-purpose/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "Find Out More",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    },
+    {
+      "url": "https://www.etiqa.com.sg/policy-wordings/",
+      "source_url": "https://www.etiqa.com.sg/",
+      "source_checked_at": "2026-10-27T13:25:50.472475+00:00",
+      "source_label": "General Insurance Policy Wordings",
+      "scope": "Exact homepage personal/business catalog navigation, named featured marketing card or public general policy-wording directory. No quote, login, document-retrieval, claim, external Tiq or purchase path."
+    }
+  ],
+  "one_catalog_script_text_only": [
+    {
+      "url": "https://www.etiqa.com.sg/wp-content/themes/hello-theme-child-master/theme/default/js/wp-etiqa-ajax.js",
+      "source_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+      "source_checked_at": "2026-10-27T13:27:23.436642+00:00",
+      "source_content_sha256": "8356a6d03a40815eb2dc6272a502b084ad7b69e4dbf511c9a39f28bc020af953",
+      "source_element_id": "wp_etiqa_ajax-js",
+      "scope": "One public static script read as text only after parent approval; no execution, API calls, source maps, keys, tokens/nonces, POST/actions, auth or private/customer endpoint."
+    }
+  ],
+  "one_additional_category_started_before_parent_stop": [
+    {
+      "url": "https://www.etiqa.com.sg/personal/valuables-collections-insurance/",
+      "source_url": "https://www.etiqa.com.sg/personal/",
+      "source_checked_at": "2026-10-27T13:27:17.730282+00:00",
+      "source_label": "Valuables & Collections Insurance Protect the items you value most with our specialist valuable collection insurance, tailored to safeguard your treasured collections and prized belongings.",
+      "scope": "Single new named category card explicitly linked on read Personal root; malformed institutional relative links excluded."
+    }
+  ]
+}

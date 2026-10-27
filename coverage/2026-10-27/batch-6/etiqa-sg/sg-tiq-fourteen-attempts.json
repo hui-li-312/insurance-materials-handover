@@ -1,0 +1,277 @@
+[
+  {
+    "url": "https://www.tiq.com.sg/product/3-plus-critical-illness/",
+    "origin": "https://www.tiq.com.sg",
+    "checked_at": "2026-10-27T14:17:15.905994+00:00",
+    "method": "GET",
+    "source_catalog_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+    "source_response_sha256": "a4af4c592e9da4bd5269711386260bd9ff3e5c70f0f53e2880319e2b7516bd16",
+    "source_card_ids": [
+      "463"
+    ],
+    "request_scope": "Exact advertised public product-page HTML; no action, PDF, cookie, credential or redirect.",
+    "redirects_followed": 0,
+    "http_status": 200,
+    "bytes": 488744,
+    "content_type": "text/html",
+    "final_url": "https://www.tiq.com.sg/product/3-plus-critical-illness/",
+    "source_sha256": "f9c3c2ba199b7bf018b6ffb93e2c50f5b347de2322db7803fb3246014279e228",
+    "access_status": "public_product_HTML_read_unreviewed",
+    "title": "3 Plus Critical Illness - Singapore | Tiq by Etiqa"
+  },
+  {
+    "url": "https://www.tiq.com.sg/product/term-life-insurance/",
+    "origin": "https://www.tiq.com.sg",
+    "checked_at": "2026-10-27T14:17:23.413262+00:00",
+    "method": "GET",
+    "source_catalog_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+    "source_response_sha256": "a4af4c592e9da4bd5269711386260bd9ff3e5c70f0f53e2880319e2b7516bd16",
+    "source_card_ids": [
+      "477"
+    ],
+    "request_scope": "Exact advertised public product-page HTML; no action, PDF, cookie, credential or redirect.",
+    "redirects_followed": 0,
+    "http_status": 200,
+    "bytes": 483229,
+    "content_type": "text/html",
+    "final_url": "https://www.tiq.com.sg/product/term-life-insurance/",
+    "source_sha256": "550fc82d30815b5c296f83418dbbcc9f3ce11b90f8fa1e42a357bcae5c81b6bf",
+    "access_status": "public_product_HTML_read_unreviewed",
+    "title": "Term Life Insurance | Tiq by Etiqa"
+  },
+  {
+    "url": "https://www.tiq.com.sg/product/cancer-insurance/",
+    "origin": "https://www.tiq.com.sg",
+    "checked_at": "2026-10-27T14:17:28.912671+00:00",
+    "method": "GET",
+    "source_catalog_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+    "source_response_sha256": "a4af4c592e9da4bd5269711386260bd9ff3e5c70f0f53e2880319e2b7516bd16",
+    "source_card_ids": [
+      "466"
+    ],
+    "request_scope": "Exact advertised public product-page HTML; no action, PDF, cookie, credential or redirect.",
+    "redirects_followed": 0,
+    "http_status": 200,
+    "bytes": 396796,
+    "content_type": "text/html",
+    "final_url": "https://www.tiq.com.sg/product/cancer-insurance/",
+    "source_sha256": "30fdb7541af06138fc111b90e005bfd97be164ad06586c74c2c6880c635d4113",
+    "access_status": "public_product_HTML_read_unreviewed",
+    "title": "Cancer Insurance with No Claim Discount | Tiq by Etiqa"
+  },
+  {
+    "url": "https://www.tiq.com.sg/product/whole-life-insurance/",
+    "origin": "https://www.tiq.com.sg",
+    "checked_at": "2026-10-27T14:17:34.075868+00:00",
+    "method": "GET",
+    "source_catalog_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+    "source_response_sha256": "a4af4c592e9da4bd5269711386260bd9ff3e5c70f0f53e2880319e2b7516bd16",
+    "source_card_ids": [
+      "476"
+    ],
+    "request_scope": "Exact advertised public product-page HTML; no action, PDF, cookie, credential or redirect.",
+    "redirects_followed": 0,
+    "http_status": 200,
+    "bytes": 457700,
+    "content_type": "text/html",
+    "final_url": "https://www.tiq.com.sg/product/whole-life-insurance/",
+    "source_sha256": "cb5291ce7cc7c7100e57962391b49827a3daff082837b35849929dd7454498a4",
+    "access_status": "public_product_HTML_read_unreviewed",
+    "title": "Whole Life Insurance | Tiq by Etiqa"
+  },
+  {
+    "url": "https://www.tiq.com.sg/product/enrich-aspire-vii/",
+    "origin": "https://www.tiq.com.sg",
+    "checked_at": "2026-10-27T14:17:39.360989+00:00",
+    "method": "GET",
+    "source_catalog_url": "https://www.etiqa.com.sg/personal/savings-retirement/",
+    "source_response_sha256": "51690fea3ec5e006a735d87ebd772b2b575309e9f74e9dc4dba1ff92e3956a00",
+    "source_card_ids": [
+      "15046"
+    ],
+    "request_scope": "Exact advertised public product-page HTML; no action, PDF, cookie, credential or redirect.",
+    "redirects_followed": 0,
+    "http_status": 200,
+    "bytes": 299358,
+    "content_type": "text/html",
+    "final_url": "https://www.tiq.com.sg/product/enrich-aspire-vii/",
+    "source_sha256": "3a4a2d17d48cc674136aa9d3b0ed15375dcd2a8c8bb9bae888bb33c30cb164c3",
+    "access_status": "public_product_HTML_read_unreviewed",
+    "title": "Enrich aspire VII - Leading digital insurance company in Singapore | TIQ Singapore"
+  },
+  {
+    "url": "https://www.tiq.com.sg/product/cashsaver",
+    "origin": "https://www.tiq.com.sg",
+    "checked_at": "2026-10-27T14:17:43.560484+00:00",
+    "method": "GET",
+    "source_catalog_url": "https://www.etiqa.com.sg/personal/savings-retirement/",
+    "source_response_sha256": "51690fea3ec5e006a735d87ebd772b2b575309e9f74e9dc4dba1ff92e3956a00",
+    "source_card_ids": [
+      "11254"
+    ],
+    "request_scope": "Exact advertised public product-page HTML; no action, PDF, cookie, credential or redirect.",
+    "redirects_followed": 0,
+    "http_status": 200,
+    "bytes": 396691,
+    "content_type": "text/html",
+    "final_url": "https://www.tiq.com.sg/product/cashsaver",
+    "source_sha256": "c70eb37933b1e215d7373a8d6a0a9d6b0561dff1aa3fa76e68995a73951cf465",
+    "access_status": "public_product_HTML_read_unreviewed",
+    "title": "Tiq CashSaver - Leading digital insurance company in Singapore | TIQ Singapore"
+  },
+  {
+    "url": "https://www.tiq.com.sg/product/tiq-personal-accident/",
+    "origin": "https://www.tiq.com.sg",
+    "checked_at": "2026-10-27T14:17:50.709758+00:00",
+    "method": "GET",
+    "source_catalog_url": "https://www.etiqa.com.sg/personal/personal-accident/",
+    "source_response_sha256": "53d9e9dba6b5b3dee98b0434aff62cad18695674ca29791fa0b2bd9456c50f37",
+    "source_card_ids": [
+      "494"
+    ],
+    "request_scope": "Exact advertised public product-page HTML; no action, PDF, cookie, credential or redirect.",
+    "redirects_followed": 0,
+    "http_status": 200,
+    "bytes": 376827,
+    "content_type": "text/html",
+    "final_url": "https://www.tiq.com.sg/product/tiq-personal-accident/",
+    "source_sha256": "ce99d838ff66e47d0b770718ec64ca67c6ea24b39b760bda58946abca3ade4f0",
+    "access_status": "public_product_HTML_read_unreviewed",
+    "title": "Tiq Personal Accident - Cover Unexpected Medical Expenses | Tiq by Etiqa"
+  },
+  {
+    "url": "https://www.tiq.com.sg/product/personal-cyber-insurance/",
+    "origin": "https://www.tiq.com.sg",
+    "checked_at": "2026-10-27T14:17:55.520794+00:00",
+    "method": "GET",
+    "source_catalog_url": "https://www.etiqa.com.sg/personal/personal-cyber-insurance/",
+    "source_response_sha256": "22b500aef9848397bf0c81f35ee0086b97db78f2a0944956121a8422f703d545",
+    "source_card_ids": [
+      "495"
+    ],
+    "request_scope": "Exact advertised public product-page HTML; no action, PDF, cookie, credential or redirect.",
+    "redirects_followed": 0,
+    "http_status": 200,
+    "bytes": 408632,
+    "content_type": "text/html",
+    "final_url": "https://www.tiq.com.sg/product/personal-cyber-insurance/",
+    "source_sha256": "e3e3d9b1c9d66ec85c9e1ae5e4aed572c46b09d844244a33083da5af5b1da1b5",
+    "access_status": "public_product_HTML_read_unreviewed",
+    "title": "Personal Cyber Insurance - Mitigate Cyber risks | Tiq by Etiqa"
+  },
+  {
+    "url": "https://www.tiq.com.sg/product/maid-insurance/",
+    "origin": "https://www.tiq.com.sg",
+    "checked_at": "2026-10-27T14:18:00.142974+00:00",
+    "method": "GET",
+    "source_catalog_url": "https://www.etiqa.com.sg/personal/maid-insurance/",
+    "source_response_sha256": "71ee0460cf7badaa7b412cb0b671cfd5b2e80f91b4f65bd6accbfc22aaabf580",
+    "source_card_ids": [
+      "496"
+    ],
+    "request_scope": "Exact advertised public product-page HTML; no action, PDF, cookie, credential or redirect.",
+    "redirects_followed": 0,
+    "http_status": 200,
+    "bytes": 400244,
+    "content_type": "text/html",
+    "final_url": "https://www.tiq.com.sg/product/maid-insurance/",
+    "source_sha256": "2126158938917d2630948aff963b1d261fe1b5df7b2cbfe945f4c44cd18cdab1",
+    "access_status": "public_product_HTML_read_unreviewed",
+    "title": "Affordable and comprehensive Maid Insurance in Singapore | Tiq by Etiqa"
+  },
+  {
+    "url": "https://www.tiq.com.sg/product/travel-insurance/",
+    "origin": "https://www.tiq.com.sg",
+    "checked_at": "2026-10-27T14:18:08.989680+00:00",
+    "method": "GET",
+    "source_catalog_url": "https://www.etiqa.com.sg/personal/travel-insurance/",
+    "source_response_sha256": "bcf3a43bc670ac2085bfadb27877fcb86943e75420b74c1c81436cd0ff5a466f",
+    "source_card_ids": [
+      "497"
+    ],
+    "request_scope": "Exact advertised public product-page HTML; no action, PDF, cookie, credential or redirect.",
+    "redirects_followed": 0,
+    "http_status": 200,
+    "bytes": 495021,
+    "content_type": "text/html",
+    "final_url": "https://www.tiq.com.sg/product/travel-insurance/",
+    "source_sha256": "2d7de62c60f0e64f03aeecd0d5defa27c88ad1dfc1b5d62c058cb4df6123f4dc",
+    "access_status": "public_product_HTML_read_unreviewed",
+    "title": "Travel Insurance with automated flight delay payouts | Buy Online"
+  },
+  {
+    "url": "https://www.tiq.com.sg/product/home-insurance/",
+    "origin": "https://www.tiq.com.sg",
+    "checked_at": "2026-10-27T14:18:17.226570+00:00",
+    "method": "GET",
+    "source_catalog_url": "https://www.etiqa.com.sg/personal/home-insurance/",
+    "source_response_sha256": "3f13383c838cb31e6d8cb5376c44dee9412149cbb5614dd40beb61a7a77dd005",
+    "source_card_ids": [
+      "501",
+      "11318"
+    ],
+    "request_scope": "Exact advertised public product-page HTML; no action, PDF, cookie, credential or redirect.",
+    "redirects_followed": 0,
+    "http_status": 200,
+    "bytes": 415908,
+    "content_type": "text/html",
+    "final_url": "https://www.tiq.com.sg/product/home-insurance/",
+    "source_sha256": "4baf2a040c0ad17880879488f6129fcae0f3e34336dac7746500e9f40ad74380",
+    "access_status": "public_product_HTML_read_unreviewed",
+    "title": "Home Insurance - 24-hour assistance | Tiq by Etiqa"
+  },
+  {
+    "url": "https://tiq.com.sg/product/pet-insurance/",
+    "origin": "https://tiq.com.sg",
+    "checked_at": "2026-10-27T14:18:23.689768+00:00",
+    "method": "GET",
+    "source_catalog_url": "https://www.etiqa.com.sg/personal/pet-insurance/",
+    "source_response_sha256": "e31d90318bef54b8c3c067c55885aeba1b2baf4505818c7f85c8784da5f8d944",
+    "source_card_ids": [
+      "10272"
+    ],
+    "request_scope": "Exact advertised public product-page HTML; no action, PDF, cookie, credential or redirect.",
+    "redirects_followed": 0,
+    "error": "Public renderer redirect rejected; no follow request authorized."
+  },
+  {
+    "url": "https://www.tiq.com.sg/product/motorcycle-insurance/",
+    "origin": "https://www.tiq.com.sg",
+    "checked_at": "2026-10-27T14:18:33.219985+00:00",
+    "method": "GET",
+    "source_catalog_url": "https://www.etiqa.com.sg/personal/motor-insurance/",
+    "source_response_sha256": "92032fe8571321de107792b6b5a4f65cda6ab19b201434946599c913180f847f",
+    "source_card_ids": [
+      "502"
+    ],
+    "request_scope": "Exact advertised public product-page HTML; no action, PDF, cookie, credential or redirect.",
+    "redirects_followed": 0,
+    "http_status": 200,
+    "bytes": 388062,
+    "content_type": "text/html",
+    "final_url": "https://www.tiq.com.sg/product/motorcycle-insurance/",
+    "source_sha256": "b2ab2f7cc12fbce917bfb2ac5ecd05bb5e5273149190ec975232d2c7c289d8a0",
+    "access_status": "public_product_HTML_read_unreviewed",
+    "title": "Motorcycle Insurance with up to $500,000 coverage | Tiq by Etiqa"
+  },
+  {
+    "url": "https://www.tiq.com.sg/product/private-car-insurance/",
+    "origin": "https://www.tiq.com.sg",
+    "checked_at": "2026-10-27T14:18:37.723669+00:00",
+    "method": "GET",
+    "source_catalog_url": "https://www.etiqa.com.sg/personal/motor-insurance/",
+    "source_response_sha256": "92032fe8571321de107792b6b5a4f65cda6ab19b201434946599c913180f847f",
+    "source_card_ids": [
+      "503"
+    ],
+    "request_scope": "Exact advertised public product-page HTML; no action, PDF, cookie, credential or redirect.",
+    "redirects_followed": 0,
+    "http_status": 200,
+    "bytes": 418850,
+    "content_type": "text/html",
+    "final_url": "https://www.tiq.com.sg/product/private-car-insurance/",
+    "source_sha256": "256674e9e99c9c56809b5d19dab34be10605d6b8ef3b785a30379a2d26deaf15",
+    "access_status": "public_product_HTML_read_unreviewed",
+    "title": "Car Insurance - Easy to Buy, Fast to Claim | Tiq by Etiqa"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "issuer_id": "SG-own-f672d39a85aace2a",
+  "legal_name": "ETIQA INSURANCE PTE. LTD.",
+  "source_url": "https://www.sdic.org.sg/api/PPFLSchemeMemberList.json",
+  "source_row": 5,
+  "source_content_sha256": "a8ba6f853918c5c1a054bc21578f4cf0c4178fe7a5b1b24bb286ffb836255ccd",
+  "source_checked_at": "2026-10-27T12:55:31.302420+00:00",
+  "source_date": null,
+  "published_HTTP_website": "http://www.etiqa.com.sg/",
+  "exact_HTTPS_origin": "https://www.etiqa.com.sg",
+  "redirect_evidence_checked_at": "2026-10-27T13:24:53.526004+00:00",
+  "redirect_evidence_status": "Exact same-host HTTPS destination origin quarantined before request; no denial response.",
+  "approval_scope": "Parent explicitly delegated review/approval of only this same-host scheme-upgrade origin from SDIC mapping plus preserved redirect evidence; no other hosts."
+}

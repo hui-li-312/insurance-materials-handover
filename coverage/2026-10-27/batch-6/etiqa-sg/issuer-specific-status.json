@@ -1,0 +1,53 @@
+[
+  {
+    "issuer_id": "SG-own-f672d39a85aace2a",
+    "legal_name": "ETIQA INSURANCE PTE. LTD.",
+    "products_status": "partial_selected_default_catalog_queue_accounted",
+    "C1": "MAS/SDIC exact entity and first-party Etiqa→Tiq association; four exact offering identities separately supported by linked policy definition pages. No blanket rider/channel underwriting inheritance.",
+    "C2": {
+      "selected_neutral_default_categories": 12,
+      "rendered_card_observations": 43,
+      "unique_advertised_detail_URLs": 42,
+      "detail_URLs_accounted_with_successful_source_or_exact_reviewed_redirect": 42,
+      "other_priority_filter_values_unrequested": 10,
+      "commercial_static_coverage_scope": "20 generic class observations, not independent named contracts",
+      "whole_issuer_catalog_closed": false,
+      "role_counts": {
+        "catalog_category": 20,
+        "coverage_class": 20,
+        "product": 43,
+        "service": 1,
+        "document_page": 1,
+        "rider": 19,
+        "hidden_component_candidate": 1,
+        "product_family": 2,
+        "plan_variant": 3,
+        "named_optional_component": 17
+      },
+      "hidden_only_component_candidates": 1,
+      "hidden_only_component_current_attachment": "unconfirmed"
+    },
+    "C3": {
+      "source_observed_unique_material_references": 268,
+      "publicly_exposed_unique_material_URLs": 266,
+      "known_historical_held_identities_with_locators_withheld": 2,
+      "document_directory_rows": 58,
+      "source_label_only_not_body_acceptance": true,
+      "all_breakpoint_hidden_material_occurrences": 29,
+      "different_offering_shared_popup_occurrences": 1,
+      "hidden_directory_observations": 5,
+      "pre_contract_disclosure_role_corrections": 4
+    },
+    "C4": {
+      "PDF_requests": 0,
+      "full_contract_reviews": 0,
+      "formal_files": 0,
+      "PDF_requests_by_catalog_batch": 0,
+      "separate_private_intake_PDFs": 4,
+      "separate_private_intake_total_pages": 43,
+      "selected_pages_independently_visually_reviewed": 8,
+      "all_page_privacy_reviews": 0,
+      "raw_release_authorized": false
+    }
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-10-27T13:47:35.896999+00:00",
+  "source_sha256": "a4af4c592e9da4bd5269711386260bd9ff3e5c70f0f53e2880319e2b7516bd16",
+  "original_outcome": "public_renderer_empty_or_unexpected_response_gap_not_market_zero",
+  "correction": "UTF8_BOM_omitted_from_string_JSON_decoder_offline_parse_correction",
+  "verified_response_object_keys": [
+    "actionType",
+    "error",
+    "html",
+    "postID",
+    "remaining_products_msg",
+    "totalCount"
+  ],
+  "actual_error_field": "",
+  "actual_totalCount": 9,
+  "actual_actionType": "load_products",
+  "actual_postID": "126",
+  "network_requests_performed_for_correction": 0,
+  "historical_fetch_log_preserved": true
+}

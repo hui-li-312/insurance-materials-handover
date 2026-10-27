@@ -1,0 +1,16 @@
+{
+  "supersedes": "sg-etiqa-expanded-ready-20261027T142712Z-redacted",
+  "network_requests": 0,
+  "URLs_changed": 0,
+  "observation_IDs_changed": 0,
+  "corrections": [
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-2f0cfaefe3bc89e09124",
+      "scope": "Different named related-offering provisions not parent main-policy credit."
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-f2729337da2985189a71",
+      "scope": "Clinical form type and zero coverage credit."
+    }
+  ]
+}

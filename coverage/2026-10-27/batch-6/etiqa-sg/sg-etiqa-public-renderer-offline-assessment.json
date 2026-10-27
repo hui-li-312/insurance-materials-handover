@@ -1,0 +1,33 @@
+{
+  "status": "root_review_pending_no_request_authorized_or_performed",
+  "public_category_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+  "public_category_checked_at": "2026-10-27T13:27:23.436642+00:00",
+  "public_category_sha256": "8356a6d03a40815eb2dc6272a502b084ad7b69e4dbf511c9a39f28bc020af953",
+  "script_url": "https://www.etiqa.com.sg/wp-content/themes/hello-theme-child-master/theme/default/js/wp-etiqa-ajax.js",
+  "script_sha256": "9c1d682a5f4e011049ab16087517c0c0a2abf3a572faf77b9da0c04b4e1d4ca2",
+  "script_line_evidence": {
+    "initialization": "6 invokes loadPriorities.init;912 checks visible priorities-wrapper;913and915 read action/parentID from its data attributes;938 first public dropdown child default;951-952 explicit public life-priority override.",
+    "payload": "955-960 literal four-field object;963-969 $.ajax POST to wp_etiqa_params.ajaxurl;beforeSend empty.",
+    "response": "970 onward consumes returned HTML into page DOM; no mutation operation seen in inspected renderer."
+  },
+  "endpoint": "https://www.etiqa.com.sg/wp-admin/admin-ajax.php",
+  "method": "POST",
+  "content_type_basis": "jQuery default form encoding(application/x-www-form-urlencoded); no custom headers/JSON override in request block.",
+  "proposed_initial_form_payload": {
+    "actionType": "load_products",
+    "postID": "126",
+    "postParentID": "113",
+    "action": "load_posts"
+  },
+  "credentials_observed_in_request_block": false,
+  "nonce_security_token_fields_observed": false,
+  "cookies_read_or_supplied_by_collector": false,
+  "server_anonymous_access_tested": false,
+  "previous_matching_origin_denial": false,
+  "matching_endpoint_previous_request_count": 0,
+  "limitations": [
+    "No endpoint call made; anonymous server availability untested.",
+    "Browser same-origin jQuery could ordinarily attach ambient browser cookies, but no credential requirement or token/header is present in the observed request code. Proposed standalone collector would send no Cookie/Authorization, use no browser/localStorage/session state, and follow no redirects.",
+    "Only this exact product renderer payload could be assessed. Other load_posts actions include forms/blog/news and are outside proposed scope; no arbitrary ID/action enumeration."
+  ]
+}

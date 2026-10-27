@@ -1,0 +1,136 @@
+{
+  "frozen_at": "2026-10-27T15:26:10.675080+00:00",
+  "status": "immutable_metadata_candidate_narrow_final_delta_QA_pending",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 5199,
+      "sha256": "17d48e4118b0df7c56dc01bcfeee63744ec8a8ec3ecfc76f0af990e9c5d36e63"
+    },
+    {
+      "file": "documents-sg-etiqa-expanded.jsonl",
+      "bytes": 113060,
+      "sha256": "3afae6f9bbead2a35d813559fe989f2712c5067bf400f9b1b3882ec6d634a22c"
+    },
+    {
+      "file": "initial-static-finite-queues.json",
+      "bytes": 15342,
+      "sha256": "8470ffc226197812463751ed5197be0704eef9930b24688ba05a10d3d7e88d2b"
+    },
+    {
+      "file": "initial-static-issuer-origin-evidence.json",
+      "bytes": 839,
+      "sha256": "a81e54b90ee5f5f77d621f37abfda9141d4377fcf7b8528067171253e0a834c1"
+    },
+    {
+      "file": "initial-static-source-attempts.json",
+      "bytes": 7769,
+      "sha256": "be19798a83e9c611dff9a49db02a8efe5f6c998ec215d0dc4d0af2986a3ecf96"
+    },
+    {
+      "file": "initial-static-sources.json",
+      "bytes": 11019,
+      "sha256": "f664941c8977e2b34048ca3888319595ae9220658619d06b5a030374dd6742e8"
+    },
+    {
+      "file": "issuer-specific-status.json",
+      "bytes": 2126,
+      "sha256": "6e3cf82cd592155a27d8ea7d78f2f822b58ca70a0af10594054df4b181c526e8"
+    },
+    {
+      "file": "merge-map.json",
+      "bytes": 1237,
+      "sha256": "209b6ee6cff74b7779c5789de11cecffa30c821d2d75690b2b85ba01c875b37a"
+    },
+    {
+      "file": "products-sg-etiqa-expanded.jsonl",
+      "bytes": 453786,
+      "sha256": "5481389f97b573335e9291b2999d51fe84334e0b19860e77d668e564ca5a4163"
+    },
+    {
+      "file": "publication-safety-gate.json",
+      "bytes": 238,
+      "sha256": "8d508688e4563cd19a820f7bf633fc8e2c93bdf2d918c65d815a86a935cfb868"
+    },
+    {
+      "file": "sg-etiqa-expanded-detail-sources.json",
+      "bytes": 16460,
+      "sha256": "1b2af110806884037d21d4b82b4831ed46cfbb6db8c10d9fc1dc1da11f278980"
+    },
+    {
+      "file": "sg-etiqa-expanded-traversal.json",
+      "bytes": 3769,
+      "sha256": "df5931b0e1bd661d723f33dc4a6d8fa20a15484dd5621d7b625bcb53f6c702ac"
+    },
+    {
+      "file": "sg-etiqa-expanded-visibility-audit.json",
+      "bytes": 12432,
+      "sha256": "12761d0453c52d8a3884b8719a26302d173782bf179afffa7c63bf4464b104dc"
+    },
+    {
+      "file": "sg-etiqa-public-renderer-category-attempts.json",
+      "bytes": 22834,
+      "sha256": "9f05b9caa52dd5fd157d0e706f4ff53404e44c0b40696dca47cfce7ddab1cf74"
+    },
+    {
+      "file": "sg-etiqa-public-renderer-offline-assessment.json",
+      "bytes": 2290,
+      "sha256": "21e383fa1196f3ccf88911133366c7da9eded75aea9c4eeb3f27e31ead85ee19"
+    },
+    {
+      "file": "sg-etiqa-public-renderer-proposed-category-queue.json",
+      "bytes": 7686,
+      "sha256": "f90255bd153ae39c6224f2e60859d46c866dd6f447862ecf018aea4d82c38bc9"
+    },
+    {
+      "file": "sg-etiqa-rendered-card-observations.jsonl",
+      "bytes": 48227,
+      "sha256": "66f21208c2a52e3b6e17c5ec6f86462ceec2e534f7366d6a0d8260d8ff286295"
+    },
+    {
+      "file": "sg-etiqa-rendered-detail-attempts.json",
+      "bytes": 14849,
+      "sha256": "5b4f742bb1ad86abcc0753fca8527bfcaff24db0817401a0b8cc5391992ffd3e"
+    },
+    {
+      "file": "sg-etiqa-rendered-detail-proposed-queue.json",
+      "bytes": 17728,
+      "sha256": "05b2e6a8f962955a8ec087b5b15d1eebd1ad63e1e97639795042ca44b2eb1d63"
+    },
+    {
+      "file": "sg-etiqa-renderer-initial-offline-parse-correction.json",
+      "bytes": 675,
+      "sha256": "0f95352d880da94b2008884ebe362da790afea894d56fe1a7ddce9ae9a201f70"
+    },
+    {
+      "file": "sg-etiqa-renderer-sources.json",
+      "bytes": 15981,
+      "sha256": "8143fb3d82548206a9dd4112c836fd5377c38b350eda3033d8267d8c99da1e84"
+    },
+    {
+      "file": "sg-tiq-fourteen-attempts.json",
+      "bytes": 12796,
+      "sha256": "a0ab2437ee83ff37f85f7ee2756d9473fb4078d7232a0d9818faaf2d9dc6d922"
+    },
+    {
+      "file": "sg-tiq-fourteen-readonly-proposal.json",
+      "bytes": 9934,
+      "sha256": "00e88d4ced96729eb235642f444c0c6586ac0bc24c068d7ec6f381c2a156e607"
+    },
+    {
+      "file": "sg-tiq-pet-redirect-recovery.json",
+      "bytes": 1257,
+      "sha256": "6adc9ebfcc44e8a7e2eb451685a7a59b6c52fbbf9625df1be1d75aead32c763d"
+    },
+    {
+      "file": "v2-material-role-corrections.json",
+      "bytes": 508,
+      "sha256": "ea9078de2e629b15918ec5036e922f1b628e1cfc6ccaee36e2aa97cc9d62f2e7"
+    },
+    {
+      "file": "v3-consolidated-QA-corrections.json",
+      "bytes": 13166,
+      "sha256": "0fd182a672183a6b19435de89c5b774f2e959834b8f94745706bb1c049546789"
+    }
+  ]
+}

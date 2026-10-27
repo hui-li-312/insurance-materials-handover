@@ -1,0 +1,290 @@
+{
+  "revision_at": "2026-10-27T15:26:10.675080+00:00",
+  "prior_snapshot": "sg-etiqa-expanded-ready-20261027T143415Z-redacted-v2",
+  "prior_manifest_sha256": "b0ee3d60d2b64341f6130f7329aa866c78ab09a0ea346de112452771e40cc397",
+  "intake_snapshot": "etiqa-sg-intake-metadata-20261027T144439Z",
+  "intake_manifest_sha256": "9a1ea4e2f4bcc1ad3d936f26050853af2ea0d8cb22dd6d6e0fe5f77aaed8c6ec",
+  "corrections": [
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-b2130c1eaf52cb26c44f",
+      "correction": "exact_linked_PDF_definition_legal_identity_only",
+      "previous_mapping_status": "first_party_source_publisher_only_contract_underwriter_unresolved",
+      "new_mapping_status": "narrow_linked_policy_definition_page_explicit_legal_entity",
+      "content_sha256": "0338f36699291fbd57ecfd272a3bc5f3001306dd45d358520687dc47300ca0b6",
+      "PDF_identity_page": 8,
+      "full_contract_privacy_raw_release_approval": false
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-44003c0bf34e9bba9538",
+      "correction": "exact_linked_PDF_definition_legal_identity_only",
+      "previous_mapping_status": "first_party_source_publisher_only_contract_underwriter_unresolved",
+      "new_mapping_status": "narrow_linked_policy_definition_page_explicit_legal_entity",
+      "content_sha256": "b1d245baedba7f66d618b1efedb69bbe2f17877fbfd0f341697c6f88a18a2013",
+      "PDF_identity_page": 9,
+      "full_contract_privacy_raw_release_approval": false
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-9972316730124a56b17b",
+      "correction": "exact_linked_PDF_definition_legal_identity_only",
+      "previous_mapping_status": "first_party_source_publisher_only_contract_underwriter_unresolved",
+      "new_mapping_status": "narrow_linked_policy_definition_page_explicit_legal_entity",
+      "content_sha256": "842eda458b57a4a2f7b26b04df725031f1ac5c10905eef740ba635911d4bd8ba",
+      "PDF_identity_page": 10,
+      "full_contract_privacy_raw_release_approval": false
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-f2729337da2985189a71",
+      "correction": "exact_linked_PDF_definition_legal_identity_only",
+      "previous_mapping_status": "first_party_source_publisher_only_contract_underwriter_unresolved",
+      "new_mapping_status": "narrow_linked_policy_definition_page_explicit_legal_entity",
+      "content_sha256": "157f7997856edf7b9ecc0b35e4a2eb8543ae771599f2ce61cc940c2525f8392e",
+      "PDF_identity_page": 4,
+      "full_contract_privacy_raw_release_approval": false
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-1f26f7b5b2a826386627",
+      "material_index": 4,
+      "label": "Etiqa Ver Memo (Pre-Contract Disclosure)",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-3ed1869fe62594211b42",
+      "material_index": 1,
+      "label": "Memo (Pre-Contract Disclosure)",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-30c454b9bbf4040fb890",
+      "material_index": 0,
+      "label": "Policy Wording",
+      "correction": "BOSS_shared_popup_different_offering_zero_parent_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-2f0cfaefe3bc89e09124",
+      "material_index": 2,
+      "label": "Product Provisions: Essential whole life cover",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-2f0cfaefe3bc89e09124",
+      "material_index": 3,
+      "label": "Policy Contract: Early CI protection rider",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-342f2a1d3f45e3c070e0",
+      "material_index": 0,
+      "label": "Policy Contract: Early CI protection rider",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-cac72c172a327b25676e",
+      "material_index": 5,
+      "label": "3 Plus Critical Illness",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-cac72c172a327b25676e",
+      "material_index": 6,
+      "label": "Protection April 2024",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-cac72c172a327b25676e",
+      "material_index": 7,
+      "label": "Heart & Neuro Rider S$50 eCapitaVoucher",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-cac72c172a327b25676e",
+      "material_index": 8,
+      "label": "Up to 50% off",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-08b8550c2ccf6c82c327",
+      "material_index": 1,
+      "label": "Direct Purchase Insurance",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-08b8550c2ccf6c82c327",
+      "material_index": 2,
+      "label": "ePROTECT term life",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-08b8550c2ccf6c82c327",
+      "material_index": 3,
+      "label": "Sum insured: $401,000 – $2,000,000",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-08b8550c2ccf6c82c327",
+      "material_index": 7,
+      "label": "DIRECT – Etiqa CI rider II",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-08b8550c2ccf6c82c327",
+      "material_index": 9,
+      "label": "Life September – January 2025",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-58c7a3503f3802cd1aea",
+      "material_index": 1,
+      "label": "DIRECT – Etiqa CI rider II",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-5dd202481cfe5df2c5af",
+      "material_index": 0,
+      "label": "ePROTECT term life",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-b2130c1eaf52cb26c44f",
+      "material_index": 2,
+      "label": "Cancer Insurance",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-3ef83879a483ebd8c567",
+      "material_index": 1,
+      "label": "Direct Purchase Insurance",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-3ef83879a483ebd8c567",
+      "material_index": 4,
+      "label": "DIRECT – Etiqa CI rider",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-3ef83879a483ebd8c567",
+      "material_index": 6,
+      "label": "Life September – January 2025",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-3ef83879a483ebd8c567",
+      "material_index": 7,
+      "label": "10X Rewards",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-80997ba8746d980db416",
+      "material_index": 0,
+      "label": "DIRECT – Etiqa CI rider",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-670818563c7f9391f823",
+      "material_index": 3,
+      "label": "Find out more about Travel Infinite",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-670818563c7f9391f823",
+      "material_index": 9,
+      "label": "NATAS Holidays August 2026 Terms & Conditions",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-9b4c07a4aaa102a05930",
+      "material_index": 0,
+      "label": "ePROTECT personal mobility",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-25b96f217f464a497e5a",
+      "material_index": 0,
+      "label": "Private Car before 1 July 2023",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-b45ba05e4f6b7b334b33",
+      "material_index": 0,
+      "label": "Private Car on and after 1 July 2023",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-396858edb296bf587fd8",
+      "material_index": 0,
+      "label": "Private Car – Addendum HVV Package before 1 July 2023",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-297a5cee30fd1bfdbb4a",
+      "material_index": 0,
+      "label": "Private Car – Addendum HVV Package on and after 1 July 2023",
+      "correction": "all_breakpoint_hidden_source_material_reference_zero_current_visible_credit"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-342f2a1d3f45e3c070e0",
+      "correction": "hidden_only_component_not_current_proven_rider",
+      "old_role": "rider",
+      "new_role": "hidden_component_candidate"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-9b4c07a4aaa102a05930",
+      "correction": "hidden_directory_observation_not_current_product"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-25b96f217f464a497e5a",
+      "correction": "hidden_directory_observation_not_current_product"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-b45ba05e4f6b7b334b33",
+      "correction": "hidden_directory_observation_not_current_product"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-396858edb296bf587fd8",
+      "correction": "hidden_directory_observation_not_current_product"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-297a5cee30fd1bfdbb4a",
+      "correction": "hidden_directory_observation_not_current_product"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-1f26f7b5b2a826386627",
+      "material_index": 0,
+      "label": "Memo (Pre-Contract Disclosure)",
+      "correction": "pre_contract_disclosure_not_policy_wording",
+      "previous_type": "policy_or_contract_reference",
+      "new_type": "pre_contract_disclosure"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-1f26f7b5b2a826386627",
+      "material_index": 4,
+      "label": "Etiqa Ver Memo (Pre-Contract Disclosure)",
+      "correction": "pre_contract_disclosure_not_policy_wording",
+      "previous_type": "policy_or_contract_reference",
+      "new_type": "pre_contract_disclosure"
+    },
+    {
+      "observation_id": "SG-Etiqa-static-observation-3ed1869fe62594211b42",
+      "material_index": 1,
+      "label": "Memo (Pre-Contract Disclosure)",
+      "correction": "pre_contract_disclosure_not_policy_wording",
+      "previous_type": "policy_or_contract_reference",
+      "new_type": "pre_contract_disclosure"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-86d5fb4055b44816179f",
+      "material_index": 3,
+      "label": "Pre-contract disclosure",
+      "correction": "pre_contract_disclosure_not_policy_wording",
+      "previous_type": "policy_wording_or_provisions_candidate",
+      "new_type": "pre_contract_disclosure"
+    },
+    {
+      "observation_id": "SG-Etiqa-expanded-observation-44003c0bf34e9bba9538",
+      "correction": "hidden_FULLY_SUBSCRIBED_not_current_withdrawal_evidence"
+    }
+  ],
+  "network_requests": 0,
+  "all_original_IDs_links_source_timestamps_held_nulls_preserved": true,
+  "new_raw_release_or_full_contract_credit": false
+}

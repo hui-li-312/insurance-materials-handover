@@ -1,0 +1,28 @@
+[
+  {
+    "url": "https://tiq.com.sg/product/pet-insurance/",
+    "origin": "https://tiq.com.sg",
+    "checked_at": "2026-10-27T14:21:21.883454+00:00",
+    "method": "GET",
+    "request_reason": "Root-authorized one-time local redirect-instrumentation correction; first unknown redirect log preserved.",
+    "redirects_implicitly_followed": 0,
+    "http_status": 301,
+    "access_status": "redirect_observed_not_implicitly_followed",
+    "Location": "https://www.tiq.com.sg/product/pet-insurance/",
+    "independently_validated_next_target": "https://www.tiq.com.sg/product/pet-insurance/"
+  },
+  {
+    "url": "https://www.tiq.com.sg/product/pet-insurance/",
+    "origin": "https://www.tiq.com.sg",
+    "checked_at": "2026-10-27T14:21:29.792886+00:00",
+    "method": "GET",
+    "request_reason": "Exact actual Location independently inspected as already grounded wwwTiQ public product path; no query/auth/transaction.",
+    "redirects_implicitly_followed": 0,
+    "http_status": 200,
+    "final_url": "https://www.tiq.com.sg/product/pet-insurance/",
+    "bytes": 461291,
+    "content_type": "text/html",
+    "source_sha256": "e1ac06be2c004e35b685f215ab7084bf1ddb7d46d9a7282cdd5200a400796001",
+    "access_status": "public_product_HTML_read_unreviewed"
+  }
+]

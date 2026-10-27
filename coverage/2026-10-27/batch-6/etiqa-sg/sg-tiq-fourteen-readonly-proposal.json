@@ -1,0 +1,181 @@
+{
+  "created_at": "2026-10-27T14:15:10.963192+00:00",
+  "legal_entity": "ETIQA INSURANCE PTE. LTD.",
+  "origin_associations": [
+    {
+      "origin": "https://www.tiq.com.sg",
+      "evidence_url": "https://www.etiqa.com.sg/personal/",
+      "evidence_sha256": "ab30344b2aea5eb754a5e78b953c2918a695558876bdd6fcad39f60ca68c5bc8",
+      "evidence_scope": "Own Personal FAQ explicitly calls this Tiq by Etiqa website and describes selected Etiqa policies available through it. Same page footer names Etiqa Insurance Pte. Ltd., UEN201331905K; no contact details exported.",
+      "association_role": "first_party_digital_distribution_channel_not_independent_underwriter_verification",
+      "prior_matching_origin_denial_found": false
+    },
+    {
+      "origin": "https://tiq.com.sg",
+      "evidence_url": "https://www.etiqa.com.sg/personal/pet-insurance/",
+      "evidence_sha256": "e31d90318bef54b8c3c067c55885aeba1b2baf4505818c7f85c8784da5f8d944",
+      "evidence_scope": "Literal Pet Insurance View More href from exact successful public category renderer response; root same-brand association is the explicit Personal FAQ. No guessed www/naked rewrite.",
+      "prior_matching_origin_denial_found": false
+    }
+  ],
+  "proposed_read_only_GET_cap": 14,
+  "queue": [
+    {
+      "url": "https://www.tiq.com.sg/product/3-plus-critical-illness/",
+      "official_name": "3 Plus Critical Illness",
+      "source_response_sha256": "a4af4c592e9da4bd5269711386260bd9ff3e5c70f0f53e2880319e2b7516bd16",
+      "source_category_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+      "source_card_ids": [
+        "463"
+      ],
+      "proposal_status": "pending_root_review_no_request",
+      "literal_action_provenance": "Exact View More href in successful anonymous official Etiqa public-product rendering response; Buy and Get Advice actions excluded."
+    },
+    {
+      "url": "https://www.tiq.com.sg/product/term-life-insurance/",
+      "official_name": "Term Life Insurance",
+      "source_response_sha256": "a4af4c592e9da4bd5269711386260bd9ff3e5c70f0f53e2880319e2b7516bd16",
+      "source_category_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+      "source_card_ids": [
+        "477"
+      ],
+      "proposal_status": "pending_root_review_no_request",
+      "literal_action_provenance": "Exact View More href in successful anonymous official Etiqa public-product rendering response; Buy and Get Advice actions excluded."
+    },
+    {
+      "url": "https://www.tiq.com.sg/product/cancer-insurance/",
+      "official_name": "Cancer Insurance",
+      "source_response_sha256": "a4af4c592e9da4bd5269711386260bd9ff3e5c70f0f53e2880319e2b7516bd16",
+      "source_category_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+      "source_card_ids": [
+        "466"
+      ],
+      "proposal_status": "pending_root_review_no_request",
+      "literal_action_provenance": "Exact View More href in successful anonymous official Etiqa public-product rendering response; Buy and Get Advice actions excluded."
+    },
+    {
+      "url": "https://www.tiq.com.sg/product/whole-life-insurance/",
+      "official_name": "Whole Life Insurance",
+      "source_response_sha256": "a4af4c592e9da4bd5269711386260bd9ff3e5c70f0f53e2880319e2b7516bd16",
+      "source_category_url": "https://www.etiqa.com.sg/personal/life-critical-illness-protection/",
+      "source_card_ids": [
+        "476"
+      ],
+      "proposal_status": "pending_root_review_no_request",
+      "literal_action_provenance": "Exact View More href in successful anonymous official Etiqa public-product rendering response; Buy and Get Advice actions excluded."
+    },
+    {
+      "url": "https://www.tiq.com.sg/product/enrich-aspire-vii/",
+      "official_name": "Enrich aspire VII",
+      "source_response_sha256": "51690fea3ec5e006a735d87ebd772b2b575309e9f74e9dc4dba1ff92e3956a00",
+      "source_category_url": "https://www.etiqa.com.sg/personal/savings-retirement/",
+      "source_card_ids": [
+        "15046"
+      ],
+      "proposal_status": "pending_root_review_no_request",
+      "literal_action_provenance": "Exact View More href in successful anonymous official Etiqa public-product rendering response; Buy and Get Advice actions excluded."
+    },
+    {
+      "url": "https://www.tiq.com.sg/product/cashsaver",
+      "official_name": "Tiq CashSaver",
+      "source_response_sha256": "51690fea3ec5e006a735d87ebd772b2b575309e9f74e9dc4dba1ff92e3956a00",
+      "source_category_url": "https://www.etiqa.com.sg/personal/savings-retirement/",
+      "source_card_ids": [
+        "11254"
+      ],
+      "proposal_status": "pending_root_review_no_request",
+      "literal_action_provenance": "Exact View More href in successful anonymous official Etiqa public-product rendering response; Buy and Get Advice actions excluded."
+    },
+    {
+      "url": "https://www.tiq.com.sg/product/tiq-personal-accident/",
+      "official_name": "Tiq Personal Accident",
+      "source_response_sha256": "53d9e9dba6b5b3dee98b0434aff62cad18695674ca29791fa0b2bd9456c50f37",
+      "source_category_url": "https://www.etiqa.com.sg/personal/personal-accident/",
+      "source_card_ids": [
+        "494"
+      ],
+      "proposal_status": "pending_root_review_no_request",
+      "literal_action_provenance": "Exact View More href in successful anonymous official Etiqa public-product rendering response; Buy and Get Advice actions excluded."
+    },
+    {
+      "url": "https://www.tiq.com.sg/product/personal-cyber-insurance/",
+      "official_name": "Personal Cyber Insurance",
+      "source_response_sha256": "22b500aef9848397bf0c81f35ee0086b97db78f2a0944956121a8422f703d545",
+      "source_category_url": "https://www.etiqa.com.sg/personal/personal-cyber-insurance/",
+      "source_card_ids": [
+        "495"
+      ],
+      "proposal_status": "pending_root_review_no_request",
+      "literal_action_provenance": "Exact View More href in successful anonymous official Etiqa public-product rendering response; Buy and Get Advice actions excluded."
+    },
+    {
+      "url": "https://www.tiq.com.sg/product/maid-insurance/",
+      "official_name": "Tiq Maid",
+      "source_response_sha256": "71ee0460cf7badaa7b412cb0b671cfd5b2e80f91b4f65bd6accbfc22aaabf580",
+      "source_category_url": "https://www.etiqa.com.sg/personal/maid-insurance/",
+      "source_card_ids": [
+        "496"
+      ],
+      "proposal_status": "pending_root_review_no_request",
+      "literal_action_provenance": "Exact View More href in successful anonymous official Etiqa public-product rendering response; Buy and Get Advice actions excluded."
+    },
+    {
+      "url": "https://www.tiq.com.sg/product/travel-insurance/",
+      "official_name": "Tiq Travel Insurance",
+      "source_response_sha256": "bcf3a43bc670ac2085bfadb27877fcb86943e75420b74c1c81436cd0ff5a466f",
+      "source_category_url": "https://www.etiqa.com.sg/personal/travel-insurance/",
+      "source_card_ids": [
+        "497"
+      ],
+      "proposal_status": "pending_root_review_no_request",
+      "literal_action_provenance": "Exact View More href in successful anonymous official Etiqa public-product rendering response; Buy and Get Advice actions excluded."
+    },
+    {
+      "url": "https://www.tiq.com.sg/product/home-insurance/",
+      "official_name": "Tiq Home Insurance",
+      "source_response_sha256": "3f13383c838cb31e6d8cb5376c44dee9412149cbb5614dd40beb61a7a77dd005",
+      "source_category_url": "https://www.etiqa.com.sg/personal/home-insurance/",
+      "source_card_ids": [
+        "501",
+        "11318"
+      ],
+      "proposal_status": "pending_root_review_no_request",
+      "literal_action_provenance": "Exact View More href in successful anonymous official Etiqa public-product rendering response; Buy and Get Advice actions excluded."
+    },
+    {
+      "url": "https://tiq.com.sg/product/pet-insurance/",
+      "official_name": "Pet Insurance",
+      "source_response_sha256": "e31d90318bef54b8c3c067c55885aeba1b2baf4505818c7f85c8784da5f8d944",
+      "source_category_url": "https://www.etiqa.com.sg/personal/pet-insurance/",
+      "source_card_ids": [
+        "10272"
+      ],
+      "proposal_status": "pending_root_review_no_request",
+      "literal_action_provenance": "Exact View More href in successful anonymous official Etiqa public-product rendering response; Buy and Get Advice actions excluded."
+    },
+    {
+      "url": "https://www.tiq.com.sg/product/motorcycle-insurance/",
+      "official_name": "ePROTECT motorcycle",
+      "source_response_sha256": "92032fe8571321de107792b6b5a4f65cda6ab19b201434946599c913180f847f",
+      "source_category_url": "https://www.etiqa.com.sg/personal/motor-insurance/",
+      "source_card_ids": [
+        "502"
+      ],
+      "proposal_status": "pending_root_review_no_request",
+      "literal_action_provenance": "Exact View More href in successful anonymous official Etiqa public-product rendering response; Buy and Get Advice actions excluded."
+    },
+    {
+      "url": "https://www.tiq.com.sg/product/private-car-insurance/",
+      "official_name": "Private Car Insurance",
+      "source_response_sha256": "92032fe8571321de107792b6b5a4f65cda6ab19b201434946599c913180f847f",
+      "source_category_url": "https://www.etiqa.com.sg/personal/motor-insurance/",
+      "source_card_ids": [
+        "503"
+      ],
+      "proposal_status": "pending_root_review_no_request",
+      "literal_action_provenance": "Exact View More href in successful anonymous official Etiqa public-product rendering response; Buy and Get Advice actions excluded."
+    }
+  ],
+  "requests_performed": 0,
+  "guard_contract": "Fresh anonymous HTTP GET only to exact static /product/ URLs; no cookies, Authorization, nonce, forms, account, purchase/quote or policy-issuing API. No redirects followed; stop matching www/naked origin on401/403/407 or visible WAF/bare/JSON/HTML Forbidden. Unexpected bodies remain gaps. No PDFs in this queue."
+}
