@@ -1,0 +1,162 @@
+{
+  "VN": {
+    "existing_rows": 572,
+    "existing_raw_issuer_labels": {
+      "Công ty TNHH Bảo hiểm nhân thọ Prudential Việt Nam": 94,
+      "Techcom Nonlife Insurance Joint Stock Company": 6,
+      "AAA Insurance": 25,
+      "Công ty TNHH Bảo hiểm nhân thọ Chubb Việt Nam": 5,
+      "Công ty Cổ phần bảo hiểm nhân thọ Phú Hưng": 3,
+      "Công ty TNHH Bảo hiểm nhân thọ Cathay Việt Nam": 3,
+      "Công ty TNHH Bảo hiểm nhân thọ BIDV MetLife": 2,
+      "Công ty TNHH Bảo hiểm nhân thọ Dai-ichi Việt Nam": 57,
+      "Công ty TNHH bảo hiểm nhân thọ MVI": 31,
+      "Công ty TNHH Bảo hiểm Nhân thọ Aviva Việt Nam": 3,
+      "Công ty TNHH Bảo hiểm nhân thọ AIA (Việt Nam)": 31,
+      "Công ty TNHH Bảo hiểm nhân thọ Fubon Việt Nam": 4,
+      "Công ty TNHH Manulife (Việt Nam)": 106,
+      "MISSING": 1,
+      "Công ty Cổ phần Bảo hiểm Ngân hàng Nông nghiệp": 23,
+      "Post - Telecommunication Joint Stock Insurance Corporation (PTI)": 30,
+      "Petrolimex Insurance Corporation (PJICO)": 12,
+      "AIG Vietnam Insurance Company Limited": 2,
+      "Bao Viet Insurance Corporation": 8,
+      "Chubb Insurance Vietnam Company Limited": 3,
+      "Công ty Cổ phần Bảo hiểm Phú Hưng": 29,
+      "Tổng Công ty Cổ phần Bảo hiểm Bảo Long": 3,
+      "Hung Vuong Assurance Corporation (BHV)": 14,
+      "Công ty TNHH Bảo hiểm Liberty": 26,
+      "Fubon Insurance (Vietnam) Company Limited": 9,
+      "Bao Long Insurance Corporation": 3,
+      "HD Insurance Company Limited": 4,
+      "Tokio Marine Insurance Vietnam Company Limited": 3,
+      "Công ty TNHH Bảo hiểm nhân thọ MB Ageas": 7,
+      "Công ty Cổ phần bảo hiểm nhân thọ Kỹ thương": 14,
+      "Prudential Việt Nam": 10,
+      "Tổng Công ty Cổ phần Bảo hiểm Bưu điện (PTI)": 1
+    },
+    "census_candidate_rows": 60,
+    "literal_exact_name_matches": [
+      "Công ty TNHH Bảo hiểm nhân thọ Prudential Việt Nam",
+      "Công ty TNHH Manulife (Việt Nam)",
+      "Công ty TNHH Bảo hiểm nhân thọ AIA (Việt Nam)",
+      "Công ty TNHH Bảo hiểm nhân thọ Chubb Việt Nam",
+      "Công ty TNHH Bảo hiểm nhân thọ Cathay Việt Nam",
+      "Công ty TNHH Bảo hiểm nhân thọ Fubon Việt Nam",
+      "Công ty TNHH bảo hiểm nhân thọ MVI",
+      "Công ty Cổ phần bảo hiểm nhân thọ Phú Hưng",
+      "Công ty TNHH Bảo hiểm nhân thọ BIDV MetLife",
+      "Công ty TNHH Bảo hiểm nhân thọ MB Ageas",
+      "Công ty Cổ phần bảo hiểm nhân thọ Kỹ thương"
+    ],
+    "comparison_field": "insurer",
+    "method": "Literal legal-name equality only. Unmatched labels are unresolved aliases, not proven missing entities. Historical/transferred entities not fuzzy merged.",
+    "observed_public_roster_exhausted": false,
+    "current_asof_denominator_certified": false
+  },
+  "BN": {
+    "existing_rows": 33,
+    "existing_raw_issuer_labels": {
+      "Insurans Islam Family Takaful Sdn. Bhd.": 4,
+      "National Insurance Company Berhad": 2,
+      "Insurans Islam TAIB Family Takaful Sendirian Berhad": 1,
+      "Insurans Islam Family Takaful Sendirian Berhad": 7,
+      "Insurans Islam General Takaful Sendirian Berhad": 12,
+      "Tokio Marine Insurance Singapore Ltd (Brunei Branch)": 1,
+      "Insurans Islam General Takaful Sdn Bhd": 3,
+      "Insurans Islam TAIB General Takaful Sendirian Berhad": 2,
+      "Insurans Islam Family Takaful Sdn Bhd": 1
+    },
+    "census_candidate_rows": 11,
+    "literal_exact_name_matches": [
+      "National Insurance Company Berhad",
+      "Insurans Islam General Takaful Sdn Bhd",
+      "Insurans Islam Family Takaful Sdn Bhd"
+    ],
+    "comparison_field": "insurer",
+    "method": "Literal legal-name equality only. Unmatched labels are unresolved aliases, not proven missing entities. Historical/transferred entities not fuzzy merged.",
+    "observed_public_roster_exhausted": true,
+    "current_asof_denominator_certified": false
+  },
+  "KH": {
+    "existing_rows": 199,
+    "existing_raw_issuer_labels": {
+      "Prudential (Cambodia) Life Assurance PLC": 1,
+      "Forte Insurance (Cambodia) Plc": 3,
+      "AIA (CAMBODIA) LIFE INSURANCE PLC.": 25,
+      "MISSING": 13,
+      "PEOPLE & PARTNERS INSURANCE PLC.": 4,
+      "FORTUNE LIFE INSURANCE PLC.": 12,
+      "PHILLIP LIFE ASSURANCE (CAMBODIA) PLC.": 20,
+      "AIA (CAMBODIA) LIFE INSURANCE PLC": 23,
+      "MANULIFE (CAMBODIA) PLC": 21,
+      "PRUDENTIAL (CAMBODIA) LIFE ASSURANCE PLC": 10,
+      "ANGKOR GENERAL INSURANCE PLC.": 4,
+      "DAIICHI LIFE INSURANCE (CAMBODIA) PLC.": 17,
+      "DAI-ICHI LIFE INSURANCE (CAMBODIA) PLC.": 1,
+      "GC LIFE INSURANCE PLC.": 32,
+      "CAMPU LONPAC INSURANCE Plc.": 7,
+      "Prudential (Cambodia) Life Assurance Plc.": 1,
+      "Forte Insurance (Cambodia) Plc.": 2,
+      "Daiichi Life Insurance (Cambodia) PLC.": 1,
+      "Forte Insurance (Cambodia) PLC.": 2
+    },
+    "census_candidate_rows": 39,
+    "literal_exact_name_matches": [
+      "AIA (CAMBODIA) LIFE INSURANCE PLC",
+      "ANGKOR GENERAL INSURANCE PLC.",
+      "CAMPU LONPAC INSURANCE Plc.",
+      "DAIICHI LIFE INSURANCE (CAMBODIA) PLC.",
+      "FORTUNE LIFE INSURANCE PLC.",
+      "GC LIFE INSURANCE PLC.",
+      "MANULIFE (CAMBODIA) PLC",
+      "PEOPLE & PARTNERS INSURANCE PLC.",
+      "PHILLIP LIFE ASSURANCE (CAMBODIA) PLC.",
+      "PRUDENTIAL (CAMBODIA) LIFE ASSURANCE PLC"
+    ],
+    "comparison_field": "insurer",
+    "method": "Literal legal-name equality only. Unmatched labels are unresolved aliases, not proven missing entities. Historical/transferred entities not fuzzy merged.",
+    "observed_public_roster_exhausted": true,
+    "current_asof_denominator_certified": false
+  },
+  "LA": {
+    "existing_rows": 40,
+    "existing_raw_issuer_labels": {
+      "Assurances General Laos Sole Co., Ltd": 19,
+      "MISSING": 7,
+      "Lanexang Assurance Public Company (LAP)": 4,
+      "Tokojaya Lao Co., Ltd.": 1,
+      "Forte-Toko Lao Assurance Co., Ltd.": 4,
+      "Phongsavanh Insurance (APA) Co., Ltd.": 5
+    },
+    "census_candidate_rows": 6,
+    "literal_exact_name_matches": [
+      "Phongsavanh Insurance (APA) Co., Ltd.",
+      "Forte-Toko Lao Assurance Co., Ltd."
+    ],
+    "comparison_field": "insurer",
+    "method": "Literal legal-name equality only. Unmatched labels are unresolved aliases, not proven missing entities. Historical/transferred entities not fuzzy merged.",
+    "observed_public_roster_exhausted": false,
+    "current_asof_denominator_certified": false,
+    "baseline_source_queue": "All five named prior-source labels and seven-row unlabeled held bucket retained separately, plus two transfer-related candidates. Primary evidence mappings explicit; no fuzzy cross-entity merge."
+  },
+  "MM": {
+    "existing_rows": 86,
+    "existing_raw_issuer_labels": {
+      "KBZMS General Insurance Co., Ltd": 2,
+      "Chubb Life Insurance Myanmar Limited": 1,
+      "KBZMS General Insurance Co., Ltd.": 11,
+      "First National Insurance (Life) Co., Ltd.": 30,
+      "Aung Thitsa Oo Insurance Company Limited": 5,
+      "First National Insurance (General) Co., Ltd.": 28,
+      "AYA SOMPO Insurance Company Limited": 2,
+      "First National Insurance (General) Company Limited": 7
+    },
+    "census_candidate_rows": 27,
+    "literal_exact_name_matches": [],
+    "comparison_field": "insurer",
+    "method": "Literal legal-name equality only. Unmatched labels are unresolved aliases, not proven missing entities. Historical/transferred entities not fuzzy merged.",
+    "observed_public_roster_exhausted": false,
+    "current_asof_denominator_certified": false
+  }
+}

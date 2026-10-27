@@ -1,0 +1,17 @@
+{
+  "region": "LA",
+  "issuer_id": "LA-issuer-72c5971849a8",
+  "legal_name": "Forte-Toko Lao Assurance Co., Ltd.",
+  "checked_at": "2026-10-27T14:22:14.345133+00:00",
+  "official_product_page": "https://www.fortelaos.com/individuals-families/automobile-insurance/",
+  "material_ref_id": "material-f9faab466e78dfb995b4",
+  "privately_acquired_sha256": "89f7766e2256c3fa3ffc71d78622a34459886b9c88759199ad9ce0f41b50780a",
+  "physical_pdf_page": 4,
+  "printed_page": "1",
+  "identity_evidence": "Article1.1 explicitly names Forte-Toko Lao Assurance Co., Ltd. as Insurer; Article2 states Lao PDR territorial scope.",
+  "review_method": "Ordinary visual reading only; copy-restricted PDF was not text-extracted, OCRed or unlocked.",
+  "review_scope": "Issuer identity only, not full contract/privacy/current-version/reuse review or individual underwriting confirmation for all25 catalog observations.",
+  "source_2024_corporate_profile_body_retained_locally": false,
+  "formal_original_count_increment": 0,
+  "public_raw_release_count": 0
+}

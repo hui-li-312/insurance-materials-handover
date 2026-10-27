@@ -1,0 +1,27 @@
+{
+  "created_at": "2026-10-27T13:51:54.272178+00:00",
+  "source_snapshot": "public-redacted-bn-kh-la-mm-v6a-20261027T1149Z",
+  "scope": "Fixed706 observations; no moving extraction additions. Two already approved held-alias corrections plus honest acquisition/time/layer accounting.",
+  "changed_material_associations": [
+    {
+      "inventory_id": "KH-product-8bcadf4aa158c43c",
+      "material_index": 5,
+      "material_ref_id": "historical-held-8b30c6f25589184c814be709"
+    },
+    {
+      "inventory_id": "KH-product-8bcadf4aa158c43c",
+      "material_index": 13,
+      "material_ref_id": "historical-held-8b30c6f25589184c814be709"
+    }
+  ],
+  "source_observed_product_rows": 706,
+  "source_material_occurrences": 945,
+  "source_unique_material_locators": 801,
+  "public_material_occurrences": 913,
+  "public_unique_material_locators": 778,
+  "withheld_material_occurrences": 32,
+  "formal_original_increment": 0,
+  "public_raw_files_released": 0,
+  "qa_status": "independent_content_qa_pending",
+  "historical_scope_note": "Dated v6b projection accounting preserved as history; latest corrected counts are in run-status.json and content-qa-corrections-v6c.json."
+}

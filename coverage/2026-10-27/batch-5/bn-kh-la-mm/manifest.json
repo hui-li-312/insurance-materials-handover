@@ -1,0 +1,29 @@
+{
+  "frozen_at": "2026-10-27T14:25:19.712417+00:00",
+  "scope": "Fixed706 observations, narrow independent-QA content corrections, active61 withholding; no moving route additions; independent final QA pending",
+  "files": {
+    "README.md": "afc5fcdc8b402d5c5901c549bea6db3d9704f2dea270612230978ad211581d2b",
+    "catalog-observations.jsonl": "90e76a9c3e39adbfddd43f2e8ac49d80abba757f4ec77c437611f0d94bf91651",
+    "content-qa-corrections-v6c.json": "12fb316c6c053d43fc9ab9210b4e18ae5a39f58c4d16843ce4667c6207db4573",
+    "cumulative-projection-changelog.json": "b3a1049819c92dcc165ffc44a2fabb43856e7f1902591f5e98e1bc9a10be8afa",
+    "existing-coverage-comparison.json": "a392c1565fa12131ffab10e181eef0306552c100e6a990cf858a6488c82c1961",
+    "historical-closed-operations.jsonl": "18b6a7d9119ce9ede08fd0afe88d727a6d734d1eef4937641daacc0645eda5fb",
+    "identity-evidence-supplement.json": "b0324dddb09617242eee8d521654d3e8a8d678ffbddce6570c3d4de455e7bd63",
+    "issuer-coverage-layers.jsonl": "161474cb943829bacf62e898934073810d9a77908810b099114c73ba06394c45",
+    "issuer-queue.jsonl": "8209f11087423260c2576dbf7fdbd4279ef286c243a8bd4a229c7fa879d11bd6",
+    "issuers.jsonl": "49073f0b8df03cfe62c1ab37a8bf18ca54808a4df232fe3b134ce082938dead0",
+    "la-baseline-source-candidates.jsonl": "12003f3ce9d41a184a269557018cbada5b9bcd552492fb7dbaa5ff9f07f08227",
+    "la-material-catalog.jsonl": "8a0c9505af6c877ad13da9c1449292b2380fcaa8741c9d0add0e6ae3b58bbd83",
+    "material-acquisition-progress-summary.json": "6b5b0bf57ae3ad25e90bd2663f3ce7aec7ff09f8baa7adae99264bb8d3e54c3f",
+    "mm-catalog-request-queue.jsonl": "b98000da9effc78fc899494eaaa6af8c5db7c68c68f58c2555d8511ceb25b913",
+    "mm-current-count-evidence.json": "53a9dfacce05ce555f29e7180a9ed7e26336ba84b96d34e829231a8c33fc5e5d",
+    "mm-discovery-queue.jsonl": "fb86385ce10fbc022b6351740376f813d1fb48b72fcff3237351413615014b55",
+    "mm-excluded-material-links.jsonl": "8d925d1a937e804729ddd130abe58683746a53afc810a33be8acdb5e87e32e0e",
+    "mm-second-request-queue.jsonl": "14ce6cd5623bfe6a8a59766e463a0354e993f6c1f00989817bb85041ada50ca1",
+    "mm-young-followup-queue.jsonl": "7826863d1d8f4c545e55fc6d36e0df0695d9400823652996a6ff0c021aee09f1",
+    "products.jsonl": "5acc6133d252eb27827cfaee8075388e3a3317893386a31e37124772dc6733bc",
+    "public-withholding-summary.json": "f2604dde8aa981404eb4847a6a06436567550911d7e0c25d56ba9841d5c62e28",
+    "run-status.json": "6f39ce47a01a9a762119668ca42d1bcd63769a7fe172b9133b642d1ec15fe447",
+    "sources.json": "d7ffcaeb7bfa55679838f03d3aca989367483b4345675cb03b46b5b40e096419"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "created_at": "2026-10-27T14:22:14.345133+00:00",
+  "source_snapshot": "public-redacted-bn-kh-la-mm-v6b-20261027T1350Z",
+  "status": "immutable_successor_pending_independent_qa",
+  "changes": [
+    {
+      "source_inventory_id": "LA-product-fc4133ba16e94805",
+      "correct_inventory_id": "LA-product-8d691ba3ece8395b",
+      "observed_resource_label": "WYFI Wording",
+      "action": "Remove wrong Smart Flex occurrence; merge resource provenance into exact matching existing own-page material; correct material catalog associated ID.",
+      "wrong_product_occurrences_removed": 1,
+      "new_unique_materials_added": 0
+    },
+    {
+      "source_inventory_id": "LA-product-fc4133ba16e94805",
+      "correct_inventory_id": "LA-product-948655085dc8478e",
+      "observed_resource_label": "Third Party Liability (TPL) Wording",
+      "action": "Remove wrong Smart Flex occurrence; merge resource provenance into exact matching existing own-page material; correct material catalog associated ID.",
+      "wrong_product_occurrences_removed": 1,
+      "new_unique_materials_added": 0
+    }
+  ],
+  "product_rows_unchanged": 706,
+  "material_occurrences_after_specific_fix": 943,
+  "public_material_occurrences_after_specific_fix": 911,
+  "public_unique_material_locators_unchanged": 778,
+  "source_unique_material_locators_unchanged": 801,
+  "withheld_material_occurrences_unchanged": 32,
+  "dependent_issuer_region_run_status_counts": "Completed in this immutable freeze: LA86 source material occurrences; cumulative943 source occurrences and911 public locator occurrences; issuer/region/run-status counts reconcile.",
+  "additional_corrections": [
+    "All16 GGI Nippon brochure anchors are hidden inline-display-none source-markup candidates with zero visible-material credit.",
+    "AGL anniversary source_date changed to null;2026-01-21 retained only as event_date.",
+    "Existing captured Forte automobile wording visually supports exact legal issuer identity only;2024 profile body is not locally retained."
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "checked_at": "2026-10-27T13:12:47.670068+00:00",
+  "scope": "First finite BN/KH/LA/MM positive same-origin generic-product PDF acquisition queue; all raw files remain private and unreviewed or held. Not complete regional acquisition.",
+  "unique_source_observed_pdf_targets": 793,
+  "initial_eligible_targets": 555,
+  "request_outcome_records_including_local_preflight_encoding_failures": 564,
+  "unique_attempted_targets": 555,
+  "terminal_status_counts": {
+    "downloaded_private_unreviewed": 537,
+    "size_limit_body_not_read": 7,
+    "404": 5,
+    "historical_held_sha_local_hold": 2,
+    "size_limit_not_retained": 3,
+    "421": 1
+  },
+  "private_downloaded_target_count": 539,
+  "private_downloaded_unique_sha256_count": 521,
+  "private_unreviewed_unique_sha256_count": 520,
+  "private_held_unique_sha256_count": 1,
+  "verified_original_count_increment": 0,
+  "public_raw_files_released": 0,
+  "remaining_scope": "Service/form targets excluded; denied origins not retried; unknown/static-host and distributor/issuer mappings remain quarantined. Size-limited,404 and421 targets are not claimed captured. VN and newly expanded Campu materials are not in this batch.",
+  "source_hold_union_alias_count": 61,
+  "current_byte_confirmed_new_alias_count": 2,
+  "per_issuer": [
+    {
+      "region": "BN",
+      "issuer_id": "BN-issuer-f981dbff9399",
+      "attempted_unique_material_targets": 37,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 35,
+        "size_limit_body_not_read": 2
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 34,
+      "unique_private_unreviewed_sha256_count": 34,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "BN",
+      "issuer_id": "BN-issuer-f259b56fc219",
+      "attempted_unique_material_targets": 29,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 25,
+        "size_limit_body_not_read": 4
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 25,
+      "unique_private_unreviewed_sha256_count": 25,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "KH",
+      "issuer_id": "KH-issuer-33b38a401e12",
+      "attempted_unique_material_targets": 8,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 8
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 8,
+      "unique_private_unreviewed_sha256_count": 8,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "KH",
+      "issuer_id": "KH-issuer-6feca2737186",
+      "attempted_unique_material_targets": 41,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 41
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 41,
+      "unique_private_unreviewed_sha256_count": 41,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "KH",
+      "issuer_id": "KH-issuer-c9b400a29e78",
+      "attempted_unique_material_targets": 11,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 11
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 11,
+      "unique_private_unreviewed_sha256_count": 11,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "BN",
+      "issuer_id": "BN-issuer-550ceac3d1d0",
+      "attempted_unique_material_targets": 23,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 23
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 23,
+      "unique_private_unreviewed_sha256_count": 23,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "BN",
+      "issuer_id": "BN-issuer-29dbd24f90b2",
+      "attempted_unique_material_targets": 18,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 18
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 18,
+      "unique_private_unreviewed_sha256_count": 18,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "KH",
+      "issuer_id": "KH-issuer-638d516b466f",
+      "attempted_unique_material_targets": 87,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 82,
+        "historical_held_sha_local_hold": 2,
+        "size_limit_not_retained": 3
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 72,
+      "unique_private_unreviewed_sha256_count": 71,
+      "unique_held_sha256_count": 1
+    },
+    {
+      "region": "KH",
+      "issuer_id": "KH-issuer-35e6558c0ee2",
+      "attempted_unique_material_targets": 15,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 15
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 15,
+      "unique_private_unreviewed_sha256_count": 15,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "LA",
+      "issuer_id": "LA-issuer-7f7599f7bf92",
+      "attempted_unique_material_targets": 21,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 21
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 21,
+      "unique_private_unreviewed_sha256_count": 21,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "LA",
+      "issuer_id": "LA-issuer-71ce67e1ddde",
+      "attempted_unique_material_targets": 28,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 28
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 25,
+      "unique_private_unreviewed_sha256_count": 25,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "LA",
+      "issuer_id": "LA-issuer-72c5971849a8",
+      "attempted_unique_material_targets": 5,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 5
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 5,
+      "unique_private_unreviewed_sha256_count": 5,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "MM",
+      "issuer_id": "MM-issuer-6b263fe54acc",
+      "attempted_unique_material_targets": 49,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 42,
+        "404": 5,
+        "size_limit_body_not_read": 1,
+        "421": 1
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 41,
+      "unique_private_unreviewed_sha256_count": 41,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "MM",
+      "issuer_id": "MM-issuer-272ff72db6c2",
+      "attempted_unique_material_targets": 13,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 13
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 13,
+      "unique_private_unreviewed_sha256_count": 13,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "BN",
+      "issuer_id": "BN-issuer-a873554d3e63",
+      "attempted_unique_material_targets": 14,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 14
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 14,
+      "unique_private_unreviewed_sha256_count": 14,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "MM",
+      "issuer_id": "MM-issuer-483f48c3af27",
+      "attempted_unique_material_targets": 27,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 27
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 27,
+      "unique_private_unreviewed_sha256_count": 27,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "KH",
+      "issuer_id": "KH-issuer-ebbe6a7b053f",
+      "attempted_unique_material_targets": 21,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 21
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 20,
+      "unique_private_unreviewed_sha256_count": 20,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "KH",
+      "issuer_id": "KH-issuer-fb34fba0b04e",
+      "attempted_unique_material_targets": 64,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 64
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 64,
+      "unique_private_unreviewed_sha256_count": 64,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "MM",
+      "issuer_id": "MM-issuer-0078caaf9930",
+      "attempted_unique_material_targets": 9,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 9
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 9,
+      "unique_private_unreviewed_sha256_count": 9,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "MM",
+      "issuer_id": "MM-issuer-e18c3ac333d6",
+      "attempted_unique_material_targets": 6,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 6
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 6,
+      "unique_private_unreviewed_sha256_count": 6,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "KH",
+      "issuer_id": "KH-issuer-9d8c1e524c68",
+      "attempted_unique_material_targets": 4,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 4
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 4,
+      "unique_private_unreviewed_sha256_count": 4,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "MM",
+      "issuer_id": "MM-issuer-699f95cf2824",
+      "attempted_unique_material_targets": 7,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 7
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 7,
+      "unique_private_unreviewed_sha256_count": 7,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "MM",
+      "issuer_id": "MM-issuer-4f6ef75dc1bc",
+      "attempted_unique_material_targets": 16,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 16
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 16,
+      "unique_private_unreviewed_sha256_count": 16,
+      "unique_held_sha256_count": 0
+    },
+    {
+      "region": "MM",
+      "issuer_id": "MM-issuer-3172ca020312",
+      "attempted_unique_material_targets": 2,
+      "terminal_status_counts": {
+        "downloaded_private_unreviewed": 2
+      },
+      "verified_original_count_increment": 0,
+      "public_raw_files_released": 0,
+      "unique_private_sha256_count": 2,
+      "unique_private_unreviewed_sha256_count": 2,
+      "unique_held_sha256_count": 0
+    }
+  ],
+  "full_content_review_completed_count": 0,
+  "scope_caveat": "This finite555-target queue used original706-observation material scope; subsequent VN/Campu acquisitions are excluded. SHA uniqueness per issuer need not sum to global uniqueness. The dated acquisition ledger predates the2 AGL association corrections and hidden-link visibility review; it is not proof of current visible-offer or product-material attribution."
+}
