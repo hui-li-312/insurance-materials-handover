@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "compiled_at": "2026-10-27T13:59:51.304668+00:00",
+  "compiled_at": "2026-10-27T14:36:11Z",
   "status": "in_progress_not_all_market_complete",
   "formal_original_baseline": 4713,
   "new_formal_original_credit": 0,
@@ -28,16 +28,19 @@
     },
     {
       "id": "bn_kh_catalog_and_regional_queues",
-      "path": "2026-10-27/batch-2/bn-kh/",
-      "source_observations": 428,
-      "supersedes": "2026-10-27/vn-bn-kh-la-mm/",
-      "unit": "BN144_plus_KH284_mixed_catalog_observations_not_unique_skus",
-      "source_material_occurrences": 581,
-      "publicly_exposed_occurrences": 557,
-      "withheld_occurrences": 24,
-      "source_unique_material_urls": 472,
-      "publicly_exposed_unique_material_urls": 457,
-      "matched_historical_held_identities": 13
+      "path": "2026-10-27/batch-5/bn-kh-la-mm/",
+      "source_observations": 706,
+      "supersedes": "2026-10-27/batch-2/bn-kh/",
+      "unit": "BN144_KH284_LA83_MM195_mixed_catalog_observations_not_unique_skus",
+      "source_material_occurrences": 943,
+      "publicly_exposed_occurrences": 911,
+      "withheld_occurrences": 32,
+      "source_unique_material_urls": 801,
+      "publicly_exposed_unique_material_urls": 778,
+      "matched_historical_held_identities": 20,
+      "hidden_markup_material_occurrences": 16,
+      "hidden_markup_visible_offer_credit": 0,
+      "aggregation_notice": "Cumulative replacement: 706 replaces the prior 428, not an additional 706. Preserve BN/KH stable identities; LA83/MM195 are additions. Hidden markup does not establish a visible/current material offer."
     },
     {
       "id": "ocean_life_selected_catalog",
@@ -189,5 +192,5 @@
     }
   ],
   "public_projection_rule": "Known historical or already-held raw locators are withheld; observed source-reference counts are not the count of exposed download URLs. No current-file confidentiality finding or fresh-byte verification is inferred.",
-  "last_projection_correction": "Two newly fetched URL aliases match an already-held original by SHA; raw locators withheld without adding originals/products."
+  "last_projection_correction": "Cumulative regional v6c2 replacement: 706 observations; correct two AGL associations, separate event/publication date, and keep 16 GGI hidden-markup material candidates out of visible offers."
 }
