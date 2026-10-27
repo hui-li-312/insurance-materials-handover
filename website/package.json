@@ -11,7 +11,7 @@
     "start": "node scripts/serve.mjs --dir public",
     "preview": "node scripts/serve.mjs --dir dist",
     "check": "node scripts/check.mjs",
-    "test": "node scripts/check.mjs && node tests/catalog.mjs && node tests/ui.mjs && node tests/search.mjs && node tests/http.mjs && node tests/coverage.mjs && node tests/coverage-ui.mjs && node tests/regional-refresh.mjs && node tests/batch6-refresh.mjs && node tests/batch7-refresh.mjs && node tests/batch8-refresh.mjs && node tests/batch9-refresh.mjs && node tests/document-review.mjs && node tests/my-two-catalog.mjs && node tests/great-eastern.mjs",
+    "test": "node scripts/check.mjs && node tests/catalog.mjs && node tests/ui.mjs && node tests/search.mjs && node tests/http.mjs && node tests/coverage.mjs && node tests/coverage-ui.mjs && node tests/regional-refresh.mjs && node tests/batch6-refresh.mjs && node tests/batch7-refresh.mjs && node tests/batch8-refresh.mjs && node tests/batch9-refresh.mjs && node tests/document-review.mjs && node tests/my-two-catalog.mjs && node tests/great-eastern.mjs && node tests/batch11-refresh.mjs",
     "build": "node scripts/build.mjs",
     "catalog:export": "node scripts/catalog.mjs export",
     "catalog:import": "node scripts/catalog.mjs import",
