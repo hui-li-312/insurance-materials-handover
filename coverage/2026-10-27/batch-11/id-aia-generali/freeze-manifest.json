@@ -1,0 +1,69 @@
+{
+  "snapshot_at": "2026-10-27T20:36:00Z",
+  "source_snapshot_at": "2026-10-27T15:22:29.441777+00:00",
+  "supersedes_manifest_sha256": "d7e13408a3ddce82482db24811c5128272bc64756a6e0597385dade30077ec5e",
+  "previous_metadata_manifest_sha256": "e0d197b61d43a914317a99a1db546a1df13285a6c269bfe681a20fc2743d4e6a",
+  "payload_kind": "public_metadata_only",
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "0e8bdc0dac806888e8e245465607257a18884342f8c19c5ac93e354c2ded47e8",
+      "bytes": 1780
+    },
+    {
+      "file": "baseline-overlap.json",
+      "sha256": "8e5440d921420f5703017ed93f7c23415e0ebe429183ef030562fe97d33991ea",
+      "bytes": 819
+    },
+    {
+      "file": "corrections.json",
+      "sha256": "e99f5aae6c44319a1965c4b4afd48b3805d36474ea4ec7068cfe949e841daf44",
+      "bytes": 1442
+    },
+    {
+      "file": "issuer-frontier.jsonl",
+      "sha256": "a7b6ec356a387979efe7f4af8c47c5d3c8745bad50aa13de4a57abc5dc2f0c9b",
+      "bytes": 3659
+    },
+    {
+      "file": "noninsurance-program-references.jsonl",
+      "sha256": "4657bc89a19ce286cb3c0d0198b7b9e47182b6c006b7913e9e5db082287dfd5f",
+      "bytes": 4366
+    },
+    {
+      "file": "products.jsonl",
+      "sha256": "24ab8aedd4116740f80ba9690099097db2fe526f35811f0b19c8067d1b896e6d",
+      "bytes": 380799
+    },
+    {
+      "file": "run-status.json",
+      "sha256": "752913de31015f83d5bb197c0b2722c55d0ab412baf6e3c97dfd4c8d899e0d1b",
+      "bytes": 1864
+    },
+    {
+      "file": "source-captures.jsonl",
+      "sha256": "2a89851c7be967d6ac813753f6693fb952536a895b0ba9d188b846855015267c",
+      "bytes": 70520
+    },
+    {
+      "file": "source-version-notes.json",
+      "sha256": "510092755e26f3266549dfc753fa51492c84a2f518b3861677374f7d7a3fa7cc",
+      "bytes": 1034
+    },
+    {
+      "file": "sources.json",
+      "sha256": "31fedf9a9ef6819ac74d1cbecc55ced4b4b3196946280361a260ca985958ee9f",
+      "bytes": 2571
+    },
+    {
+      "file": "unavailable-product-references.jsonl",
+      "sha256": "fc0fb676afd2b53b040138564114709daac0c196f4836e8ee5c778f40c1eaef9",
+      "bytes": 5726
+    },
+    {
+      "file": "unrequested-route-frontier.jsonl",
+      "sha256": "350f963a79c640ae0368d289f60bb3aef0a9121853889ad632a8badc15da5ca4",
+      "bytes": 17989
+    }
+  ]
+}

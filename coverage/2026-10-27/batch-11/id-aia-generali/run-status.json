@@ -1,0 +1,53 @@
+{
+  "snapshot_at": "2026-10-27T15:22:29.441777+00:00",
+  "issuers": null,
+  "named_own_page_clusters": 77,
+  "own_detail_route_observations": 82,
+  "same_name_extra_routes_not_extra_clusters": 5,
+  "role_counts": {
+    "product": 45,
+    "rider": 14,
+    "group": 18
+  },
+  "new_requests": 100,
+  "new_status_counts": {
+    "retrieved": 94,
+    "redirect_quarantined": 6
+  },
+  "reused_same_day_details": 7,
+  "source_pages_hash_verified": 101,
+  "unavailable_related_product_references_excluded_from_detail_verified_count": 6,
+  "noninsurance_DPLK_references_excluded_from_insurance_count": 4,
+  "material_link_occurrences": 135,
+  "query_bearing_material_locators_quarantined": 0,
+  "material_files_requested": 0,
+  "formal_original_count_credit": 0,
+  "all_public_catalogs_complete": false,
+  "all_skus_complete": false,
+  "all_wordings_complete": false,
+  "prior_hold_locator_redactions": 0,
+  "audit_at": "2026-10-27T20:36:00Z",
+  "schema_version": "id-own-source-observations-v3",
+  "source_company_records": 2,
+  "per_source_company_named_clusters": {
+    "own-id-f21dfc0ee344": 50,
+    "own-id-b3a531ceefce": 27
+  },
+  "verified_contract_issuer_count": 0,
+  "own_page_explicit_product_issuer_descriptions": 1,
+  "all_contract_wordings_reviewed": false,
+  "primary_saved_HTML_bytes": 29201202,
+  "new_saved_HTML_bytes": 27127156,
+  "reused_saved_HTML_bytes": 2074046,
+  "unique_material_reference_URLs": 134,
+  "material_page_associations": 144,
+  "material_link_occurrences_count_unit": "135 per-product material-reference records, not 135 distinct URLs or raw DOM anchors",
+  "unrequested_literal_HTML_route_frontier": 42,
+  "new_audit_network_requests": 0,
+  "new_audit_PDF_requests": 0,
+  "public_payload": "metadata_only_no_captured_source_bodies_or_document_files",
+  "safety_gate": {
+    "known_held_locator_count": 61,
+    "matched_fields": 0
+  }
+}

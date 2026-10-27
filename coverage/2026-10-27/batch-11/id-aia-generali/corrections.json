@@ -1,0 +1,22 @@
+{
+  "supersedes_manifest_sha256": "d7e13408a3ddce82482db24811c5128272bc64756a6e0597385dade30077ec5e",
+  "audit_at": "2026-10-27T20:36:00Z",
+  "named_cluster_count_unchanged": 77,
+  "role_counts_unchanged": {
+    "product": 45,
+    "rider": 14,
+    "group": 18
+  },
+  "corrections": [
+    "Distinguish historical regulator-linked source company from current contract issuer; AIA shared footer names two separate legal companies.",
+    "Retain literal OJK website cell without inventing a scheme as part of the cell.",
+    "Qualify OJK publication date as prior source metadata, not independently rechecked index evidence.",
+    "Flag Nura Care employee-versus-family scope conflict and group supplemental/package/service distinctions.",
+    "Keep Term Life / Inspire filename mismatch, shared conventional/Syariah RIPLAY URL and differing Optima route references as unresolved source associations.",
+    "Separate 135 material-reference records, 134 URLs and 144 page associations; content and full wordings unreviewed.",
+    "Preserve earlier cached times, 301-versus-target-404 distinction, and unrequested language/unlocalized routes.",
+    "Apply the reported-only OJK publication-date qualifier consistently to the frontier records.",
+    "Add saved own-category body evidence for the four excluded DPLK program references."
+  ],
+  "previous_metadata_manifest_sha256": "e0d197b61d43a914317a99a1db546a1df13285a6c269bfe681a20fc2743d4e6a"
+}

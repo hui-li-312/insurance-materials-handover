@@ -1,0 +1,14 @@
+{
+  "baseline": "local public handover metadata snapshot; not a new live deployment check",
+  "public_ID_mirror_sha256": "8fa157b66c987d66005bfc522a7ef8948af6a3568d35d18b3a68a0e6c929a6d1",
+  "public_ID_mirror_rows": 13,
+  "public_ID_source_host_overlap_rows": 0,
+  "legacy_ID_catalog_sha256": "79da7f9ce7067fe6f28080230cd42458b211aaf2e597db648cff3e81e661002b",
+  "legacy_ID_material_records": 89,
+  "legacy_ID_AIA_Generali_overlap_records": 0,
+  "legacy_product_library_sha256": "133a528d36a63836a180b9ca8a951b7d50ffe4565f7908ad9965eb4197fef495",
+  "legacy_ID_source_label_groups": 86,
+  "new_source_observation_candidates": 77,
+  "verified_new_SKU_count": 0,
+  "note": "No overlap in these two local baselines is not evidence that all observations are commercially new products. Baselines remain separate datasets."
+}

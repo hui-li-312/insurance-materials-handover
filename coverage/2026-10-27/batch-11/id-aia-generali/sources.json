@@ -1,0 +1,48 @@
+{
+  "region": "ID",
+  "snapshot_at": "2026-10-27T15:22:29.441777+00:00",
+  "offline_audit_at": "2026-10-27T20:32:00Z",
+  "regulator_source_url": "https://ojk.go.id/id/kanal/iknb/data-dan-statistik/direktori/asuransi/Documents/Direktori%20Asuransi%20Triwulan%20III%202025.xlsx",
+  "identities": [
+    {
+      "source_locator": "Asuransi Jiwa!row 2",
+      "source_company_id": "own-id-f21dfc0ee344",
+      "source_company": "PT AIA Financial",
+      "resolved_official_origin": "https://www.aia-financial.co.id",
+      "regulator_website_literal": "www.aia-financial.co.id",
+      "regulator_workbook_sha256": "ca5382e8309c7e9ccfd35754c6a27f1580cedc710c2ade94ae19b04b9a06cec7",
+      "source_period": "2025 Q3",
+      "exact_source_asof_date": null,
+      "source_publication_date_reported": "2025-10-29",
+      "publication_date_verification": "prior_saved_source_metadata_only_index_capture_not_present_in_this_audit",
+      "current_license_verified": false,
+      "page_body_legal_names": [
+        "PT AIA FINANCIAL",
+        "PT AIA SYARIAH INSURANCE"
+      ],
+      "identity_scope": "publisher_host_association_not_all_contract_issuers"
+    },
+    {
+      "source_locator": "Asuransi Jiwa!row 13",
+      "source_company_id": "own-id-b3a531ceefce",
+      "source_company": "PT Asuransi Jiwa Generali Indonesia",
+      "resolved_official_origin": "https://www.generali.co.id",
+      "regulator_website_literal": "www.generali.co.id",
+      "regulator_workbook_sha256": "ca5382e8309c7e9ccfd35754c6a27f1580cedc710c2ade94ae19b04b9a06cec7",
+      "source_period": "2025 Q3",
+      "exact_source_asof_date": null,
+      "source_publication_date_reported": "2025-10-29",
+      "publication_date_verification": "prior_saved_source_metadata_only_index_capture_not_present_in_this_audit",
+      "current_license_verified": false,
+      "page_body_legal_names": [
+        "PT Asuransi Jiwa Generali Indonesia"
+      ],
+      "identity_scope": "publisher_host_association_not_all_contract_issuers"
+    }
+  ],
+  "method": "Offline verification of saved own-site HTML bytes, exact headings, own-body role descriptions, literal category/detail/material anchors and historical regulator worksheet rows. No new retrievals or document-content review in this audit.",
+  "date_rule": "Fetch/check times are not publication, effective or current-sale dates. Filename digits are not promoted to document dates.",
+  "count_unit": "exact own-name source observation cluster, not unique SKU or verified contract",
+  "all_public_catalogs_complete": false,
+  "all_wordings_complete": false
+}

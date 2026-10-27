@@ -1,0 +1,18 @@
+{
+  "catalog_byte_change": {
+    "url": "https://www.aia-financial.co.id/id/our-products/proteksi-jiwa",
+    "earlier_sha256": "fd290b398f1fb2ba540ff9d90a3533eebe139094d2b9b2ae9b32c443776c616d",
+    "earlier_captured_at": "2026-10-27T09:59:36.367885+00:00",
+    "earlier_bytes": 312651,
+    "batch_sha256": "a981dbe3dd91be99706ffd0b1f514460914e2e2b6ccc9cbcfc6fd464b06b8bb7",
+    "batch_captured_at": "2026-10-27T14:50:48.249405+00:00",
+    "batch_bytes": 312650,
+    "non_script_text_equal": true,
+    "exact_href_label_pairs_equal": true,
+    "conclusion": "Byte change does not establish a product or contract change. Earlier bytes are not included in the 101 primary capture count."
+  },
+  "same_name_route_clusters": 5,
+  "same_name_route_equivalence": "not established",
+  "six_unavailable_references": "301 redirects to a path named 404; target never requested, so no target HTTP 404 or discontinuance claim",
+  "cache_reuse": "Seven detail captures were reused by hash; their earlier source_fetched_at values are preserved."
+}
