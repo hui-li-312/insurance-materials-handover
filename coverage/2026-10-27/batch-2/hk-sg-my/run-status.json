@@ -1,0 +1,88 @@
+{
+  "checked_at": "2026-10-27T10:41:48.188066+00:00",
+  "status": "in_progress",
+  "products_not_skus": true,
+  "formal_new_material_file_count": 0,
+  "regions": {
+    "SG": {
+      "denominator_status": "closed_for_MAS_insurance_sector_export",
+      "unique_sector_entities": 388,
+      "issuer_scope_rows": 223,
+      "direct_insurers": 76,
+      "other_insurers": 147,
+      "ancillary_retained": 165,
+      "scope_limits": [
+        "Approved MAT category absent from sector facets; no independent off-directory MAT census",
+        "Listed entities can be closed to new business; requires company check"
+      ]
+    },
+    "HK": {
+      "denominator_status": "partial_regulator_origin_403",
+      "observed_industry_member_rows": 119,
+      "scope_limits": [
+        "IA register inaccessible",
+        "nonmembers and other insurer categories not enumerated",
+        "runoff/new-business status not individually verified"
+      ],
+      "hkfi_member_subset_status": "closed_for_published_HKFI_members_not_market"
+    },
+    "MY": {
+      "denominator_status": "partial_BNM_origin_403",
+      "pidm_member_subset_status": "full_48_names_read",
+      "observed_member_rows": 48,
+      "scope_limits": [
+        "BNM broader roster not enumerated",
+        "Reinsurance, retakaful, financial guarantee, international takaful outstanding",
+        "Labuan offshore independent roster underway"
+      ],
+      "labuan_offshore_snapshot": {
+        "gazette_as_of": "2025-12-31",
+        "gazette_published": "2026-03-30",
+        "entities": 222,
+        "numbered_rows_complete": true,
+        "surrendered_revoked_as_of": "2026-04-16",
+        "surrendered_rows": 181,
+        "revoked_rows": 33,
+        "current_denominator_closed": false,
+        "limitations": [
+          "Public live directory API 403 stopped",
+          "Insurance-related roles not fully classified; not 222 consumer insurers",
+          "Takaful licence Gazette link appears to point at Islamic bank licence file; not substituted",
+          "Source numbered 114 twice and omitted 113 in surrender list; preserved with note"
+        ]
+      }
+    }
+  },
+  "issuer_rows": 390,
+  "observed_product_card_rows": 435,
+  "unique_material_link_urls": 711,
+  "product_role_counts": {
+    "product": 165,
+    "catalog_category": 56,
+    "service": 9,
+    "group": 10,
+    "rider_family": 5,
+    "coverage_class": 61,
+    "document_page": 62,
+    "plan": 19,
+    "rider": 40,
+    "coverage_component": 8
+  },
+  "blocked_origins": 80,
+  "discovery_unique_urls": 180,
+  "discovery_entities": 209,
+  "issuer_products_status_counts": {
+    "unchecked": 181,
+    "partial": 102,
+    "blocked": 107
+  },
+  "raw_evidence_publish_policy": "Do not publish evidence/ raw HTML/PDF/JS: some sources contain public personal contact/director/shareholder fields. Publish only sanitized structured row files after root QA.",
+  "raw_public_product_material_PDFs_fetched": 6,
+  "verified_sku_count": 0,
+  "catalog_category_or_service_or_document_observations": 201,
+  "explicitly_historical_or_runoff_observations": 21,
+  "qa_revision_at": "2026-10-27T10:51:37.813194+00:00",
+  "role_semantics": "product/group/plan labels describe named observations, not independently established standalone/base contracts",
+  "independently_verified_standalone_or_base_contracts": 0,
+  "generic_consumer_information_material_references": 17
+}

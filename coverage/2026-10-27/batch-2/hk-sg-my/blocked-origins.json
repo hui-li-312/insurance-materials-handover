@@ -1,0 +1,633 @@
+[
+  {
+    "origin": "https://www.privatewealth.sunlife.com",
+    "url": "https://www.privatewealth.sunlife.com/sg/en/product-solutions/",
+    "checked_at": "2026-10-27T09:47:17.708413+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.swisslife-global.com",
+    "url": "https://www.swisslife-global.com/global-solutions/about-us/Locations/Singapore.html",
+    "checked_at": "2026-10-27T09:47:21.698643+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://api-v5.xtopia.io",
+    "url": "https://api-v5.xtopia.io/clients/717d5286-17f8-4620-b852-83ca4ffcc30c/public/excel/files/data",
+    "checked_at": "2026-10-27T09:48:13.287003+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.tokiomarine.com",
+    "url": "https://www.tokiomarine.com/sg/en/life.html",
+    "checked_at": "2026-10-27T09:48:14Z",
+    "http_status": 200,
+    "access_status": "blocked_incapsula_unsuccessful_page",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.lonpac.com.sg",
+    "url": "https://www.lonpac.com.sg/personal-insurance",
+    "checked_at": "2026-10-27T09:53:59.161124+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.axiscapital.com",
+    "url": "https://www.axiscapital.com",
+    "checked_at": "2026-10-27T09:54:50.116175+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.msfirstcapital.com.sg",
+    "url": "https://www.msfirstcapital.com.sg/",
+    "checked_at": "2026-10-27T09:54:50.118430+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://north-standard.com",
+    "url": "https://north-standard.com/",
+    "checked_at": "2026-10-27T09:54:55.707485+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.shipownersclub.com",
+    "url": "https://www.shipownersclub.com",
+    "checked_at": "2026-10-27T09:54:57.835100+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.tokiomarine.com.sg",
+    "url": "https://www.tokiomarine.com.sg",
+    "checked_at": "2026-10-27T09:54:59.445258+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.tokiomarine-life.sg",
+    "url": "https://www.tokiomarine-life.sg",
+    "checked_at": "2026-10-27T09:55:00.667795+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.qbe.com.sg",
+    "url": "https://www.qbe.com.sg",
+    "checked_at": "2026-10-27T09:54:57.253854+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.apiins.com.hk",
+    "url": "https://www.apiins.com.hk",
+    "checked_at": "2026-10-27T09:55:11.451079+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.generali.com.hk",
+    "url": "https://www.generali.com.hk",
+    "checked_at": "2026-10-27T09:55:12.462594+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.aig.com.hk",
+    "url": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:55:07.533681+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.berkleyasia.com",
+    "url": "https://www.berkleyasia.com",
+    "checked_at": "2026-10-27T09:55:15.319259+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://atradius.com.hk",
+    "url": "https://atradius.com.hk",
+    "checked_at": "2026-10-27T09:55:14.675804+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.bhspecialty.com",
+    "url": "https://www.bhspecialty.com",
+    "checked_at": "2026-10-27T09:55:15.982584+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.cohl.com",
+    "url": "https://www.cohl.com",
+    "checked_at": "2026-10-27T09:55:17.369483+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.cmbwinglunginsurance.com",
+    "url": "https://www.cmbwinglunginsurance.com",
+    "checked_at": "2026-10-27T09:55:22.381885+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.pingan.com.hk",
+    "url": "https://www.pingan.com.hk",
+    "checked_at": "2026-10-27T09:55:20.906831+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.allianz-trade.com",
+    "url": "https://www.allianz-trade.com/",
+    "checked_at": "2026-10-27T09:55:27.173782+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.falconinsurance.com.hk",
+    "url": "https://www.falconinsurance.com.hk",
+    "checked_at": "2026-10-27T09:55:31.266044+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.fm.com",
+    "url": "https://www.fm.com/",
+    "checked_at": "2026-10-27T09:55:30.707086+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.fwd.com.hk",
+    "url": "https://www.fwd.com.hk",
+    "checked_at": "2026-10-27T09:55:32.882154+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.hkmc.com.hk",
+    "url": "https://www.hkmc.com.hk",
+    "checked_at": "2026-10-27T09:55:37.711078+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.hdi.global",
+    "url": "https://www.hdi.global/de/en",
+    "checked_at": "2026-10-27T09:55:35.801477+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.hl-insurance.com",
+    "url": "https://www.hl-insurance.com",
+    "checked_at": "2026-10-27T09:55:42.981663+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.mxic.com.hk",
+    "url": "https://www.mxic.com.hk",
+    "checked_at": "2026-10-27T09:55:43.923981+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.qbe.com",
+    "url": "https://www.qbe.com/hk",
+    "checked_at": "2026-10-27T09:55:48.365410+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.sompo.com.hk",
+    "url": "https://www.sompo.com.hk",
+    "checked_at": "2026-10-27T09:55:53.302572+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.pioneer.com.ph",
+    "url": "https://www.pioneer.com.ph",
+    "checked_at": "2026-10-27T09:55:47.137854+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.sjp.asia",
+    "url": "https://www.sjp.asia",
+    "checked_at": "2026-10-27T09:55:53.346543+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.swissre.com",
+    "url": "https://www.swissre.com",
+    "checked_at": "2026-10-27T09:55:57.285214+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.shkpi.com.hk",
+    "url": "https://www.shkpi.com.hk",
+    "checked_at": "2026-10-27T09:55:56.477186+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://corporatesolutions.swissre.com",
+    "url": "https://corporatesolutions.swissre.com",
+    "checked_at": "2026-10-27T09:55:57.656923+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.transamericalifebermuda.com",
+    "url": "https://www.transamericalifebermuda.com",
+    "checked_at": "2026-10-27T09:56:07.674615+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.utmostgroup.com",
+    "url": "https://www.utmostgroup.com",
+    "checked_at": "2026-10-27T09:56:14.876596+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.allianz.com.my",
+    "url": "https://www.allianz.com.my/",
+    "checked_at": "2026-10-27T09:56:16.319545+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.zurichinternational.com",
+    "url": "https://www.zurichinternational.com",
+    "checked_at": "2026-10-27T09:56:15.943872+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.fwd.com.my",
+    "url": "https://www.fwd.com.my/",
+    "checked_at": "2026-10-27T09:56:19.917463+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.lonpac.com",
+    "url": "https://www.lonpac.com/",
+    "checked_at": "2026-10-27T09:56:22.543444+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.rhbgroup.com",
+    "url": "https://www.rhbgroup.com/insurance/index.html",
+    "checked_at": "2026-10-27T09:56:28.769351+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.prudential.com.my",
+    "url": "https://www.prudential.com.my/en/",
+    "checked_at": "2026-10-27T09:56:25.854003+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.pacificinsurance.com.my",
+    "url": "https://www.pacificinsurance.com.my/",
+    "checked_at": "2026-10-27T09:56:30.398660+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.tuneprotect.com",
+    "url": "https://www.tuneprotect.com/",
+    "checked_at": "2026-10-27T09:56:31.867875+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.takaful-malaysia.com.my",
+    "url": "https://www.takaful-malaysia.com.my/",
+    "checked_at": "2026-10-27T09:56:37.025682+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.fwdprivate.com",
+    "url": "https://www.fwdprivate.com/our-products/",
+    "checked_at": "2026-10-27T09:58:31.127878+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.ergo.com.sg",
+    "url": "https://www.ergo.com.sg/",
+    "checked_at": "2026-10-27T10:03:20.779583+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://atradius.sg",
+    "url": "https://atradius.sg/",
+    "checked_at": "2026-10-27T10:03:20.777150+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.skuld.com",
+    "url": "https://www.skuld.com/",
+    "checked_at": "2026-10-27T10:03:20.776354+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.everestglobal.com",
+    "url": "https://www.everestglobal.com/",
+    "checked_at": "2026-10-27T10:03:20.785787+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.steamshipmutual.com",
+    "url": "https://www.steamshipmutual.com/",
+    "checked_at": "2026-10-27T10:03:26.315880+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.gard.no",
+    "url": "https://www.gard.no/",
+    "checked_at": "2026-10-27T10:03:25.000391+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://britanniapandi.com",
+    "url": "https://britanniapandi.com/",
+    "checked_at": "2026-10-27T10:03:29.920293+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.zurich.com.sg",
+    "url": "https://www.zurich.com.sg/",
+    "checked_at": "2026-10-27T10:03:34.566743+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.budgetdirect.com.sg",
+    "url": "https://www.budgetdirect.com.sg/",
+    "checked_at": "2026-10-27T10:10:30.630017+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.allianz.sg",
+    "url": "https://www.allianz.sg/",
+    "checked_at": "2026-10-27T10:10:30.625380+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.aig.sg",
+    "url": "https://www.aig.sg",
+    "checked_at": "2026-10-27T10:10:30.623092+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.income.com.sg",
+    "url": "https://www.income.com.sg",
+    "checked_at": "2026-10-27T10:10:43.483432+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.msig.com.sg",
+    "url": "https://www.msig.com.sg",
+    "checked_at": "2026-10-27T10:10:47.263331+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.prudential.com.sg",
+    "url": "https://www.prudential.com.sg",
+    "checked_at": "2026-10-27T10:10:47.317262+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.sompo.com.sg",
+    "url": "https://www.sompo.com.sg",
+    "checked_at": "2026-10-27T10:10:51.744081+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.agcs.allianz.com",
+    "url": "https://www.agcs.allianz.com",
+    "checked_at": "2026-10-27T10:10:58.531218+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.heyavo.com",
+    "url": "https://www.heyavo.com",
+    "checked_at": "2026-10-27T10:11:02.095707+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.greateasternlife.com",
+    "url": "https://www.greateasternlife.com",
+    "checked_at": "2026-10-27T10:10:53.824206+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.bupa.com.hk",
+    "url": "https://www.bupa.com.hk",
+    "checked_at": "2026-10-27T10:11:12.080209+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.dahsinginsurance.com",
+    "url": "https://www.dahsinginsurance.com",
+    "checked_at": "2026-10-27T10:11:24.144677+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.hkmca.hk",
+    "url": "https://www.hkmca.hk/chi/",
+    "checked_at": "2026-10-27T10:11:24.708130+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.msig.com.hk",
+    "url": "https://www.msig.com.hk",
+    "checked_at": "2026-10-27T10:11:35.434459+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.prudential.com.hk",
+    "url": "https://www.prudential.com.hk",
+    "checked_at": "2026-10-27T10:11:39.244056+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.berjayasompo.com.my",
+    "url": "https://www.berjayasompo.com.my/product-comparison",
+    "checked_at": "2026-10-27T10:17:36.509950+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.zurich.com.my",
+    "url": "https://www.zurich.com.my/",
+    "checked_at": "2026-10-27T10:18:01.887620+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.greateasterntakaful.com",
+    "url": "https://www.greateasterntakaful.com/",
+    "checked_at": "2026-10-27T10:18:02.306738+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.prubsn.com.my",
+    "url": "https://www.prubsn.com.my/",
+    "checked_at": "2026-10-27T10:18:04.668303+00:00",
+    "http_status": 200,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://gia.org.sg",
+    "url": "https://gia.org.sg/consumers/about/member-directory.html",
+    "checked_at": "2026-10-27T10:27:48.803927+00:00",
+    "http_status": 403,
+    "access_status": null,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.msig.com.my",
+    "url": "https://www.msig.com.my/products/business/employees/sme-group-health/",
+    "checked_at": "2026-10-27T10:35:00.448233+00:00",
+    "http_status": null,
+    "access_status": "blocked_transport_permission_denied",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.ia.org.hk",
+    "http_status": 403,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.bnm.gov.my",
+    "http_status": 403,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "origin": "https://www.pidm.gov.my",
+    "http_status": 403,
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  }
+]

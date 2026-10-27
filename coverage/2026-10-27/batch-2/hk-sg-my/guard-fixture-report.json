@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-10-27T10:37:25.321175+00:00",
+  "offline_fixture_tests": 18,
+  "passed": 18,
+  "network_requests_in_tests": 0,
+  "coverage": [
+    "HTTPError401/403/407",
+    "URLError tunnel401/403/407",
+    "nested reason/text/code",
+    "generic WAF visible/title only",
+    "script/template false-positive negatives",
+    "Incapsula/Cloudflare true signatures",
+    "STOP/unknown origin zero network",
+    "unapproved redirect zero follow",
+    "no opener retry afterdenial"
+  ],
+  "script_sha256": "5614aec0c71d913efe212277ddb1955da0fb58e8c5e0b46091952d4cce272817",
+  "test_script_sha256": "02cda7d08a69d848b01c3da3a2fc4b087d3f5da5fc6d50c4da53b9d2ed7d7570"
+}

@@ -1,0 +1,355 @@
+{
+  "issuer": "MSIG Insurance (Malaysia) Bhd.",
+  "issuer_id": "MY-own-9e38adbeaba9d89f",
+  "exact_origin": "https://www.msig.com.my",
+  "positive_origin_evidence_url": "https://www.msig.com.my/products/",
+  "origin_identity_evidence": "Page explicitly names MSIG Insurance (Malaysia) Bhd and registration 197901002705 (46983-W); matches PIDM legal-entity roster.",
+  "seed_page": "https://www.msig.com.my/products/",
+  "public_website_script_url": "https://www.msig.com.my/client/dist/assets/client-D0oyysWS.js",
+  "public_catalog_audience_rows": {
+    "Personal": 37,
+    "Business": 17
+  },
+  "full_array_and_nav_unique_urls_reconcile": 54,
+  "pagination_evidence": "Website function GET product-listing/search supplies groupKey/categoryTags/classificationTags only; full returned array displayed without pageNumber/pageSize/load-more. Both audiences read unfiltered and reconcile exactly to 54 distinct public navigation URLs.",
+  "preenumerated_detail_queue": [
+    "https://www.msig.com.my/products/personal/personal-accident/abc-pa/",
+    "https://www.msig.com.my/products/personal/home/all-in-home/",
+    "https://www.msig.com.my/products/personal/health/cancer-care-365/",
+    "https://www.msig.com.my/products/personal/motor/comprehensive-motorcycle/",
+    "https://www.msig.com.my/products/personal/motor/comprehensive-private-car/",
+    "https://www.msig.com.my/products/personal/motor/ev-prime/",
+    "https://www.msig.com.my/products/personal/home/ez-home-essentials/",
+    "https://www.msig.com.my/products/personal/health/ez-plus-critical-care/",
+    "https://www.msig.com.my/products/personal/health/ez-plus-hospital-income/",
+    "https://www.msig.com.my/products/personal/motor/ez-mile/",
+    "https://www.msig.com.my/products/personal/health/flexico-medical/",
+    "https://www.msig.com.my/products/personal/health/flexihealth/",
+    "https://www.msig.com.my/products/personal/personal-accident/gig-pa/",
+    "https://www.msig.com.my/products/personal/lifestyle/golfer/",
+    "https://www.msig.com.my/products/personal/health/healthcare-international/",
+    "https://www.msig.com.my/products/personal/home/home-add-on/",
+    "https://www.msig.com.my/products/personal/home/home-safeguard/",
+    "https://www.msig.com.my/products/personal/home/houseowner-householder/",
+    "https://www.msig.com.my/products/personal/personal-accident/individual-pa/",
+    "https://www.msig.com.my/products/personal/health/ladies-lifestyle/",
+    "https://www.msig.com.my/products/personal/motor/lady-motor-plus/",
+    "https://www.msig.com.my/products/personal/personal-accident/mini-pa/",
+    "https://www.msig.com.my/products/personal/motor/motor-add-on/",
+    "https://www.msig.com.my/products/personal/motor/motor-plus/",
+    "https://www.msig.com.my/products/personal/motor/motorcycle-3pa/",
+    "https://www.msig.com.my/products/personal/personal-accident/out-of-pocket-expenses-oops-pa/",
+    "https://www.msig.com.my/products/personal/personal-accident/overseas-student-pa/",
+    "https://www.msig.com.my/products/personal/personal-accident/pa-add-on/",
+    "https://www.msig.com.my/products/personal/lifestyle/pet/",
+    "https://www.msig.com.my/products/personal/personal-accident/prime-pa/",
+    "https://www.msig.com.my/products/personal/personal-accident/senior-citizen-pa/",
+    "https://www.msig.com.my/products/personal/home/solar-pv-for-home/",
+    "https://www.msig.com.my/products/personal/lifestyle/sports-pa/",
+    "https://www.msig.com.my/products/personal/personal-accident/tenang-hospital-income/",
+    "https://www.msig.com.my/products/personal/motor/third-party-fire-theft-plus-tpftplus/",
+    "https://www.msig.com.my/products/personal/travel/travel-safeguard/",
+    "https://www.msig.com.my/products/personal/travel/travelright-domestic-inbound/",
+    "https://www.msig.com.my/products/business/employees/sme-group-health/",
+    "https://www.msig.com.my/products/business/commercial-assets/built-back-better-green-clause/",
+    "https://www.msig.com.my/products/business/commercial-assets/burglary/",
+    "https://www.msig.com.my/products/business/commercial-assets/business-safeguard/",
+    "https://www.msig.com.my/products/business/commercial-assets/commercial-motor/",
+    "https://www.msig.com.my/products/business/commercial-assets/cyber-safeguard/",
+    "https://www.msig.com.my/products/business/commercial-assets/fire/",
+    "https://www.msig.com.my/products/business/commercial-assets/fire-add-on/",
+    "https://www.msig.com.my/products/business/employees/foreign-worker-hospitalisation-surgical-scheme/",
+    "https://www.msig.com.my/products/business/employees/foreign-worker-insurance-guarantee/",
+    "https://www.msig.com.my/products/business/employees/foreign-worker-pa/",
+    "https://www.msig.com.my/products/business/commercial-assets/marine-cargo/",
+    "https://www.msig.com.my/products/business/commercial-assets/marine-hull/",
+    "https://www.msig.com.my/products/business/others/other-commercial-insurance/",
+    "https://www.msig.com.my/products/business/commercial-assets/property-protection-package/",
+    "https://www.msig.com.my/products/business/commercial-assets/retail-safeguard/",
+    "https://www.msig.com.my/products/business/commercial-assets/solar-pv-all-risks/"
+  ],
+  "attempted": [
+    {
+      "url": "https://www.msig.com.my/products/personal/personal-accident/abc-pa/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:28:43.829078+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/home/all-in-home/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:28:53.277396+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/health/cancer-care-365/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:28:57.802813+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/motor/comprehensive-motorcycle/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:29:04.555397+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/motor/comprehensive-private-car/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:29:08.946659+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/motor/ev-prime/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:29:13.466314+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/home/ez-home-essentials/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:29:17.652688+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/health/ez-plus-critical-care/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:29:21.596505+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/health/ez-plus-hospital-income/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:29:25.904999+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/motor/ez-mile/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:29:30.218523+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/health/flexico-medical/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:29:38.390665+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/health/flexihealth/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:29:43.391761+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/personal-accident/gig-pa/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:29:48.298392+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/lifestyle/golfer/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:29:52.195406+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/health/healthcare-international/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:29:56.799863+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/home/home-add-on/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:30:01.122454+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/home/home-safeguard/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:30:05.263362+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/home/houseowner-householder/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:30:11.242081+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/personal-accident/individual-pa/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:30:16.940214+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/health/ladies-lifestyle/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:30:21.539362+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/motor/lady-motor-plus/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:30:26.015755+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/personal-accident/mini-pa/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:30:30.740446+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/motor/motor-add-on/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:30:35.256054+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/motor/motor-plus/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:30:52.057851+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/motor/motorcycle-3pa/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:30:56.491326+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/personal-accident/out-of-pocket-expenses-oops-pa/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:31:01.882207+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/personal-accident/overseas-student-pa/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:31:06.726186+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/personal-accident/pa-add-on/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:31:12.836053+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/lifestyle/pet/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:31:16.996035+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/personal-accident/prime-pa/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:31:21.880085+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/personal-accident/senior-citizen-pa/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:31:28.284776+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/home/solar-pv-for-home/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:31:32.700095+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/lifestyle/sports-pa/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:31:37.534586+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/personal-accident/tenang-hospital-income/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:31:41.889967+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/motor/third-party-fire-theft-plus-tpftplus/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:31:48.417264+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/travel/travel-safeguard/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:31:52.887180+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/personal/travel/travelright-domestic-inbound/",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:31:59.426907+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/employees/sme-group-health/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825140+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/commercial-assets/built-back-better-green-clause/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825157+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/commercial-assets/burglary/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825170+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/commercial-assets/business-safeguard/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825182+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/commercial-assets/commercial-motor/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825193+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/commercial-assets/cyber-safeguard/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825205+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/commercial-assets/fire/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825216+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/commercial-assets/fire-add-on/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825227+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/employees/foreign-worker-hospitalisation-surgical-scheme/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825239+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/employees/foreign-worker-insurance-guarantee/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825250+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/employees/foreign-worker-pa/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825260+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/commercial-assets/marine-cargo/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825270+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/commercial-assets/marine-hull/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825279+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/others/other-commercial-insurance/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825290+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/commercial-assets/property-protection-package/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825300+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/commercial-assets/retail-safeguard/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825311+00:00"
+    },
+    {
+      "url": "https://www.msig.com.my/products/business/commercial-assets/solar-pv-all-risks/",
+      "status": "blocked_or_failed",
+      "checked_at": "2026-10-27T10:28:43.825321+00:00"
+    }
+  ],
+  "queue_exhausted": false,
+  "remaining_limitations": [
+    "Other Commercial Insurance aggregates child coverage classes not yet individually verified.",
+    "Add-on pages may include multiple rider/endorsement components.",
+    "Partner/bank-only channels and product document dates/content not independently closed."
+  ],
+  "attempted_queue_processed": true,
+  "successful_detail_pages": 37,
+  "blocked_detail_pages": 17,
+  "origin_access_status": "transport403_stopped",
+  "incident_id": "MSIG-transport403-20261027T103204Z",
+  "limitations_note": "All54 catalog cards observed; finite queue processing is NOT successful traversal closure.17 details missing, plus inline add-ons/other-commercial components not enumerated."
+}

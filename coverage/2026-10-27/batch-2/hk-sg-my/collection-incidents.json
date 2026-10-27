@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://www.msig.com.my/products/business/employees/sme-group-health/",
+    "origin": "https://www.msig.com.my",
+    "checked_at": "2026-10-27T10:35:00.448233+00:00",
+    "transport_status": 403,
+    "access_status": "blocked_transport_permission_denied",
+    "decision": "stop_matching_origin_no_retry_no_bypass",
+    "original_first_denial_at": "2026-10-27T10:32:04.693707+00:00",
+    "classification_correction": "Original urllib URLError transport403 did not populate HTTPError.status; now classified as denial.",
+    "successful_requests_after_first_denial": 0,
+    "incident_id": "MSIG-transport403-20261027T103204Z",
+    "denied_fetch_failure_log_records": 34,
+    "wrapper_open_invocations_inferred_from_code": 34,
+    "actual_network_request_count": null,
+    "origin_server_requests_received": null,
+    "count_evidence": "34 distinct failure records, one log emission per get() call; worker called detail() then cached() for each of17 failed rows. Infer34 opener invocations, not34 requests proven to reach origin. No wire/server logs available.",
+    "successful_response_log_records_after_first_denial": 0,
+    "corrective_action": "Stop marker used; classify401/403/407 from HTTPError, URLError/nested reason/text; persistent origin denial blocks before next opener call; retain original logs and no MSIG retry."
+  }
+]

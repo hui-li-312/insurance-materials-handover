@@ -1,0 +1,655 @@
+{
+  "seeds": [
+    "https://www.chubb.com/my-en/personal.html",
+    "https://www.chubb.com/my-en/business.html"
+  ],
+  "attempted": [
+    {
+      "url": "https://www.chubb.com/my-en/personal.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:02:32.628145+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:02:37.785258+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/personal/motor-protection/my-car-plus.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:10:28.847686+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/personal/motor-protection/private-car-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:10:34.416414+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/personal/motor-protection/add-on-covers.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:10:39.064376+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/personal/simply-home.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:10:43.471216+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/personal/my-home-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:10:46.518383+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/personal/householder-houseowner-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:10:50.460359+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/personal/home-plus.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:10:54.394729+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/personal/accident-care.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:10:58.129394+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/personal/essential-plus-personal-accident.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:11:02.412247+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/personal/travel-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:11:05.519310+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/construction-industry.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:11:09.758152+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/energy-industry.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:11:13.636405+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/financial-institutions.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:11:17.585733+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/healthcare-industry.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:11:21.082537+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/life-sciences.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:11:24.515154+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/manufacturing-industry.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:11:29.105783+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/marine.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:11:32.816760+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/property-industry.html",
+      "status": "failed_or_stopped_origin"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/technology-industry.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:11:41.965490+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/accident-health.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:11:46.922115+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/casualty.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:11:50.076630+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/construction.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:11:54.841913+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:11:59.633066+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/energy.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:12:04.733450+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/environmental.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:12:10.124208+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/financial-line.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:12:14.859391+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/property.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:12:19.841725+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/large-multinational-businesses.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:12:24.869464+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/small-medium-businesses.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:12:31.954173+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/industry-practices.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:12:37.893953+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/multinational-liability-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:12:42.995772+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/risk-engineering-services.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:12:47.751038+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/personal/motor-protection.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:12:53.286553+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/personal/home-protection.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:12:58.326975+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/personal/accident-protection.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:13:07.052566+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/group-business-travel-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:13:10.617425+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/group-personal-accident-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:13:14.669117+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/group-personal-accident-maximum-protection.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:13:18.356512+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/comprehensive-general-liability-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:13:21.962311+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/environmental-impairment-liability-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:13:26.376939+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/products-liability-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:13:29.877263+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/public-general-liability-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:13:33.379977+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/umbrella-liability-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:13:40.458528+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/construction-all-risks-builders-risk-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:13:44.637651+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/construction-all-risks-civil-engineering-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:13:48.104838+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/erection-all-risks-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:13:52.077593+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber-services-enrolment.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:13:58.131249+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/chubb-cyber-index.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:14:01.699473+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/boiler-machinery-breakdown-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:14:05.821875+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/offshore-liability-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:14:09.491324+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/power-utilities-facilities-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:14:13.955348+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/upstream-downstream-energy-facilities-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:14:17.912284+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/commercial-crime-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:14:22.005894+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/directors-officers-liability-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:14:26.812564+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/financial-institutions-professional-indemnity-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:14:31.591478+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/investment-management-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:14:36.924066+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/medical-malpractice-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:14:41.856635+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/professional-indemnity-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:14:45.861289+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/public-offering-of-securities-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:14:50.147253+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cargo-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:14:54.503974+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/logistics-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:14:59.455476+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/marine-hull-specialty-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:15:03.651929+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/business-interruption-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:15:09.187488+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/commercial-fire-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:15:18.605520+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/terrorism-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:15:24.033048+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/flexiguard-business-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:15:29.965742+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/multinationals-solutions.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:15:35.269137+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/by-solutions-services.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:15:40.469934+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/premier-life-science.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:15:45.491763+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/clinical-trials-liability-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:15:50.704806+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/chubb-assembly.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:16:04.806813+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/fine-art-valuable-goods-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:16:09.660978+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/specialty-liability.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:16:12.947361+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/plant-and-machinery-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:16:17.851647+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/technology-liability-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:16:22.272486+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/foreign-workers-hospitalisation-surgical-scheme-fwhs.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:16:26.008968+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/jmb-elite-package.html",
+      "status": "failed_or_stopped_origin"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/foreign-workers-insurance-guarantee-fwig.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:16:32.866021+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/cyber-incident-response-index.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:16:36.764031+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/catastrophic-cyber-risks.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:16:40.217868+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/how-to-report-a-cyber-incident.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:16:43.112576+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/fire-insurance.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:16:46.807793+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/large-multinational-businesses/leadership-and-expertise.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:16:50.762229+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/large-multinational-businesses/world-class-technology.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:16:54.614704+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/large-multinational-businesses/multinational-solutions.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:16:58.535270+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/sme-insurance-products.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:17:03.477086+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/climate-tech.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:17:08.464008+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/event-liability.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:17:13.050432+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/protecting-businesses.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:17:16.264531+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/industry-focus.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:17:20.065578+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/risk-engineering-resource-centre.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:17:24.180264+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/personal/protector-guard.html",
+      "status": "failed_or_stopped_origin"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/chubb-travel-smart.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:17:31.026409+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/vulnerability-outreach-programme.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:17:34.859847+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/worldview.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:17:38.459645+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/broad-product-range.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:17:42.560947+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/errors-on-omissions-for-manufacturers.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:17:47.149259+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/manufacturing.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:17:52.387587+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/cyber-incident-response-index/cyber-incident-response-vendors-apac.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:17:56.144592+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/cyber-incident-response-index/cyber-incident-response-vendors-middle-east-africa.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:18:00.017511+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/cyber-incident-response-index/cyber-incident-response-vendors-europe.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:18:04.077781+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/cyber-incident-response-index/cyber-incident-response-vendors-latam.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:18:07.663481+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/large-multinational-businesses/one-size-does-not-fit-all.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:18:11.449175+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/clean-tech.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:18:16.056188+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cultural-institutions.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:18:20.227208+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/education.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:18:24.580814+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/entertainment-leisure.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:18:28.710666+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/healthcare.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:18:33.806523+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/real-estate-hospitality.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:18:37.502727+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/retail.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:18:41.626855+00:00"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/technology-companies.html",
+      "status": "official_page_read",
+      "checked_at": "2026-10-27T10:18:46.544342+00:00"
+    }
+  ],
+  "remaining_queue": [],
+  "queue_exhausted": true,
+  "scope": "All discoverable HTML links under official /my-en/personal/ and /my-en/business/ starting at two catalog roots; partner pages and non-linked variants not closed.",
+  "named_disclosure_directory_rows": 62,
+  "excluded_non_catalog_pages": [
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber-services-enrolment.html",
+      "title": "Request for Cyber Services in Malaysia",
+      "reason": "service/help/information/vendor page; not catalog product observation"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/chubb-cyber-index.html",
+      "title": "Chubb Cyber Index",
+      "reason": "service/help/information/vendor page; not catalog product observation"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/cyber-incident-response-index.html",
+      "title": "Cyber Incident Response Vendors",
+      "reason": "service/help/information/vendor page; not catalog product observation"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/catastrophic-cyber-risks.html",
+      "title": "Catastrophic Cyber Risks – A Growing Concern",
+      "reason": "service/help/information/vendor page; not catalog product observation"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/how-to-report-a-cyber-incident.html",
+      "title": "How to Report a Cyber Incident",
+      "reason": "service/help/information/vendor page; not catalog product observation"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/large-multinational-businesses/leadership-and-expertise.html",
+      "title": "Leadership and Expertise",
+      "reason": "service/help/information/vendor page; not catalog product observation"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/large-multinational-businesses/world-class-technology.html",
+      "title": "World Class Technology",
+      "reason": "service/help/information/vendor page; not catalog product observation"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/risk-engineering-resource-centre.html",
+      "title": "Risk Engineering Resource Centre",
+      "reason": "service/help/information/vendor page; not catalog product observation"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/vulnerability-outreach-programme.html",
+      "title": "Chubb Vulnerability Outreach Programme",
+      "reason": "service/help/information/vendor page; not catalog product observation"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/cyber-incident-response-index/cyber-incident-response-vendors-apac.html",
+      "title": "APAC Cyber Incident Response Vendor Details",
+      "reason": "service/help/information/vendor page; not catalog product observation"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/cyber-incident-response-index/cyber-incident-response-vendors-middle-east-africa.html",
+      "title": "Middle East & Africa Cyber Incident Response Vendor Details",
+      "reason": "service/help/information/vendor page; not catalog product observation"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/cyber-incident-response-index/cyber-incident-response-vendors-europe.html",
+      "title": "Europe Cyber Incident Response Vendor Details",
+      "reason": "service/help/information/vendor page; not catalog product observation"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/cyber/cyber-incident-response-index/cyber-incident-response-vendors-latam.html",
+      "title": "LATAM Cyber Incident Response Vendor Details",
+      "reason": "service/help/information/vendor page; not catalog product observation"
+    },
+    {
+      "url": "https://www.chubb.com/my-en/business/large-multinational-businesses/one-size-does-not-fit-all.html",
+      "title": "One Size Does Not Fit All",
+      "reason": "service/help/information/vendor page; not catalog product observation"
+    }
+  ],
+  "catalog_observation_rows_after_role_QA": 94,
+  "role_counts_after_QA": {
+    "product": 13,
+    "rider_family": 1,
+    "catalog_category": 35,
+    "coverage_class": 36,
+    "service": 6,
+    "group": 3
+  }
+}

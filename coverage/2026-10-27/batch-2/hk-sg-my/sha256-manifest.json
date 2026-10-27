@@ -1,0 +1,108 @@
+{
+  "frozen_at": "2026-10-27T10:51:37.813194+00:00",
+  "underlying_observation_snapshot": "2026-10-27T10:41:48Z",
+  "supersedes": "freeze-20261027T104148Z-batch2",
+  "revision": "Named product/base semantics and generic PIDM material roles only; source observation435 and unique material711 counts unchanged.",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 7861,
+      "sha256": "f1993a50e90abdc16072596aef7077fb986de7d053ee3f20b60fdecb3029ca74"
+    },
+    {
+      "file": "ammet-takaful-traversal.json",
+      "bytes": 7227,
+      "sha256": "8dfef31683277c492241c7ad1b91f2b3ef779343bd50e16407cae5ed53231820"
+    },
+    {
+      "file": "blocked-origins.json",
+      "bytes": 21507,
+      "sha256": "b5ed02345de15894b49e54c79f85ad1c608287fb13ea9038617e9f6ae231b774"
+    },
+    {
+      "file": "chubb-my-traversal.json",
+      "bytes": 25839,
+      "sha256": "347f98f610f35efc2baa1a06cf5c5f399a6cc63aafa2f006409cf14ff18a1a77"
+    },
+    {
+      "file": "collection-incidents.json",
+      "bytes": 1351,
+      "sha256": "542695a46d240fb753bb9d566368b5c910f8dc2dab01a6e8a7a2c80ed1dbf305"
+    },
+    {
+      "file": "guard-fixture-report.json",
+      "bytes": 672,
+      "sha256": "02431173c48850ab7a5acf23e99c7c6d73a0e24d27ee2c6520c76db30a564115"
+    },
+    {
+      "file": "issuer-attempts.jsonl",
+      "bytes": 470322,
+      "sha256": "3de9ad961d06d8678b4c88a78f712b2fe02b60ebd31a4bbdb55114a678ef533f"
+    },
+    {
+      "file": "issuer-operating-status.jsonl",
+      "bytes": 1278,
+      "sha256": "9fb9abc6a1502a505518243e638ef8b775b6db087f4241b27b4225ed9f49500f"
+    },
+    {
+      "file": "issuers.jsonl",
+      "bytes": 481597,
+      "sha256": "b5e90a44affa83b38e4f5500222dea29704b78627b309bb7aecf26bd75764504"
+    },
+    {
+      "file": "msig-my-traversal.json",
+      "bytes": 16450,
+      "sha256": "f04bbbf151cb0c2134a5eb65542493b12ffd0ff471ffd41e391db88807f280a3"
+    },
+    {
+      "file": "my-labuan-licensees.jsonl",
+      "bytes": 285586,
+      "sha256": "d63dd49ef8c99d4419b75f7d39b89988ae4e77b7e1b46f826b882774ff8b9932"
+    },
+    {
+      "file": "my-labuan-surrendered-revoked.jsonl",
+      "bytes": 127430,
+      "sha256": "a63a2b6b635750aa223f558b072ada5e29d83fc2d53bc0c63347c0286cb4393a"
+    },
+    {
+      "file": "observed-products.jsonl",
+      "bytes": 857492,
+      "sha256": "fd36c77c99ff298b839b54c0623ee8ba06534f0c9f0c8f415c61e2090e31c08a"
+    },
+    {
+      "file": "pacific-life-hk-traversal.json",
+      "bytes": 5857,
+      "sha256": "28347e7140e9ba7c0b8462c1a415bc65935c74acac5253c6ea31cceaa213e7ca"
+    },
+    {
+      "file": "raw-material-fetches.jsonl",
+      "bytes": 4693,
+      "sha256": "9b2a7c1f45b21451b9f3db7ffff1488f8c4a12841975b03d82e48e43b9aea3fb"
+    },
+    {
+      "file": "run-status.json",
+      "bytes": 3382,
+      "sha256": "f640c857dec0deaae88239edff7cbdcec770dbe74d56dac2258798d306fb897d"
+    },
+    {
+      "file": "sg-ancillary-entities.jsonl",
+      "bytes": 141340,
+      "sha256": "d4ff9a9f3c32233046ea53ec26207931b83c0d066d530fb961fba6b972fa428f"
+    },
+    {
+      "file": "sg-eq-traversal.json",
+      "bytes": 14058,
+      "sha256": "d17d06095293c354e8d540a76e0b4f47d17b6facb169207bac4cc9845660c6f3"
+    },
+    {
+      "file": "sources.json",
+      "bytes": 381942,
+      "sha256": "810799b3c082e7c4b98bea7ce8a9dbf69c97ff967a0cc7dd4a55b0e82c96e150"
+    },
+    {
+      "file": "stop-corrections.jsonl",
+      "bytes": 670,
+      "sha256": "24c37c8c82579bf35d56ce46a52d8b916767a285c1466d0e9f5e41962181184e"
+    }
+  ]
+}
