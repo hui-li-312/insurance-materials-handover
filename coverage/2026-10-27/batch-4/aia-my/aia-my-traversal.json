@@ -1,0 +1,156 @@
+{
+  "snapshot_at": "2026-10-27T13:52:40.393423+00:00",
+  "jurisdiction": "MY",
+  "source_brand": "AIA Malaysia",
+  "status": "immutable_candidate_for_independent_QA",
+  "products_status": "partial",
+  "whole_legal_issuer_or_market_coverage_closed": false,
+  "public_catalog_JSON_endpoint_count": 7,
+  "public_array_entry_count": 104,
+  "listed_array_target_count": 96,
+  "hidden_metadata_entries_zero_current_product_credit": 8,
+  "listed_named_detail_targets_read": 96,
+  "additional_HolistiCare_service_target_read": 1,
+  "listed_detail_queue_exhausted": true,
+  "named_detail_queue_failed": 0,
+  "context_FAQ_targets_read": 16,
+  "own_page_hub_and_service_observations": 99,
+  "named_parent_component_associations": 91,
+  "inventory_observations": 190,
+  "inventory_role_counts": {
+    "product": 59,
+    "rider": 64,
+    "add_on": 59,
+    "group": 4,
+    "service": 2,
+    "catalog_category": 2
+  },
+  "document_observations": 59,
+  "document_role_counts": {
+    "document_page": 59
+  },
+  "document_source_breakdown": {
+    "PDS_directory": 57,
+    "SME_named_brochure_links": 2
+  },
+  "hidden_metadata_observations_separate_from_inventory": 8,
+  "confirmed_product_local_legal_assignment_observations": 16,
+  "unresolved_legal_underwriter_inventory_observations": 174,
+  "document_legal_assignments": 0,
+  "per_issuer_status": [
+    {
+      "jurisdiction": "MY",
+      "issuer_id": "MY-own-f50efb7aa4e238d5",
+      "legal_name": "AIA Bhd.",
+      "official_website": "https://www.aia.com.my",
+      "products_status": "partial",
+      "confirmed_product_local_legal_assignment_observations": 1,
+      "role_counts_of_assigned_rows": {
+        "product": 1
+      },
+      "shared_source_request_events": 147,
+      "request_count_scope": "Same shared147 request events, not147 per legal issuer.",
+      "unresolved_shared_brand_observations_not_duplicated": 174,
+      "whole_legal_issuer_product_coverage_closed": false,
+      "legal_assignment_scope": "Own-page evidence plus approved exact document-specific corrections; no shared-site inheritance."
+    },
+    {
+      "jurisdiction": "MY",
+      "issuer_id": "MY-own-5b0b245e5415eb4d",
+      "legal_name": "AIA General Berhad",
+      "official_website": "https://www.aia.com.my",
+      "products_status": "partial",
+      "confirmed_product_local_legal_assignment_observations": 3,
+      "role_counts_of_assigned_rows": {
+        "group": 2,
+        "product": 1
+      },
+      "shared_source_request_events": 147,
+      "request_count_scope": "Same shared147 request events, not147 per legal issuer.",
+      "unresolved_shared_brand_observations_not_duplicated": 174,
+      "whole_legal_issuer_product_coverage_closed": false,
+      "legal_assignment_scope": "Own-page evidence plus approved exact document-specific corrections; no shared-site inheritance."
+    },
+    {
+      "jurisdiction": "MY",
+      "issuer_id": "MY-own-a439a37694894d97",
+      "legal_name": "AIA PUBLIC Takaful Bhd",
+      "official_website": "https://www.aia.com.my",
+      "products_status": "partial",
+      "confirmed_product_local_legal_assignment_observations": 12,
+      "role_counts_of_assigned_rows": {
+        "product": 9,
+        "add_on": 2,
+        "rider": 1
+      },
+      "shared_source_request_events": 147,
+      "request_count_scope": "Same shared147 request events, not147 per legal issuer.",
+      "unresolved_shared_brand_observations_not_duplicated": 174,
+      "whole_legal_issuer_product_coverage_closed": false,
+      "legal_assignment_scope": "Own-page evidence plus approved exact document-specific corrections; no shared-site inheritance."
+    }
+  ],
+  "material_reference_count": 203,
+  "unique_publishable_material_urls": 160,
+  "material_role_counts": {
+    "brochure": 71,
+    "product_disclosure": 98,
+    "policy_or_contract_candidate": 8,
+    "product_FAQ_HTML": 8,
+    "covered_condition_list": 3,
+    "public_attachment_unclassified": 1,
+    "wellness_program_information": 3,
+    "investment_fund_information": 2,
+    "product_FAQ_PDF_reference": 1,
+    "provider_or_repairer_directory": 3,
+    "claim_service_guide": 3,
+    "roadside_assistance_service_information": 2
+  },
+  "material_references_zero_individual_product_material_credit": 18,
+  "held_locator_fields_redacted": 0,
+  "additional_email_like_locator_fields_omitted": 0,
+  "raw_PDFs_downloaded": 0,
+  "formal_new_material_file_count": 0,
+  "independently_verified_unique_SKUs": 0,
+  "source_request_events": 147,
+  "source_response_counts": {
+    "HTTP200": 145,
+    "unapproved_HTTP_origin_redirect_not_followed": 2
+  },
+  "source_response_types": {
+    "public_catalog_JSON": 7,
+    "HTML": 138
+  },
+  "finite_queue_bounds": {
+    "parent_root_plus_overview_context": 26,
+    "advertised_exact_JSON_endpoints": 7,
+    "listed_named_HTML_and_HolistiCare": 97,
+    "early_hidden_alias_request_before_quarantine": 1,
+    "source_advertised_context_and_FAQ_HTML": 16
+  },
+  "source_observed_from": "2026-10-27T09:56:32.553327+00:00",
+  "source_observed_to": "2026-10-27T12:04:27.386983+00:00",
+  "new_links_auto_enqueued": false,
+  "limits": [
+    "The96 listed JSON targets are a bounded shared-brand catalog, not independently verified unique insurance contracts or all products of three legal entities.",
+    "Eight hidden CMS entries remain separate metadata with zero current-product credit. One was requested before hidden-entry quarantine and stopped at an unapproved HTTP redirect; never retried.",
+    "Thirteen own-page observations plus three narrow document-specific corrections have legal evidence;174 inventory observations and59 document records remain legally unresolved and must not be duplicated across three entities.",
+    "Basic/Add-On/type labels are source metadata, not standalone contract or legal-underwriter proof. Some catalog labels conflict with own-page attachment/type evidence.",
+    "Parent-component associations preserve repeated offerings and variants; material links and legal assignments are not indiscriminately inherited.",
+    "Only public English HTML/catalog JSON was requested. Linked multilingual brochure references retained, with four later private PDFs used only for narrow identity evidence; no full-contract acceptance. No bank/partner websites, authenticated apps, quotes, applications, payments or contact forms requested.",
+    "Two failed exactURLs redirected to an unapproved HTTP origin and were not followed or retried. Known nonproduct budget/event/service contexts and one malformed rider link remain untraversed as recorded.",
+    "Page/catalog publication/update timestamps are CMS metadata; unknown product publication/effective dates remain null. FAQ renewal rules are not blanket current-sale guarantees.",
+    "Three Wealth Builder waiver associations lack named own/linked rider-role evidence and are add_on with contractual rider status unconfirmed; roles are not transferred from other parent products."
+  ],
+  "supersedes": "aia-my-ready-20261027T131730Z-v2",
+  "revision": "v3: only three independently approved document-specific issuer assignments and CI Insure product-to-group correction; stable IDs, no new observations.",
+  "raw_PDF_download_count_scope": "Original147-request catalog phase only. Four subsequent private intake originals recorded separately; no raw release or formal file acceptance.",
+  "post_catalog_private_intake": {
+    "originals_acquired": 4,
+    "supporting_metadata_snapshot": "aia-my-intake-metadata-20261027T124818Z",
+    "identity_corrections_applied": 3,
+    "full_contract_body_reviews": 0,
+    "formal_new_material_files": 0,
+    "raw_release_authorized": false
+  }
+}

@@ -1,0 +1,1017 @@
+[
+  {
+    "source_url": "https://www.aia.com.my/en/our-products.html",
+    "checked_at": "2026-10-27T09:56:32.553327+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "3c4cb422d3e3bd401feb94d926889411eed921e9bc0a3f072cd8b8a9d070e547"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection.html",
+    "checked_at": "2026-10-27T11:41:53.825999+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "884b5fc74e7cba0d158b874260000890c180da6861fe48630935817a4816102a"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/overview.html",
+    "checked_at": "2026-10-27T11:42:02.664580+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "884b5fc74e7cba0d158b874260000890c180da6861fe48630935817a4816102a"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection.html",
+    "checked_at": "2026-10-27T11:42:10.166382+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "338314b2132ad43e78424183bf80df3d7782cb4fb772c43f734132df9f17dd0f"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection.html",
+    "checked_at": "2026-10-27T11:42:14.146278+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "c16205af69254abc284bf7572f059f03389dfc8e75de37230e09bb0d23fa7369"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection.html",
+    "checked_at": "2026-10-27T11:42:17.761920+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "423992a97b9f4f24d4b9febfcaa25c9cdba6b30161aa0e1d7140fb1f427dcde5"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/lady-protection.html",
+    "checked_at": "2026-10-27T11:42:21.343394+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "21861d50fac62cfeac6707464399d275d74757e02eb8e7dbcc490d643aaf9b7a"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection.html",
+    "checked_at": "2026-10-27T11:42:24.719426+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "3f536fcbd118d9a4de6ec1685d7c0aed09bb6ff66729e3aa59e6ea0eb5b4fc60"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/overview.html",
+    "checked_at": "2026-10-27T11:42:28.232217+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "7ff48da0715acf02d55dfec64a389f360c82642d6f8905b38f45841cc5306e26"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings.html",
+    "checked_at": "2026-10-27T11:42:38.136537+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "fbe67715c6c52139605b45a20316ef2b8d91aba1343fe2020f4ed44f2619c8dc"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning.html",
+    "checked_at": "2026-10-27T11:42:43.126967+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "723441b147c2225c34b87df48c789a69edbc5b6e7beb9862b8d8fcd28254dab3"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/childs-savings-planning.html",
+    "checked_at": "2026-10-27T11:42:48.720820+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "baba5d00a3aad07a2d70a4e3ee766d264f257af7e3ded4a28d7fc35669cf8cdc"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection.html",
+    "checked_at": "2026-10-27T11:42:52.789976+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "067a74506aa2e05911c03d4e53c9e8913022deba206ccd0d787415a86934441f"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/overview.html",
+    "checked_at": "2026-10-27T11:42:57.904530+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "067a74506aa2e05911c03d4e53c9e8913022deba206ccd0d787415a86934441f"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident.html",
+    "checked_at": "2026-10-27T11:43:06.458320+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "aef4f28c4837c2ff2dd7cce25654313ae4b52b285f68fce08ea45353baf09d5e"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/group-personal-accident.html",
+    "checked_at": "2026-10-27T11:43:12.511583+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "fe64f718dfcaf6209f69aa32c94128b23a0ec53826d2797f8fcc743e02abacef"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/home-protection.html",
+    "checked_at": "2026-10-27T11:43:16.374251+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "a496cb68f2f03c7e3343c2663c9bb24d202fec83edf33ce4da293b5f32014666"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/motor-insurance.html",
+    "checked_at": "2026-10-27T11:43:21.624804+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "437ccb2dccfb50f0d5f81570ec18416fe780ca5a6c861f5b2e8a1c7e9ac020c6"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/employee-benefits.html",
+    "checked_at": "2026-10-27T11:43:30.428085+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "6f29a03f87eb0be330ae7625eeee45697af3a3b35f80daff5dd902619de84152"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/employee-benefits/overview.html",
+    "checked_at": "2026-10-27T11:43:34.774473+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "6f29a03f87eb0be330ae7625eeee45697af3a3b35f80daff5dd902619de84152"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/employee-benefits/total-corporate-solutions.html",
+    "checked_at": "2026-10-27T11:43:45.419436+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "5bb077acf93cd81e2b1bfe1e8ff18cf292ce12b90d9720df5fb17fdce32d31ff"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/employee-benefits/total-sme-solutions.html",
+    "checked_at": "2026-10-27T11:43:50.291705+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "f591446d6b62cfe0b431876f3791e960ae2e1f38ff122afb095a40bb872d57a9"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/commercial-insurance.html",
+    "checked_at": "2026-10-27T11:43:55.141527+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "36dd5b407169ea063ef92c2cf0b54a4ca26277bff756140fb618da8cfd1719f2"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/infinite-series.html",
+    "checked_at": "2026-10-27T11:43:58.901412+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "04fdc24e3983fb030cc0017e93d34e7445db38521d9c3111d6379d42ab545c94"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/policy-disclosure-sheet.html",
+    "checked_at": "2026-10-27T11:44:03.583470+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "84bf0c1e7d8bbb12217bd3fdb90b4833c854cc2a7a9c63ff712f7a9fff1dc07c"
+  },
+  {
+    "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+    "checked_at": "2026-10-27T11:49:08.723462+00:00",
+    "source_date": null,
+    "source_type": "official_advertised_public_catalog_JSON",
+    "content_sha256": "d3c8fba100a0ccec50a752ac8fd4d958669dc035b54ea6ca380a066b2426b3fb"
+  },
+  {
+    "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+    "checked_at": "2026-10-27T11:49:25.835247+00:00",
+    "source_date": null,
+    "source_type": "official_advertised_public_catalog_JSON",
+    "content_sha256": "835e5c849b1d0c4b8532d1743df0b5850bb6183f97d9d795d05ac3bd0f7d43a3"
+  },
+  {
+    "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+    "checked_at": "2026-10-27T11:49:35.089241+00:00",
+    "source_date": null,
+    "source_type": "official_advertised_public_catalog_JSON",
+    "content_sha256": "4cd3d934cab6e608f89a8138fc1af6cfbaef46d1966295c0b56144f70ad187ed"
+  },
+  {
+    "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/home-protection.model.json",
+    "checked_at": "2026-10-27T11:49:45.227694+00:00",
+    "source_date": null,
+    "source_type": "official_advertised_public_catalog_JSON",
+    "content_sha256": "147fd2ead29bfd2ce8faacd5a0d76b0b38813d954489b444171d26d60a30a308"
+  },
+  {
+    "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/motor-insurance.model.json",
+    "checked_at": "2026-10-27T11:49:54.365571+00:00",
+    "source_date": null,
+    "source_type": "official_advertised_public_catalog_JSON",
+    "content_sha256": "d07fa0558d33311ff261eb7ace0363c422deba579b982ba6dc0ea28762f15f3b"
+  },
+  {
+    "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/commercial-insurance.model.json",
+    "checked_at": "2026-10-27T11:50:03.839270+00:00",
+    "source_date": null,
+    "source_type": "official_advertised_public_catalog_JSON",
+    "content_sha256": "44826e3922f7872c4b6f1d2e6db0bf08ac75bda3725cb3919c627bf97671d6a5"
+  },
+  {
+    "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/infinite-series.model.json",
+    "checked_at": "2026-10-27T11:50:14.437290+00:00",
+    "source_date": null,
+    "source_type": "official_advertised_public_catalog_JSON",
+    "content_sha256": "f17b43f122d365ad94d28e890d58d318b3142f7d5b94ac2e3874a805202e512a"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-life-mediflex.html",
+    "checked_at": "2026-10-27T11:53:47.205578+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "39f3fcd30c6da74392023fb5855244eaf628fa205e61e500fd83c236b979f8b9"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-life-mediflex-i.html",
+    "checked_at": "2026-10-27T11:53:53.958284+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "1ebfdbdee1881218c41f8487d9ccb123a5a51b181ffb50f3d3e21c3e7a7a227f"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-life-idaman.html",
+    "checked_at": "2026-10-27T11:53:59.173476+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "c3df8110dee873063757822bad5cfb5603751736b7fe7142d739e68bb997b700"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-life-kritikal-protector.html",
+    "checked_at": "2026-10-27T11:54:04.147983+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "a5a6ed6be6c390252681c63db48d3872b6c608a1978ec1f8bbcbfc72b3fda76e"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-lifelink-2.html",
+    "checked_at": "2026-10-27T11:54:09.021682+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "e6f45a4445f08ec465de9f3d808dedb14bff1304c13fda86df49830590b315f3"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-life-joy-xtra.html",
+    "checked_at": "2026-10-27T11:54:14.522135+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "d7bac6daec9311150c2ef760104d74fa4969d6d266ef29665936045649c4e874"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-plus-parentcare-xtra-i.html",
+    "checked_at": "2026-10-27T11:54:24.561272+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "a776c5efa2f8ec686e24862f8d15caa2d38047ce9685a6bfbdf608d4680837f3"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-one-plan.html",
+    "checked_at": "2026-10-27T11:54:29.358378+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "1a4c4897f2acade915335f8add05b42d54a18ff0585038a677939b5272c6491e"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-one-plan.html",
+    "checked_at": "2026-10-27T11:54:34.387497+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "aa2ca597da45cbc4aeaac4f257de9fe7a226cabad53f2a1b0b10cc2f22093541"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-starter-plan.html",
+    "checked_at": "2026-10-27T11:54:40.895431+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "0d2a6e6e0d8a75c98ced20cd6a088290c906ecb374c31dc525e4d424198310d1"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-starter-plan.html",
+    "checked_at": "2026-10-27T11:54:46.049357+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "0774b0c9bc2d5085ba8d5733f379d519f7bfef22f6adebbcc79271475b0b14b1"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-plus-parentcare-xtra.html",
+    "checked_at": "2026-10-27T11:54:51.184417+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "8bececc81baab20ff1568ba6afb0bfe82c6f3f7619475afc7395a1c25fe4f336"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-health-flex-i.html",
+    "checked_at": "2026-10-27T11:54:56.377686+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "f61c323cc1b19431f03b46fadedb5d6ba25b32d2adad70d543438ba3a0a5c639"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-med-basic.html",
+    "checked_at": "2026-10-27T11:55:02.827015+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "f583b19e84ffd668df7c7d602f44ee88259fa5c1870a06fc2083e7ce0f5fa731"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-health-2.html",
+    "checked_at": "2026-10-27T11:55:08.481169+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "e2179c198592094428270a05d729577161b45edc686c01eadd29fd41dfb8d622"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-life-cancer360-i.html",
+    "checked_at": "2026-10-27T11:55:41.801274+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "f92a58d39a85b01d9c8423678c42f93da87dcc7977910a51b51fd74c18c45d7f"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-life-cancer360.html",
+    "checked_at": "2026-10-27T11:55:49.956810+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "19e333d321b5bc04654b0401ccb4762e0195d3e0667a631360e051bc64e23582"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-critical-illness-cover.html",
+    "checked_at": "2026-10-27T11:55:57.583570+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "2a20a1fb9bfca55d8c454ac6a03f8488261a88dec5627e265598eec562930e4e"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-i-critical-illness-cover.html",
+    "checked_at": "2026-10-27T11:56:03.765764+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "e142ae9e84f71c9d9088762e7fb7ce53b05d8c0f1e8dd10be3a65c1297997f4f"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-beyond-critical-shield-i-and-a-plus-beyond-early-critical-shield-i.html",
+    "checked_at": "2026-10-27T11:56:09.222970+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "d29f3d7d083cd875e744a5064c22c2009f2241e5712bfb2d7c495a879548f98a"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-life-essential-critical-care.html",
+    "checked_at": "2026-10-27T11:56:14.254396+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "8a19433502676d4869fe0b222a2637b6e1b07fea8b0a3277b3d92b1b70c18ecc"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-i-med-basic.html",
+    "checked_at": "2026-10-27T11:56:19.199418+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "5a6a44a2a60c79aabe331049e75280a7b47c4cffb0b5e36484d9fa442c0dffa7"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-babycare-xtra.html",
+    "checked_at": "2026-10-27T11:56:24.737793+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "8789aa886d1f66ba56db9885af4800ec100132b7c137949105d4aa57f4d7c3dd"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-medcare.html",
+    "checked_at": "2026-10-27T11:56:29.728387+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "2d7d05f5a3f089dc051f89d46275abc6bc95872ff5f1e96315e1041f713b9dd4"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-recover-i.html",
+    "checked_at": "2026-10-27T11:56:35.671060+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "78a59f47872a82318e3fad86694ef5b7c0980c634ae01effe01c7c6b6ba4a30d"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-babycare-xtra-i.html",
+    "checked_at": "2026-10-27T11:56:40.752948+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "c11c6de28d65fc5474d812ae50996dd4af83a585066f3735db252d5007fc4878"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-beyond-critical-shield-a-plus-beyond-early-critical-shield.html",
+    "checked_at": "2026-10-27T11:56:46.974639+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "70b593cdc442741944f3ce34882b757eefa449dbc086d13215da0f277bee3035"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-critical-shield-i.html",
+    "checked_at": "2026-10-27T11:56:51.884435+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "39a0741ea37856b2816fb597ebb67df6613b744b67e23c1c6a0b0bf53f7a5788"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-life-beyond-critical-care.html",
+    "checked_at": "2026-10-27T11:56:56.972757+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "59179ed3a2ba33f7d3da1eaeecf905e034d589047152f84fd043612c17236af1"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-beyond-advance-care.html",
+    "checked_at": "2026-10-27T11:57:02.563846+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "97ea120173dd9ba2a4b979933b54a3a04e0e45e20af977b17361c122fcd257a5"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-multi-criticalcare.html",
+    "checked_at": "2026-10-27T11:57:08.418163+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "3bbde0a1da252e1931b0d2e09e4a7e431bb4604e3f3b99d3696683fb194ed489"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/lady-protection/a-life-lady.html",
+    "checked_at": "2026-10-27T11:57:13.591397+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "d4d1c46eb8d1c84d4c29a2bbd35d180d5a2e1bad6a617089e18162e69f6ef490"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/lady-protection/a-life-lady-i.html",
+    "checked_at": "2026-10-27T11:57:20.514723+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "d3beffc4950afedf351a7b8a69c72b190cc83c7b2345f6e7ff630bd2f5a57c0c"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/ci-insure.html",
+    "checked_at": "2026-10-27T11:57:25.707414+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "c02e565b2e18ffe0bda7737a7f60a113252144232ac602d8a1691e0833a7c714"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/med-insure.html",
+    "checked_at": "2026-10-27T11:57:31.154449+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "35faea9c3db596d2d53ba1a58cd823a5db0e9d4aa99a6758ea37b71889365011"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-life-kritikal-flex.html",
+    "checked_at": "2026-10-27T11:57:36.122980+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "1d258f22ca18622a6aa0d6a2efe22fa4efaf72c42d9cb1e11156376694beba25"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-life-sejahtera.html",
+    "checked_at": "2026-10-27T11:57:43.553360+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "9c748aa3f925cd715f5da6163b5011c1231a29a3054c2302d7f2624827654c00"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-critical-early.html",
+    "checked_at": "2026-10-27T11:57:50.201275+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "6e9ca9e24cbaff748f7bd6a9b61a8efd89f0547cf37d998ebacab0bb0852fde6"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-life-cover.html",
+    "checked_at": "2026-10-27T11:57:55.227353+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "8318a6428d8efa97ad19a732aef4a9f8b97c9be3629e364f78784f206020d86b"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-critical-multi.html",
+    "checked_at": "2026-10-27T11:58:00.259374+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "7996d4c683622d8706ff3e3daa556229c5434f4ba005040edc5a8ecaf0476bc7"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-critical-recovery.html",
+    "checked_at": "2026-10-27T11:58:06.294796+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "144bdb740d28c08c8e0354c50a1e5cd556609c37c38faa42924708ff128893c7"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-critical-assure.html",
+    "checked_at": "2026-10-27T11:58:11.537410+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "51dc85d38207f213af43f9065992f102f6400f0c433fd5fb86773c3c10f9ba6f"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-health360-i.html",
+    "checked_at": "2026-10-27T11:58:16.644319+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "5b4cc74b455ea6e4d72c43c6cdbbd1cbb69c586ed5a3133314007560745a22f9"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-health360.html",
+    "checked_at": "2026-10-27T11:58:21.694487+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "7dcbdd278273f86c9e1008c7eb7b89dcf98bffa0194e2a9b009d69d45fefc60f"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-sejuta-makna.html",
+    "checked_at": "2026-10-27T11:58:27.398251+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "e14fa844e22774dd9d58be62e5bf7948ce96af9416bc3428d8dea4b139fdcaac"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/childs-savings-planning/a-eduachieve-2.html",
+    "checked_at": "2026-10-27T11:58:32.996669+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "86ee19bc522c06cbb1c01631cd9a06d002253ad136034a928c330f9ddd7ec382"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-plus-infaq.html",
+    "checked_at": "2026-10-27T11:58:38.329696+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "f9c340e74ef96e0126f6721e752537e7ca16276f2f0a15401efb6d80c92a23e3"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-wealth-premier.html",
+    "checked_at": "2026-10-27T11:58:43.330319+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "ce7324b5240ae04ca16026528c2c336b0c60b5fd216be6d01f69920c4603a2ac"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-legasi-beyond.html",
+    "checked_at": "2026-10-27T11:58:49.396638+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "ac7884accceb96e5b11cf687daab9ea9f26837744c2525034d66e74cbdd61c3d"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-wealth-builder.html",
+    "checked_at": "2026-10-27T11:58:54.494850+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "7fadfb666e8a309ee237c4ff07244f865966514f943290e89e9f57d97fce5929"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-enrich-20.html",
+    "checked_at": "2026-10-27T11:59:00.003945+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "2326a88287fd1a1700cb2e969ce7a730b638542cc2ead7c5f2d431dd800f87c1"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-investlink.html",
+    "checked_at": "2026-10-27T11:59:04.918432+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "ea98f753dcb3f630871f400168a93decb4160d889ecc1c8dd32ff6dab27ff236"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-enrichgold.html",
+    "checked_at": "2026-10-27T11:59:14.881478+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "1f3a03c14f2e0cf5deaf68fd9c3e11f16ac471e81f477f07956ce89e37e237e4"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-enrich-rezeki.html",
+    "checked_at": "2026-10-27T11:59:18.918526+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "51635bebb156b764f86824901fc73eba9a6709334663b4510a5ce1245f7385f8"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-enrichgold-i.html",
+    "checked_at": "2026-10-27T11:59:22.997183+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "1779df2d69ced68b524d931dd8564304f5e09d6baab0f76c64db317f56bb96ee"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-enrich-wealth.html",
+    "checked_at": "2026-10-27T11:59:27.580427+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "fe1ea3dc91dbb6151d8d2b0fbed00cd5902dfb2ca2553661e7a50c7348f1016c"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-wealth-prestige.html",
+    "checked_at": "2026-10-27T11:59:31.135026+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "37ce7719f84fc981be23b6f50b99eed1febe1c238f4d98b4e3e502fb3b14ac8a"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-wealth-venture.html",
+    "checked_at": "2026-10-27T11:59:34.705841+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "e98a670cc278596154394246cfa530da67bc6f00e4abb51e9a488adde5d1825a"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-life-promise.html",
+    "checked_at": "2026-10-27T11:59:39.523386+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "546d0e8170a131a3ac1ef500351d2be734ee6e4ead9c5a65e2bb4f8824a15be3"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-life-rewards.html",
+    "checked_at": "2026-10-27T11:59:45.495216+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "7b26170620fd9a6e99dedb644204623a7a8bc097c41851bcae5e601ddf3c8d46"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-enrich-impian.html",
+    "checked_at": "2026-10-27T11:59:49.395321+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "a0ef43bd7f15c3531543f2120ec2d37726d788094dc89b841d7f4224ef22f0e7"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/xtra-guard-pa.html",
+    "checked_at": "2026-10-27T11:59:53.227284+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "ae3a13b68c2cadba4f99d4daf398ed445897366772885098fbb040866b341d60"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/easy-cover-pa.html",
+    "checked_at": "2026-10-27T11:59:58.330403+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "0cb0fe8d8069bd0349a64320d7ba99c275424f9aa026ccf45babde664193eadd"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/walletsafe.html",
+    "checked_at": "2026-10-27T12:00:02.279925+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "a711a6fc87483397da9faad7ef14de03c8ba3e68fb8a66c6efc07fb5906309ec"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/child-plus.html",
+    "checked_at": "2026-10-27T12:00:05.905370+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "4060f215a7b1c7c9578301d338ed3788a224582ffc2b7c0647b1e342b677cc9d"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/group-personal-accident/aia-student-accident-shield.html",
+    "checked_at": "2026-10-27T12:00:10.027812+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "21fc01ce0b7ca873ca750e10265ebb8f59913b93ff41e0ea93455d51d4ddf966"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/group-personal-accident/group-flexible-personal-accident.html",
+    "checked_at": "2026-10-27T12:00:13.566869+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "d255ce70b3f51ec2a495ae8fae05bb234db4767b0142e66a6817223fc1ac0454"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/safetrip.html",
+    "checked_at": "2026-10-27T12:00:17.235520+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "81f51163f99a2ab2f060d342d8a8550d58a6c22d461f82424c49890e70f67ad3"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/xtra-guard-booster.html",
+    "checked_at": "2026-10-27T12:00:23.968152+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "3fd950bb2c804a9a0109a12b0c1bfe88179ac0c7296249a4c085e2469d715a73"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/aia-travel-pa-plus.html",
+    "checked_at": "2026-10-27T12:00:29.324693+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "62267105b6ed5fea35f795307badbc4cf770f3e3f74bbaf4e29737dc03888bd2"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/a-life-pelindung.html",
+    "checked_at": "2026-10-27T12:00:33.200039+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "2ed1fff9777104dedd3bd52ae93ca4dba82e189b2a2a0fb0014eabec1e68e418"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/a-plus-accident-shieldextra-i.html",
+    "checked_at": "2026-10-27T12:00:38.709792+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "7c2e383bf01ecb9907e6eeb140631470af66886854e16216d2c47c4f8726cb37"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/medi-plus-rider.html",
+    "checked_at": "2026-10-27T12:00:42.560480+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "35bc839fa9ea607a829247b0aac6d48f8087e098f3c30acb81000ad93115467a"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/living-plus-rider.html",
+    "checked_at": "2026-10-27T12:00:48.053505+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "ff5d9fe8ca665027dca104a6afcd07d5d848de8595ed6500c8451075c8d79afd"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/flex-pa-plus.html",
+    "checked_at": "2026-10-27T12:00:53.495968+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "2c410a9c62bdaca75c2cdf4edfd92d6fff533d100ff9fba96730b88084e69814"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/pa-max-rider.html",
+    "checked_at": "2026-10-27T12:00:57.834909+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "05ef635e1f62068cd5f6d76dcc7abc77a02210beb8bdb351ad6bb19e8958a031"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/active-lifestyle-rider.html",
+    "checked_at": "2026-10-27T12:01:03.551901+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "681256ac283b8557586d3ac8578ff526b9d5d99c734a02c0ae676c049cdb39af"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/group-personal-accident/cahayaku.html",
+    "checked_at": "2026-10-27T12:01:08.687265+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "caffac1889881c94d8c737cdcd154c9e013dc7d0b00ee83c660da006bbafc91a"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/bill-protection.html",
+    "checked_at": "2026-10-27T12:01:12.692951+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "acca68e0c23964f67df8857bf55ea25a224731f24898fcc73a02d7b2595626e0"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/lifeassist-rider.html",
+    "checked_at": "2026-10-27T12:01:17.861446+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "35a119e4789de2964c0756ef64360b960fbe9eab6791b257534718acfd59c95f"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/recoveryassist-rider.html",
+    "checked_at": "2026-10-27T12:01:23.505245+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "dc742d374dab83eac1e0a158c15abf2f8be030493f5995ebd52368a40a13ac1d"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/mediassist-rider.html",
+    "checked_at": "2026-10-27T12:01:29.767572+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "8f74fd39f0f90a8479ff8cdb7340cef4168f7c54974fb1cb59458008ce1fb6f7"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/juniorassist-rider.html",
+    "checked_at": "2026-10-27T12:01:33.878776+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "bac383424032a2cdba7c40d08fa8f2e9ec0691473f4a76d6edcb71a0de10d0b3"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/sportassist-rider.html",
+    "checked_at": "2026-10-27T12:01:39.868124+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "041f216a5b1f988c03571caa8a995b8e2583865250b3422ab9131fb6997781f0"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/myessential-pa.html",
+    "checked_at": "2026-10-27T12:01:44.362308+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "20f457925946e172def48c9de6ba9040460261efeafa7489301da2b72ec82a3a"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/home-protection/aia-fixed-rate-mortgage.html",
+    "checked_at": "2026-10-27T12:01:48.597107+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "a0300a3e2dea7d11b6def8216eeb22fc9100337075c6b459abe45a81c1414d2a"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/home-protection/safehome.html",
+    "checked_at": "2026-10-27T12:01:52.406564+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "9f49b156fcd34f91d7334ea7db4a81856d176d62564b118bf2e30e695d51a898"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/home-protection/a-essential-home.html",
+    "checked_at": "2026-10-27T12:01:57.287239+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "7ee0560b9122c28fb9dfd47b1ca471b0bea12e64758c7d800e6dfa9d9cff12e7"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/motor-insurance/family-drive.html",
+    "checked_at": "2026-10-27T12:02:01.748446+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "ca4110ee627aca9397aa224d625432353deeb263afe38bdea05965f29db50de7"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/motor-insurance/comprehensive-private-car-insurance.html",
+    "checked_at": "2026-10-27T12:02:05.697118+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "46dde0e5df8e0dab7c0e365af117e2cafe84bb18ed780d65ea8dfeb2eb0de774"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/motor-insurance/comprehensive-commercial-vehicle-insurance.html",
+    "checked_at": "2026-10-27T12:02:11.242211+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "5d912e98983298711b1683b3bb9bdc0964fcfa49210cb0ce01c75ca707dcee20"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/commercial-insurance/a-essential-business.html",
+    "checked_at": "2026-10-27T12:02:16.081909+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "de895f27fd7bb6259b0b58616695a0b4dd8241e88baf38f452b057bbd96d10c7"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/commercial-insurance/a-essential-jmb.html",
+    "checked_at": "2026-10-27T12:02:20.051578+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "1f701913175c29ba9072404b9cab36438574b24eeaf959af7235439834254fc9"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/infinite-series/legacy-planning/aia-infinite-heritage.html",
+    "checked_at": "2026-10-27T12:02:24.412404+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "130d63643d75e763f6fdd0a597ba3102f31e511a63112f8ed9a2574f2f5deac4"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/infinite-series/legacy-planning/aia-infinite-prosperity.html",
+    "checked_at": "2026-10-27T12:02:28.670414+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "b3bca835273c47a442714a3083539c839f7bc4ea4352a98a4bdaa1295bd8eabb"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/infinite-series/legacy-planning/aia-infinite-khazanah.html",
+    "checked_at": "2026-10-27T12:02:33.663297+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "2d77523a0be8f842341c27deaf48a6798bf6c350b4da90c61227ba9a14174872"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/employee-benefits/holistiCare-solution.html",
+    "checked_at": "2026-10-27T12:02:40.594909+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "993f157ab8fac70a8b3fd3e738240205db7f3f4a803a7343739401d567f29f8f"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/protect-your-loved-ones-with-aia-life-insurance-plans.html",
+    "checked_at": "2026-10-27T12:03:12.034008+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "d84644bfd66c8923ce22c4b241b364d8e195055dfdbaf8fd3dc1d2ee845843b4"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/protect-yourself-with-aia-medical-insurance-takaful-plans.html",
+    "checked_at": "2026-10-27T12:03:19.198717+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "3055fdc032c4ef752043f9322ed5d2ccf1fdab66ffa79423d0455da5dc65c006"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/support-your-long-term-financial-goals-with-our-insurance-and-takaful-plans.html",
+    "checked_at": "2026-10-27T12:03:24.171403+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "afd066020c9a87bc19e1196756686c014d272038a5aead132a2a40b9442770d0"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/accident-protection/safeguard-yourself-from-accidents-with-our-insurance-plans.html",
+    "checked_at": "2026-10-27T12:03:36.941650+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "8379c51ca6328080ce9f0e4a5a2d4c8e595b6936e2b785f8d3a58bb5d9666dc7"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/home-protection/finance-your-dream-property-and-ensure-that-your-home-is-well-protected.html",
+    "checked_at": "2026-10-27T12:03:41.448240+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "a608b04fc0af21b298bd167e65fef31f25a7e7beea77f934b249c5f9fef9d382"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/motor-insurance/protect-your-car-with-aia-motor-insurance-plans.html",
+    "checked_at": "2026-10-27T12:03:46.240113+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "aa5df4ca72890c2d591d1b9d043dfc1423b5f8e0ed3c8586498122ecca13ee4a"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/infinite-series/elevate-your-legacy-for-generations-with-aia-infinite-series.html",
+    "checked_at": "2026-10-27T12:03:50.645368+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "c0e3f0cdfd72daf77635818742e533d8881f62610570e72b1ce507a05c5c320b"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/infinite-series/legacy-planning.html",
+    "checked_at": "2026-10-27T12:03:55.111222+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "449d1de0d597d7d0a48a710c05e584254346327cc4021afe20bde3bc22597be9"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-one-plan/aia-i-one-plan-faq.html",
+    "checked_at": "2026-10-27T12:03:59.435675+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "bc77e000a24871d99a1458276c195a0eefc950840cdbf8a939d0801e27002533"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-one-plan/aia-one-plan-faq.html",
+    "checked_at": "2026-10-27T12:04:03.410870+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "7f54292fb3dc804255152e0e560f834a151a853793a6fe47f8da83a695a6608a"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-starter-plan/aia-i-starter-plan-faq.html",
+    "checked_at": "2026-10-27T12:04:06.883800+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "7c717407f752daf2d8a85741ad5302171c76e5cf2c654973a1ec283c2eb53231"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-starter-plan/aia-starter-plan-faq.html",
+    "checked_at": "2026-10-27T12:04:11.001100+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "e4b209dd68edbec3bdc0eefc2945a283316069884ef56169d04765a0e930504f"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-med-basic/aia-med-basic-faq.html",
+    "checked_at": "2026-10-27T12:04:15.362406+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "6419d523bc1637eaa5ec976c0f083b3f47237031bff2636c06301acd0b6951cf"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-critical-illness-cover/aia-critical-illness-cover-faq.html",
+    "checked_at": "2026-10-27T12:04:19.066711+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "18065f293224f2cd82770c0183a883ee8fca5726039c3c43617f9b628eaf3652"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-i-critical-illness-cover/aia-i-critical-illness-cover-faq.html",
+    "checked_at": "2026-10-27T12:04:23.091711+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "6d3ac7fac03030f9fb58a97e32458c5b002f57af832e9d8131f3f8b1e4c4eee6"
+  },
+  {
+    "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-i-med-basic/aia-i-med-basic-faq.html",
+    "checked_at": "2026-10-27T12:04:27.386983+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "7a5c6d1c2a37d9645d3f52a5c9e9575019cef9397979c0948ac6806bfb5bfea4"
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-10-27T13:17:30.591715+00:00",
+  "source_snapshot": "aia-my-ready-20261027T121250Z",
+  "source_snapshot_unchanged": true,
+  "replace_prior_candidate_not_append": true,
+  "inventory_rows_before_and_after": 190,
+  "document_rows_before_and_after": 59,
+  "hidden_rows_before_and_after": 8,
+  "material_references_before_and_after": 203,
+  "unique_material_URLs_before_and_after": 160,
+  "role_corrections": [
+    {
+      "official_name": "A-PLUS WAIVER",
+      "product_url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-wealth-builder.html",
+      "parent_official_name": "A-Life Wealth Builder",
+      "old_observation_id": "MY-AIA-observation-e2b907f560b056bc5de1",
+      "new_observation_id": "MY-AIA-observation-13d6238396d7d66dd9f6",
+      "old_role": "rider",
+      "new_role": "add_on",
+      "contractual_rider_status": "unconfirmed",
+      "material_links": [],
+      "associated_detail_urls": []
+    },
+    {
+      "official_name": "A-PLUS SPOUSE WAIVER EXTRA",
+      "product_url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-wealth-builder.html",
+      "parent_official_name": "A-Life Wealth Builder",
+      "old_observation_id": "MY-AIA-observation-d1060d8f59a86f28bf9b",
+      "new_observation_id": "MY-AIA-observation-15f688987c17d079dfeb",
+      "old_role": "rider",
+      "new_role": "add_on",
+      "contractual_rider_status": "unconfirmed",
+      "material_links": [],
+      "associated_detail_urls": []
+    },
+    {
+      "official_name": "A-PLUS PARENT WAIVER",
+      "product_url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-wealth-builder.html",
+      "parent_official_name": "A-Life Wealth Builder",
+      "old_observation_id": "MY-AIA-observation-0aceae72c8f5a3a33762",
+      "new_observation_id": "MY-AIA-observation-bf017ada9e47e2f1947f",
+      "old_role": "rider",
+      "new_role": "add_on",
+      "contractual_rider_status": "unconfirmed",
+      "material_links": [],
+      "associated_detail_urls": []
+    }
+  ],
+  "same_name_association_ID_references_updated": true,
+  "network_requests": 0,
+  "file_bodies_reviewed": 0
+}

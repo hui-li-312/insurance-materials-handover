@@ -1,0 +1,464 @@
+[
+  {
+    "same_name_group_id": "MY-AIA-same-name-75e5328381f6758e",
+    "observation_ids": [
+      "MY-AIA-observation-ce92615b9e2c5621a971",
+      "MY-AIA-observation-9a4a418b755a93375489"
+    ],
+    "labels": [
+      "A-Plus ParentCare Xtra-i",
+      "A-PLUS PARENTCARE XTRA-I"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-1e6c47956f2a3169",
+    "observation_ids": [
+      "MY-AIA-observation-e188d388f61629251c92",
+      "MY-AIA-observation-747c1c75ef00dfc466ad"
+    ],
+    "labels": [
+      "A-Plus ParentCare Xtra",
+      "A-PLUS PARENTCARE XTRA"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-8ca2e68c82e3497e",
+    "observation_ids": [
+      "MY-AIA-observation-241fe27db6eadf9fe0e2",
+      "MY-AIA-observation-e071a2b7c269d23a6327"
+    ],
+    "labels": [
+      "A-Plus Health Flex-i"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-7589aaaca5d68663",
+    "observation_ids": [
+      "MY-AIA-observation-06731cf08854a18b4758",
+      "MY-AIA-observation-247c3b67a4988d05b2d6"
+    ],
+    "labels": [
+      "A-Plus Beyond Critical Shield-i & A-Plus Beyond Early Critical Shield-i",
+      "A-PLUS BEYOND CRITICAL SHIELD-I & A-PLUS BEYOND EARLY CRITICAL SHIELD-I"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-d300a85b518aa737",
+    "observation_ids": [
+      "MY-AIA-observation-161dcd8cde04037f934f",
+      "MY-AIA-observation-5dc0cacbe9433d699930"
+    ],
+    "labels": [
+      "A-Plus BabyCare Xtra",
+      "A-PLUS BABYCARE XTRA"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-6464f6266a3cca7f",
+    "observation_ids": [
+      "MY-AIA-observation-99424d29cc2a92d929fc",
+      "MY-AIA-observation-186500b79a2ad98f7988",
+      "MY-AIA-observation-cbafc05bd392a8e2d592"
+    ],
+    "labels": [
+      "A-Plus Recover-i",
+      "A-PLUS RECOVER-I"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-623a8c9ebaae3377",
+    "observation_ids": [
+      "MY-AIA-observation-1b18926aa47ea7afd42c",
+      "MY-AIA-observation-872738c0d5e6152afd39"
+    ],
+    "labels": [
+      "A-Plus BabyCare Xtra-i",
+      "A-PLUS BABYCARE XTRA-I"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-87ea64250677579e",
+    "observation_ids": [
+      "MY-AIA-observation-30e828cc107e906e4421",
+      "MY-AIA-observation-c79df315e355e1568267"
+    ],
+    "labels": [
+      "A-Plus Beyond Critical Shield & A-Plus Beyond Early Critical Shield",
+      "A-PLUS BEYOND CRITICAL SHIELD & A-PLUS BEYOND EARLY CRITICAL SHIELD"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-dbfde5d2205c544a",
+    "observation_ids": [
+      "MY-AIA-observation-2199f1de90f862f86b85",
+      "MY-AIA-observation-3183037c842664339dea"
+    ],
+    "labels": [
+      "A-Plus Beyond Advance Care",
+      "A-PLUS BEYOND ADVANCE CARE"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-0d39f5be2aad435c",
+    "observation_ids": [
+      "MY-AIA-observation-58336a9d23d9d1f7f66b",
+      "MY-AIA-observation-1a78748d016223fa04d9",
+      "MY-AIA-observation-b2685c27861487c0dc7e"
+    ],
+    "labels": [
+      "A-Plus Multi CriticalCare",
+      "A-PLUS MULTI CRITICALCARE"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-73064b3dacc5abce",
+    "observation_ids": [
+      "MY-AIA-observation-62d0a08f68135d66f5c8",
+      "MY-AIA-observation-d409154198e34552aa00"
+    ],
+    "labels": [
+      "A-Plus Critical Early",
+      "A-PLUS CRITICAL EARLY"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-f7dab35097a79352",
+    "observation_ids": [
+      "MY-AIA-observation-4ad90abc88fc08c8bea2",
+      "MY-AIA-observation-53736a2ac7a8375a7a6c"
+    ],
+    "labels": [
+      "A-Plus Critical Multi",
+      "A-PLUS CRITICAL MULTI"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-693d099e2399c4ca",
+    "observation_ids": [
+      "MY-AIA-observation-73b0543fbd51905e4df1",
+      "MY-AIA-observation-fa0be1b846cdf88259c1"
+    ],
+    "labels": [
+      "A-Plus Critical Recovery",
+      "A-PLUS CRITICAL RECOVERY"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-26ee76c67e3c2972",
+    "observation_ids": [
+      "MY-AIA-observation-2a52d6e914f2489ea2e2",
+      "MY-AIA-observation-bda98cfb66ff622d392b"
+    ],
+    "labels": [
+      "A-Plus Health360-i",
+      "A-PLUS HEALTH360-I"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-57640474df34a9e1",
+    "observation_ids": [
+      "MY-AIA-observation-2274071a44cd995f3002",
+      "MY-AIA-observation-869f3f39610b5a89238e",
+      "MY-AIA-observation-8f71567106a9fa871f38"
+    ],
+    "labels": [
+      "A-Plus Health360",
+      "A-PLUS HEALTH360"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-48f1ad6eacd05d88",
+    "observation_ids": [
+      "MY-AIA-observation-f27c7ed1e94cb5b9d440",
+      "MY-AIA-observation-349240b9aca46de6dbb1",
+      "MY-AIA-observation-59cad7ab3bce0dc4af3a",
+      "MY-AIA-observation-4a9850aa5b86a0c1429e"
+    ],
+    "labels": [
+      "A-Plus Infaq",
+      "A-PLUS INFAQ"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-81dbb5d17947fddb",
+    "observation_ids": [
+      "MY-AIA-observation-1a023cda7897a4188425",
+      "MY-AIA-observation-b886261ed17ae0d83cb2"
+    ],
+    "labels": [
+      "Child Plus Rider",
+      "CHILD PLUS RIDER"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-b7fcc01accf5e7dc",
+    "observation_ids": [
+      "MY-AIA-observation-e36cb8bcb16c82d87f32",
+      "MY-AIA-observation-2b42a43f44836554a8d3"
+    ],
+    "labels": [
+      "Xtra Guard Booster",
+      "XTRA GUARD BOOSTER"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-f6ed5725bcd278af",
+    "observation_ids": [
+      "MY-AIA-observation-0bfbd1dd254806281fda",
+      "MY-AIA-observation-a7e5b97754f3837fe971",
+      "MY-AIA-observation-d4443766ae9cee45b355"
+    ],
+    "labels": [
+      "A-Plus Accident ShieldExtra-i",
+      "A-PLUS ACCIDENT SHIELDEXTRA-I"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-52173d4dc9167683",
+    "observation_ids": [
+      "MY-AIA-observation-32ecb54262a97f45339c",
+      "MY-AIA-observation-4e5c87103c0e16c01663"
+    ],
+    "labels": [
+      "Medi Plus Rider",
+      "MEDI PLUS RIDER"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-d7832b95782c7b86",
+    "observation_ids": [
+      "MY-AIA-observation-dc14f6870ff49bd3e20c",
+      "MY-AIA-observation-0d4093066be8acbc0cd5"
+    ],
+    "labels": [
+      "Living Plus Rider",
+      "LIVING PLUS RIDER"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-8036d8eeccda3950",
+    "observation_ids": [
+      "MY-AIA-observation-bf68873a30302835d287",
+      "MY-AIA-observation-f6eb16a9bd567391a760"
+    ],
+    "labels": [
+      "PA Max Rider",
+      "PA MAX RIDER"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-f4a3db34e3a420af",
+    "observation_ids": [
+      "MY-AIA-observation-5279f6ad34d42c0c6c88",
+      "MY-AIA-observation-0cf75387f1b57ca462a5"
+    ],
+    "labels": [
+      "LifeAssist Rider"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-2f625cc45ee2a8f9",
+    "observation_ids": [
+      "MY-AIA-observation-3afe02c99382d848606a",
+      "MY-AIA-observation-023fe02c0f79b278446c"
+    ],
+    "labels": [
+      "RecoveryAssist Rider"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-6e465847501b0ef2",
+    "observation_ids": [
+      "MY-AIA-observation-ac61bac7a90d927dd03d",
+      "MY-AIA-observation-795a4af0d691681a3168"
+    ],
+    "labels": [
+      "MediAssist Rider"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-0cbab82580ae7ff6",
+    "observation_ids": [
+      "MY-AIA-observation-71baeb724f3affa4d0f1",
+      "MY-AIA-observation-dd7e1e4ef2079bbbc549"
+    ],
+    "labels": [
+      "JuniorAssist Rider"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-38c543e94959b6c4",
+    "observation_ids": [
+      "MY-AIA-observation-5823d978e94e9a62b466",
+      "MY-AIA-observation-bd6830c2de2e91670b94"
+    ],
+    "labels": [
+      "SportAssist Rider"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-30216f0168fc30ab",
+    "observation_ids": [
+      "MY-AIA-observation-df57b8180f6a1fd26dd2",
+      "MY-AIA-observation-2115755760fdc7f6f0f3",
+      "MY-AIA-observation-a5cf861dc4de27a6afa5",
+      "MY-AIA-observation-07f8874f573c874e2740"
+    ],
+    "labels": [
+      "A-PLUS PARENTWAIVER-I",
+      "A-Plus ParentWaiver-i"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-5d449a84f178a90b",
+    "observation_ids": [
+      "MY-AIA-observation-1f1be82ce60e879db145",
+      "MY-AIA-observation-32bb2663b60e7207d428",
+      "MY-AIA-observation-39076d00635340fd0d10",
+      "MY-AIA-observation-5021de2ec429774cca51"
+    ],
+    "labels": [
+      "A-PLUS CRITICAL ASSURE (ADDITIONAL)"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-0e407e4e46d9d462",
+    "observation_ids": [
+      "MY-AIA-observation-f65ab12a102a8c21f362",
+      "MY-AIA-observation-6a1de4ac74056cd7ff8c",
+      "MY-AIA-observation-1e766a0d14c9ed1e4803",
+      "MY-AIA-observation-9735f77a4f2f6db149d0"
+    ],
+    "labels": [
+      "A-PLUS CRITICAL ASSURE (ACCELERATE)"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-95ab6c9d1b874019",
+    "observation_ids": [
+      "MY-AIA-observation-8e65cf27ed983198d57b",
+      "MY-AIA-observation-d967b9731a99dd032ed1"
+    ],
+    "labels": [
+      "A-PLUS LIFECOVER",
+      "A-PLUS LIFE COVER"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-6a0601ed6dc809f3",
+    "observation_ids": [
+      "MY-AIA-observation-d1918c0ca662de55612c",
+      "MY-AIA-observation-94693348b0fa24c40bde",
+      "MY-AIA-observation-0ae81fbe90a63e0e21d7"
+    ],
+    "labels": [
+      "A-PLUS WAIVER-I"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-0cb1f975a52e2447",
+    "observation_ids": [
+      "MY-AIA-observation-4397614eea49d88227b4",
+      "MY-AIA-observation-4675099cc34f9c1beb9a",
+      "MY-AIA-observation-f966c529cdc84403c104"
+    ],
+    "labels": [
+      "A-PLUS PAYOR"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-514ed748196d103b",
+    "observation_ids": [
+      "MY-AIA-observation-6bdcba3939a45e7d86e4",
+      "MY-AIA-observation-13d6238396d7d66dd9f6",
+      "MY-AIA-observation-a1aca940d76be51e5a5e",
+      "MY-AIA-observation-1ca7e2d6c73a2a635751",
+      "MY-AIA-observation-1baf31d359e937344143",
+      "MY-AIA-observation-cb621d288ef0e9d03efb",
+      "MY-AIA-observation-c4245da4128a1865b65f"
+    ],
+    "labels": [
+      "A-PLUS WAIVER"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-5535f4e617c90ed2",
+    "observation_ids": [
+      "MY-AIA-observation-e40ae7e538c0b4c751f5",
+      "MY-AIA-observation-15f688987c17d079dfeb"
+    ],
+    "labels": [
+      "A-PLUS SPOUSE WAIVER EXTRA"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-27f5e06c91656e8a",
+    "observation_ids": [
+      "MY-AIA-observation-5459de5e03ba0a970907",
+      "MY-AIA-observation-bf017ada9e47e2f1947f",
+      "MY-AIA-observation-dbc19b77e26caf02f8bd",
+      "MY-AIA-observation-edc4f86c2c123c72deae"
+    ],
+    "labels": [
+      "A-PLUS PARENT WAIVER"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-240aa918a0c05f13",
+    "observation_ids": [
+      "MY-AIA-observation-c5089afc09b68aab196d",
+      "MY-AIA-observation-0be22cf588505c7cee22"
+    ],
+    "labels": [
+      "A-PLUS PAYOR CI"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  },
+  {
+    "same_name_group_id": "MY-AIA-same-name-ecaf487d60fe48bd",
+    "observation_ids": [
+      "MY-AIA-observation-7cc3837c35143efad283",
+      "MY-AIA-observation-4750011e0252807e5507"
+    ],
+    "labels": [
+      "A-Plus WaiverExtra"
+    ],
+    "scope": "Case/punctuation-normalized same-name observations only; not proof of identical version/contract/SKU. Different parent associations preserved."
+  }
+]

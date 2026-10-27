@@ -1,0 +1,107 @@
+{
+  "supersedes": "aia-my-ready-20261027T131730Z-v2",
+  "changed_observation_count": 3,
+  "unchanged_observation_count": 187,
+  "material_links_changed": 0,
+  "new_observations": 0,
+  "corrections": [
+    {
+      "observation_id": "MY-AIA-observation-0ad883356d2848e6bb46",
+      "official_name": "A-Life Kritikal Flex",
+      "changed_fields": [
+        "document_identity_evidence",
+        "issuer",
+        "issuer_candidates",
+        "issuer_id",
+        "issuer_mapping_evidence_scope",
+        "issuer_mapping_evidence_url",
+        "issuer_mapping_status",
+        "legal_issuer_assignment_count_credit",
+        "notes",
+        "source_mapping_before_document_correction"
+      ],
+      "previous_issuer_id": null,
+      "issuer_id": "MY-own-a439a37694894d97",
+      "previous_role": "product",
+      "role": "product",
+      "identity_evidence": {
+        "source_document_url": "https://www.aia.com.my/content/dam/my-wise/document/health-protection-conventional/A-Life%20Kritikal%20Flex_PDS_ENG.pdf",
+        "source_document_sha256": "0d535d0b19e131b3d7c4c8d005aed2e984c1e7a7804750531f4b74e23bb1b1f9",
+        "PDF_page_number": 1,
+        "identity_page_render_visually_checked": true,
+        "evidence_summary": "PDS first page has the company header and explicitly describes the exact named offering as a family takaful product. This is stronger than the contradictory page template/PIDM contact and folder wording.",
+        "source_conflict_preservation": "Retain original page-template/PIDM/category metadata as historical evidence; this document-specific correction does not erase or generalize away contradictions.",
+        "full_contract_review_status": "not_performed",
+        "independent_QA_status": "three_narrow_corrections_approved",
+        "supporting_metadata_snapshot": "aia-my-intake-metadata-20261027T124818Z"
+      },
+      "ID_status": "Stable source-observation ID retained for narrow metadata correction; replace row, never append."
+    },
+    {
+      "observation_id": "MY-AIA-observation-257355a23c42dc9850bf",
+      "official_name": "CI Insure",
+      "changed_fields": [
+        "document_identity_evidence",
+        "issuer",
+        "issuer_candidates",
+        "issuer_id",
+        "issuer_mapping_evidence_scope",
+        "issuer_mapping_evidence_url",
+        "issuer_mapping_status",
+        "legal_issuer_assignment_count_credit",
+        "notes",
+        "role",
+        "role_evidence_scope",
+        "source_mapping_before_document_correction"
+      ],
+      "previous_issuer_id": null,
+      "issuer_id": "MY-own-5b0b245e5415eb4d",
+      "previous_role": "product",
+      "role": "group",
+      "identity_evidence": {
+        "source_document_url": "https://www.aia.com.my/content/dam/my/en/docs/TnG/TNGD-AIA-CI-Insure.pdf",
+        "source_document_sha256": "522bf3aeff40baa44d12eca753959c6fca4fc54be3a7492ed9de30eb6bcbb47f",
+        "PDF_page_number": 22,
+        "identity_page_render_visually_checked": true,
+        "evidence_summary": "PDS section explicitly names the underwriter and describes a group policy with TNG Digital as master policyholder; wording section begins on PDF page1.",
+        "source_conflict_preservation": "Retain original page-template/PIDM/category metadata as historical evidence; this document-specific correction does not erase or generalize away contradictions.",
+        "full_contract_review_status": "not_performed",
+        "independent_QA_status": "three_narrow_corrections_approved",
+        "supporting_metadata_snapshot": "aia-my-intake-metadata-20261027T124818Z"
+      },
+      "ID_status": "Stable source-observation ID retained for narrow metadata correction; replace row, never append."
+    },
+    {
+      "observation_id": "MY-AIA-observation-a72506b37d14a5546fe8",
+      "official_name": "A-Life Lady-i",
+      "changed_fields": [
+        "document_identity_evidence",
+        "issuer",
+        "issuer_candidates",
+        "issuer_id",
+        "issuer_mapping_evidence_scope",
+        "issuer_mapping_evidence_url",
+        "issuer_mapping_status",
+        "legal_issuer_assignment_count_credit",
+        "notes",
+        "source_mapping_before_document_correction"
+      ],
+      "previous_issuer_id": null,
+      "issuer_id": "MY-own-a439a37694894d97",
+      "previous_role": "product",
+      "role": "product",
+      "identity_evidence": {
+        "source_document_url": "https://www.aia.com.my/content/dam/my-wise/document/health-protection-takaful/A-Life%20Lady-i_Brochure_06222026.pdf",
+        "source_document_sha256": "f1f95de6219f67ebb7ac44c1ed0781642445a0defd2263333ff955678718d5e2",
+        "PDF_page_number": 13,
+        "identity_page_render_visually_checked": true,
+        "evidence_summary": "The brochure product-specific FAQ page identifies AIA PUBLIC Takaful Bhd as takaful operator and describes A-Life Lady-i as the named takaful plan. PDF page13 is printed pages23\u201324.",
+        "source_conflict_preservation": "Retain original page-template/PIDM/category metadata as historical evidence; this document-specific correction does not erase or generalize away contradictions.",
+        "full_contract_review_status": "not_performed",
+        "independent_QA_status": "three_narrow_corrections_approved",
+        "supporting_metadata_snapshot": "aia-my-intake-metadata-20261027T124818Z"
+      },
+      "ID_status": "Stable source-observation ID retained for narrow metadata correction; replace row, never append."
+    }
+  ]
+}

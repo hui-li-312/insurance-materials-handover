@@ -1,0 +1,31 @@
+{
+  "origin": "https://www.aia.com.my",
+  "evidence_source_url": "https://www.aia.com.my/en/our-products.html",
+  "mapping_basis": "Full legal names of all three entities are present in the cached official footer. This establishes shared origin identity only, not product underwriting.",
+  "legal_entities": [
+    {
+      "issuer_id": "MY-own-f50efb7aa4e238d5",
+      "legal_name": "AIA Bhd.",
+      "roster_source_url": "https://www.pidm.gov.my/general/how-we-protect-you/takaful-and-insurance-benefits-protection-system",
+      "roster_scope": "PIDM mandatory insurer members under FSA/IFSA; full 48 names read; excludes offshore/reinsurance/retakaful/international takaful/financial guarantee",
+      "source_date": null,
+      "checked_at": "2026-10-27T09:43:00Z"
+    },
+    {
+      "issuer_id": "MY-own-5b0b245e5415eb4d",
+      "legal_name": "AIA General Berhad",
+      "roster_source_url": "https://www.pidm.gov.my/general/how-we-protect-you/takaful-and-insurance-benefits-protection-system",
+      "roster_scope": "PIDM mandatory insurer members under FSA/IFSA; full 48 names read; excludes offshore/reinsurance/retakaful/international takaful/financial guarantee",
+      "source_date": null,
+      "checked_at": "2026-10-27T09:43:00Z"
+    },
+    {
+      "issuer_id": "MY-own-a439a37694894d97",
+      "legal_name": "AIA PUBLIC Takaful Bhd",
+      "roster_source_url": "https://www.pidm.gov.my/general/how-we-protect-you/takaful-and-insurance-benefits-protection-system",
+      "roster_scope": "PIDM mandatory insurer members under FSA/IFSA; full 48 names read; excludes offshore/reinsurance/retakaful/international takaful/financial guarantee",
+      "source_date": null,
+      "checked_at": "2026-10-27T09:43:00Z"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "products-aia-my.jsonl": {
+    "rows": 190,
+    "scope": "99 own-page/hub/service observations plus91 parent-component associations; not190 unique products"
+  },
+  "documents-aia-my.jsonl": {
+    "rows": 59,
+    "scope": "Document references only, zero independently verified current-product/SKU/download credit"
+  },
+  "hidden-source-metadata.jsonl": {
+    "rows": 8,
+    "scope": "Separate excluded/unlisted CMS metadata; zero current-product credit"
+  },
+  "existing_freezes_modified": false,
+  "replacement_of_previous_AIA_MY_freeze": "aia-my-ready-20261027T131730Z-v2",
+  "integration_instruction": "Replace previous190 inventory/59 document/8 hidden rows, never append. v2 three waiver-ID replacements remain in v2-corrections.json; v3-corrections.json retains same three newly corrected identity IDs. Unresolved rows remain separate and not copied to issuers."
+}

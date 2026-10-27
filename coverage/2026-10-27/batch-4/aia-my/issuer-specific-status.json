@@ -1,0 +1,53 @@
+[
+  {
+    "jurisdiction": "MY",
+    "issuer_id": "MY-own-f50efb7aa4e238d5",
+    "legal_name": "AIA Bhd.",
+    "official_website": "https://www.aia.com.my",
+    "products_status": "partial",
+    "confirmed_product_local_legal_assignment_observations": 1,
+    "role_counts_of_assigned_rows": {
+      "product": 1
+    },
+    "shared_source_request_events": 147,
+    "request_count_scope": "Same shared147 request events, not147 per legal issuer.",
+    "unresolved_shared_brand_observations_not_duplicated": 174,
+    "whole_legal_issuer_product_coverage_closed": false,
+    "legal_assignment_scope": "Own-page evidence plus approved exact document-specific corrections; no shared-site inheritance."
+  },
+  {
+    "jurisdiction": "MY",
+    "issuer_id": "MY-own-5b0b245e5415eb4d",
+    "legal_name": "AIA General Berhad",
+    "official_website": "https://www.aia.com.my",
+    "products_status": "partial",
+    "confirmed_product_local_legal_assignment_observations": 3,
+    "role_counts_of_assigned_rows": {
+      "group": 2,
+      "product": 1
+    },
+    "shared_source_request_events": 147,
+    "request_count_scope": "Same shared147 request events, not147 per legal issuer.",
+    "unresolved_shared_brand_observations_not_duplicated": 174,
+    "whole_legal_issuer_product_coverage_closed": false,
+    "legal_assignment_scope": "Own-page evidence plus approved exact document-specific corrections; no shared-site inheritance."
+  },
+  {
+    "jurisdiction": "MY",
+    "issuer_id": "MY-own-a439a37694894d97",
+    "legal_name": "AIA PUBLIC Takaful Bhd",
+    "official_website": "https://www.aia.com.my",
+    "products_status": "partial",
+    "confirmed_product_local_legal_assignment_observations": 12,
+    "role_counts_of_assigned_rows": {
+      "product": 9,
+      "add_on": 2,
+      "rider": 1
+    },
+    "shared_source_request_events": 147,
+    "request_count_scope": "Same shared147 request events, not147 per legal issuer.",
+    "unresolved_shared_brand_observations_not_duplicated": 174,
+    "whole_legal_issuer_product_coverage_closed": false,
+    "legal_assignment_scope": "Own-page evidence plus approved exact document-specific corrections; no shared-site inheritance."
+  }
+]

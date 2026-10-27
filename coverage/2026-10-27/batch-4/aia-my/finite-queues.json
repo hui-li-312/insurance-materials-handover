@@ -1,0 +1,1118 @@
+{
+  "root": [
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection.html",
+      "label": "Health Protection",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/overview.html",
+      "label": "Overview",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection.html",
+      "label": "Life Protection",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection.html",
+      "label": "Medical Protection",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection.html",
+      "label": "Critical Illness Protection",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/lady-protection.html",
+      "label": "Lady Protection",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection.html",
+      "label": "Wealth Protection",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/overview.html",
+      "label": "Overview",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings.html",
+      "label": "Investment & Savings",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning.html",
+      "label": "Wealth & Legacy Planning",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/childs-savings-planning.html",
+      "label": "Child’s Savings Planning",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection.html",
+      "label": "Accident Protection",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/overview.html",
+      "label": "Overview",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident.html",
+      "label": "Comprehensive Personal Accident",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/group-personal-accident.html",
+      "label": "Group Personal Accident",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/home-protection.html",
+      "label": "Home Protection",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/motor-insurance.html",
+      "label": "Motor Insurance",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/infinite.html",
+      "label": "Infinite Series",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "failed_or_quarantined"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/employee-benefits.html",
+      "label": "Employee Benefits",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/employee-benefits/overview.html",
+      "label": "Overview",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/employee-benefits/total-corporate-solutions.html",
+      "label": "Corporate Solutions",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/employee-benefits/total-sme-solutions.html",
+      "label": "SME Solutions",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/commercial-insurance.html",
+      "label": "Commercial Insurance",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/infinite-series.html",
+      "label": "Infinite Series",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/policy-disclosure-sheet.html",
+      "label": "Product Disclosure Sheet",
+      "source_url": "https://www.aia.com.my/en/our-products.html",
+      "status": "read"
+    }
+  ],
+  "advertised_JSON": [
+    {
+      "url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "literal": "/content/my-wise/en/our-products/health-protection.model.json",
+      "source_url": "https://www.aia.com.my/en/our-products/health-protection.html",
+      "source_checked_at": "2026-10-27T11:41:53.825999+00:00",
+      "attribute": "data-search-endpoint",
+      "status": "preenumerated_public_catalog_endpoint"
+    },
+    {
+      "url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "literal": "/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_url": "https://www.aia.com.my/en/our-products/wealth-protection.html",
+      "source_checked_at": "2026-10-27T11:42:24.719426+00:00",
+      "attribute": "data-search-endpoint",
+      "status": "preenumerated_public_catalog_endpoint"
+    },
+    {
+      "url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "literal": "/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_url": "https://www.aia.com.my/en/our-products/accident-protection.html",
+      "source_checked_at": "2026-10-27T11:42:52.789976+00:00",
+      "attribute": "data-search-endpoint",
+      "status": "preenumerated_public_catalog_endpoint"
+    },
+    {
+      "url": "https://www.aia.com.my/content/my-wise/en/our-products/home-protection.model.json",
+      "literal": "/content/my-wise/en/our-products/home-protection.model.json",
+      "source_url": "https://www.aia.com.my/en/our-products/home-protection.html",
+      "source_checked_at": "2026-10-27T11:43:16.374251+00:00",
+      "attribute": "data-search-endpoint",
+      "status": "preenumerated_public_catalog_endpoint"
+    },
+    {
+      "url": "https://www.aia.com.my/content/my-wise/en/our-products/motor-insurance.model.json",
+      "literal": "/content/my-wise/en/our-products/motor-insurance.model.json",
+      "source_url": "https://www.aia.com.my/en/our-products/motor-insurance.html",
+      "source_checked_at": "2026-10-27T11:43:21.624804+00:00",
+      "attribute": "data-search-endpoint",
+      "status": "preenumerated_public_catalog_endpoint"
+    },
+    {
+      "url": "https://www.aia.com.my/content/my-wise/en/our-products/commercial-insurance.model.json",
+      "literal": "/content/my-wise/en/our-products/commercial-insurance.model.json",
+      "source_url": "https://www.aia.com.my/en/our-products/commercial-insurance.html",
+      "source_checked_at": "2026-10-27T11:43:55.141527+00:00",
+      "attribute": "data-search-endpoint",
+      "status": "preenumerated_public_catalog_endpoint"
+    },
+    {
+      "url": "https://www.aia.com.my/content/my-wise/en/our-products/infinite-series.model.json",
+      "literal": "/content/my-wise/en/our-products/infinite-series.model.json",
+      "source_url": "https://www.aia.com.my/en/our-products/infinite-series.html",
+      "source_checked_at": "2026-10-27T11:43:58.901412+00:00",
+      "attribute": "data-search-endpoint",
+      "status": "preenumerated_public_catalog_endpoint"
+    }
+  ],
+  "listed_detail": [
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-life-mediflex.html",
+      "official_name": "A-Life MediFlex",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-life-mediflex-i.html",
+      "official_name": "A-Life MediFlex-i",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-life-idaman.html",
+      "official_name": "A-Life Idaman",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-life-kritikal-protector.html",
+      "official_name": "A-Life Kritikal Protector",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-lifelink-2.html",
+      "official_name": "A-LifeLink 2",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-life-joy-xtra.html",
+      "official_name": "A-Life Joy Xtra",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-plus-parentcare-xtra-i.html",
+      "official_name": "A-Plus ParentCare Xtra-i",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-one-plan.html",
+      "official_name": "AIA i-One Plan",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-one-plan.html",
+      "official_name": "AIA One Plan",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-starter-plan.html",
+      "official_name": "AIA i-Starter Plan",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-starter-plan.html",
+      "official_name": "AIA Starter Plan",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-plus-parentcare-xtra.html",
+      "official_name": "A-Plus ParentCare Xtra",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-health-flex-i.html",
+      "official_name": "A-Plus Health Flex-i",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-med-basic.html",
+      "official_name": "AIA Med Basic",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-health-2.html",
+      "official_name": "A-Plus Health 2",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-life-cancer360-i.html",
+      "official_name": "A-Life Cancer360-i",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-life-cancer360.html",
+      "official_name": "A-Life Cancer360",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-critical-illness-cover.html",
+      "official_name": "AIA Critical Illness Cover",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-i-critical-illness-cover.html",
+      "official_name": "AIA i-Critical Illness Cover",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-beyond-critical-shield-i-and-a-plus-beyond-early-critical-shield-i.html",
+      "official_name": "A-Plus Beyond Critical Shield-i & A-Plus Beyond Early Critical Shield-i",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-life-essential-critical-care.html",
+      "official_name": "A-Life Essential Critical Care",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-i-med-basic.html",
+      "official_name": "AIA i-Med Basic",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-babycare-xtra.html",
+      "official_name": "A-Plus BabyCare Xtra",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-medcare.html",
+      "official_name": "A-Plus MedCare",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-recover-i.html",
+      "official_name": "A-Plus Recover-i",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-babycare-xtra-i.html",
+      "official_name": "A-Plus BabyCare Xtra-i",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-beyond-critical-shield-a-plus-beyond-early-critical-shield.html",
+      "official_name": "A-Plus Beyond Critical Shield & A-Plus Beyond Early Critical Shield",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-critical-shield-i.html",
+      "official_name": "A-Plus Critical Shield-i",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-life-beyond-critical-care.html",
+      "official_name": "A-Life Beyond Critical Care",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-beyond-advance-care.html",
+      "official_name": "A-Plus Beyond Advance Care",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-multi-criticalcare.html",
+      "official_name": "A-Plus Multi CriticalCare",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/lady-protection/a-life-lady.html",
+      "official_name": "A-Life Lady",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/lady-protection/a-life-lady-i.html",
+      "official_name": "A-Life Lady-i",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/ci-insure.html",
+      "official_name": "CI Insure",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/med-insure.html",
+      "official_name": "Med Insure",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-life-kritikal-flex.html",
+      "official_name": "A-Life Kritikal Flex",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-life-sejahtera.html",
+      "official_name": "A-Life Sejahtera",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-critical-early.html",
+      "official_name": "A-Plus Critical Early",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-life-cover.html",
+      "official_name": "A-Life Cover",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-critical-multi.html",
+      "official_name": "A-Plus Critical Multi",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-critical-recovery.html",
+      "official_name": "A-Plus Critical Recovery",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/a-plus-critical-assure.html",
+      "official_name": "A-Plus Critical Assure",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-health360-i.html",
+      "official_name": "A-Plus Health360-i",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/a-plus-health360.html",
+      "official_name": "A-Plus Health360",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:08.723462+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-sejuta-makna.html",
+      "official_name": "A-Life Sejuta Makna",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/childs-savings-planning/a-eduachieve-2.html",
+      "official_name": "A-EduAchieve 2",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-plus-infaq.html",
+      "official_name": "A-Plus Infaq",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-wealth-premier.html",
+      "official_name": "A-Life Wealth Premier",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-legasi-beyond.html",
+      "official_name": "A-Life Legasi Beyond",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-wealth-builder.html",
+      "official_name": "A-Life Wealth Builder",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-enrich-20.html",
+      "official_name": "A-Enrich20",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-investlink.html",
+      "official_name": "A-InvestLink",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-enrichgold.html",
+      "official_name": "A-EnrichGold",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-enrich-rezeki.html",
+      "official_name": "A-Enrich Rezeki",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-enrichgold-i.html",
+      "official_name": "A-EnrichGold-i",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-enrich-wealth.html",
+      "official_name": "A-Enrich Wealth",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-wealth-prestige.html",
+      "official_name": "A-Life Wealth Prestige",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/wealth-legacy-planning/a-life-wealth-venture.html",
+      "official_name": "A-Life Wealth Venture",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-life-promise.html",
+      "official_name": "A-Life Promise",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-life-rewards.html",
+      "official_name": "A-Life Rewards",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/a-enrich-impian.html",
+      "official_name": "A-Enrich Impian",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:25.835247+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/xtra-guard-pa.html",
+      "official_name": "Xtra Guard PA",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/easy-cover-pa.html",
+      "official_name": "Easy Cover PA",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/walletsafe.html",
+      "official_name": "WalletSafe",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/child-plus.html",
+      "official_name": "Child Plus Rider",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/group-personal-accident/aia-student-accident-shield.html",
+      "official_name": "AIA Student Accident Shield",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/group-personal-accident/group-flexible-personal-accident.html",
+      "official_name": "Group Flexible Personal Accident",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/safetrip.html",
+      "official_name": "SafeTrip",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/xtra-guard-booster.html",
+      "official_name": "Xtra Guard Booster",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/aia-travel-pa-plus.html",
+      "official_name": "AIA Travel PA Plus",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/a-life-pelindung.html",
+      "official_name": "A-Life Pelindung",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/a-plus-accident-shieldextra-i.html",
+      "official_name": "A-Plus Accident ShieldExtra-i",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/medi-plus-rider.html",
+      "official_name": "Medi Plus Rider",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/living-plus-rider.html",
+      "official_name": "Living Plus Rider",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/flex-pa-plus.html",
+      "official_name": "Flex PA Plus",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/pa-max-rider.html",
+      "official_name": "PA Max Rider",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/active-lifestyle-rider.html",
+      "official_name": "Active Lifestyle Rider",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/group-personal-accident/cahayaku.html",
+      "official_name": "CahayaKu",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/bill-protection.html",
+      "official_name": "Bill Protection",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/lifeassist-rider.html",
+      "official_name": "LifeAssist Rider",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/recoveryassist-rider.html",
+      "official_name": "RecoveryAssist Rider",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/mediassist-rider.html",
+      "official_name": "MediAssist Rider",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/juniorassist-rider.html",
+      "official_name": "JuniorAssist Rider",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/sportassist-rider.html",
+      "official_name": "SportAssist Rider",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/myessential-pa.html",
+      "official_name": "MyEssential PA",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:35.089241+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/home-protection/aia-fixed-rate-mortgage.html",
+      "official_name": "AIA Fixed Rate Mortgage",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/home-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:45.227694+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/home-protection/safehome.html",
+      "official_name": "SafeHome",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/home-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:45.227694+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/home-protection/a-essential-home.html",
+      "official_name": "A-Essential Home",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/home-protection.model.json",
+      "source_checked_at": "2026-10-27T11:49:45.227694+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/motor-insurance/family-drive.html",
+      "official_name": "Family Drive",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/motor-insurance.model.json",
+      "source_checked_at": "2026-10-27T11:49:54.365571+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/motor-insurance/comprehensive-private-car-insurance.html",
+      "official_name": "Comprehensive Private Car Insurance",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/motor-insurance.model.json",
+      "source_checked_at": "2026-10-27T11:49:54.365571+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/motor-insurance/comprehensive-commercial-vehicle-insurance.html",
+      "official_name": "Comprehensive Commercial Vehicle Insurance",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/motor-insurance.model.json",
+      "source_checked_at": "2026-10-27T11:49:54.365571+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/commercial-insurance/a-essential-business.html",
+      "official_name": "A-Essential Business",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/commercial-insurance.model.json",
+      "source_checked_at": "2026-10-27T11:50:03.839270+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/commercial-insurance/a-essential-jmb.html",
+      "official_name": "A-Essential JMB",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/commercial-insurance.model.json",
+      "source_checked_at": "2026-10-27T11:50:03.839270+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/infinite-series/legacy-planning/aia-infinite-heritage.html",
+      "official_name": "AIA Infinite Heritage",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/infinite-series.model.json",
+      "source_checked_at": "2026-10-27T11:50:14.437290+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/infinite-series/legacy-planning/aia-infinite-prosperity.html",
+      "official_name": "AIA Infinite Prosperity",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/infinite-series.model.json",
+      "source_checked_at": "2026-10-27T11:50:14.437290+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/infinite-series/legacy-planning/aia-infinite-khazanah.html",
+      "official_name": "AIA Infinite Khazanah",
+      "source_url": "https://www.aia.com.my/content/my-wise/en/our-products/infinite-series.model.json",
+      "source_checked_at": "2026-10-27T11:50:14.437290+00:00",
+      "basis": "Literal path in explicitly advertised public products array",
+      "hide_in_product_listing": false
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/employee-benefits/holistiCare-solution.html",
+      "official_name": "HolistiCare Solution",
+      "source_url": "https://www.aia.com.my/en/our-products/employee-benefits/total-corporate-solutions.html",
+      "basis": "Exact source href in cached employee benefits catalog"
+    }
+  ],
+  "context_FAQ": [
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/protect-your-loved-ones-with-aia-life-insurance-plans.html",
+      "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection.html",
+      "source_checked_at": "2026-10-27T11:42:10.166382+00:00",
+      "label": "Learn more",
+      "scope": "source_advertised_category_context",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/protect-yourself-with-aia-medical-insurance-takaful-plans.html",
+      "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection.html",
+      "source_checked_at": "2026-10-27T11:42:14.146278+00:00",
+      "label": "Learn more",
+      "scope": "source_advertised_category_context",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/support-your-long-term-financial-goals-with-our-insurance-and-takaful-plans.html",
+      "source_url": "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings.html",
+      "source_checked_at": "2026-10-27T11:42:38.136537+00:00",
+      "label": "Learn more",
+      "scope": "source_advertised_category_context",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/safeguard-yourself-from-accidents-with-our-insurance-plans.html",
+      "source_url": "https://www.aia.com.my/en/our-products/accident-protection.html",
+      "source_checked_at": "2026-10-27T11:42:52.789976+00:00",
+      "label": "Learn More",
+      "scope": "source_advertised_category_context",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/home-protection/finance-your-dream-property-and-ensure-that-your-home-is-well-protected.html",
+      "source_url": "https://www.aia.com.my/en/our-products/home-protection.html",
+      "source_checked_at": "2026-10-27T11:43:16.374251+00:00",
+      "label": "Learn More",
+      "scope": "source_advertised_category_context",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/motor-insurance/protect-your-car-with-aia-motor-insurance-plans.html",
+      "source_url": "https://www.aia.com.my/en/our-products/motor-insurance.html",
+      "source_checked_at": "2026-10-27T11:43:21.624804+00:00",
+      "label": "Learn More",
+      "scope": "source_advertised_category_context",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/infinite-series/elevate-your-legacy-for-generations-with-aia-infinite-series.html",
+      "source_url": "https://www.aia.com.my/en/our-products/infinite-series.html",
+      "source_checked_at": "2026-10-27T11:43:58.901412+00:00",
+      "label": "Learn More",
+      "scope": "source_advertised_category_context",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/infinite-series/legacy-planning.html",
+      "source_url": "https://www.aia.com.my/en/our-products/infinite-series.html",
+      "source_checked_at": "2026-10-27T11:43:58.901412+00:00",
+      "label": "Legacy Planning",
+      "scope": "source_advertised_category_context",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-one-plan/aia-i-one-plan-faq.html",
+      "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-one-plan.html",
+      "source_checked_at": "2026-10-27T11:54:29.358378+00:00",
+      "label": "Read the FAQ to learn more about AIA i-One Plan",
+      "scope": "product_specific_FAQ",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-one-plan/aia-one-plan-faq.html",
+      "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-one-plan.html",
+      "source_checked_at": "2026-10-27T11:54:34.387497+00:00",
+      "label": "Read the FAQ to learn more about AIA One Plan",
+      "scope": "product_specific_FAQ",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-starter-plan/aia-i-starter-plan-faq.html",
+      "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-starter-plan.html",
+      "source_checked_at": "2026-10-27T11:54:40.895431+00:00",
+      "label": "Read the FAQ to learn more about AIA i-Starter Plan",
+      "scope": "product_specific_FAQ",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-starter-plan/aia-starter-plan-faq.html",
+      "source_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-starter-plan.html",
+      "source_checked_at": "2026-10-27T11:54:46.049357+00:00",
+      "label": "Read the FAQ to learn more about AIA Starter Plan",
+      "scope": "product_specific_FAQ",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-med-basic/aia-med-basic-faq.html",
+      "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-med-basic.html",
+      "source_checked_at": "2026-10-27T11:55:02.827015+00:00",
+      "label": "Read the FAQ to learn more about AIA Med Basic",
+      "scope": "product_specific_FAQ",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-critical-illness-cover/aia-critical-illness-cover-faq.html",
+      "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-critical-illness-cover.html",
+      "source_checked_at": "2026-10-27T11:55:57.583570+00:00",
+      "label": "Read the FAQ to learn more about AIA Critical Illness Cover",
+      "scope": "product_specific_FAQ",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-i-critical-illness-cover/aia-i-critical-illness-cover-faq.html",
+      "source_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-i-critical-illness-cover.html",
+      "source_checked_at": "2026-10-27T11:56:03.765764+00:00",
+      "label": "Read the FAQ to learn more about AIA i-Critical Illness Cover",
+      "scope": "product_specific_FAQ",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-i-med-basic/aia-i-med-basic-faq.html",
+      "source_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-i-med-basic.html",
+      "source_checked_at": "2026-10-27T11:56:19.199418+00:00",
+      "label": "Read the FAQ to learn more about AIA i-Med Basic",
+      "scope": "product_specific_FAQ",
+      "basis": "Exact observed href in cached approved-origin page; finite reviewed HTML context, no autoexpansion"
+    }
+  ]
+}

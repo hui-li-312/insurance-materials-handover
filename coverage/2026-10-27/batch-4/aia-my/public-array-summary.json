@@ -1,0 +1,86 @@
+[
+  {
+    "endpoint_url": "https://www.aia.com.my/content/my-wise/en/our-products/health-protection.model.json",
+    "source_advertising_page": "https://www.aia.com.my/en/our-products/health-protection.html",
+    "checked_at": "2026-10-27T11:49:08.723462+00:00",
+    "array_product_entries": 46,
+    "listed_entries": 44,
+    "hidden_entries": 2,
+    "pagination_evidence": "Single products array with no additional page/cursor/next continuation field; entire response read. Category filters operate over these source arrays.",
+    "top_level_keys": [
+      "products"
+    ]
+  },
+  {
+    "endpoint_url": "https://www.aia.com.my/content/my-wise/en/our-products/wealth-protection.model.json",
+    "source_advertising_page": "https://www.aia.com.my/en/our-products/wealth-protection.html",
+    "checked_at": "2026-10-27T11:49:25.835247+00:00",
+    "array_product_entries": 18,
+    "listed_entries": 17,
+    "hidden_entries": 1,
+    "pagination_evidence": "Single products array with no additional page/cursor/next continuation field; entire response read. Category filters operate over these source arrays.",
+    "top_level_keys": [
+      "products"
+    ]
+  },
+  {
+    "endpoint_url": "https://www.aia.com.my/content/my-wise/en/our-products/accident-protection.model.json",
+    "source_advertising_page": "https://www.aia.com.my/en/our-products/accident-protection.html",
+    "checked_at": "2026-10-27T11:49:35.089241+00:00",
+    "array_product_entries": 29,
+    "listed_entries": 24,
+    "hidden_entries": 5,
+    "pagination_evidence": "Single products array with no additional page/cursor/next continuation field; entire response read. Category filters operate over these source arrays.",
+    "top_level_keys": [
+      "products"
+    ]
+  },
+  {
+    "endpoint_url": "https://www.aia.com.my/content/my-wise/en/our-products/home-protection.model.json",
+    "source_advertising_page": "https://www.aia.com.my/en/our-products/home-protection.html",
+    "checked_at": "2026-10-27T11:49:45.227694+00:00",
+    "array_product_entries": 3,
+    "listed_entries": 3,
+    "hidden_entries": 0,
+    "pagination_evidence": "Single products array with no additional page/cursor/next continuation field; entire response read. Category filters operate over these source arrays.",
+    "top_level_keys": [
+      "products"
+    ]
+  },
+  {
+    "endpoint_url": "https://www.aia.com.my/content/my-wise/en/our-products/motor-insurance.model.json",
+    "source_advertising_page": "https://www.aia.com.my/en/our-products/motor-insurance.html",
+    "checked_at": "2026-10-27T11:49:54.365571+00:00",
+    "array_product_entries": 3,
+    "listed_entries": 3,
+    "hidden_entries": 0,
+    "pagination_evidence": "Single products array with no additional page/cursor/next continuation field; entire response read. Category filters operate over these source arrays.",
+    "top_level_keys": [
+      "products"
+    ]
+  },
+  {
+    "endpoint_url": "https://www.aia.com.my/content/my-wise/en/our-products/commercial-insurance.model.json",
+    "source_advertising_page": "https://www.aia.com.my/en/our-products/commercial-insurance.html",
+    "checked_at": "2026-10-27T11:50:03.839270+00:00",
+    "array_product_entries": 2,
+    "listed_entries": 2,
+    "hidden_entries": 0,
+    "pagination_evidence": "Single products array with no additional page/cursor/next continuation field; entire response read. Category filters operate over these source arrays.",
+    "top_level_keys": [
+      "products"
+    ]
+  },
+  {
+    "endpoint_url": "https://www.aia.com.my/content/my-wise/en/our-products/infinite-series.model.json",
+    "source_advertising_page": "https://www.aia.com.my/en/our-products/infinite-series.html",
+    "checked_at": "2026-10-27T11:50:14.437290+00:00",
+    "array_product_entries": 3,
+    "listed_entries": 3,
+    "hidden_entries": 0,
+    "pagination_evidence": "Single products array with no additional page/cursor/next continuation field; entire response read. Category filters operate over these source arrays.",
+    "top_level_keys": [
+      "products"
+    ]
+  }
+]

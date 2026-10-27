@@ -1,0 +1,126 @@
+{
+  "audit_at": "2026-10-27T12:09:07.662012+00:00",
+  "scope": "All97 listed named/service detail pages, employee-benefits hubs,16 context/FAQ pages and7 public arrays; cached-only. Static hidden-node filtering, no computed CSS claim.",
+  "component_association_count": 91,
+  "FAQ_evidence": [
+    {
+      "product_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-one-plan.html",
+      "official_name": "AIA i-One Plan",
+      "faq_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-one-plan/aia-i-one-plan-faq.html",
+      "checked_at": "2026-10-27T12:03:59.435675+00:00",
+      "renewal_scope_note": "FAQ says renewal is by invitation only; not unrestricted automatic renewal or confirmed new-sale eligibility."
+    },
+    {
+      "product_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-one-plan.html",
+      "official_name": "AIA One Plan",
+      "faq_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-one-plan/aia-one-plan-faq.html",
+      "checked_at": "2026-10-27T12:04:03.410870+00:00",
+      "renewal_scope_note": "FAQ says no renewal at one-year expiry; a new purchase is required/possible for continued cover. This is not evidence of current product closure."
+    },
+    {
+      "product_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-starter-plan.html",
+      "official_name": "AIA i-Starter Plan",
+      "faq_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-starter-plan/aia-i-starter-plan-faq.html",
+      "checked_at": "2026-10-27T12:04:06.883800+00:00",
+      "renewal_scope_note": null
+    },
+    {
+      "product_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-starter-plan.html",
+      "official_name": "AIA Starter Plan",
+      "faq_url": "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-starter-plan/aia-starter-plan-faq.html",
+      "checked_at": "2026-10-27T12:04:11.001100+00:00",
+      "renewal_scope_note": "FAQ says no renewal at one-year expiry; a new purchase is required/possible for continued cover. This is not evidence of current product closure."
+    },
+    {
+      "product_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-med-basic.html",
+      "official_name": "AIA Med Basic",
+      "faq_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-med-basic/aia-med-basic-faq.html",
+      "checked_at": "2026-10-27T12:04:15.362406+00:00",
+      "renewal_scope_note": "FAQ describes annual renewal up to age70 subject to premium/contribution payment; not a new-business availability guarantee."
+    },
+    {
+      "product_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-critical-illness-cover.html",
+      "official_name": "AIA Critical Illness Cover",
+      "faq_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-critical-illness-cover/aia-critical-illness-cover-faq.html",
+      "checked_at": "2026-10-27T12:04:19.066711+00:00",
+      "renewal_scope_note": "FAQ describes annual renewal up to age70 subject to premium/contribution payment; not a new-business availability guarantee."
+    },
+    {
+      "product_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-i-critical-illness-cover.html",
+      "official_name": "AIA i-Critical Illness Cover",
+      "faq_url": "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-i-critical-illness-cover/aia-i-critical-illness-cover-faq.html",
+      "checked_at": "2026-10-27T12:04:23.091711+00:00",
+      "renewal_scope_note": "FAQ describes annual renewal up to age70 subject to premium/contribution payment; not a new-business availability guarantee."
+    },
+    {
+      "product_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-i-med-basic.html",
+      "official_name": "AIA i-Med Basic",
+      "faq_url": "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-i-med-basic/aia-i-med-basic-faq.html",
+      "checked_at": "2026-10-27T12:04:27.386983+00:00",
+      "renewal_scope_note": "FAQ describes annual renewal up to age70 subject to premium/contribution payment; not a new-business availability guarantee."
+    }
+  ],
+  "untraversed_or_excluded_links": [
+    {
+      "url": "https://www.aia.com.my/en/our-products/health-protection/know-your-budget.html",
+      "source_urls": [
+        "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-life-idaman.html",
+        "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-lifelink-2.html",
+        "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-one-plan.html",
+        "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-one-plan.html",
+        "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-i-starter-plan.html",
+        "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-starter-plan.html",
+        "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-med-basic.html",
+        "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-critical-illness-cover.html",
+        "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-i-critical-illness-cover.html",
+        "https://www.aia.com.my/en/our-products/health-protection/medical-protection/aia-i-med-basic.html",
+        "https://www.aia.com.my/en/our-products/health-protection/life-protection/a-life-cover.html",
+        "https://www.aia.com.my/en/our-products/health-protection/life-protection/protect-your-loved-ones-with-aia-life-insurance-plans.html",
+        "https://www.aia.com.my/en/our-products/wealth-protection/investment-savings/support-your-long-term-financial-goals-with-our-insurance-and-takaful-plans.html",
+        "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-one-plan/aia-one-plan-faq.html",
+        "https://www.aia.com.my/en/our-products/health-protection/life-protection/aia-starter-plan/aia-starter-plan-faq.html",
+        "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-critical-illness-cover/aia-critical-illness-cover-faq.html",
+        "https://www.aia.com.my/en/our-products/health-protection/critical-illness-protection/aia-i-critical-illness-cover/aia-i-critical-illness-cover-faq.html"
+      ],
+      "scope_reason": "Interactive budgeting tool excluded; not a named insurance product."
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/medi-plus-rider..html",
+      "source_urls": [
+        "https://www.aia.com.my/en/our-products/accident-protection/comprehensive-personal-accident/flex-pa-plus.html"
+      ],
+      "scope_reason": "Malformed additional-card URL, not requested/repaired. Independently advertised correct Medi Plus Rider URL read."
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/infinite-series/legacy-planning/protect-your-wealth-transfer-with-confidence.html",
+      "source_urls": [
+        "https://www.aia.com.my/en/our-products/infinite-series/elevate-your-legacy-for-generations-with-aia-infinite-series.html"
+      ],
+      "scope_reason": "Linked under Collaboration with Maybank Trustees Berhad privilege service; untraversed service/partner context, not a newly enumerated insurance product."
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/infinite-series/high-net-worth-event-highlight/feng-shui-talk.html",
+      "source_urls": [
+        "https://www.aia.com.my/en/our-products/infinite-series/elevate-your-legacy-for-generations-with-aia-infinite-series.html"
+      ],
+      "scope_reason": "Event/editorial page excluded; not an individual insurance product."
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/infinite-series/high-net-worth-event-highlight/modern-shariah-legacy-architecture.html",
+      "source_urls": [
+        "https://www.aia.com.my/en/our-products/infinite-series/elevate-your-legacy-for-generations-with-aia-infinite-series.html"
+      ],
+      "scope_reason": "Event/editorial page excluded; not an individual insurance product."
+    },
+    {
+      "url": "https://www.aia.com.my/en/our-products/infinite-series/high-net-worth-event-highlight/step-conference.html",
+      "source_urls": [
+        "https://www.aia.com.my/en/our-products/infinite-series/elevate-your-legacy-for-generations-with-aia-infinite-series.html"
+      ],
+      "scope_reason": "Event/editorial page excluded; not an individual insurance product."
+    }
+  ],
+  "no_PDF_downloads": true,
+  "no_automatic_unique_SKU_or_standalone_assertion": true,
+  "no_parent_material_inheritance": true
+}
