@@ -1,0 +1,1631 @@
+[
+  {
+    "url": "https://www.ia.org.hk/en/supervision/reg_insurers_lloyd/insurers_index.html",
+    "checked_at": "2026-10-27T09:40:00Z",
+    "status": "blocked",
+    "http_status": 403,
+    "decision": "origin_stopped",
+    "scope": "HK regulator census attempted first"
+  },
+  {
+    "url": "https://www.ia.org.hk/en/supervision/reg_insurers_lloyd/register_of_authorized_insurers.html",
+    "checked_at": "2026-10-27T09:40:27Z",
+    "status": "blocked",
+    "http_status": 403,
+    "decision": "origin_stopped"
+  },
+  {
+    "url": "https://eservices.mas.gov.sg/fid/institution?sector=Insurance",
+    "checked_at": "2026-10-27T09:40:00Z",
+    "status": "read",
+    "displayed_entities": 388,
+    "source_date": "2026-10-27"
+  },
+  {
+    "url": "https://eservices.mas.gov.sg/fid/institution/print?sector=Insurance",
+    "checked_at": "2026-10-27T09:41:00Z",
+    "status": "read_public_export_shell"
+  },
+  {
+    "url": "https://eservices.mas.gov.sg/fid/Scripts/table-export-handle.js",
+    "checked_at": "2026-10-27T09:41:40Z",
+    "status": "read",
+    "note": "Official export script exposes public printpartial endpoint; no access control bypass"
+  },
+  {
+    "url": "https://eservices.mas.gov.sg/fid/custom/printpartial?sector=Insurance",
+    "checked_at": "2026-10-27T09:42:00Z",
+    "status": "read_complete",
+    "rows": 434,
+    "unique_entities": 388,
+    "source_date": "2026-10-27"
+  },
+  {
+    "url": "https://www.bnm.gov.my/list-of-licensed-financial-institutions",
+    "checked_at": "2026-10-27T09:40:58Z",
+    "status": "blocked",
+    "http_status": 403,
+    "decision": "origin_stopped",
+    "previous_web_view": "Legacy navigation only; search result modern directory first 200 entries noted; not a complete census"
+  },
+  {
+    "url": "https://www.pidm.gov.my/general/how-we-protect-you/takaful-and-insurance-benefits-protection-system",
+    "checked_at": "2026-10-27T09:40:49Z",
+    "status": "web_full_member_list_read_then_direct_fetch_blocked",
+    "http_status": 403,
+    "decision": "origin_stopped",
+    "observed_names": 48,
+    "source_date": null,
+    "scope": "33 insurance companies and 15 takaful operators; excludes reinsurers/retakaful, international takaful, financial guarantee, offshore"
+  },
+  {
+    "url": "https://www.fmos.org.my/en/fmos-members/",
+    "checked_at": "2026-10-27T09:39:56Z",
+    "status": "search_result_full_categories_read",
+    "scope": "Crosscheck 14 life + 19 general + 15 takaful; not regulatory census"
+  },
+  {
+    "url": "https://www.hkfi.org.hk/member-companies",
+    "checked_at": "2026-10-27T09:41:21Z",
+    "status": "read_displayed_general_member_roster",
+    "observed_names": 78,
+    "source_date": null,
+    "scope": "Membership not licence; life filter not yet traversed"
+  },
+  {
+    "url": "https://framerusercontent.com/cms/Aev8ijsO99GXvAVlTHdJ/j38T8aeRWDi0crCgR4oq/EnrbYTqoQ-chunk-default-0.framercms",
+    "parent_url": "https://www.hkfi.org.hk/member-companies",
+    "status": "read_complete_public_member_filter_data",
+    "checked_at": "2026-10-27T09:48:35Z",
+    "observed_rows": 119,
+    "bytes_read": 94415,
+    "bytes_total": 94415,
+    "method": "Followed HTML public JS to members route JS to its published CMS chunk. No login or access restriction bypass. Fields and filters correspond to displayed company names, websites, general/life membership and is-published flag."
+  },
+  {
+    "url": "https://www.ammetlife.com/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:45:18.621982+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/",
+    "bytes": 219764,
+    "title": "The Right Insurance Plan For Your Needs | AmMetLife"
+  },
+  {
+    "url": "https://www.mcis.my/Our-Products",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:45:24.879227+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/Our-Products",
+    "bytes": 130167,
+    "title": "\n\tMCIS Life - Our Products | Buy Insurance in Malaysia | MCIS Life\n"
+  },
+  {
+    "url": "https://www.labuanfsa.gov.my/areas-of-business/financial-services/insurance",
+    "origin": "https://www.labuanfsa.gov.my",
+    "checked_at": "2026-10-27T09:45:32.485126+00:00",
+    "http_status": 200,
+    "final_url": "https://www.labuanfsa.gov.my/areas-of-business/financial-services/insurance",
+    "bytes": 136970,
+    "title": "\n\tInsurance - Financial Services | Labuan FSA\n"
+  },
+  {
+    "url": "https://framerusercontent.com/sites/fruStQdqh1k7GIOCkE6RW/script_main.CwiwNnz0.mjs",
+    "origin": "https://framerusercontent.com",
+    "checked_at": "2026-10-27T09:45:37.307158+00:00",
+    "http_status": 200,
+    "final_url": "https://framerusercontent.com/sites/fruStQdqh1k7GIOCkE6RW/script_main.CwiwNnz0.mjs",
+    "bytes": 14046,
+    "title": ""
+  },
+  {
+    "url": "https://www.aig.com.hk/personal",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:46:28.072244+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/personal",
+    "bytes": 139810,
+    "title": "Buy Insurance Online | Get a Quote Online | AIG Hong Kong"
+  },
+  {
+    "url": "https://framerusercontent.com/sites/fruStQdqh1k7GIOCkE6RW/ywFIMXffrFZxkYUM2gem5Bc7CzoGn3qPaWlQsk7mlNo.D2XGA3lb.mjs",
+    "origin": "https://framerusercontent.com",
+    "checked_at": "2026-10-27T09:46:36.263178+00:00",
+    "http_status": 200,
+    "final_url": "https://framerusercontent.com/sites/fruStQdqh1k7GIOCkE6RW/ywFIMXffrFZxkYUM2gem5Bc7CzoGn3qPaWlQsk7mlNo.D2XGA3lb.mjs",
+    "bytes": 197073,
+    "title": ""
+  },
+  {
+    "url": "https://www.aig.com.hk/business",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:46:33.460904+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/business-insurance",
+    "bytes": 65286,
+    "title": "Business - Insurance from AIG in Hong Kong"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/product-riders",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:46:51.322474+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/product-riders",
+    "bytes": 66412,
+    "title": "\n\tMCIS Life - Product Riders\n"
+  },
+  {
+    "url": "https://www.labuanfsa.gov.my/financial-institutions-directory?f=6937a2920f6995c77d871d35",
+    "origin": "https://www.labuanfsa.gov.my",
+    "checked_at": "2026-10-27T09:46:57.751321+00:00",
+    "http_status": 200,
+    "final_url": "https://www.labuanfsa.gov.my/financial-institutions-directory?f=6937a2920f6995c77d871d35",
+    "bytes": 120124,
+    "title": "\n\tFinancial Institutions Directory | Labuan FSA\n"
+  },
+  {
+    "url": "https://www.privatewealth.sunlife.com/sg/en/product-solutions/",
+    "origin": "https://www.privatewealth.sunlife.com",
+    "checked_at": "2026-10-27T09:47:17.708413+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.swisslife-global.com/global-solutions/about-us/Locations/Singapore.html",
+    "origin": "https://www.swisslife-global.com",
+    "checked_at": "2026-10-27T09:47:21.698643+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.tokiomarine.com/sg/en/life.html",
+    "origin": "https://www.tokiomarine.com",
+    "checked_at": "2026-10-27T09:47:27.583366+00:00",
+    "http_status": 200,
+    "final_url": "https://www.tokiomarine.com/sg/en/life.html",
+    "bytes": 842,
+    "title": ""
+  },
+  {
+    "url": "https://framerusercontent.com/cms/Aev8ijsO99GXvAVlTHdJ/j38T8aeRWDi0crCgR4oq/EnrbYTqoQ-chunk-default-0.framercms",
+    "origin": "https://framerusercontent.com",
+    "checked_at": "2026-10-27T09:47:40.476059+00:00",
+    "http_status": 200,
+    "final_url": "https://framerusercontent.com/cms/Aev8ijsO99GXvAVlTHdJ/j38T8aeRWDi0crCgR4oq/EnrbYTqoQ-chunk-default-0.framercms",
+    "bytes": 94415,
+    "title": ""
+  },
+  {
+    "url": "https://api-v5.xtopia.io/clients/717d5286-17f8-4620-b852-83ca4ffcc30c/public/excel/files/data",
+    "origin": "https://api-v5.xtopia.io",
+    "checked_at": "2026-10-27T09:48:13.287003+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.ammetlife.com/family/protection/protect-secure/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:49:46.331501+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/family/protection/protect-secure/",
+    "bytes": 164888,
+    "title": "Family Insurance Protection Plan | AmMetLife"
+  },
+  {
+    "url": "https://www.aig.com.hk/personal/a-plus-home-insurance",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:49:46.330241+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/personal/a-plus-home-insurance",
+    "bytes": 124028,
+    "title": "AIG Home Insurance | Comprehensive Insurance | AIG Hong Kong"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/critical-illness/ci-multi-shield",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:49:46.314912+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/critical-illness/ci-multi-shield",
+    "bytes": 70709,
+    "title": "\n\tMCIS Life - Protect Your Future with CI Multi Shield Critical Illness Coverage\n"
+  },
+  {
+    "url": "https://www.ammetlife.com/family/protection/amp-life-byond/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:49:51.257373+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/family/protection/amp-life-byond/",
+    "bytes": 164520,
+    "title": "Coverage Against Death and Total and Permanent Disability (TPD)"
+  },
+  {
+    "url": "https://www.aig.com.hk/personal/domestic-helper-insurance",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:49:53.729736+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/personal/domestic-helper-insurance",
+    "bytes": 121456,
+    "title": "Domestic Helper Insurance | Chauffeur, Maid｜AIG Hong Kong "
+  },
+  {
+    "url": "https://www.mcis.my/our-products/critical-illness/ci-waiver-plus",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:49:54.355318+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/critical-illness/ci-waiver-plus",
+    "bytes": 70685,
+    "title": "\n\tMCIS Life - Secure Your Future with CI Waiver Plus - Protect Your Well-being Today\n"
+  },
+  {
+    "url": "https://www.ammetlife.com/family/protection/protect-secure-prime/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:49:54.538812+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/family/protection/protect-secure-prime/",
+    "bytes": 179598,
+    "title": "Comprehensive Protection Plan | AmMetLife"
+  },
+  {
+    "url": "https://www.aig.com.hk/personal/greater-bay-area-personal-accident-senior-care",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:49:57.456767+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/personal/greater-bay-area-personal-accident-senior-care",
+    "bytes": 110962,
+    "title": "AIG GBA SafeGuard® Personal Accident Senior Care Plan | AIG Hong Kong"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/critical-illness/comprehensive-coverage-critical-Illness",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:49:58.674321+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/critical-illness/comprehensive-coverage-critical-Illness",
+    "bytes": 72753,
+    "title": "\n\tMCIS Life - Critical Illness Coverage by MCIS Life, Tailored Best for You​\n"
+  },
+  {
+    "url": "https://www.ammetlife.com/family/credit-related/mortgage-level-term-assurance/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:49:58.983049+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/family/credit-related/mortgage-level-term-assurance/",
+    "bytes": 164421,
+    "title": "Mortgage Level Term Assurance (MLTA) | AmMetLife"
+  },
+  {
+    "url": "https://www.aig.com.hk/personal/rental-protector",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:50:01.088042+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/personal/rental-protector",
+    "bytes": 56769,
+    "title": "Rental Protector Insurance︳AIG Insurance Hong Kong"
+  },
+  {
+    "url": "https://www.ammetlife.com/family/credit-related/ammetlife-autolife/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:50:02.511058+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/family/credit-related/ammetlife-autolife/",
+    "bytes": 175442,
+    "title": "AmMetLife AutoLife | AmMetLife"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/critical-illness/critical-illness-protect",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:50:02.453571+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/critical-illness/critical-illness-protect",
+    "bytes": 66223,
+    "title": "\n\tMCIS Life - Critical Illness Protection | Comprehensive Coverage with MCIS Life\n"
+  },
+  {
+    "url": "https://www.aig.com.hk/personal/golf-insurance",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:50:04.903328+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/personal/golf-insurance",
+    "bytes": 67750,
+    "title": "Buy Golf Insurance Online From AIG Hong Kong - Get a Quote in Minutes"
+  },
+  {
+    "url": "https://www.ammetlife.com/family/credit-related/mortgage-reducing-term-assurance/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:50:05.711280+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/family/credit-related/mortgage-reducing-term-assurance/",
+    "bytes": 166244,
+    "title": "Mortgage Reducing Term Assurance (MRTA) | AmMetLife"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/savings/edusecure",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:50:07.454925+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/savings/edusecure",
+    "bytes": 96914,
+    "title": "\n\tMCIS Life - EduSecure | Child Education Savings Insurance\n"
+  },
+  {
+    "url": "https://www.ammetlife.com/family/credit-related/reducing-term-assurance-2/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:50:09.100014+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/family/credit-related/reducing-term-assurance-2/",
+    "bytes": 164809,
+    "title": "Reducing Term Assurance | AmMetLife"
+  },
+  {
+    "url": "https://www.aig.com.hk/personal/overseas-student-insurance",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:50:09.004269+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/personal/overseas-student-insurance",
+    "bytes": 93622,
+    "title": "Overseas Student Travel Insurance | AIG Hong Kong "
+  },
+  {
+    "url": "https://www.mcis.my/our-products/life-insurance/ezyprotect",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:50:11.977077+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/life-insurance/ezyprotect",
+    "bytes": 89504,
+    "title": "\n\tMCIS Life - EzyProtect | Term Coverage Life Insurance Plan\n"
+  },
+  {
+    "url": "https://www.ammetlife.com/family/credit-related/level-term-assurance-2/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:50:15.934862+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/family/credit-related/level-term-assurance-2/",
+    "bytes": 164457,
+    "title": "Level Term Assurance 2.0 | AmMetLife"
+  },
+  {
+    "url": "https://www.aig.com.hk/personal/working-holiday-insurance",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:50:16.935793+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/personal/working-holiday-insurance",
+    "bytes": 105508,
+    "title": "Buy Working Holiday Insurance from AIG Hong Kong - Get a Quote Online"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/savings/ezysaver",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:50:17.563153+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/savings/ezysaver",
+    "bytes": 101043,
+    "title": "\n\tMCIS Life - EzySaver | Life Insurance with Endowment Savings\n"
+  },
+  {
+    "url": "https://www.ammetlife.com/health/hospitalisation/amp-med-xpnse/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:50:21.083685+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/health/hospitalisation/amp-med-xpnse/",
+    "bytes": 178027,
+    "title": "AMP MED XPNSE  | AmMetLife"
+  },
+  {
+    "url": "https://www.aig.com.hk/personal/guard-insurance",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:50:22.228151+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/personal/guard-insurance",
+    "bytes": 76529,
+    "title": "AIG Guard Insurance | Cyber Protection | AIG Hong Kong"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/life-insurance/golden-senior-care",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:50:22.338918+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/life-insurance/golden-senior-care",
+    "bytes": 92555,
+    "title": "\n\tMCIS Life - Golden SeniorCare | Life Protection\n"
+  },
+  {
+    "url": "https://www.ammetlife.com/health/critical-illness/amp-health-cvr/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:50:24.732411+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/health/critical-illness/amp-health-cvr/",
+    "bytes": 163430,
+    "title": "Affordable Critical Illness Insurance Plan | AmMetLife"
+  },
+  {
+    "url": "https://www.aig.com.hk/business/products/financial",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:50:26.680233+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/business/products/financial",
+    "bytes": 56304,
+    "title": "Financial Lines - Insurance from AIG in HongKong"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/group-insurance/group-term-life-gtl",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:50:26.999903+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/group-insurance/group-term-life-gtl",
+    "bytes": 76123,
+    "title": "\n\tMCIS Life - Group Term Life (GTL) | Employee Insurance\n"
+  },
+  {
+    "url": "https://www.ammetlife.com/future/wealth/wealthsecure-smart/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:50:28.897561+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/future/wealth/wealthsecure-smart/",
+    "bytes": 178586,
+    "title": "Endowment Insurance Plan | AmMetLife"
+  },
+  {
+    "url": "https://www.aig.com.hk/business/products/casualty",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:50:30.078318+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/business/products/casualty",
+    "bytes": 47493,
+    "title": "Casualty - Insurance from AIG in HongKong"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/health-and-medical-protection/ladycare",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:50:31.900638+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/health-and-medical-protection/ladycare",
+    "bytes": 99021,
+    "title": "\n\tMCIS Life - LadyCare | Women's Health Critical Illness Plan\n"
+  },
+  {
+    "url": "https://www.tokiomarine.com/sg/en/life.html",
+    "origin": "https://www.tokiomarine.com",
+    "checked_at": "2026-10-27T09:48:14Z",
+    "http_status": 200,
+    "access_status": "blocked_incapsula_unsuccessful_page",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.ammetlife.com/future/wealth/wealthsecure-max/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:50:32.591162+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/future/wealth/wealthsecure-max/",
+    "bytes": 164951,
+    "title": "Invest in an Affordable Endowment Insurance Plan | AmMetLife"
+  },
+  {
+    "url": "https://www.aig.com.hk/business/products/property",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:50:35.260564+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/business/products/property",
+    "bytes": 38031,
+    "title": "Property - Insurance from AIG in HongKong"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/savings/maxsaver",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:50:35.598178+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/savings/maxsaver",
+    "bytes": 89574,
+    "title": "\n\tMCIS Life - MaxSaver | Insurance Savings Plan Malaysia\n"
+  },
+  {
+    "url": "https://www.labuanfsa.gov.my/clients/asset_717D5286-17F8-4620-B852-83CA4FFCC30C/contentms/img/documents/aob/insurance/2026/PUB119_2026_List-Of-Insurance-Licensees_18042026.pdf",
+    "origin": "https://www.labuanfsa.gov.my",
+    "checked_at": "2026-10-27T09:50:36.898838+00:00",
+    "http_status": 200,
+    "bytes": 252058
+  },
+  {
+    "url": "https://www.aig.com.hk/business/directorsandofficersinsurance",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:50:39.799572+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/business/directorsandofficersinsurance",
+    "bytes": 122170,
+    "title": "Directors & Officers Insurance"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/life-insurance/M-CoreProtect",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:50:41.599182+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/life-insurance/M-CoreProtect",
+    "bytes": 72879,
+    "title": "\n\tMCIS Life - Life Insurance with TPD, ILP & Savings Benefits\n"
+  },
+  {
+    "url": "https://www.labuanfsa.gov.my/clients/asset_717D5286-17F8-4620-B852-83CA4FFCC30C/contentms/img/documents/aob/insurance/2026/List-of-Surrendered-and-Revoked-Insurance-Entities_as-at-16-April-2026_25052026.pdf",
+    "origin": "https://www.labuanfsa.gov.my",
+    "checked_at": "2026-10-27T09:50:42.076757+00:00",
+    "http_status": 200,
+    "bytes": 121666
+  },
+  {
+    "url": "https://www.ammetlife.com/future/wealth/wealthenrich/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:50:36.123269+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/future/wealth/wealthenrich/",
+    "bytes": 164872,
+    "title": "WealthEnrich | AmMetLife"
+  },
+  {
+    "url": "https://www.aig.com.hk/business/products/marine",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:50:44.083329+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/business/products/marine",
+    "bytes": 42640,
+    "title": "Marine - Insurance from AIG in HongKong"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/investment-linked-insurance/m-fortune-link",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:50:45.468090+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/investment-linked-insurance/m-fortune-link",
+    "bytes": 106120,
+    "title": "\n\tMCIS Life - M-Fortune Link | Investment-Linked Insurance \n"
+  },
+  {
+    "url": "https://www.ammetlife.com/future/wealth/wealthinspire/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:50:47.394846+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/future/wealth/wealthinspire/",
+    "bytes": 166437,
+    "title": "WealthInspire | AmMetLife"
+  },
+  {
+    "url": "https://www.aig.com.hk/business/products/energy",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:50:48.223492+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/business/products/energy",
+    "bytes": 41140,
+    "title": "Energy - Insurance from AIG in HongKong"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/critical-illness/m-lifecare",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:50:49.627878+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/critical-illness/m-lifecare",
+    "bytes": 70473,
+    "title": "\n\tMCIS Life - M-LifeCare: Keep Your Coverage Going with Waived Premiums\n"
+  },
+  {
+    "url": "https://www.aig.com.hk/business/products/trade-credit-insurance",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:50:51.633998+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/business/products/trade-credit-insurance",
+    "bytes": 44088,
+    "title": "Trade Credit - Insurance from AIG in HongKong"
+  },
+  {
+    "url": "https://www.ammetlife.com/future/wealth/iam-wealth-achiever/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:50:51.119784+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/future/wealth/iam-wealth-achiever/",
+    "bytes": 182272,
+    "title": "i.Am Wealth Achiever | AmMetLife"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/savings/mymakmur",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:50:53.119326+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/savings/mymakmur",
+    "bytes": 80644,
+    "title": "\n\tMCIS Life - MyMakmur - Non-Participating Endowment Plan | Guaranteed Protection\n"
+  },
+  {
+    "url": "https://www.aig.com.hk/business/products/sme-business-package",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:50:55.034934+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/business/products/sme-business-package",
+    "bytes": 37302,
+    "title": "SME Business Package - Insurance from AIG in HongKong"
+  },
+  {
+    "url": "https://www.ammetlife.com/future/wealth/iam-wealth-creator/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:50:55.566487+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/future/wealth/iam-wealth-creator/",
+    "bytes": 186212,
+    "title": "i.Am Wealth Creator | AmMetLife"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/savings/mymakmurplus",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:50:56.945031+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/savings/mymakmurplus",
+    "bytes": 79627,
+    "title": "\n\tMCIS Life - MyMakmur+ - Non-Participating Endowment Plan | Protection & Savings\n"
+  },
+  {
+    "url": "https://www.ammetlife.com/future/wealth/iam-wealth-supreme/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:50:59.003561+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/future/wealth/iam-wealth-supreme/",
+    "bytes": 164742,
+    "title": "i.Am Wealth Supreme | AmMetLife"
+  },
+  {
+    "url": "https://www.aig.com.hk/business/products/corporate-employee-benefit-solutions",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:50:58.847806+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/business/products/corporate-employee-benefit-solutions",
+    "bytes": 42025,
+    "title": "Corporate Employee Benefit Solutions - Insurance from AIG in HongKong"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/life-insurance/M-SeniorPrime",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:51:01.688656+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/life-insurance/M-SeniorPrime",
+    "bytes": 89089,
+    "title": "\n\tMCIS Life - Life Insurance with TPD, ILP & Savings Benefits\n"
+  },
+  {
+    "url": "https://www.ammetlife.com/family/protection/protectease/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:51:02.408047+00:00",
+    "http_status": 404,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.aig.com.hk/business/products/fronting-captive-services",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:51:02.677947+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/business/products/fronting-captive-services",
+    "bytes": 50718,
+    "title": "Fronting and Captive Services - Insurance from AIG in HongKong"
+  },
+  {
+    "url": "https://www.ammetlife.com/family/protection/protect-link/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:51:05.464366+00:00",
+    "http_status": 404,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/savings/M-SureWealth",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:51:05.241947+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/savings/M-SureWealth",
+    "bytes": 76287,
+    "title": "\n\tMCIS Life - Savings Insurance in Malaysia | MCIS Life\n"
+  },
+  {
+    "url": "https://www.aig.com.hk/business/products/alternative-risk-solutions",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:51:06.143905+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/business/products/alternative-risk-solutions",
+    "bytes": 47281,
+    "title": "Alternative Risk Solutions - Insurance from AIG in HongKong"
+  },
+  {
+    "url": "https://www.ammetlife.com/health/critical-illness/healthcare-secure/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:51:08.582063+00:00",
+    "http_status": 404,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.aig.com.hk/business/products/multinational-solutions",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:51:09.665283+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/business/products/multinational-solutions",
+    "bytes": 49600,
+    "title": "Multinational Solutions - Insurance from AIG in HongKong"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/critical-illness/mycritical-cover",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:51:08.825579+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/critical-illness/mycritical-cover",
+    "bytes": 83561,
+    "title": "\n\tMCIS Life - Affordable Critical Illness Protection | MyCritical Cover by MCIS Life\n"
+  },
+  {
+    "url": "https://www.fmos.org.my/en/fmos-members/",
+    "origin": "https://www.fmos.org.my",
+    "checked_at": "2026-10-27T09:51:07.712408+00:00",
+    "http_status": 200,
+    "final_url": "https://www.fmos.org.my/en/fmos-members/",
+    "bytes": 165528,
+    "title": "FMOS Members – Supporting Financial Justice in Malaysia | FMOS Bank Search"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/health-and-medical-protection/myhospital-benefit",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:51:14.105823+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/health-and-medical-protection/myhospital-benefit",
+    "bytes": 74515,
+    "title": "\n\tMCIS Life - MyHospital Benefit - Affordable Hospitalisation Coverage\n"
+  },
+  {
+    "url": "https://www.ammetlife.com/family/credit-related/reducing-term-assurance/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:51:13.590302+00:00",
+    "http_status": 404,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/life-insurance/mylifeprotect",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:51:17.426025+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/life-insurance/mylifeprotect",
+    "bytes": 77001,
+    "title": "\n\tMCIS Life - MyLife Protect - Comprehensive Life Insurance\n"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/investment-linked-insurance/peoplelink",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:51:21.572962+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/investment-linked-insurance/peoplelink",
+    "bytes": 94649,
+    "title": "\n\tMCIS Life - PeopleLink\n"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/investment-linked-insurance/primelink",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:51:26.502482+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/investment-linked-insurance/primelink",
+    "bytes": 96505,
+    "title": "\n\tMCIS Life - PrimeLink | Life Insurance for Accident & Death \n"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/investment-linked-insurance/secureinvest",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:51:33.009403+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/investment-linked-insurance/secureinvest",
+    "bytes": 96900,
+    "title": "\n\tMCIS Life - SecureInvest | Investment-Linked Insurance\n"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/group-insurance/sme-care-plus-group-insurance-plan",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:51:36.569834+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/group-insurance/sme-care-plus-group-insurance-plan",
+    "bytes": 98053,
+    "title": "\n\tMCIS Life - SME Care+ | Group Life & Health Insurance Plan \n"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/life-insurance/superseries",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:51:40.345623+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/our-products/life-insurance/superseries",
+    "bytes": 97578,
+    "title": "\n\tMCIS Life - SuperSeries | Life Protection\n"
+  },
+  {
+    "url": "https://www.aig.com.hk/personal/auto",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:53:15.048173+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/personal/auto",
+    "bytes": 121616,
+    "title": "Comprehensive Auto Insurance | Get a Quote Online | AIG Hong Kong"
+  },
+  {
+    "url": "https://www.aig.com.hk/personal/travel-insurance",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:53:21.831792+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/personal/travel-insurance",
+    "bytes": 85384,
+    "title": "TravelGuard Travelwise Insurance | Quote Online Now"
+  },
+  {
+    "url": "https://www.aig.com.hk/personal/critical-illness-insurance",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:53:25.431342+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/personal/critical-illness-insurance",
+    "bytes": 111483,
+    "title": "Critical Illness Insurance Plan | AIG Hong Kong"
+  },
+  {
+    "url": "https://www.licsingapore.com/faq.php",
+    "origin": "https://www.licsingapore.com",
+    "checked_at": "2026-10-27T09:53:46.027997+00:00",
+    "http_status": 200,
+    "final_url": "https://www.licsingapore.com/faq.php",
+    "bytes": 47878,
+    "title": "Life Insurance Corporation (Singapore) Pte Ltd | FAQs"
+  },
+  {
+    "url": "https://www.licsingapore.com/product.php",
+    "origin": "https://www.licsingapore.com",
+    "checked_at": "2026-10-27T09:53:53.980118+00:00",
+    "http_status": 200,
+    "final_url": "https://www.licsingapore.com/product.php",
+    "bytes": 19498,
+    "title": "Life Insurance Corporation (Singapore) Pte Ltd | Products"
+  },
+  {
+    "url": "https://www.lonpac.com.sg/personal-insurance",
+    "origin": "https://www.lonpac.com.sg",
+    "checked_at": "2026-10-27T09:53:59.161124+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.allianz.com.sg",
+    "origin": "https://www.allianz.com.sg",
+    "checked_at": "2026-10-27T09:54:50.115416+00:00",
+    "http_status": 503,
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "url": "https://www.monument.im/",
+    "origin": "https://www.monument.im",
+    "checked_at": "2026-10-27T09:54:50.117718+00:00",
+    "http_status": 200,
+    "final_url": "https://www.monument.im/",
+    "bytes": 52630,
+    "title": "Monument International - Monument International"
+  },
+  {
+    "url": "https://www.iii.com.sg",
+    "origin": "https://www.iii.com.sg",
+    "checked_at": "2026-10-27T09:54:50.117022+00:00",
+    "http_status": 406,
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "url": "https://www.axiscapital.com",
+    "origin": "https://www.axiscapital.com",
+    "checked_at": "2026-10-27T09:54:50.116175+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.msfirstcapital.com.sg/",
+    "origin": "https://www.msfirstcapital.com.sg",
+    "checked_at": "2026-10-27T09:54:50.118430+00:00",
+    "http_status": 200,
+    "final_url": "https://www.msfirstcapital.com.sg/",
+    "bytes": 71647,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass",
+    "title": "Home - MSFC"
+  },
+  {
+    "url": "https://north-standard.com/",
+    "origin": "https://north-standard.com",
+    "checked_at": "2026-10-27T09:54:55.707485+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.singre.com.sg",
+    "origin": "https://www.singre.com.sg",
+    "checked_at": "2026-10-27T09:54:57.498279+00:00",
+    "http_status": 200,
+    "final_url": "https://www.singre.com.sg",
+    "bytes": 18797,
+    "title": "Singapore Re Corporation"
+  },
+  {
+    "url": "https://www.shipownersclub.com",
+    "origin": "https://www.shipownersclub.com",
+    "checked_at": "2026-10-27T09:54:57.835100+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.tokiomarine.com.sg",
+    "origin": "https://www.tokiomarine.com.sg",
+    "checked_at": "2026-10-27T09:54:59.445258+00:00",
+    "http_status": 200,
+    "final_url": "https://www.tokiomarine.com.sg",
+    "bytes": 212,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass",
+    "title": ""
+  },
+  {
+    "url": "https://www.tokiomarine-life.sg",
+    "origin": "https://www.tokiomarine-life.sg",
+    "checked_at": "2026-10-27T09:55:00.667795+00:00",
+    "http_status": 200,
+    "final_url": "https://www.tokiomarine-life.sg",
+    "bytes": 212,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass",
+    "title": ""
+  },
+  {
+    "url": "https://www.qbe.com.sg",
+    "origin": "https://www.qbe.com.sg",
+    "checked_at": "2026-10-27T09:54:57.253854+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.ttclub.com",
+    "origin": "https://www.ttclub.com",
+    "checked_at": "2026-10-27T09:55:02.988397+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ttclub.com",
+    "bytes": 60638,
+    "title": "International Transport and Logistics Insurance - TT Club"
+  },
+  {
+    "url": "https://insu.abci.net.cn",
+    "origin": "https://insu.abci.net.cn",
+    "checked_at": "2026-10-27T09:55:05.533049+00:00",
+    "http_status": 200,
+    "final_url": "https://insu.abci.net.cn",
+    "bytes": 4445,
+    "title": ""
+  },
+  {
+    "url": "https://www.aia.com.hk/",
+    "origin": "https://www.aia.com.hk",
+    "checked_at": "2026-10-27T09:55:06.438830+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aia.com.hk/",
+    "bytes": 793946,
+    "title": "\n  友邦保險    | 友邦保險\n  香港 \n"
+  },
+  {
+    "url": "https://axaxl.com/insurance/global/asia-pacific/singapore",
+    "origin": "https://axaxl.com",
+    "checked_at": "2026-10-27T09:55:03.835411+00:00",
+    "http_status": 200,
+    "final_url": "https://axaxl.com/insurance",
+    "bytes": 106870,
+    "title": "Insurance | AXA XL"
+  },
+  {
+    "url": "https://www.apiins.com.hk",
+    "origin": "https://www.apiins.com.hk",
+    "checked_at": "2026-10-27T09:55:11.451079+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.generali.com.hk",
+    "origin": "https://www.generali.com.hk",
+    "checked_at": "2026-10-27T09:55:12.462594+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.awac.com",
+    "origin": "https://www.awac.com",
+    "checked_at": "2026-10-27T09:55:09.112246+00:00",
+    "http_status": 200,
+    "final_url": "https://awac.com/",
+    "bytes": 33071,
+    "title": "Allied World – A FairFax Company"
+  },
+  {
+    "url": "https://www.aig.com.hk",
+    "origin": "https://www.aig.com.hk",
+    "checked_at": "2026-10-27T09:55:07.533681+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aig.com.hk/personal",
+    "bytes": 139810,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass",
+    "title": "Buy Insurance Online | Get a Quote Online | AIG Hong Kong"
+  },
+  {
+    "url": "https:// www.cbic.hk",
+    "origin": "https:// www.cbic.hk",
+    "checked_at": "2026-10-27T09:55:17.368571+00:00",
+    "error": "Tunnel host can't contain control characters ' www.cbic.hk'"
+  },
+  {
+    "url": "https://www.berkleyasia.com",
+    "origin": "https://www.berkleyasia.com",
+    "checked_at": "2026-10-27T09:55:15.319259+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://atradius.com.hk",
+    "origin": "https://atradius.com.hk",
+    "checked_at": "2026-10-27T09:55:14.675804+00:00",
+    "http_status": 200,
+    "final_url": "https://atradius.com.hk",
+    "bytes": 97445,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass",
+    "title": "Atradius香港：貿易信用保險和信用風險管理方案專家"
+  },
+  {
+    "url": "https://www.bhspecialty.com",
+    "origin": "https://www.bhspecialty.com",
+    "checked_at": "2026-10-27T09:55:15.982584+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.cohl.com",
+    "origin": "https://www.cohl.com",
+    "checked_at": "2026-10-27T09:55:17.369483+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.chevalier.com",
+    "origin": "https://www.chevalier.com",
+    "checked_at": "2026-10-27T09:55:17.228699+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chevalier.com",
+    "bytes": 440,
+    "title": ""
+  },
+  {
+    "url": "https://www.cmbwinglunginsurance.com",
+    "origin": "https://www.cmbwinglunginsurance.com",
+    "checked_at": "2026-10-27T09:55:22.381885+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.pingan.com.hk",
+    "origin": "https://www.pingan.com.hk",
+    "checked_at": "2026-10-27T09:55:20.906831+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.coface.com.hk",
+    "origin": "https://www.coface.com.hk",
+    "checked_at": "2026-10-27T09:55:23.567530+00:00",
+    "http_status": 200,
+    "final_url": "https://www.coface.com.hk",
+    "bytes": 395438,
+    "title": "Coface Hong Kong, a leader in trade credit insurance | Coface"
+  },
+  {
+    "url": "https://www.allianz-trade.com/",
+    "origin": "https://www.allianz-trade.com",
+    "checked_at": "2026-10-27T09:55:27.173782+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.chubb.com/hk",
+    "origin": "https://www.chubb.com",
+    "checked_at": "2026-10-27T09:55:21.626626+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chubb.com/hk-zh/",
+    "bytes": 263564,
+    "title": "人壽保險、個人及商業保險 – 安達保險香港"
+  },
+  {
+    "url": "https://hklife.cpic.com.cn",
+    "origin": "https://hklife.cpic.com.cn",
+    "checked_at": "2026-10-27T09:55:20.317618+00:00",
+    "http_status": 200,
+    "final_url": "https://hklife.cpiccdn.com/update.html?redirecturl=http://hklife.cpic.com.cn/",
+    "bytes": 68222,
+    "title": "太保寿险香港"
+  },
+  {
+    "url": "https://www.concordinsurance.com.hk",
+    "origin": "https://www.concordinsurance.com.hk",
+    "checked_at": "2026-10-27T09:55:26.848875+00:00",
+    "http_status": 200,
+    "final_url": "https://www.concordinsurance.com.hk",
+    "bytes": 1502,
+    "title": "Concord Insurance"
+  },
+  {
+    "url": "https://www.falconinsurance.com.hk",
+    "origin": "https://www.falconinsurance.com.hk",
+    "checked_at": "2026-10-27T09:55:31.266044+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.fm.com/",
+    "origin": "https://www.fm.com",
+    "checked_at": "2026-10-27T09:55:30.707086+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.fwd.com.hk",
+    "origin": "https://www.fwd.com.hk",
+    "checked_at": "2026-10-27T09:55:32.882154+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.fubonlife.com.hk",
+    "origin": "https://www.fubonlife.com.hk",
+    "checked_at": "2026-10-27T09:55:32.296062+00:00",
+    "http_status": 200,
+    "final_url": "https://www.fubonlife.com.hk",
+    "bytes": 545,
+    "title": "Fubon Life HK"
+  },
+  {
+    "url": "https://www.hkmc.com.hk",
+    "origin": "https://www.hkmc.com.hk",
+    "checked_at": "2026-10-27T09:55:37.711078+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.hdi.global/de/en",
+    "origin": "https://www.hdi.global",
+    "checked_at": "2026-10-27T09:55:35.801477+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.desjardinslifeinsurance.com",
+    "origin": "https://www.desjardinslifeinsurance.com",
+    "checked_at": "2026-10-27T09:55:26.943582+00:00",
+    "http_status": 200,
+    "final_url": "https://www.desjardins.com/en/insurance/dav-pathway.html",
+    "bytes": 22910,
+    "title": "What Would You Like to Do Today? - Desjardins"
+  },
+  {
+    "url": "https://www.hl-insurance.com",
+    "origin": "https://www.hl-insurance.com",
+    "checked_at": "2026-10-27T09:55:42.981663+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.mxic.com.hk",
+    "origin": "https://www.mxic.com.hk",
+    "checked_at": "2026-10-27T09:55:43.923981+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.qbe.com/hk",
+    "origin": "https://www.qbe.com",
+    "checked_at": "2026-10-27T09:55:48.365410+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.hengansl.com.hk",
+    "origin": "https://www.hengansl.com.hk",
+    "checked_at": "2026-10-27T09:55:36.673041+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hengansl.com.hk/en",
+    "bytes": 334112,
+    "title": "Heng An Standard Life (Asia) | Investment-linked assurance | Asset Management | Protection Plan | Hong Kong"
+  },
+  {
+    "url": "https://www.hannover-re.com",
+    "origin": "https://www.hannover-re.com",
+    "checked_at": "2026-10-27T09:55:35.383745+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hannover-re.com/en/",
+    "bytes": 1321893,
+    "title": "One of the World's Leading Reinsurers - Hannover Re"
+  },
+  {
+    "url": "https://www.rl360.com",
+    "origin": "https://www.rl360.com",
+    "checked_at": "2026-10-27T09:55:51.386255+00:00",
+    "http_status": 200,
+    "final_url": "https://www.rl360.com",
+    "bytes": 33808,
+    "title": "International Life Assurance Company | RL360"
+  },
+  {
+    "url": "https://www.sompo.com.hk",
+    "origin": "https://www.sompo.com.hk",
+    "checked_at": "2026-10-27T09:55:53.302572+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.pioneer.com.ph",
+    "origin": "https://www.pioneer.com.ph",
+    "checked_at": "2026-10-27T09:55:47.137854+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.sjp.asia",
+    "origin": "https://www.sjp.asia",
+    "checked_at": "2026-10-27T09:55:53.346543+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.starr.com",
+    "origin": "https://www.starr.com",
+    "checked_at": "2026-10-27T09:55:55.188941+00:00",
+    "http_status": 200,
+    "final_url": "https://www.starr.com",
+    "bytes": 64047,
+    "title": "Starr"
+  },
+  {
+    "url": "https://www.insurance.asiapacific.hsbc.com",
+    "origin": "https://www.insurance.asiapacific.hsbc.com",
+    "checked_at": "2026-10-27T09:55:43.615637+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hsbc.com.hk/",
+    "bytes": 243588,
+    "title": "HSBC Hong Kong - Accounts, Insurance, Credit Cards, Loans"
+  },
+  {
+    "url": "https://www.swissre.com",
+    "origin": "https://www.swissre.com",
+    "checked_at": "2026-10-27T09:55:57.285214+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.shkpi.com.hk",
+    "origin": "https://www.shkpi.com.hk",
+    "checked_at": "2026-10-27T09:55:56.477186+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://corporatesolutions.swissre.com",
+    "origin": "https://corporatesolutions.swissre.com",
+    "checked_at": "2026-10-27T09:55:57.656923+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.ukpandi.com",
+    "origin": "https://www.ukpandi.com",
+    "checked_at": "2026-10-27T09:56:02.280896+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ukpandi.com",
+    "bytes": 67282,
+    "title": "Ship Owners' Liability Insurance & Risk Management - UK P&I"
+  },
+  {
+    "url": "https://www.picchk.com",
+    "origin": "https://www.picchk.com",
+    "checked_at": "2026-10-27T09:56:01.388052+00:00",
+    "http_status": 200,
+    "final_url": "https://www.picchk.com",
+    "bytes": 57412,
+    "title": "中国人民保险（香港）有限公司"
+  },
+  {
+    "url": "https://www.pacificinsurance.com.hk",
+    "origin": "https://www.pacificinsurance.com.hk",
+    "checked_at": "2026-10-27T09:55:59.920148+00:00",
+    "http_status": 200,
+    "final_url": "https://www.pacificinsurance.com.hk",
+    "bytes": 725550,
+    "title": "太平洋保險｜Pacific Insurance"
+  },
+  {
+    "url": "https://www.tahoelife.com.hk",
+    "origin": "https://www.tahoelife.com.hk",
+    "checked_at": "2026-10-27T09:55:59.268189+00:00",
+    "http_status": 200,
+    "final_url": "https://www.tahoelife.com.hk/tl/tc",
+    "bytes": 103599,
+    "title": "泰禾人壽保險有限公司｜儲蓄保障｜危疾保障｜醫療保障｜ 人壽保障"
+  },
+  {
+    "url": "https://ub-insurance.hk",
+    "origin": "https://ub-insurance.hk",
+    "checked_at": "2026-10-27T09:56:11.734199+00:00",
+    "http_status": 503,
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "url": "https://www.pacificlife.com.hk",
+    "origin": "https://www.pacificlife.com.hk",
+    "checked_at": "2026-10-27T09:56:00.949964+00:00",
+    "http_status": 200,
+    "final_url": "https://www.pacificlife.com.hk/en/",
+    "bytes": 32641,
+    "title": "The Pacific Life Assurance Co., Ltd."
+  },
+  {
+    "url": "https://www.transamericalifebermuda.com",
+    "origin": "https://www.transamericalifebermuda.com",
+    "checked_at": "2026-10-27T09:56:07.674615+00:00",
+    "http_status": 200,
+    "final_url": "https://www.transamericalifebermuda.com/en",
+    "bytes": 77429,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass",
+    "title": "Welcome | Transamerica Life Bermuda"
+  },
+  {
+    "url": "https://www.tgi.com.hk",
+    "origin": "https://www.tgi.com.hk",
+    "checked_at": "2026-10-27T09:56:10.907062+00:00",
+    "http_status": 200,
+    "final_url": "https://www.tgi.com.hk",
+    "bytes": 1097848,
+    "title": "三聯保險｜車保邊間好?最具經驗和信譽的香港汽車保險公司"
+  },
+  {
+    "url": "https://www.utmostgroup.com",
+    "origin": "https://www.utmostgroup.com",
+    "checked_at": "2026-10-27T09:56:14.876596+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.allianz.com.my/",
+    "origin": "https://www.allianz.com.my",
+    "checked_at": "2026-10-27T09:56:16.319545+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.zurichinternational.com",
+    "origin": "https://www.zurichinternational.com",
+    "checked_at": "2026-10-27T09:56:15.943872+00:00",
+    "http_status": 200,
+    "final_url": "https://www.zurichinternational.com",
+    "bytes": 77162,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass",
+    "title": "Zurich International"
+  },
+  {
+    "url": "https://www.ammetlife.com/",
+    "origin": "https://www.ammetlife.com",
+    "checked_at": "2026-10-27T09:56:18.259024+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlife.com/",
+    "bytes": 219764,
+    "title": "The Right Insurance Plan For Your Needs | AmMetLife"
+  },
+  {
+    "url": "https://www.chubb.com/my-en/",
+    "origin": "https://www.chubb.com",
+    "checked_at": "2026-10-27T09:56:19.606667+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chubb.com/my-en/",
+    "bytes": 191271,
+    "title": "Homepage"
+  },
+  {
+    "url": "https://www.axaxl.com",
+    "origin": "https://www.axaxl.com",
+    "checked_at": "2026-10-27T09:56:15.518012+00:00",
+    "http_status": 200,
+    "final_url": "https://axaxl.com/",
+    "bytes": 109110,
+    "title": "Global Commercial Insurance and Reinsurance | AXA XL"
+  },
+  {
+    "url": "https://www.fwd.com.my/",
+    "origin": "https://www.fwd.com.my",
+    "checked_at": "2026-10-27T09:56:19.917463+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.lonpac.com/",
+    "origin": "https://www.lonpac.com",
+    "checked_at": "2026-10-27T09:56:22.543444+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.pacific-orient.com/",
+    "origin": "https://www.pacific-orient.com",
+    "checked_at": "2026-10-27T09:56:23.051158+00:00",
+    "http_status": 200,
+    "final_url": "https://www.pacific-orient.com/",
+    "bytes": 71003,
+    "title": "Home | Pacific Orient"
+  },
+  {
+    "url": "https://www.greateasterngeneral.com/my/en.html",
+    "origin": "https://www.greateasterngeneral.com",
+    "checked_at": "2026-10-27T09:56:22.215991+00:00",
+    "http_status": 404,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.rhbgroup.com/insurance/index.html",
+    "origin": "https://www.rhbgroup.com",
+    "checked_at": "2026-10-27T09:56:28.769351+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.prudential.com.my/en/",
+    "origin": "https://www.prudential.com.my",
+    "checked_at": "2026-10-27T09:56:25.854003+00:00",
+    "http_status": 200,
+    "final_url": "https://www.prudential.com.my/en/",
+    "bytes": 450684,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass",
+    "title": "Prudential Malaysia: Life, Health & Investment-Linked Insurance"
+  },
+  {
+    "url": "https://www.pacificinsurance.com.my/",
+    "origin": "https://www.pacificinsurance.com.my",
+    "checked_at": "2026-10-27T09:56:30.398660+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.tokiomarine.com.hk",
+    "origin": "https://www.tokiomarine.com.hk",
+    "checked_at": "2026-10-27T09:56:06.157591+00:00",
+    "error": "The read operation timed out"
+  },
+  {
+    "url": "https://www.aia.com.my/en/our-products.html",
+    "origin": "https://www.aia.com.my",
+    "checked_at": "2026-10-27T09:56:32.553327+00:00",
+    "http_status": 200,
+    "final_url": "https://www.aia.com.my/en/our-products.html",
+    "bytes": 299615,
+    "title": "\n  Discover My Needs\n  \n  \n    | Our Products \n  \n"
+  },
+  {
+    "url": "https://www.tuneprotect.com/",
+    "origin": "https://www.tuneprotect.com",
+    "checked_at": "2026-10-27T09:56:31.867875+00:00",
+    "http_status": 200,
+    "final_url": "https://www.tuneprotect.com/",
+    "bytes": 203404,
+    "access_status": "blocked_challenge_or_request_unsuccessful",
+    "decision": "stop_matching_origin_no_retry_no_bypass",
+    "title": "Tune Protect | Global Presence, Seamless Protection "
+  },
+  {
+    "url": "https://www.ammetlifetakaful.com/",
+    "origin": "https://www.ammetlifetakaful.com",
+    "checked_at": "2026-10-27T09:56:33.365456+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ammetlifetakaful.com/",
+    "bytes": 167291,
+    "title": "\n\tAmMetLife Takaful - Home\n"
+  },
+  {
+    "url": "https://www.takaful-malaysia.com.my/",
+    "origin": "https://www.takaful-malaysia.com.my",
+    "checked_at": "2026-10-27T09:56:37.025682+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.mcis.my/Our-Products",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:56:22.845743+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/Our-Products",
+    "bytes": 130167,
+    "title": "\n\tMCIS Life - Our Products | Buy Insurance in Malaysia | MCIS Life\n"
+  },
+  {
+    "url": "https://www.hlmtakaful.com.my/",
+    "origin": "https://www.hlmtakaful.com.my",
+    "checked_at": "2026-10-27T09:56:35.457832+00:00",
+    "http_status": 200,
+    "final_url": "https://www.hlmtakaful.com.my/en/home.html",
+    "bytes": 4879,
+    "title": "Malaysia's Premier Takaful Company - Hong Leong MSIG Takaful"
+  },
+  {
+    "url": "https://www.takaful-ikhlas.com.my/",
+    "origin": "https://www.takaful-ikhlas.com.my",
+    "checked_at": "2026-10-27T09:56:38.100345+00:00",
+    "http_status": 200,
+    "final_url": "https://www.takaful-ikhlas.com.my/",
+    "bytes": 155978,
+    "title": "Takaful IKHLAS - We Protect Everyone"
+  },
+  {
+    "url": "https://www.mcis.my/sitemap-mcis",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:58:15.597145+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/sitemap-mcis",
+    "bytes": 68270,
+    "title": "\n\tMCIS Life - Site Map | MCIS Life\n"
+  },
+  {
+    "url": "https://www.mcis.my/our-products/health-and-medical-protection/m-health-secure",
+    "origin": "https://www.mcis.my",
+    "checked_at": "2026-10-27T09:58:22.018285+00:00",
+    "http_status": 200,
+    "final_url": "https://www.mcis.my/error404",
+    "bytes": 58496,
+    "title": "\n\tMCIS Life - Life Insurance Plans in Malaysia\n"
+  },
+  {
+    "url": "https://www.fwdprivate.com/our-products/",
+    "origin": "https://www.fwdprivate.com",
+    "checked_at": "2026-10-27T09:58:31.127878+00:00",
+    "http_status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "decision": "stop_matching_origin_no_retry_no_bypass"
+  },
+  {
+    "url": "https://www.marsh.com/sg/services/captive-insurance.html",
+    "origin": "https://www.marsh.com",
+    "checked_at": "2026-10-27T09:58:34.392582+00:00",
+    "http_status": 200,
+    "final_url": "https://www.marsh.com/sg/services/captive-insurance.html",
+    "bytes": 179739,
+    "title": "Captive Insurance | Insurance Broking & Risk Management | Marsh"
+  }
+]

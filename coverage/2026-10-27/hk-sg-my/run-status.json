@@ -1,0 +1,84 @@
+{
+  "checked_at": "2026-10-27T09:59:46.367903+00:00",
+  "status": "in_progress",
+  "products_not_skus": true,
+  "formal_new_material_file_count": 0,
+  "regions": {
+    "SG": {
+      "denominator_status": "closed_for_MAS_insurance_sector_export",
+      "unique_sector_entities": 388,
+      "issuer_scope_rows": 223,
+      "direct_insurers": 76,
+      "other_insurers": 147,
+      "ancillary_retained": 165,
+      "scope_limits": [
+        "Approved MAT category absent from sector facets; no independent off-directory MAT census",
+        "Listed entities can be closed to new business; requires company check"
+      ]
+    },
+    "HK": {
+      "denominator_status": "partial_regulator_origin_403",
+      "observed_industry_member_rows": 119,
+      "scope_limits": [
+        "IA register inaccessible",
+        "nonmembers and other insurer categories not enumerated",
+        "runoff/new-business status not individually verified"
+      ],
+      "hkfi_member_subset_status": "closed_for_published_HKFI_members_not_market"
+    },
+    "MY": {
+      "denominator_status": "partial_BNM_origin_403",
+      "pidm_member_subset_status": "full_48_names_read",
+      "observed_member_rows": 48,
+      "scope_limits": [
+        "BNM broader roster not enumerated",
+        "Reinsurance, retakaful, financial guarantee, international takaful outstanding",
+        "Labuan offshore independent roster underway"
+      ],
+      "labuan_offshore_snapshot": {
+        "gazette_as_of": "2025-12-31",
+        "gazette_published": "2026-03-30",
+        "entities": 222,
+        "numbered_rows_complete": true,
+        "surrendered_revoked_as_of": "2026-04-16",
+        "surrendered_rows": 181,
+        "revoked_rows": 33,
+        "current_denominator_closed": false,
+        "limitations": [
+          "Public live directory API 403 stopped",
+          "Insurance-related roles not fully classified; not 222 consumer insurers",
+          "Takaful licence Gazette link appears to point at Islamic bank licence file; not substituted",
+          "Source numbered 114 twice and omitted 113 in surrender list; preserved with note"
+        ]
+      }
+    }
+  },
+  "issuer_rows": 390,
+  "observed_product_card_rows": 94,
+  "unique_material_link_urls": 203,
+  "product_role_counts": {
+    "product": 50,
+    "catalog_category": 10,
+    "service": 3,
+    "rider": 29,
+    "group": 2
+  },
+  "blocked_origins": 51,
+  "discovery_unique_urls": 85,
+  "discovery_entities": 92,
+  "issuer_products_status_counts": {
+    "unchecked": 298,
+    "blocked": 56,
+    "partial": 36
+  },
+  "raw_evidence_publish_policy": "Do not publish evidence/ raw HTML/PDF/JS: some sources contain public personal contact/director/shareholder fields. Publish only sanitized structured row files after root QA.",
+  "catalog_category_or_service_observations": 13,
+  "verified_sku_count": 0,
+  "qa_revision_at": "2026-10-27T10:09:09.737509+00:00",
+  "qa_revision_notes": [
+    "MCIS rider detail roles corrected; same named offering and family/variant relations explicitly retained.",
+    "MCIS Critical Illness educational category gets no product credit.",
+    "AIG business category/service observations get zero product credit.",
+    "Seven malformed source website values retained only as hints, official_website null pending verification."
+  ]
+}

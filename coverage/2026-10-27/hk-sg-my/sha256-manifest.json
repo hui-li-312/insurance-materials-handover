@@ -1,0 +1,58 @@
+{
+  "frozen_at": "2026-10-27T10:09:09.737509+00:00",
+  "underlying_observation_snapshot": "2026-10-27T10:01:00Z",
+  "supersedes": "freeze-20261027T1001Z-v2",
+  "revision": "Seven malformed website fields replaced by null with original source hint and explicit verification status.",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 5650,
+      "sha256": "4c18513f42af4738d19fb8ad5467526c7ac866146cf87ff1ea4f89bcc3abcc54"
+    },
+    {
+      "file": "blocked-origins.json",
+      "bytes": 13438,
+      "sha256": "f71fd5a8907a3c39e3aebe291707f8d02eadb7313f2cc0b9416d4b5e459347a6"
+    },
+    {
+      "file": "issuer-attempts.jsonl",
+      "bytes": 450296,
+      "sha256": "6b7635fac32300c2b2f23a64391952e5f8027126502e1afc2f7fa6a1f53fc545"
+    },
+    {
+      "file": "issuers.jsonl",
+      "bytes": 475046,
+      "sha256": "799df6f7b5187a307e43152c99b521b0515d7f79756edfbe9254b73f71154009"
+    },
+    {
+      "file": "my-labuan-licensees.jsonl",
+      "bytes": 285586,
+      "sha256": "d63dd49ef8c99d4419b75f7d39b89988ae4e77b7e1b46f826b882774ff8b9932"
+    },
+    {
+      "file": "my-labuan-surrendered-revoked.jsonl",
+      "bytes": 127430,
+      "sha256": "a63a2b6b635750aa223f558b072ada5e29d83fc2d53bc0c63347c0286cb4393a"
+    },
+    {
+      "file": "observed-products.jsonl",
+      "bytes": 170858,
+      "sha256": "afec49482c9590b6755f1c88544474f5503c579aacba944ed89e906289285a6a"
+    },
+    {
+      "file": "run-status.json",
+      "bytes": 3291,
+      "sha256": "9c02f3f482fb09730522b57546a99cd534ae9e51f07d0465a9eef850cbad4c14"
+    },
+    {
+      "file": "sg-ancillary-entities.jsonl",
+      "bytes": 141340,
+      "sha256": "d4ff9a9f3c32233046ea53ec26207931b83c0d066d530fb961fba6b972fa428f"
+    },
+    {
+      "file": "sources.json",
+      "bytes": 62331,
+      "sha256": "4fc776388c1396ce88516149b73d7af13e9daeb3e544e72828b6d489f15a40f8"
+    }
+  ]
+}
