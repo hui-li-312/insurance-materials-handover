@@ -1,0 +1,50 @@
+# 保险产品与条款网站：可运行源码
+
+这里是已经部署的 **「地区 → 产品 → 材料」资料库**，不是保险新闻日志。
+
+- 原站：<https://hong-kong-insurance-library.balabalaniuniu.chatgpt.site>
+- 对应版本：Site 127，源提交 `29f8a8f21308468f6c5e143676fb12db6627df75`。
+- `public/` 的 26 个文件来自该提交的 `dist/`，逐字节保留。原站是 **buildless 静态应用**，这些 HTML/CSS/JS 就是可编辑源码，不是只有截图或编译后黑盒。
+- 不需要数据库、API key、登录、第三方运行依赖或联网安装。使用 Node.js 24；本次实测版本为 **24.22.1 / npm 11.9.0**。`.nvmrc`、`package.json`、`package-lock.json` 固定本次工具约定。
+
+## 五分钟接手
+
+在仓库根目录执行：
+
+```bash
+cd website
+npm ci --ignore-scripts --offline
+npm test
+npm run build
+npm start
+```
+
+浏览器打开 <http://127.0.0.1:8080>。`Ctrl+C` 停止。不要双击 HTML 使用 `file://`，页面需要通过 HTTP 加载 JSON。
+
+构建后的站点在 `website/dist/`。检查构建产物：
+
+```bash
+npm run preview -- --port 8081
+```
+
+修改 `public/`，不要修改被忽略的 `dist/`；`build` 会重新生成它。`start`/`preview` 是本地检查服务器，不是生产级反向代理或身份验证服务。
+
+## 文件分工
+
+| 路径 | 作用 |
+|---|---|
+| `public/index.html`、`library-app.js`、`library-core.mjs`、`library.css` | 主页结构、状态/交互、纯函数、响应式样式 |
+| `public/product-library.json` | 主页地区、产品/资料组、材料关系及核验状态 |
+| `public/legacy.html` 与其他 JS/JSON/CSS | 原有采集覆盖、历史进度及审计概览；保留原站功能 |
+| `scripts/` | 本次新加的可移植启动、构建、校验、目录导入/导出工具 |
+| `tests/ui.mjs`、`tests/search.mjs` | 从原站测试适配而来；不依赖私有审计附件 |
+| `tests/catalog.mjs`、`tests/http.mjs` | 本次新增的数据安全/计数、导入原子性与 HTTP 冒烟测试 |
+| `config/existing-sites-hosting.reference.json` | 原有 Sites 配置的非激活参考副本；不是自动部署入口 |
+
+继续工作请读：
+
+1. [启动、部署、回滚及数据更新](../docs/WEBSITE_OPERATIONS.md)
+2. [来源与测试边界](../docs/WEBSITE_PROVENANCE.md)
+3. [机器可读源文件校验清单](../manifests/website-source.json)
+
+**重要边界：** 本目录可完整运行和修改当前公开站点，但不包含历史私有审计全量工作区，也不伪称能从仓库的 `catalog/*.jsonl` 一键重建全部历史投影。原件归档、全文审查、产品身份确认和公开页面是不同层；更新公开 JSON 不会自动证明这些事实。
