@@ -231,3 +231,7 @@ python3 scripts/verify_and_restore.py \
 本手册是 2026年10月27日的接手基线。以后更新请在 Git 中留下具体提交、变更依据与验收结果，必要时发布新的 Release；不要让旧文档版本号替代实际证据。
 
 网站与方法文档已在 GitHub 发布并经远端读回逐字节核验，验收基线提交为 [23808bd5393fbf0595e2ce63da9ee4fd524e395c](https://github.com/hui-li-312/insurance-materials-handover/commit/23808bd5393fbf0595e2ce63da9ee4fd524e395c)。本手册及后续追加会产生新提交，这不是永久最新的 HEAD。
+
+## 追加：采集质量协议与离线预检
+
+接续采集前请阅读 [COLLECTION_QA_PROTOCOL.md](COLLECTION_QA_PROTOCOL.md)：公司底表、有限目录边界、材料关联、拒绝访问与资源上限、日期及计数口径均分别处理。新增 Python 工具只校验本地 scope、缓存响应和文件哈希，不联网、不跟随重定向，也不授予采集或分享权限；PASS 不能替代来源、授权和边界审查。示例为合成数据，不能作为真实来源清单。
