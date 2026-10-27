@@ -30,11 +30,13 @@
 
 首轮补采于 Site 128（2026-10-27 14:27 UTC）上线，保持公开访问；首页新增“本轮补采”入口。首轮 3,151 条混合观察、第五批 Site 129 的 3,429 条、第六批 Site 130 的 4,636 条均是历史快照，不是独立产品数或全市场完成证明。第七批 Site 131 于 2026-10-27 18:33:54 UTC 部署成功，四区累计 872 条替代 706 条，合计 24 feeds／4,802 条混合观察；该版本已完成单独的限定桌面抽样 QA。
 
-**当前为 Site 132（2026-10-27 18:53:33 UTC 部署成功）**，第八批累计为 **26 个来源 feed 描述符（22 个贡献显示行）／4,986 条混合来源观察**，不是独立产品或当前在售 SKU。旧 2,360 条目录、4,713 份正式原件、426 份严格核验主文及 18 个原件包未改变；本次新增正式原件／核验 SKU 为 0。GitHub 运行与数据源码提交为 `8845a19e3ba2c364f642c2c7ec335bcc47d9c935`，Site 源提交为 `637d5ccd2cd0f85d00ade24bb2112c0c2486af34`；43 个静态运行文件逐字节一致。
+Site 132 于 2026-10-27 18:53:33 UTC 部署成功，Site 源提交 `637d5ccd2cd0f85d00ade24bb2112c0c2486af34`，GitHub 运行源码 `8845a19e3ba2c364f642c2c7ec335bcc47d9c935`；26 个来源 feed 描述符／4,986 条混合观察及该版限定桌面 QA 保留为历史。该版 Prudential SG／AIA PH 来源边界未因第九批而升级：Income 承保、Prudential 分销的 Care Secure 仍分开，AIA crawled page-text 不是实时 HTTP 核验，11 个普通未解决宣传册目标不是 HOLD。
 
-新增 Prudential SG 128 条、AIA Philippines 56 条混合来源观察：Prudential 的 49 张 selector 卡与 69 条文档索引不额外加行；Care Secure 由 Income Insurance Limited 承保／签发、Prudential 分销，不证明 Income 自有目录已完成。AIA 证据是 crawled page-text，底层实时 HTTP 状态未知；11 个宣传册标签无目标 URL，保持未解决而非 HOLD，9 处目录壳缺口未闭合。父子关系精确保留，组件不继承父材料。
+**当前为 Site 133（2026-10-27 19:22:11 UTC 部署成功）**：**28 个来源 feed 描述符（24 个贡献显示行）／5,101 条混合来源观察**。新增 Muang Thai Life 56 条、Bangkok Life 59 条，泰国共 316 条；产品名称、附加险、组合、团体及批注语境分别保留，不等于唯一在售 SKU。GitHub 源码 `f8aa7620b03ff7994af1beea60277abd5ce9928d`，Site 源码 `7e0c8fb5ce8903fbcb071be8f5a55f9925d15842`；43 个静态运行文件逐字节一致。
 
-当前源码、核验边界与部署证据见 [REGIONAL_VIEW.md](REGIONAL_VIEW.md)、[第八批候选说明](REGIONAL_REFRESH_BATCH8.md) 和 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。上方 Site 127 / 26 文件及前轮 Site 128–131 描述属于历史，不是当前版本；候选说明与历史验收清单保留当时字节，不重写为事后发布证明。Site 132 已完成限定生产桌面浏览器抽样检查（1180×757、DPR 1），实际范围见当前机器记录；不等于逐条记录或外部材料验收。移动端／触屏未测。
+16,644 次文件材料引用与 227 次未审图片引用（183 个唯一 URL）分开；图片不计文件材料、原件、产品或完整合同。8 条无扩展名 Download 路线不能证明 PDF MIME；原目录两份 Muang Thai Life 材料仍保留原层，未建立新合同映射。旧 2,360 条目录／4,713 份正式原件／426 份严格核验及 18 个原件包不变；新增原件／核验 SKU 为 0，无新图片或 PDF 下载、渲染、OCR／全文审查。
+
+当前证据见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)、[REGIONAL_VIEW.md](REGIONAL_VIEW.md) 和 [第九批候选说明](REGIONAL_REFRESH_BATCH9.md)。Site 127–132 与候选验收保持历史含义，不把前版 QA 或未发布工作计入本版。Site 133 已完成限定生产桌面浏览器抽样检查（1180×757、DPR 1），实际范围见当前机器记录；不等于逐条记录或外部图片／材料验收。移动端／触屏未测。
 
 ## 02 权限与网站首次运行
 

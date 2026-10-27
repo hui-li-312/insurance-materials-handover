@@ -4,11 +4,11 @@
 
 这是既有保险产品资料库的**已发布的补采视图**，不是新网站，不是新闻页。沿用现有蓝白色设计、响应式布局和无依赖静态架构，提供 `coverage.html` 独立入口：地区 → 来源机构／品牌 → 观察条目 → 材料引用。原首页只加导航；原目录、旧审计视图和 25 个其余原运行文件不变。
 
-对应既有 Site：`appgprj_6ad9e50081d881919e1b20b3843c8426`。首轮为 Site 128，后续第五／六／七批依次为 Site 129／130／131；第八批于 **2026-10-27 18:53:33 UTC 成功部署为 Site 132**，保持原公开受众。当前为 **26 个来源 feed 描述符（22 个贡献显示行）／4,986 条混合来源观察**，不是独立产品或当前在售 SKU 总数；旧 2,360／4,713／426 基线不变，新增正式原件／核验 SKU 为 0。实际发布证据见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。公开源码不赋予接手人原站部署权限。
+对应既有 Site：`appgprj_6ad9e50081d881919e1b20b3843c8426`。首轮 Site 128 至第八批 Site 132 均保留历史记录；第九批于 **2026-10-27 19:22:11 UTC 成功部署为 Site 133**，保持原公开受众。当前 **28 个来源 feed 描述符（24 个贡献显示行）／5,101 条混合观察**，不是独立产品或当前在售 SKU；泰国 316 条包含本批 115 条。旧 2,360／4,713／426 基线不变，新增正式原件／核验 SKU 为 0。证据见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)；公开源码不赋予原站部署权限。
 
-以下输入、计数表与测试条目记录首版模型；第五至八批来源规则与历史边界分别见 [第五批](REGIONAL_REFRESH_BATCH5.md)、[第六批](REGIONAL_REFRESH_BATCH6.md)、[第七批](REGIONAL_REFRESH_BATCH7.md)、[第八批](REGIONAL_REFRESH_BATCH8.md)，当前 active 输入见 [LATEST.json](../coverage/LATEST.json)。候选说明保留发布前时点，不以历史的未部署／未做浏览器检查措辞覆盖当前机器记录。
+以下输入、计数表与测试条目记录首版模型；第五至九批来源规则与历史边界分别见 [第五批](REGIONAL_REFRESH_BATCH5.md)、[第六批](REGIONAL_REFRESH_BATCH6.md)、[第七批](REGIONAL_REFRESH_BATCH7.md)、[第八批](REGIONAL_REFRESH_BATCH8.md)、[第九批](REGIONAL_REFRESH_BATCH9.md)，当前 active 输入见 [LATEST.json](../coverage/LATEST.json)。候选说明保留发布前时点，不以历史的未部署／未做浏览器检查措辞覆盖当前机器记录。
 
-当前 16,526 次材料关联中，普通材料区 16,481 次、隐藏源码候选 45 次；16,445 次公开 URL 出现。总计 81 个 null 分别为 69 个 HOLD、11 个未暴露目标的普通标签引用和 1 个既存无效非 HTTP 引用，不能一概记为隔离。Prudential Care Secure 的 Income 承保／Prudential 分销角色分开；AIA page-text 捕获不是实时原站 HTTP，9 处目录壳缺口保留；子组件不继承父材料。
+当前 16,644 次文件材料引用中，普通材料区 16,599 次、隐藏源码候选 45 次；16,563 次公开 URL 出现。81 个 null 仍为 69 个 HOLD、11 个普通未解决目标和 1 个既存无效非 HTTP 引用。另有 227 次未审图片引用／183 个唯一 URL，仅在折叠审计区列出，不计入文件材料、原件或产品；未下载、渲染、OCR 或全文审查。Muang 56 条与 Bangkok 59 条按稳定来源 ID 保留，附加险、组合、团体、批注及父下组件不冒充独立合同；8 条 Bangkok 无扩展名下载路线不证明 PDF MIME。此前 Income／Prudential 角色、AIA page-text 非实时 HTTP 和未闭合目录壳等边界继续保留。
 
 ## 初版固定输入与确定性方法
 
@@ -82,4 +82,4 @@ npm start
 
 最终候选另做离线已知 held-locator 校验；私有注册表和匹配定位符不在仓库输出中。校验通过只证明未暴露已知禁发定位符，不等于所有未知文件的权利／隐私已获批准。
 
-Site 129／130／131 的桌面抽样检查分别保留为各版历史证据，不自动适用于第八批。Site 132 已完成限定生产桌面浏览器抽样检查（1180×757、DPR 1），实际范围见当前机器记录；不等于逐条记录或外部材料验收。移动端／触屏未测。机器结果见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。
+Site 129／130／131／132 的桌面抽样检查分别保留为各版历史证据，不自动适用于第九批。Site 133 已完成限定生产桌面浏览器抽样检查（1180×757、DPR 1），实际范围见当前机器记录；不等于逐条记录或外部图片／材料验收。移动端／触屏未测。机器结果见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。
