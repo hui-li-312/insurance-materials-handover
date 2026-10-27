@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "verified_at_utc": "2026-10-27T08:51:18Z",
+  "source_method": "Official Sites source repository opening workflow; exact saved-version commit checked out with clean worktree",
+  "site": {
+    "title": "香港保险条款采集台",
+    "purpose": "Insurance products and terms library, not insurance news journal",
+    "url": "https://hong-kong-insurance-library.balabalaniuniu.chatgpt.site",
+    "project_id": "appgprj_6ad9e50081d881919e1b20b3843c8426",
+    "version_number": 127,
+    "saved_version_id": "appgprj_6ad9e50081d881919e1b20b3843c8426~appgver_919a1527e5f081918c740a53660c207a",
+    "commit_sha": "29f8a8f21308468f6c5e143676fb12db6627df75",
+    "access_mode": "public",
+    "deployment_id": "appgdep_6adfe26f0380819187ce45e70b815480",
+    "deployment_status": "succeeded",
+    "deployment_updated_at": "2026-10-26T23:29:58.026999+00:00"
+  },
+  "native_saved_archive_metadata": {
+    "format": "tar",
+    "bytes": 16875520,
+    "files": 27,
+    "sha256": "f52417deaf33acffcacb2a3e73261c737932a83e4666627c6f2b6fa63466c6a2",
+    "note": "Native metadata only; direct archive materialization was not authorized/resolved. No claim of re-downloaded archive hash verification."
+  },
+  "original_hosting_manifest": {
+    "project_id": "appgprj_6ad9e50081d881919e1b20b3843c8426",
+    "static": {
+      "directory": "dist"
+    }
+  },
+  "extracted_runtime": {
+    "files": 26,
+    "bytes": 16851857,
+    "byte_changes": 0,
+    "files_manifest": [
+      {
+        "source_path": "dist/app.js",
+        "repository_path": "website/public/app.js",
+        "bytes": 15596,
+        "sha256": "b4783ad785f17c9cb140abc9c9de3cf9220fcd48976ec1073c1691c0d5eabafc"
+      },
+      {
+        "source_path": "dist/coverage-expansion.js",
+        "repository_path": "website/public/coverage-expansion.js",
+        "bytes": 6814,
+        "sha256": "2328643047e49340bef07172c4a10e838f828f65306cae23b81064db503b5288"
+      },
+      {
+        "source_path": "dist/coverage-expansion.json",
+        "repository_path": "website/public/coverage-expansion.json",
+        "bytes": 620327,
+        "sha256": "304722f7c3bc83c1d2d11a51ba874d381c85121cedc631fc2ab539656a79fa8d"
+      },
+      {
+        "source_path": "dist/data.json",
+        "repository_path": "website/public/data.json",
+        "bytes": 4017826,
+        "sha256": "39c2f59e802e0887ee23fc47aa66d833df249a9d7c81945bfd0a9850bd9a5483"
+      },
+      {
+        "source_path": "dist/full-audit-progress.js",
+        "repository_path": "website/public/full-audit-progress.js",
+        "bytes": 6837,
+        "sha256": "43cb4e466b93e078389e5df9ed3ca82b9dfca54dbf31c57de6fceeeb8d253fe0"
+      },
+      {
+        "source_path": "dist/full-audit-progress.json",
+        "repository_path": "website/public/full-audit-progress.json",
+        "bytes": 2694490,
+        "sha256": "8e1cd5491fce462209a4d94c36bb431719ce04a99df6cce7d98a40df9d3d4de1"
+      },
+      {
+        "source_path": "dist/index.html",
+        "repository_path": "website/public/index.html",
+        "bytes": 4887,
+        "sha256": "fcd4499bc6559530bcb49a8ea11631a4a09d60948ed4dd79178fa46e04e5aa4f"
+      },
+      {
+        "source_path": "dist/legacy.html",
+        "repository_path": "website/public/legacy.html",
+        "bytes": 10482,
+        "sha256": "b2a6b1bcdb561134c72f94bab2ee10ebefb219eb180f90522dfd12a86e3d4a17"
+      },
+      {
+        "source_path": "dist/library-app.js",
+        "repository_path": "website/public/library-app.js",
+        "bytes": 13573,
+        "sha256": "40a258100835af80121fa3c63087aa0fb9a09ee432b3e1a862f85b3e0dec2716"
+      },
+      {
+        "source_path": "dist/library-core.mjs",
+        "repository_path": "website/public/library-core.mjs",
+        "bytes": 9262,
+        "sha256": "bc473aad2b6722624f93429e1fc188e584922472db4a36781c6a1b4b99d14889"
+      },
+      {
+        "source_path": "dist/library.css",
+        "repository_path": "website/public/library.css",
+        "bytes": 16398,
+        "sha256": "b8e2d3f56834839928132fedd6c0201c44df890efd515d5f534776d992814424"
+      },
+      {
+        "source_path": "dist/product-counts.js",
+        "repository_path": "website/public/product-counts.js",
+        "bytes": 3119,
+        "sha256": "09fe8d12a08f3b356e1a69748b66cfbf1659d3f231dff4beeafeef3a83b06da2"
+      },
+      {
+        "source_path": "dist/product-counts.json",
+        "repository_path": "website/public/product-counts.json",
+        "bytes": 9533,
+        "sha256": "ea2385205befbfee20aca0ba7f01dfb1ce84ea471c2186b4de60d0169614ab71"
+      },
+      {
+        "source_path": "dist/product-library.json",
+        "repository_path": "website/public/product-library.json",
+        "bytes": 4609947,
+        "sha256": "133a528d36a63836a180b9ca8a951b7d50ffe4565f7908ad9965eb4197fef495"
+      },
+      {
+        "source_path": "dist/progress-time.js",
+        "repository_path": "website/public/progress-time.js",
+        "bytes": 1128,
+        "sha256": "2ceeb72fa639fa8df064985de1410b08c3b9da0a4fc7f951486c877633df201c"
+      },
+      {
+        "source_path": "dist/regions.js",
+        "repository_path": "website/public/regions.js",
+        "bytes": 14733,
+        "sha256": "c2940bc8b6fc2fc9e406e94d4ca7bdba0990a3ecc5a6c4863bec19e156763d2c"
+      },
+      {
+        "source_path": "dist/savings.js",
+        "repository_path": "website/public/savings.js",
+        "bytes": 14530,
+        "sha256": "05268a0b56453e6b826e58c358c899b51115b75793a615931d1ddb553499c83c"
+      },
+      {
+        "source_path": "dist/sea.json",
+        "repository_path": "website/public/sea.json",
+        "bytes": 3120796,
+        "sha256": "9121b2174bb0a0c259c2c688b62237936f06694b3d39095c931bed72a3e161f2"
+      },
+      {
+        "source_path": "dist/sg-family-summary.json",
+        "repository_path": "website/public/sg-family-summary.json",
+        "bytes": 4271,
+        "sha256": "3fe25894331eafb103ce501d6bc14d58bdd74b0d1ba885b4156dd9a9df0b40b3"
+      },
+      {
+        "source_path": "dist/sg-normalized.js",
+        "repository_path": "website/public/sg-normalized.js",
+        "bytes": 7771,
+        "sha256": "343a6708fb4043abab7b6677876b9153eb76341026044e9239f4cc70e130bbf7"
+      },
+      {
+        "source_path": "dist/sg-normalized.json",
+        "repository_path": "website/public/sg-normalized.json",
+        "bytes": 1214249,
+        "sha256": "9f81feb13859f3fd4f0a16d745b9841c2653e2c9a5543a230dfd475328c94e78"
+      },
+      {
+        "source_path": "dist/style.css",
+        "repository_path": "website/public/style.css",
+        "bytes": 10206,
+        "sha256": "c004d54a68ad8f5064c9a4dcafb847b8378c4b2cfc7c368b10a63e68118577c6"
+      },
+      {
+        "source_path": "dist/tl-research-progress.json",
+        "repository_path": "website/public/tl-research-progress.json",
+        "bytes": 1013,
+        "sha256": "b8403ce5089cd5683d49f2244f509029c142311bb082016de98ef319337ef5f6"
+      },
+      {
+        "source_path": "dist/vhis-identity-summary.json",
+        "repository_path": "website/public/vhis-identity-summary.json",
+        "bytes": 1997,
+        "sha256": "6be657dc5bd6126bb20d8b39ff458250d003de30fa3e27e92e32c390d71519c9"
+      },
+      {
+        "source_path": "dist/vhis-identity.js",
+        "repository_path": "website/public/vhis-identity.js",
+        "bytes": 4582,
+        "sha256": "eeb593bf1a072908dd8509d3b0f0bb36d420246ea06076a9fa42ddcd2da30cc0"
+      },
+      {
+        "source_path": "dist/vhis-identity.json",
+        "repository_path": "website/public/vhis-identity.json",
+        "bytes": 417490,
+        "sha256": "517ec429813e9a6dec0d231961671da7033187069094a316c66ce69c3207c22c"
+      }
+    ]
+  },
+  "excluded_source": {
+    "tracked_files_total": 1355,
+    "runtime_files_extracted": 26,
+    "note": "No full source-history export. Private snapshots, evidence histories, internal audit one-offs, credentials, Git history, original insurer documents and internal notes excluded."
+  },
+  "new_handover_helpers": [
+    "website/package.json",
+    "website/package-lock.json",
+    "website/scripts/",
+    "website/tests/catalog.mjs",
+    "website/tests/http.mjs"
+  ],
+  "adapted_original_tests": [
+    {
+      "source_path": "tests/test_ui.mjs",
+      "repository_path": "website/tests/ui.mjs",
+      "source_sha256": "dc1a7c35a186fef355a088120c825ea52f50de34012795b3345d50053e9a8fc0",
+      "adaptation": "Runtime paths changed dist to public; private-fixture-specific 28-note tail omitted; final report wording revised. No public runtime code changed."
+    },
+    {
+      "source_path": "tests/test_search_alias.mjs",
+      "repository_path": "website/tests/search.mjs",
+      "source_sha256": "45bd2f7358411747c2e5fcdd031eeec34e0baeb517ae5bb984bd1ee4e4f50398",
+      "adaptation": "Runtime paths changed dist to public."
+    }
+  ]
+}
