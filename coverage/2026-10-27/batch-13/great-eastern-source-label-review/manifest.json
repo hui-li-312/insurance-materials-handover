@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "scope": "Source-label candidate-role overlay only; frozen acquisition sources remain unchanged.",
+  "files": [
+    {
+      "path": "material-role-reviews.json",
+      "bytes": 58408,
+      "sha256": "b4f0efc260bf200681b1c79109be1fc300e8f1dc8842078c6be53ff1428467af"
+    }
+  ]
+}

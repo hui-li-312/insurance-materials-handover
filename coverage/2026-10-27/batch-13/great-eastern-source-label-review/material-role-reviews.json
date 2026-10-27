@@ -1,0 +1,1085 @@
+{
+  "schemaVersion": 1,
+  "reviewType": "sourceLabelReview",
+  "scope": "Finite source-metadata candidate-role correction, not PDF body classification or document-content review.",
+  "rationale": "The original classifier prioritized the generic gels-pdt-pd- filename prefix before semantic brochure and benefit labels. This prefix alone is not policy-wording evidence.",
+  "preservation": {
+    "sourceSnapshotsRewritten": false,
+    "sourceAcquisitionTimesRewritten": false,
+    "pdfBodiesRead": 0,
+    "formalOriginalCreditIncrement": 0,
+    "verifiedMainWordingCreditIncrement": 0,
+    "verifiedSkuCreditIncrement": 0,
+    "observationCountIncrement": 0,
+    "materialReferenceCountIncrement": 0,
+    "documentReferenceCountIncrement": 0,
+    "legalIssuerVerificationIncrement": 0
+  },
+  "reviewCount": 18,
+  "uniqueMaterialUrls": 12,
+  "sourceLabelCandidateOccurrences": {
+    "brochure_candidate": 13,
+    "benefit_schedule_and_premium_rates_candidate": 4,
+    "user_guide_candidate": 1
+  },
+  "sourceLabelCandidateUniqueUrls": {
+    "brochure_candidate": 10,
+    "benefit_schedule_and_premium_rates_candidate": 1,
+    "user_guide_candidate": 1
+  },
+  "preservedSampleWordingCandidates": {
+    "occurrences": 8,
+    "uniqueMaterialUrls": 7,
+    "kind": "sample_policy_wording_candidate",
+    "changed": false,
+    "bodyRole": "unknown_unread",
+    "unresolvedSharedUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/life-insurance-/direct---great-term/gels-pdt-pd-direct-great-term-5-year.pdf",
+    "unresolvedSourceAssociations": [
+      {
+        "sourceObservationId": "SG-GE-observation-4b7bae7f6e44316f9345",
+        "sourceMaterialArrayIndexZeroBased": 4,
+        "originalSourceLabel": "Sample policy wording for DIRECT - GREAT 5yr Term"
+      },
+      {
+        "sourceObservationId": "SG-GE-observation-4b7bae7f6e44316f9345",
+        "sourceMaterialArrayIndexZeroBased": 6,
+        "originalSourceLabel": "Sample policy wording for DIRECT - GREAT 5yr Term with DIRECT - GREAT Critical Care"
+      }
+    ],
+    "caveat": "The same five-year URL has base and Critical Care-combination sample labels. Preserve both source associations without deciding body identity, bundle composition, or main-contract credit."
+  },
+  "limitations": [
+    "Positive brochure labels, benefit/rate labels, and guide context support candidate source roles only; linked file contents remain unread.",
+    "Original source labels, associations, acquisition times, issuer mapping and unread/download states remain historical facts.",
+    "Source-page as-of statements, filename dates, and review time are not document version, publication, or effective dates.",
+    "No confirmed complete contract, current sale, actual contract underwriter, new SKU, or new formal original is established."
+  ],
+  "materialRoleReviews": [
+    {
+      "reviewId": "GE-source-label-dd0ec9f5059cdf2d6e77",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-bd86b9a15c3bbcaef6f2",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/life-insurance-/great-term-2/gels-pdt-pd-gt2-eng-brochure.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-term.html",
+        "sourceHtmlSha256": "6a23388d5950fec269010868881cdca864ba91d0278687d9903d9d4778671706",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "GREAT Term 2",
+        "sourceProductRole": "product",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-5ed4e47bfed7c0d55aea",
+        "runtimeMaterialId": "reference-1",
+        "documentReferenceId": "GE-document-f102eb347958833a5a77"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:06:04.196673+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View product brochure",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[2]/div/div/div[2]/a[1]",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/life-insurance-/great-term-2/gels-pdt-pd-gt2-eng-brochure.pdf",
+        "anchorText": "View product brochure",
+        "enclosingText": "View product brochure Talk to us",
+        "labelBasis": "explicit_brochure_anchor_label_corroborated_by_filename_only"
+      },
+      "result": {
+        "candidateKind": "brochure_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-7f8aa522a3f0753e97fd",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-d1f94a37e22b242e98f1",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/life-insurance-/great-life-multiplier/gels-pdt-pd-glm-eng-brochure.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-life-multiplier.html",
+        "sourceHtmlSha256": "532fadf4198b50b092604233bcd6a90116303f2bad7acfc8ea55c61eee90e311",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "GREAT Life Multiplier",
+        "sourceProductRole": "product",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-cb8a8758c905ca245f56",
+        "runtimeMaterialId": "reference-1",
+        "documentReferenceId": "GE-document-7f30c1c5f69d60d9ed3e"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:06:08.907296+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View product brochure",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[2]/div/div/div[2]/a[1]",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/life-insurance-/great-life-multiplier/gels-pdt-pd-glm-eng-brochure.pdf",
+        "anchorText": "View product brochure",
+        "enclosingText": "View product brochure Talk to us",
+        "labelBasis": "explicit_brochure_anchor_label_corroborated_by_filename_only"
+      },
+      "result": {
+        "candidateKind": "brochure_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-248fe972a92233c9631c",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-99cb0203c30b48ce443b",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/life-insurance-/great-eastern-cares-term-plan/2026/gels-pdt-pd-gectp-eng-brochure.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/great-eastern-cares-term-plan.html",
+        "sourceHtmlSha256": "911a757178741bfe31fb9d8884656b15a1e071f8d1a429e97eb484bca785befc",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "Great Eastern Cares Term Plan",
+        "sourceProductRole": "product",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-04ed8c0765ceff2067c4",
+        "runtimeMaterialId": "reference-1",
+        "documentReferenceId": "GE-document-3758726a2be5e37226e7"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:06:45.841024+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View product brochure",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[2]/div/div/div[2]/a[1]",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/life-insurance-/great-eastern-cares-term-plan/2026/gels-pdt-pd-gectp-eng-brochure.pdf",
+        "anchorText": "View product brochure",
+        "enclosingText": "View product brochure How to apply",
+        "labelBasis": "explicit_brochure_anchor_label_corroborated_by_filename_only"
+      },
+      "result": {
+        "candidateKind": "brochure_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-47fe29f03859ebaf30e8",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-1cc47f1b18cf48be83b4",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-eng-brochure.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-main.html",
+        "sourceHtmlSha256": "dab83a4a99888482aa97ac478ccb60c07c2a26c77720ffc0aaee454f01bf7214",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "GREAT SupremeHealth",
+        "sourceProductRole": "product_family",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-4bbf55fff603f6931951",
+        "runtimeMaterialId": "reference-1",
+        "documentReferenceId": "GE-document-577dbb94b797e8dfedab"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:06:50.129865+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View product brochure",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[2]/div/div/div[2]/a[1]",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-eng-brochure.pdf",
+        "anchorText": "View product brochure",
+        "enclosingText": "View product brochure Talk to us",
+        "labelBasis": "explicit_brochure_anchor_label_corroborated_by_filename_only"
+      },
+      "result": {
+        "candidateKind": "brochure_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-85387cc83676d6ec384e",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-1cc47f1b18cf48be83b4",
+        "sourceMaterialArrayIndexZeroBased": 1,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-gtc-tob-eng.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-main.html",
+        "sourceHtmlSha256": "dab83a4a99888482aa97ac478ccb60c07c2a26c77720ffc0aaee454f01bf7214",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "GREAT SupremeHealth",
+        "sourceProductRole": "product_family",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-4bbf55fff603f6931951",
+        "runtimeMaterialId": "reference-2",
+        "documentReferenceId": "GE-document-c441150bbf59b41b523e"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:06:50.129865+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View benefit schedule and premium rates",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[3]/div/div/div[2]/div[2]/div[2]/a[1]",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-gtc-tob-eng.pdf",
+        "anchorText": "View benefit schedule and premium rates",
+        "enclosingText": "View benefit schedule and premium rates Right-size your hospitalisation policy",
+        "labelBasis": "explicit_benefit_schedule_and_premium_rates_anchor_label_only"
+      },
+      "result": {
+        "candidateKind": "benefit_schedule_and_premium_rates_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-1e49c45a5c75dff3fc20",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-bd86bd99d4cf2e92030a",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/pay-assure/2026/gels-pdt-pd-pay-assure-brochure-english.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/pay-assure.html",
+        "sourceHtmlSha256": "f588be45c1bc93b8209a2887c24fde30c8ee688c6e14ed039bfb06fae5b4633d",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "PayAssure",
+        "sourceProductRole": "product",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-a4eceb8471babc3ff612",
+        "runtimeMaterialId": "reference-1",
+        "documentReferenceId": "GE-document-a92d28686f23e9a9b3c0"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:07:30.096816+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View product brochure",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[2]/div/div/div[2]/a[1]",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/pay-assure/2026/gels-pdt-pd-pay-assure-brochure-english.pdf",
+        "anchorText": "View product brochure",
+        "enclosingText": "View product brochure Talk to us",
+        "labelBasis": "explicit_brochure_anchor_label_corroborated_by_filename_only"
+      },
+      "result": {
+        "candidateKind": "brochure_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-a27420b9753ed0888de1",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-8ff82a30567e6f0423df",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/personal-accident/pa-supreme/2026/gels-pdt-pd-pa-supreme-eng-brochure.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/personal-accident-insurance/pa-supreme.html",
+        "sourceHtmlSha256": "8363fac920cee2d7fd04c298460d8e5321d5fd8b8f4d3c5ad8aefd10f9f32cba",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": "SG-own-3ed42bb5f9a4950f",
+        "sourceIssuerName": "Great Eastern General Insurance Limited",
+        "sourceIssuerMappingStatus": "own_page_explicit_underwritten_by_statement_not_policy_body_review",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "PA Supreme",
+        "sourceProductRole": "product",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-48aabbddc2118459f669",
+        "runtimeMaterialId": "reference-1",
+        "documentReferenceId": "GE-document-2f8be193878b82942e26"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:08:11.062706+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View product brochure",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[3]/div/div/div[2]/div[2]/div[2]/a",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/personal-accident/pa-supreme/2026/gels-pdt-pd-pa-supreme-eng-brochure.pdf",
+        "anchorText": "View product brochure",
+        "enclosingText": "View product brochure",
+        "labelBasis": "explicit_brochure_anchor_label_corroborated_by_filename_only"
+      },
+      "result": {
+        "candidateKind": "brochure_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-fe1647d041df567e11bc",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-5622118b22c547fe8bfe",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/wealth-accumulation/great-lifetime-payout/2026/gels-pdt-pd-glp3-brochure-ri.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/retirement-income/great-lifetime-payout.html",
+        "sourceHtmlSha256": "62b1b09ae24f9318cfbf1661a4318641ab9b989ef46d8089758905d7ceff82f1",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "GREAT Lifetime Payout 3",
+        "sourceProductRole": "product",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-643b447eec045430c522",
+        "runtimeMaterialId": "reference-1",
+        "documentReferenceId": "GE-document-0b7cd441565a59162de2"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:08:23.629888+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View product brochure",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[2]/div/div/div[2]/a[1]",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/wealth-accumulation/great-lifetime-payout/2026/gels-pdt-pd-glp3-brochure-ri.pdf",
+        "anchorText": "View product brochure",
+        "enclosingText": "View product brochure Talk to us",
+        "labelBasis": "explicit_brochure_anchor_label_corroborated_by_filename_only"
+      },
+      "result": {
+        "candidateKind": "brochure_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-c67279f857ce6161c926",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-29ba93d36e83caad5543",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/wealth-accumulation/great-invest-advantage/gels-pdt-pd-gia-brochure.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-invest-advantage.html",
+        "sourceHtmlSha256": "e10a07078ceebaadea6432d78e7470c796c710e7830ca1401bf42d6214f21705",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "GREAT Invest Advantage",
+        "sourceProductRole": "product",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-476ef5769d31dcf8e752",
+        "runtimeMaterialId": "reference-1",
+        "documentReferenceId": "GE-document-35c28ab689b0865ef048"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:09:12.760343+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View product brochure",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[2]/div/div/div[2]/a[1]",
+        "rawHref": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/wealth-accumulation/great-invest-advantage/gels-pdt-pd-gia-brochure.pdf",
+        "anchorText": "View product brochure",
+        "enclosingText": "View product brochure Talk to us",
+        "labelBasis": "explicit_brochure_anchor_label_corroborated_by_filename_only"
+      },
+      "result": {
+        "candidateKind": "brochure_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-886f2dd43ed470f32ed2",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-63f2bd875aa7dce7eaeb",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/wealth-accumulation/prestige-portfolio/2026/gels-pdt-pd-pp-eng-brochure.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/prestige-portfolio.html",
+        "sourceHtmlSha256": "3fcb5b435e1455e30f8ea358900a563fee3a4ac84b75550a2ecedefe2452a2ae",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "Prestige Portfolio",
+        "sourceProductRole": "product",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-f5d166bb1c7a50df5c14",
+        "runtimeMaterialId": "reference-1",
+        "documentReferenceId": "GE-document-a3f3cb4ee7e508b33533"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:09:20.979156+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View product brochure",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[2]/div/div/div[2]/a[1]",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/wealth-accumulation/prestige-portfolio/2026/gels-pdt-pd-pp-eng-brochure.pdf",
+        "anchorText": "View product brochure",
+        "enclosingText": "View product brochure Talk to us",
+        "labelBasis": "explicit_brochure_anchor_label_corroborated_by_filename_only"
+      },
+      "result": {
+        "candidateKind": "brochure_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-8c491ef930deb1e0b6c0",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-62caabb26898f6947a9c",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "exactMaterialUrl": "https://aemportal.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/wealth-accumulation/great-sp-special/gels-pdt-pd-gsp-special-user-guide.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/wealth-accumulation/great-sp-special.html",
+        "sourceHtmlSha256": "a3fd2cdb26595e6a9125fbfb3cae84b0711d0a9d47ab5fef810fb09fea4e762d",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "GREAT SP Special",
+        "sourceProductRole": "product",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-1ff8b4f33b9da3fc7b63",
+        "runtimeMaterialId": "reference-1",
+        "documentReferenceId": "GE-document-b452eba5e6011d600bb7"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:09:55.588711+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "here",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/main/div/div/div[2]/div/div/div/div[2]/div[9]/div/div/p/a",
+        "rawHref": "https://aemportal.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/wealth-accumulation/great-sp-special/gels-pdt-pd-gsp-special-user-guide.pdf",
+        "anchorText": "here",
+        "enclosingText": "Please download our step-by-step user guide here!",
+        "labelBasis": "generic_here_anchor_with_user_guide_enclosing_context_and_filename_only"
+      },
+      "result": {
+        "candidateKind": "user_guide_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-1d3bc1b330c7f946c426",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-3267421e85b80991b04a",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/general-insurance/great-home-protect/gels-pdt-pd-ghp-brochure.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/home-insurance/great-home-protect.html",
+        "sourceHtmlSha256": "2b5d69a548e141646d8b0eaf6c2b02493f9386d5750b0903449c3317793cdccc",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": "SG-own-3ed42bb5f9a4950f",
+        "sourceIssuerName": "Great Eastern General Insurance Limited",
+        "sourceIssuerMappingStatus": "own_page_explicit_underwritten_by_statement_not_policy_body_review",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "GREAT Home Protect",
+        "sourceProductRole": "product",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-54d57cc18a567f64bdb9",
+        "runtimeMaterialId": "reference-1",
+        "documentReferenceId": "GE-document-8e5a497f3f618d97027d"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:02:40.437740+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View product brochure",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[3]/div/div/div[2]/div[2]/div[2]/a",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/general-insurance/great-home-protect/gels-pdt-pd-ghp-brochure.pdf",
+        "anchorText": "View product brochure",
+        "enclosingText": "View product brochure",
+        "labelBasis": "explicit_brochure_anchor_label_corroborated_by_filename_only"
+      },
+      "result": {
+        "candidateKind": "brochure_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-565a2ee743c4bb8ff286",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-e3392cd3971b479efae0",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-eng-brochure.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-parents-with-young-children.html",
+        "sourceHtmlSha256": "31a1918770c9d474fc80bf5bc1b86264f7322acb34a7d0bdbb92a8066b7b5584",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "GREAT SupremeHealth P Plus",
+        "sourceProductRole": "audience_information_page",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-09327e3b9da2396f2eed",
+        "runtimeMaterialId": "reference-1",
+        "documentReferenceId": "GE-document-577dbb94b797e8dfedab"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:49:37.367636+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View product brochure",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[2]/div/div/div[2]/a[1]",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-eng-brochure.pdf",
+        "anchorText": "View product brochure",
+        "enclosingText": "View product brochure Talk to us",
+        "labelBasis": "explicit_brochure_anchor_label_corroborated_by_filename_only"
+      },
+      "result": {
+        "candidateKind": "brochure_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-6d6b52aa49d9bceaf33f",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-e3392cd3971b479efae0",
+        "sourceMaterialArrayIndexZeroBased": 1,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-gtc-tob-eng.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-parents-with-young-children.html",
+        "sourceHtmlSha256": "31a1918770c9d474fc80bf5bc1b86264f7322acb34a7d0bdbb92a8066b7b5584",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "GREAT SupremeHealth P Plus",
+        "sourceProductRole": "audience_information_page",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-09327e3b9da2396f2eed",
+        "runtimeMaterialId": "reference-2",
+        "documentReferenceId": "GE-document-c441150bbf59b41b523e"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:49:37.367636+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View benefit schedule and premium rates",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[3]/div/div/div[2]/div[2]/div[2]/a[1]",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-gtc-tob-eng.pdf",
+        "anchorText": "View benefit schedule and premium rates",
+        "enclosingText": "View benefit schedule and premium rates Right-size your hospitalisation policy",
+        "labelBasis": "explicit_benefit_schedule_and_premium_rates_anchor_label_only"
+      },
+      "result": {
+        "candidateKind": "benefit_schedule_and_premium_rates_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-70cfd8fccaa8ceae23df",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-10b25f3e1e8d8a671069",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-eng-brochure.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-ntw.html",
+        "sourceHtmlSha256": "63f4f5e3e95d4935df9d550571adfae3b61cf5ea6da69a7e665c7c166e5fe85e",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "GREAT SupremeHealth P Prime",
+        "sourceProductRole": "audience_information_page",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-ff553176c54f101fdab1",
+        "runtimeMaterialId": "reference-1",
+        "documentReferenceId": "GE-document-577dbb94b797e8dfedab"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:49:42.458576+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View product brochure",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[2]/div/div/div[2]/a[1]",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-eng-brochure.pdf",
+        "anchorText": "View product brochure",
+        "enclosingText": "View product brochure Talk to us",
+        "labelBasis": "explicit_brochure_anchor_label_corroborated_by_filename_only"
+      },
+      "result": {
+        "candidateKind": "brochure_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-e25c25a1adbfe46b68b8",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-10b25f3e1e8d8a671069",
+        "sourceMaterialArrayIndexZeroBased": 1,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-gtc-tob-eng.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-ntw.html",
+        "sourceHtmlSha256": "63f4f5e3e95d4935df9d550571adfae3b61cf5ea6da69a7e665c7c166e5fe85e",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "GREAT SupremeHealth P Prime",
+        "sourceProductRole": "audience_information_page",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-ff553176c54f101fdab1",
+        "runtimeMaterialId": "reference-2",
+        "documentReferenceId": "GE-document-c441150bbf59b41b523e"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:49:42.458576+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View benefit schedule and premium rates",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[3]/div/div/div[2]/div[2]/div[2]/a[1]",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-gtc-tob-eng.pdf",
+        "anchorText": "View benefit schedule and premium rates",
+        "enclosingText": "View benefit schedule and premium rates Right-size your hospitalisation policy",
+        "labelBasis": "explicit_benefit_schedule_and_premium_rates_anchor_label_only"
+      },
+      "result": {
+        "candidateKind": "benefit_schedule_and_premium_rates_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-d03b256d9d9f5bbea7d2",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-aa48edd128fddb987b9e",
+        "sourceMaterialArrayIndexZeroBased": 0,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-eng-brochure.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-non-singaporeans.html",
+        "sourceHtmlSha256": "6e1e7a1230e9e134c90fcd9ae697fa24c43ce5b101edca32c1e444e3d6c16c7f",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "GREAT SupremeHealth P Plus",
+        "sourceProductRole": "audience_information_page",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-c64feca142271515fd0b",
+        "runtimeMaterialId": "reference-1",
+        "documentReferenceId": "GE-document-577dbb94b797e8dfedab"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:49:47.004560+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View product brochure",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[2]/div/div/div[2]/a[1]",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-eng-brochure.pdf",
+        "anchorText": "View product brochure",
+        "enclosingText": "View product brochure Talk to us",
+        "labelBasis": "explicit_brochure_anchor_label_corroborated_by_filename_only"
+      },
+      "result": {
+        "candidateKind": "brochure_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    },
+    {
+      "reviewId": "GE-source-label-d14676854d177aa64f86",
+      "reviewedAt": "2026-10-27T22:28:28Z",
+      "binding": {
+        "sourceCollection": "coverage/2026-10-27/batch-10/great-eastern-sg-my/products-great-eastern-sg.jsonl",
+        "sourceCollectionSha256": "552d8917a5be696f31392c52998db00aab72c1ae56aed25fb8b63e59cef3538d",
+        "sourceObservationId": "SG-GE-observation-aa48edd128fddb987b9e",
+        "sourceMaterialArrayIndexZeroBased": 1,
+        "exactMaterialUrl": "https://www.greateasternlife.com/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-gtc-tob-eng.pdf",
+        "sourceUrl": "https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-non-singaporeans.html",
+        "sourceHtmlSha256": "6e1e7a1230e9e134c90fcd9ae697fa24c43ce5b101edca32c1e444e3d6c16c7f",
+        "jurisdiction": "SG",
+        "sourcePublisher": "Great Eastern shared group public website",
+        "sourceIssuerId": null,
+        "sourceIssuerName": null,
+        "sourceIssuerMappingStatus": "shared_brand_source_publisher_only_contract_underwriter_unresolved",
+        "possibleSourceIssuerIds": [
+          "SG-own-3ed42bb5f9a4950f",
+          "SG-own-effcbd0463a6ae78"
+        ],
+        "sourceProductName": "GREAT SupremeHealth P Plus",
+        "sourceProductRole": "audience_information_page",
+        "sourceParentObservationId": null,
+        "runtimeObservationId": "obs-c64feca142271515fd0b",
+        "runtimeMaterialId": "reference-2",
+        "documentReferenceId": "GE-document-c441150bbf59b41b523e"
+      },
+      "history": {
+        "sourceAcquiredAt": "2026-10-27T16:49:47.004560+00:00",
+        "originalSourceKind": "policy_wording_candidate",
+        "originalRuntimeKind": "policy_wording_candidate",
+        "originalRuntimeMaterialRole": "policy_wording_candidate",
+        "originalLabel": "View benefit schedule and premium rates",
+        "originalSourceStatus": "not_requested_HTML_only_scope",
+        "originalContentReviewStatus": "unread",
+        "originalPublicationDate": null,
+        "originalEffectiveDate": null,
+        "originalSourceDate": null,
+        "originalAssociationRole": "own_page_literal_document_reference_scope_unverified"
+      },
+      "sourceLabelEvidence": {
+        "anchorXPath": "/html/body/div[1]/div/div/div[3]/div/div/div[2]/div[2]/div[2]/a[1]",
+        "rawHref": "/content/dam/corp-site/great-eastern/sg/gels-ftrp-imc-cm/health-insurance-/great-supremehealth/april-2026/gels-pdt-pd-gsh-gtc-tob-eng.pdf",
+        "anchorText": "View benefit schedule and premium rates",
+        "enclosingText": "View benefit schedule and premium rates Right-size your hospitalisation policy",
+        "labelBasis": "explicit_benefit_schedule_and_premium_rates_anchor_label_only"
+      },
+      "result": {
+        "candidateKind": "benefit_schedule_and_premium_rates_candidate",
+        "basis": "source_label_or_enclosing_source_context_only",
+        "bodyRole": "unknown_unread",
+        "bodyReviewed": false,
+        "documentVersionDate": null,
+        "publicationDate": null,
+        "effectiveDate": null
+      }
+    }
+  ]
+}
