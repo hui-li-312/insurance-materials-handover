@@ -1,0 +1,1034 @@
+{
+  "schema_version": 1,
+  "record_type": "finite_collection_frontier_handover",
+  "record_compiled_at": "2026-10-27T22:32:29.206114+00:00",
+  "publication_status": "source_metadata_and_runtime_published_deployed_verified",
+  "purpose": "交接八份限定来源快照的采集边界、审核状态、发布状态与下一步验收方法，不是全市场完成报告。",
+  "scope": {
+    "source_snapshot_count": 8,
+    "source_publisher_company_count": 15,
+    "regions": [
+      "HK",
+      "SG",
+      "MY",
+      "TH",
+      "ID"
+    ],
+    "typed_catalog_observations": 395,
+    "separate_document_contexts": 315,
+    "metadata_files_excluding_overlay": 90,
+    "overlay_metadata_files": 3,
+    "total_metadata_files": 93,
+    "census_scope": "仅八份指定缓存来源快照；不刷新地区名录，也不外推至整个市场。",
+    "count_unit": "有明确角色的来源观察，不是独立产品、当前在售 SKU 或已核验合同。",
+    "separate_document_contexts_definition": "仅 HK 85、MY 214、UOI 16 共 315 条文件或目录记录；不含另列 TH 73、ID 20 条其他语境或 MY 61 个 PIDM 关联。"
+  },
+  "current_verified_public_baseline": {
+    "site_version": 136,
+    "site_url": "https://hong-kong-insurance-library.balabalaniuniu.chatgpt.site/coverage",
+    "github_repository_url": "https://github.com/hui-li-312/insurance-materials-handover",
+    "github_runtime_source_commit": "5626ab659c8bb8587048befba717e7784f92765a",
+    "mixed_observations": 6115,
+    "active_feed_descriptors": 43,
+    "directory_entries": 2360,
+    "formal_originals": 4713,
+    "strict_verified_main_files": 426,
+    "baseline_note": "本轮八份来源元数据已公开，实际 Site 136 部署成功；公开源码回读与部署源归档一致。有限桌面检查与完整源码对账是不同证据，不表示逐条在线或完整合同核验。",
+    "site_source_commit": "ddc54651fa002e97190e440754010b25a571e3df",
+    "row_contributing_feeds": 39,
+    "deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
+    "github_source_file_count": 714,
+    "github_source_bytes": 120817740
+  },
+  "interpretation_rules": [
+    "名录日期、来源采集时间、元数据审核时间与发布验收时间是不同事实，不互相改写。",
+    "名录中的公司与官网关联仅建立来源发布者身份，不核实实际合同承保人、当前经营许可或当前在售。",
+    "有限来源队列耗尽不等于所有公司产品、渠道、语言、历史版本或完整合同包均已采全。",
+    "独立元数据审核完成不等于已发布；原始冻结中的待审核状态保留，后续审读作为另一个时间层。",
+    "父子关系仅表达来源目录结构，不自动传递材料、合同归属、适用性或正文审核。",
+    "重合只按明确的字段或材料身份记录；不做同名合并，不因未匹配而增加新产品信用。",
+    "保留引用只展示允许标签与 null，不能通过原链接、指纹、备用目标或来源页作下载回退。",
+    "本轮已按真实公开提交与实际部署身份对账；以后每次发布仍须单独核对，历史采集状态和全公司缺口不随发布成功而关闭。"
+  ],
+  "dated_roster_context": [
+    {
+      "region": "HK",
+      "roster_checked_at": "2026-10-27T09:43:00Z",
+      "source_date": null,
+      "source_period": null,
+      "scope": "HKFI full published member-filter data: 119 entities, 78 general + 52 life memberships, 11 overlap. Not IA licence census.",
+      "status_at_collection": "HKFI_member_regulator_licence_unverified",
+      "purpose": "来源公司身份与名录语境，不是当前经营许可核验，也不是本批产品覆盖率分母。",
+      "date_limit": "源日期保留原采集元数据，未另核名录发布日期，也不是合同生效日期。",
+      "current_licence_inferred": false
+    },
+    {
+      "region": "SG",
+      "roster_checked_at": "2026-10-27T09:43:00Z",
+      "source_date": "2026-10-27",
+      "source_period": null,
+      "scope": "MAS Financial Institutions Directory insurance sector export; complete 388 entity print roster",
+      "status_at_collection": "listed_in_MAS_current_directory",
+      "purpose": "来源公司身份与名录语境，不是当前经营许可核验，也不是本批产品覆盖率分母。",
+      "date_limit": "源日期保留原采集元数据，未另核名录发布日期，也不是合同生效日期。",
+      "current_licence_inferred": false
+    },
+    {
+      "region": "MY",
+      "roster_checked_at": "2026-10-27T09:43:00Z",
+      "source_date": null,
+      "source_period": null,
+      "scope": "PIDM mandatory insurer members under FSA/IFSA; full 48 names read; excludes offshore/reinsurance/retakaful/international takaful/financial guarantee",
+      "status_at_collection": "PIDM_member_licensed_under_FSA_or_IFSA_as_described_by_PIDM",
+      "purpose": "来源公司身份与名录语境，不是当前经营许可核验，也不是本批产品覆盖率分母。",
+      "date_limit": "源日期保留原采集元数据，未另核名录发布日期，也不是合同生效日期。",
+      "current_licence_inferred": false
+    },
+    {
+      "region": "TH",
+      "roster_checked_at": "2026-10-27T09:45:48Z",
+      "source_date": null,
+      "source_period": null,
+      "scope": "OIC Menu12 life 22 rows and nonlife 49 rows; all pages enumerated; 1 explicitly old duplicate retained as raw evidence",
+      "status_at_collection": "listed_in_OIC_live_company_directory_no_separate_status_field",
+      "purpose": "来源公司身份与名录语境，不是当前经营许可核验，也不是本批产品覆盖率分母。",
+      "date_limit": "源日期保留原采集元数据，未另核名录发布日期，也不是合同生效日期。",
+      "current_licence_inferred": false
+    },
+    {
+      "region": "ID",
+      "roster_checked_at": "2026-10-27T09:43:00Z",
+      "source_date": null,
+      "source_period": "2025-Q3",
+      "scope": "OJK Q3 2025 head office worksheets; current licensing changes after source period not reconciled",
+      "status_at_collection": "listed_in_OJK_Q3_2025_directory_current_status_not_verified",
+      "purpose": "来源公司身份与名录语境，不是当前经营许可核验，也不是本批产品覆盖率分母。",
+      "date_limit": "源日期保留原采集元数据，未另核名录发布日期，也不是合同生效日期。",
+      "current_licence_inferred": false
+    }
+  ],
+  "snapshots": [
+    {
+      "snapshot_key": "hk-four-general",
+      "title": "香港四家财险来源",
+      "region": "HK",
+      "source_publisher_companies": [
+        "Chong Hing Insurance Company Limited",
+        "California Insurance Company Limited",
+        "Tugu Insurance Company Limited",
+        "The Pacific Insurance Company, Limited"
+      ],
+      "original_source_frozen_at": "2026-10-27T12:32:03.008445+00:00",
+      "original_source_freeze_status": "immutable_candidate_content_QA_pending",
+      "original_finite_source_queue": {
+        "status": "bounded_public_catalog_traversed_content_QA_pending",
+        "summary": "California 14、Chong Hing 15、Tugu 28 个选定 HTML 目标已处理；Pacific 6 个可见提供项页面及限定公开文本范围已处理，共 96 个保存来源事件。",
+        "whole_company_complete": false
+      },
+      "typed_catalog_observations": 81,
+      "separate_document_contexts": 85,
+      "role_summary": "12 个产品名称、7 个计划或层级、57 个保障类别、5 个目录类别。",
+      "independent_metadata_review": {
+        "status": "complete_for_exact_metadata_package",
+        "scope": "81 条目录观察、85 条独立文件语境及 165 个材料关联已完成元数据复核；42 个目录标签的证据依据已纠正。Tugu 后续正文审读另列。",
+        "actual_issued_contract_review_credit": 0,
+        "not_publication_proof": true,
+        "publication_status_recorded_separately": true
+      },
+      "publication_and_runtime": {
+        "status": "published_and_active",
+        "site_version": 136,
+        "active_feed_present": true,
+        "active_rows_from_this_feed": 81,
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
+        "published_site_version": 136,
+        "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
+        "previous_site_version": 135,
+        "previous_active_rows_from_this_feed": 0,
+        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+      },
+      "repository_handover": {
+        "link_status": "published_exact_path_verified_in_public_source_archive",
+        "metadata_file_count": 16,
+        "feed_ids": [
+          "hk_four_general_catalog"
+        ],
+        "repository_path": "coverage/2026-10-27/batch-12/hk-four-general/",
+        "manifest_path": "coverage/2026-10-27/batch-12/hk-four-general/manifest.json",
+        "github_directory_url": "https://github.com/hui-li-312/insurance-materials-handover/tree/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/hk-four-general",
+        "github_manifest_url": "https://github.com/hui-li-312/insurance-materials-handover/blob/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/hk-four-general/manifest.json",
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a"
+      },
+      "legacy_overlap": "历史正式目录有 31 个精确材料 URL 对应的记录：California 10、Chong Hing 17、Tugu 4；其余 57 个未精确匹配 URL 不等于新文件或新产品。",
+      "remaining_gaps": [
+        "California 六类可见商险明确不是穷尽清单。",
+        "Pacific 11 条仅路由路径仍排除；6 个 proposal viewer 叶节点未请求，理赔目录 POST 未请求。",
+        "Chong Hing 网上投保暂停不等于产品停售。",
+        "Tugu 原采集的正文检查层仍为标题与结构检查；后续七份正文审读不能覆盖第八份 Shop Package 摘要。"
+      ],
+      "next_finite_action": "保持 81 条类型观察和 Tugu 七条准确绑定不变；将 Pacific 未处理入口、California 非穷尽商险范围分别列为新的有限采集任务，不从路由名称猜测页面或材料。",
+      "all_channels_complete": false,
+      "all_languages_complete": false,
+      "all_policy_wordings_complete": false,
+      "new_formal_original_credit": 0,
+      "new_verified_sku_credit": 0
+    },
+    {
+      "snapshot_key": "hongleong-my",
+      "title": "马来西亚 Hong Leong 两主体",
+      "region": "MY",
+      "source_publisher_companies": [
+        "Hong Leong Assurance Berhad",
+        "Hong Leong MSIG Takaful Berhad"
+      ],
+      "original_source_frozen_at": "2026-10-27T15:03:16.375894+00:00",
+      "original_source_freeze_status": "immutable_metadata_candidate_content_QA_pending",
+      "original_finite_source_queue": {
+        "status": "partial_selected_public_model_catalog_queue_accounted",
+        "summary": "选定英文默认数组的 59 个卡片及 2 个相关详情，共 61 个字面详情目标读取成功；最终限定相关链接增量为 0，四个 HLA PDS 目录分页区间已处理。",
+        "whole_company_complete": false
+      },
+      "typed_catalog_observations": 94,
+      "separate_document_contexts": 214,
+      "role_summary": "HLA 44、HLMT 50；含产品、附加险、产品族、团体及计划变体，不能相加为独立 SKU。",
+      "independent_metadata_review": {
+        "status": "complete_for_exact_metadata_package",
+        "scope": "94 条类型观察、214 条独立英马文披露目录记录及 437 个材料关联已复核；470 个来源指针字段已纠正。",
+        "actual_issued_contract_review_credit": 0,
+        "not_publication_proof": true,
+        "publication_status_recorded_separately": true
+      },
+      "publication_and_runtime": {
+        "status": "published_and_active",
+        "site_version": 136,
+        "active_feed_present": true,
+        "active_rows_from_this_feed": 94,
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
+        "published_site_version": 136,
+        "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
+        "previous_site_version": 135,
+        "previous_active_rows_from_this_feed": 0,
+        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+      },
+      "repository_handover": {
+        "link_status": "published_exact_path_verified_in_public_source_archive",
+        "metadata_file_count": 8,
+        "feed_ids": [
+          "hongleong_my_catalog"
+        ],
+        "repository_path": "coverage/2026-10-27/batch-12/hongleong-my/",
+        "manifest_path": "coverage/2026-10-27/batch-12/hongleong-my/manifest.json",
+        "github_directory_url": "https://github.com/hui-li-312/insurance-materials-handover/tree/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/hongleong-my",
+        "github_manifest_url": "https://github.com/hui-li-312/insurance-materials-handover/blob/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/hongleong-my/manifest.json",
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a"
+      },
+      "legacy_overlap": "历史 HLA 有 59 条不同文件身份记录，均非主条款；5 个精确名称、4 个规范化来源页面和 9 个规范化材料 URL 重合只是历史关联。HLMT 的未匹配不证明过去没有资料。",
+      "remaining_gaps": [
+        "其他筛选、语言、渠道和当前在售状态未闭合。",
+        "214 条披露目录记录不是 214 个在售产品。",
+        "61 个通用 PIDM 关联不计产品材料；子附加险 PDS 不补父主条款。",
+        "本范围没有识别到完整主保单条款候选，PDS、利益表和宣传册不可替代完整条款。"
+      ],
+      "next_finite_action": "保持 HLA 44／HLMT 50 条目录观察与 214 条文件语境分开；按语言、筛选和渠道分别扩充有限目标，主条款另找明确来源，不以 PDS 填补。",
+      "all_channels_complete": false,
+      "all_languages_complete": false,
+      "all_policy_wordings_complete": false,
+      "new_formal_original_credit": 0,
+      "new_verified_sku_credit": 0
+    },
+    {
+      "snapshot_key": "sg-uoi",
+      "title": "新加坡 UOI",
+      "region": "SG",
+      "source_publisher_companies": [
+        "UNITED OVERSEAS INSURANCE LIMITED"
+      ],
+      "original_source_frozen_at": "2026-10-27T12:24:08.238649+00:00",
+      "original_source_freeze_status": "immutable_candidate_content_QA_pending",
+      "original_finite_source_queue": {
+        "status": "bounded_HTML_queue_exhausted=true;products_status=partial",
+        "summary": "16 个保存 HTML 响应；明确限定的公开 HTML 队列已耗尽，但全公司与 Takaful 范围仍为部分覆盖。",
+        "whole_company_complete": false
+      },
+      "typed_catalog_observations": 32,
+      "separate_document_contexts": 16,
+      "role_summary": "6 个产品观察、1 个方案、3 个附加项、16 个保障类别、6 个目录入口。",
+      "independent_metadata_review": {
+        "status": "complete_for_exact_metadata_package",
+        "scope": "保留原始采集冻结中的待审核表述；后续独立元数据审核及本次准确文件复核已完成。32 条观察与 16 条独立文件语境分别计数。",
+        "actual_issued_contract_review_credit": 0,
+        "not_publication_proof": true,
+        "publication_status_recorded_separately": true
+      },
+      "publication_and_runtime": {
+        "status": "published_and_active",
+        "site_version": 136,
+        "active_feed_present": true,
+        "active_rows_from_this_feed": 32,
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
+        "published_site_version": 136,
+        "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
+        "previous_site_version": 135,
+        "previous_active_rows_from_this_feed": 0,
+        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+      },
+      "repository_handover": {
+        "link_status": "published_exact_path_verified_in_public_source_archive",
+        "metadata_file_count": 11,
+        "feed_ids": [
+          "sg_uoi_catalog"
+        ],
+        "repository_path": "coverage/2026-10-27/batch-12/sg-uoi/",
+        "manifest_path": "coverage/2026-10-27/batch-12/sg-uoi/manifest.json",
+        "github_directory_url": "https://github.com/hui-li-312/insurance-materials-handover/tree/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/sg-uoi",
+        "github_manifest_url": "https://github.com/hui-li-312/insurance-materials-handover/blob/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/sg-uoi/manifest.json",
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a"
+      },
+      "legacy_overlap": "历史公司标签对应 8 条文件记录，8 个精确材料 URL 重合，不转移旧正文审核结论。",
+      "remaining_gaps": [
+        "Takaful 概览没有命名目录，未知不等于零产品。",
+        "UPP 页面主要面向已有保单服务，不证明当前新单在售。",
+        "9 个嵌套层级和 3 个附加项不额外变成独立保单，也不继承父材料。",
+        "Cancer Care、Hospitalisation 条款及 FAQ 是文件语境；UniPA 内嵌 FAQ 错误仍保留。"
+      ],
+      "next_finite_action": "保持原冻结记录与后续审核状态并存，16 条文件语境不计目录观察；Takaful 命名目录和 UPP 新单适用性继续列为单独待查范围。",
+      "all_channels_complete": false,
+      "all_languages_complete": false,
+      "all_policy_wordings_complete": false,
+      "new_formal_original_credit": 0,
+      "new_verified_sku_credit": 0
+    },
+    {
+      "snapshot_key": "sg-hlas",
+      "title": "新加坡 HL Assurance",
+      "region": "SG",
+      "source_publisher_companies": [
+        "HL ASSURANCE PTE. LTD."
+      ],
+      "original_source_frozen_at": "2026-10-27T13:07:26.959434+00:00",
+      "original_source_freeze_status": "immutable_candidate_content_QA_pending",
+      "original_finite_source_queue": {
+        "status": "exhausted_all25_pre_enumerated_marketing_targets_read",
+        "summary": "20 个主导航目标及 5 个员工计划详情目标均读取；加身份语境共 26 个成功保存事件，仅该预枚举队列耗尽。",
+        "whole_company_complete": false
+      },
+      "typed_catalog_observations": 48,
+      "separate_document_contexts": 0,
+      "role_summary": "20 个产品、3 个服务、3 个目录类别、1 个团体、10 个保障类别、11 个附加项。",
+      "independent_metadata_review": {
+        "status": "complete_for_exact_metadata_package",
+        "scope": "48 条类型观察、53 个材料关联已复核；6 个明确品牌的官网承保表述保留为网页声明，不是实际合同审核。",
+        "actual_issued_contract_review_credit": 0,
+        "not_publication_proof": true,
+        "publication_status_recorded_separately": true
+      },
+      "publication_and_runtime": {
+        "status": "published_and_active",
+        "site_version": 136,
+        "active_feed_present": true,
+        "active_rows_from_this_feed": 48,
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
+        "published_site_version": 136,
+        "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
+        "previous_site_version": 135,
+        "previous_active_rows_from_this_feed": 0,
+        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+      },
+      "repository_handover": {
+        "link_status": "published_exact_path_verified_in_public_source_archive",
+        "metadata_file_count": 10,
+        "feed_ids": [
+          "sg_hlas_catalog"
+        ],
+        "repository_path": "coverage/2026-10-27/batch-12/sg-hlas/",
+        "manifest_path": "coverage/2026-10-27/batch-12/sg-hlas/manifest.json",
+        "github_directory_url": "https://github.com/hui-li-312/insurance-materials-handover/tree/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/sg-hlas",
+        "github_manifest_url": "https://github.com/hui-li-312/insurance-materials-handover/blob/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/sg-hlas/manifest.json",
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a"
+      },
+      "legacy_overlap": "历史公司标签对应 16 条文件记录；12 个精确材料 URL 重合、13 个名称行匹配和 22 个规范化页面行匹配均不证明合同或版本等同。",
+      "remaining_gaps": [
+        "5 个员工渠道或历史名称观察不自动等于当前零售合同。",
+        "通用 Travel 文本不能转移给 COVIDSafe 品牌合同。",
+        "20 次 policy wording 引用不等于已读取条款；Product Summary 和 Benefits Table 不算主条款。",
+        "25 个服务、促销及咨询材料关联不计产品材料；旧新 PDF、父子关系不证明版本或适用性。"
+      ],
+      "next_finite_action": "保持 6 个有明确名称的网页声明和 20 次条款引用的类型边界；下一步按品牌、版本、渠道选择有限条款包，不由通用模板推断归属。",
+      "all_channels_complete": false,
+      "all_languages_complete": false,
+      "all_policy_wordings_complete": false,
+      "new_formal_original_credit": 0,
+      "new_verified_sku_credit": 0
+    },
+    {
+      "snapshot_key": "sg-chinalife",
+      "title": "新加坡 China Life",
+      "region": "SG",
+      "source_publisher_companies": [
+        "CHINA LIFE INSURANCE (SINGAPORE) PTE. LTD."
+      ],
+      "original_source_frozen_at": "2026-10-27T13:23:36.420304+00:00",
+      "original_source_freeze_status": "immutable_candidate_content_QA_pending",
+      "original_finite_source_queue": {
+        "status": "selected_queue_processed_one_detail_gap",
+        "summary": "6 个类别根页与 29 个命名详情已读；一个 RMB 详情两次返回 502，仅保留目录卡片观察；最终限定来源链接对账无新目标。",
+        "whole_company_complete": false
+      },
+      "typed_catalog_observations": 36,
+      "separate_document_contexts": 0,
+      "role_summary": "6 个目录类别、23 个产品、2 个计划、5 个附加险。",
+      "independent_metadata_review": {
+        "status": "complete_for_exact_metadata_package",
+        "scope": "36 条观察、48 个材料关联已完成元数据复核；未从失败详情推断正文、材料或合同。",
+        "actual_issued_contract_review_credit": 0,
+        "not_publication_proof": true,
+        "publication_status_recorded_separately": true
+      },
+      "publication_and_runtime": {
+        "status": "published_and_active",
+        "site_version": 136,
+        "active_feed_present": true,
+        "active_rows_from_this_feed": 36,
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
+        "published_site_version": 136,
+        "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
+        "previous_site_version": 135,
+        "previous_active_rows_from_this_feed": 0,
+        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+      },
+      "repository_handover": {
+        "link_status": "published_exact_path_verified_in_public_source_archive",
+        "metadata_file_count": 11,
+        "feed_ids": [
+          "sg_chinalife_catalog"
+        ],
+        "repository_path": "coverage/2026-10-27/batch-12/sg-chinalife/",
+        "manifest_path": "coverage/2026-10-27/batch-12/sg-chinalife/manifest.json",
+        "github_directory_url": "https://github.com/hui-li-312/insurance-materials-handover/tree/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/sg-chinalife",
+        "github_manifest_url": "https://github.com/hui-li-312/insurance-materials-handover/blob/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/sg-chinalife/manifest.json",
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a"
+      },
+      "legacy_overlap": "历史公司标签对应 22 条文件记录，22 个精确材料 URL 重合；11 个名称行匹配不证明当前合同等同。",
+      "remaining_gaps": [
+        "Lifetime Income Plan RMB 仍为 card-only，失败不是成功遍历。",
+        "5 个 rider 页面未广告 PDF 链接，不证明文件不存在。",
+        "44 次宣传册和 4 次通用消费者资料引用不构成主条款覆盖。",
+        "组合系列与计划页面不拆为独立 SKU；境外 MPF／CPF 模板文字不算新加坡提供项。"
+      ],
+      "next_finite_action": "保持 card-only 与五项 rider 无公开 PDF 链接的缺口；以单独有界任务处理失败详情或新广告材料，不自动重试、补造或继承材料。",
+      "all_channels_complete": false,
+      "all_languages_complete": false,
+      "all_policy_wordings_complete": false,
+      "new_formal_original_credit": 0,
+      "new_verified_sku_credit": 0
+    },
+    {
+      "snapshot_key": "thailife-batch-v2",
+      "title": "泰国 Thai Life",
+      "region": "TH",
+      "source_publisher_companies": [
+        "บริษัท ไทยประกันชีวิต จำกัด (มหาชน) (THAI LIFE INSURANCE PUBLIC COMPANY LIMITED)"
+      ],
+      "original_source_frozen_at": "2026-10-27T11:22:44.124636+00:00",
+      "original_source_freeze_status": "ready_for_QA_not_publication",
+      "original_finite_source_queue": {
+        "status": "ready_for_QA_not_publication;selected_category_card_routes_detail_attempts_complete=true",
+        "summary": "9 个类别目录列出 46 条精确详情路线，另有 1 个独立链接的可持续主题产品，合计 47 个命名页面观察。",
+        "whole_company_complete": false
+      },
+      "typed_catalog_observations": 47,
+      "separate_document_contexts": 0,
+      "role_summary": "38 个产品观察、7 个明确附加合同观察、2 个套餐或计划观察。",
+      "independent_metadata_review": {
+        "status": "complete_for_exact_metadata_package",
+        "scope": "47 个名称与角色、21 个材料锚点已完成缓存元数据复核；标题冲突明确保留。",
+        "actual_issued_contract_review_credit": 0,
+        "not_publication_proof": true,
+        "publication_status_recorded_separately": true
+      },
+      "publication_and_runtime": {
+        "status": "published_and_active",
+        "site_version": 136,
+        "active_feed_present": true,
+        "active_rows_from_this_feed": 47,
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
+        "published_site_version": 136,
+        "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
+        "previous_site_version": 135,
+        "previous_active_rows_from_this_feed": 0,
+        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+      },
+      "repository_handover": {
+        "link_status": "published_exact_path_verified_in_public_source_archive",
+        "metadata_file_count": 9,
+        "feed_ids": [
+          "thai_life_th_catalog"
+        ],
+        "repository_path": "coverage/2026-10-27/batch-12/thailife-batch-v2/",
+        "manifest_path": "coverage/2026-10-27/batch-12/thailife-batch-v2/freeze-manifest.json",
+        "github_directory_url": "https://github.com/hui-li-312/insurance-materials-handover/tree/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/thailife-batch-v2",
+        "github_manifest_url": "https://github.com/hui-li-312/insurance-materials-handover/blob/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/thailife-batch-v2/freeze-manifest.json",
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a"
+      },
+      "legacy_overlap": "在所比较的历史目录与补充运行数据中没有精确或保守规范化的公司、页面、材料匹配；这只是数据集内未匹配。Thai Life 不是 Muang Thai Life。",
+      "remaining_gaps": [
+        "Easy Refund 与 Easy Family 标题不一致，不能默默修正。",
+        "高龄产品目录／主标题与文件标题用名不一致，保留原拼写与警告。",
+        "21 个 PDF 锚点未下载、未读正文，不是已核验合同。",
+        "团体、其他渠道、隐藏或历史目录和完整条款仍未闭合。"
+      ],
+      "next_finite_action": "保持两处命名冲突及 38／7／2 角色拆分；按明确的材料锚点选择有限正文审读，其他渠道和历史目录另列队列。",
+      "all_channels_complete": false,
+      "all_languages_complete": false,
+      "all_policy_wordings_complete": false,
+      "new_formal_original_credit": 0,
+      "new_verified_sku_credit": 0
+    },
+    {
+      "snapshot_key": "philliplife-th-catalog-batch",
+      "title": "泰国 Phillip Life",
+      "region": "TH",
+      "source_publisher_companies": [
+        "บริษัท ฟิลลิปประกันชีวิต จำกัด (มหาชน) (PHILLIP LIFE ASSURANCE PUBLIC COMPANY LIMITED)"
+      ],
+      "original_source_frozen_at": "2026-10-27T16:54:33.277063+00:00",
+      "original_source_freeze_status": null,
+      "original_finite_source_queue": {
+        "status": "55_card_occurrences_24_exact_routes_retrieved;dynamic_pagination_not_executed",
+        "summary": "55 次重复网格卡片对应 24 个自有命名详情观察；27 个目录与详情页面已保存，另有 3 个斜杠规范化重定向响应。Load More 未执行。",
+        "whole_company_complete": false
+      },
+      "typed_catalog_observations": 24,
+      "separate_document_contexts": 0,
+      "role_summary": "24 个自有命名观察；分销、变体与通用设计为非加总语境。",
+      "independent_metadata_review": {
+        "status": "complete_for_exact_metadata_package",
+        "scope": "24 条自有观察、5 个未读 PDF 锚点及独立分销／设计表已完成元数据复核。",
+        "actual_issued_contract_review_credit": 0,
+        "not_publication_proof": true,
+        "publication_status_recorded_separately": true
+      },
+      "publication_and_runtime": {
+        "status": "published_and_active",
+        "site_version": 136,
+        "active_feed_present": true,
+        "active_rows_from_this_feed": 24,
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
+        "published_site_version": 136,
+        "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
+        "previous_site_version": 135,
+        "previous_active_rows_from_this_feed": 0,
+        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+      },
+      "repository_handover": {
+        "link_status": "published_exact_path_verified_in_public_source_archive",
+        "metadata_file_count": 12,
+        "feed_ids": [
+          "phillip_life_th_catalog"
+        ],
+        "repository_path": "coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/",
+        "manifest_path": "coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/freeze-manifest.json",
+        "github_directory_url": "https://github.com/hui-li-312/insurance-materials-handover/tree/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/philliplife-th-catalog-batch",
+        "github_manifest_url": "https://github.com/hui-li-312/insurance-materials-handover/blob/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/philliplife-th-catalog-batch/freeze-manifest.json",
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a"
+      },
+      "legacy_overlap": "所比较历史目录与运行数据中未见精确或保守规范化匹配；未匹配不等于新 SKU，也不证明没有历史别名关联。",
+      "remaining_gaps": [
+        "Load More、其他语言及线上渠道仍未解决。",
+        "29 个命名非寿险分销表行不是 Phillip 承保产品，也不证明展示公司名称的当前法律身份。",
+        "2 个命名变体、2 个团体设计、6 个自有概念类别、18 个非寿险类别及 16 个未命名／报价语境分别存放，不增加自有产品数。",
+        "可选 rider 适用措辞不能把父提供项改为 rider；5 个文件锚点未下载、未审读。"
+      ],
+      "next_finite_action": "保持 24 条自有观察与分销表严格分离；将 Load More、英文目录和线上渠道拆为独立有限任务，逐一确认来源广告的可读目标。",
+      "all_channels_complete": false,
+      "all_languages_complete": false,
+      "all_policy_wordings_complete": false,
+      "new_formal_original_credit": 0,
+      "new_verified_sku_credit": 0
+    },
+    {
+      "snapshot_key": "id-four",
+      "title": "印尼四家公司",
+      "region": "ID",
+      "source_publisher_companies": [
+        "PT Indolife Pensiontama",
+        "PT China Life Insurance Indonesia",
+        "PT Capital Life Indonesia",
+        "PT Victoria Alife Indonesia"
+      ],
+      "original_source_frozen_at": "2026-10-27T14:57:37.371344+00:00",
+      "original_source_freeze_status": null,
+      "original_finite_source_queue": {
+        "status": "selected_public_catalogs_traversed_other_scopes_open",
+        "summary": "37 次成功限定 HTML 读取及 3 个当日复用详情，共 40 个保存来源页；仅选定公开目录已遍历。",
+        "whole_company_complete": false
+      },
+      "typed_catalog_observations": 33,
+      "separate_document_contexts": 0,
+      "role_summary": "23 个产品观察、10 个团体观察；Capital 7、Victoria 6、Indolife 11、China Life Indonesia 9。",
+      "independent_metadata_review": {
+        "status": "complete_for_exact_metadata_package",
+        "scope": "33 个命名观察、58 个产品材料关联槽位已复核：57 个普通目标引用、1 个保留 null 槽位；本批未下载或审读 PDF／图片。",
+        "actual_issued_contract_review_credit": 0,
+        "not_publication_proof": true,
+        "publication_status_recorded_separately": true
+      },
+      "publication_and_runtime": {
+        "status": "published_and_active",
+        "site_version": 136,
+        "active_feed_present": true,
+        "active_rows_from_this_feed": 33,
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
+        "published_site_version": 136,
+        "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
+        "previous_site_version": 135,
+        "previous_active_rows_from_this_feed": 0,
+        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+      },
+      "repository_handover": {
+        "link_status": "published_exact_path_verified_in_public_source_archive",
+        "metadata_file_count": 13,
+        "feed_ids": [
+          "id_four_catalog"
+        ],
+        "repository_path": "coverage/2026-10-27/batch-12/id-four/",
+        "manifest_path": "coverage/2026-10-27/batch-12/id-four/freeze-manifest.json",
+        "github_directory_url": "https://github.com/hui-li-312/insurance-materials-handover/tree/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/id-four",
+        "github_manifest_url": "https://github.com/hui-li-312/insurance-materials-handover/blob/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/id-four/freeze-manifest.json",
+        "published_commit": "5626ab659c8bb8587048befba717e7784f92765a"
+      },
+      "legacy_overlap": "Victoria 有 3 条明确法律标签变体记录、1 条独立品牌候选记录；1 个安全 general conditions 定位符与旧目录重合，仅证明定位符相同，不转移版本、正文或合同结论。其余三家公司未精确匹配标签不证明无历史资料。",
+      "remaining_gaps": [
+        "保留槽位只公开允许的泛化标签与 null 目标，不提供定位符、指纹或来源页下载回退。",
+        "Capital Life 9 条 RIPLAY 独立目录引用不按同名合并进产品材料。",
+        "2 个 DPLK 退休计划与 4 个退休文件引用不算保险产品；Victoria 5 个图片引用仍未审读。",
+        "Victoria VIP／VAI 用名差异及两个无独立详情路线的描述保留；China Life 英文导航不代表正文全为英文。",
+        "OJK 2025 年第三季度名录是历史语境；当前牌照、在售、全渠道与全语言均未核实。"
+      ],
+      "next_finite_action": "保持 null 槽位无下载回退及 9／2／4／5 独立语境；下一步只在单独确定的材料范围内核对明确非保留的条款候选及既有审读记录，不能把文件存在或定位符重合当作本轮新审读。",
+      "all_channels_complete": false,
+      "all_languages_complete": false,
+      "all_policy_wordings_complete": false,
+      "new_formal_original_credit": 0,
+      "new_verified_sku_credit": 0
+    }
+  ],
+  "source_company_legacy_comparison": [
+    {
+      "region": "HK",
+      "source_company_name": "California Insurance Company Limited",
+      "snapshot_key": "hk-four-general",
+      "typed_observations": 28,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 8,
+        "explicit_label_variant_rows": 2,
+        "brand_candidate_rows_not_legal_match": 0,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    },
+    {
+      "region": "HK",
+      "source_company_name": "Chong Hing Insurance Company Limited",
+      "snapshot_key": "hk-four-general",
+      "typed_observations": 28,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 11,
+        "explicit_label_variant_rows": 6,
+        "brand_candidate_rows_not_legal_match": 0,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    },
+    {
+      "region": "HK",
+      "source_company_name": "The Pacific Insurance Company, Limited",
+      "snapshot_key": "hk-four-general",
+      "typed_observations": 6,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 0,
+        "explicit_label_variant_rows": 0,
+        "brand_candidate_rows_not_legal_match": 0,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    },
+    {
+      "region": "HK",
+      "source_company_name": "Tugu Insurance Company Limited",
+      "snapshot_key": "hk-four-general",
+      "typed_observations": 19,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 4,
+        "explicit_label_variant_rows": 0,
+        "brand_candidate_rows_not_legal_match": 0,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    },
+    {
+      "region": "SG",
+      "source_company_name": "UNITED OVERSEAS INSURANCE LIMITED",
+      "snapshot_key": "sg-uoi",
+      "typed_observations": 32,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 8,
+        "explicit_label_variant_rows": 0,
+        "brand_candidate_rows_not_legal_match": 0,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    },
+    {
+      "region": "SG",
+      "source_company_name": "HL ASSURANCE PTE. LTD.",
+      "snapshot_key": "sg-hlas",
+      "typed_observations": 48,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 16,
+        "explicit_label_variant_rows": 0,
+        "brand_candidate_rows_not_legal_match": 0,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    },
+    {
+      "region": "SG",
+      "source_company_name": "CHINA LIFE INSURANCE (SINGAPORE) PTE. LTD.",
+      "snapshot_key": "sg-chinalife",
+      "typed_observations": 36,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 22,
+        "explicit_label_variant_rows": 0,
+        "brand_candidate_rows_not_legal_match": 0,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    },
+    {
+      "region": "MY",
+      "source_company_name": "Hong Leong Assurance Berhad",
+      "snapshot_key": "hongleong-my",
+      "typed_observations": 44,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 59,
+        "explicit_label_variant_rows": 0,
+        "brand_candidate_rows_not_legal_match": 0,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    },
+    {
+      "region": "MY",
+      "source_company_name": "Hong Leong MSIG Takaful Berhad",
+      "snapshot_key": "hongleong-my",
+      "typed_observations": 50,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 0,
+        "explicit_label_variant_rows": 0,
+        "brand_candidate_rows_not_legal_match": 0,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    },
+    {
+      "region": "ID",
+      "source_company_name": "PT Capital Life Indonesia",
+      "snapshot_key": "id-four",
+      "typed_observations": 7,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 0,
+        "explicit_label_variant_rows": 0,
+        "brand_candidate_rows_not_legal_match": 0,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    },
+    {
+      "region": "ID",
+      "source_company_name": "PT Victoria Alife Indonesia",
+      "snapshot_key": "id-four",
+      "typed_observations": 6,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 0,
+        "explicit_label_variant_rows": 3,
+        "brand_candidate_rows_not_legal_match": 1,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    },
+    {
+      "region": "ID",
+      "source_company_name": "PT Indolife Pensiontama",
+      "snapshot_key": "id-four",
+      "typed_observations": 11,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 0,
+        "explicit_label_variant_rows": 0,
+        "brand_candidate_rows_not_legal_match": 0,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    },
+    {
+      "region": "ID",
+      "source_company_name": "PT China Life Insurance Indonesia",
+      "snapshot_key": "id-four",
+      "typed_observations": 9,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 0,
+        "explicit_label_variant_rows": 0,
+        "brand_candidate_rows_not_legal_match": 0,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    },
+    {
+      "region": "TH",
+      "source_company_name": "THAI LIFE INSURANCE PUBLIC COMPANY LIMITED",
+      "snapshot_key": "thailife-batch-v2",
+      "typed_observations": 47,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 0,
+        "explicit_label_variant_rows": 0,
+        "brand_candidate_rows_not_legal_match": 0,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    },
+    {
+      "region": "TH",
+      "source_company_name": "PHILLIP LIFE ASSURANCE PUBLIC COMPANY LIMITED",
+      "snapshot_key": "philliplife-th-catalog-batch",
+      "typed_observations": 24,
+      "legacy_comparison": {
+        "exact_casefold_legal_label_rows": 0,
+        "explicit_label_variant_rows": 0,
+        "brand_candidate_rows_not_legal_match": 0,
+        "basis": "同地区 insurer 或 insurer_legal_entity 字段不区分大小写精确相等；仅明确列出的双语或标点变体另计，品牌候选不升级为法律实体匹配。",
+        "limits": "零匹配不证明历史资料不存在；已有记录不转移产品、版本或正文审核信用。"
+      },
+      "actual_contract_underwriter_verified": false
+    }
+  ],
+  "tugu_finite_html_review": {
+    "context_reviews": 7,
+    "extracted_english_body_segments": 1003,
+    "exact_legacy_raw_byte_duplicates": 4,
+    "no_exact_legacy_byte_match": 3,
+    "no_match_is_not_new_product": true,
+    "new_catalog_rows": 0,
+    "new_formal_original_credit": 0,
+    "new_verified_sku_credit": 0,
+    "original_heading_only_layer_preserved": true,
+    "review_scope": "完整读取七份既有缓存英文产品正文的提取文本；独立复核验证来源和提取一致性并对关键语义作限定复查，不是第二次完整法律审读。",
+    "excluded_summary": "Shop Package 一般摘要不在七份中。",
+    "limits": [
+      "未作浏览器视觉、CSS 可见性、嵌入图片或 PDF 审读，也未重取当前网页。",
+      "Personal Accident 提取正文缺被引用的利益表；Home 的公司身份依赖缺失附表。",
+      "若干文本存在缺损或重复；客户附表、签署、批注和当前适用版本未齐备。",
+      "源页面公司表述不等于核实实际签发合同承保人，Home 保持未知。",
+      "未知发布、版次、生效日期保持 null；HTML 行号不是 PDF 页码。"
+    ],
+    "binding_rule": "先核对观察身份、来源公司身份、完整文档目标及原始来源字节，并验证父观察与 materials[0] 的准确关联，全部一致后才附加审读层；缺失、多重或不一致匹配均不接入。不得按名称、URL 或序号单项回退匹配，不转移到父产品、其他模块或 PDF。",
+    "publication_status": "published_review_overlay_active",
+    "link_status": "published_exact_path_verified_in_public_source_archive",
+    "metadata_files": 3,
+    "repository_path": "coverage/2026-10-27/batch-12/tugu-html-review/",
+    "github_url": "https://github.com/hui-li-312/insurance-materials-handover/tree/5626ab659c8bb8587048befba717e7784f92765a/coverage/2026-10-27/batch-12/tugu-html-review",
+    "published_site_version": 136,
+    "published_commit": "5626ab659c8bb8587048befba717e7784f92765a"
+  },
+  "indonesia_withheld_slot": {
+    "public_label": "材料引用保留",
+    "target": null,
+    "slots": 1,
+    "fallback_allowed": false
+  },
+  "delivery_plan": [
+    {
+      "order": 1,
+      "deliverable": "固定八份来源元数据包",
+      "acceptance": "逐包保持采集日期、队列状态、角色、父子关系和缺口；八份共 395 条目录观察，另列 315 条文件语境，不能相加当产品。",
+      "status": "exact_metadata_delivered"
+    },
+    {
+      "order": 2,
+      "deliverable": "准确运行投影及发布记录",
+      "acceptance": "395 条新增来源观察只导入一次；独立语境与 Tugu 审读不新增产品，保留 null 无下载回退。公开源码、部署源归档及原生部署已对账；新鲜桌面检查覆盖代表性语境，不替代完整源码检查或逐条合同审核。",
+      "status": "published_and_deployed_bounded_desktop_QA_completed"
+    },
+    {
+      "order": 3,
+      "deliverable": "有界条款审读队列",
+      "acceptance": "先处理明确可用且非保留的既有材料，再按具体主体、材料角色和版本选择新目标。每个任务分别列正文、附表、附加险、批注和缺件，不将宣传册或 PDS 当主条款。",
+      "status": "next_step_not_acquired_or_reviewed_by_this_handover"
+    },
+    {
+      "order": 4,
+      "deliverable": "逐地区扩充采集范围",
+      "acceptance": "每次仅扩一个明确的公司、渠道、语言或目录分页范围；记录成功、失败、未请求和禁止继续的目标。只有该有限队列对账完成才能关单，不关闭全公司或全市场。",
+      "status": "remaining_scope_open"
+    }
+  ],
+  "completion_definition": "每次有限交付须核对公开源码身份、实际部署与准确运行投影；只关闭该次明确范围的交付，不关闭剩余公司、渠道、语言或合同缺口。",
+  "public_handover_links": {
+    "repository": "https://github.com/hui-li-312/insurance-materials-handover",
+    "deployment_record": "https://github.com/hui-li-312/insurance-materials-handover/blob/main/docs/CURRENT_DEPLOYMENT.json",
+    "takeover_manual": "https://github.com/hui-li-312/insurance-materials-handover/blob/main/docs/TAKEOVER_MANUAL.md",
+    "active_source_manifest": "https://github.com/hui-li-312/insurance-materials-handover/blob/main/coverage/LATEST.json"
+  },
+  "next_reconciliation_required": false,
+  "context_summary": {
+    "basis": "已公开的 Site 136 运行投影及其来源元数据；各行单位不同，不合并为一个产品、材料文件或合同数。",
+    "HK_MY_UOI_document_directory_records": 315,
+    "TH_additional_context_entries": 73,
+    "ID_additional_context_entries": 20,
+    "MY_PIDM_general_information_associations": 61,
+    "entries": [
+      {
+        "region": "HK",
+        "scope": "香港四家来源",
+        "count": 85,
+        "unit": "独立文件语境记录",
+        "relationship": "与 81 条目录观察分开"
+      },
+      {
+        "region": "MY",
+        "scope": "HLA 披露目录",
+        "count": 214,
+        "unit": "英马文披露目录记录",
+        "relationship": "与 94 条目录观察分开，语言记录不当独立产品"
+      },
+      {
+        "region": "SG",
+        "scope": "UOI 文件目录",
+        "count": 16,
+        "unit": "独立文件语境记录",
+        "relationship": "与 32 条目录观察分开"
+      },
+      {
+        "region": "MY",
+        "scope": "PIDM 通用信息",
+        "count": 61,
+        "unit": "通用信息材料关联",
+        "relationship": "非产品材料，不是 61 个文件或产品"
+      },
+      {
+        "region": "TH",
+        "scope": "Phillip 命名分销表",
+        "count": 29,
+        "unit": "具名分销引用行",
+        "relationship": "不是自有承保产品"
+      },
+      {
+        "region": "TH",
+        "scope": "Phillip 未命名分销表",
+        "count": 16,
+        "unit": "未命名或报价语境行",
+        "relationship": "15 个未命名或报价行及 1 个通用 PA 单元"
+      },
+      {
+        "region": "TH",
+        "scope": "Phillip 分销类别",
+        "count": 18,
+        "unit": "分销保障类别记录",
+        "relationship": "不是独立产品"
+      },
+      {
+        "region": "TH",
+        "scope": "Phillip 自有类别",
+        "count": 6,
+        "unit": "公司保障概念类别记录",
+        "relationship": "不是独立命名产品"
+      },
+      {
+        "region": "TH",
+        "scope": "Phillip 计划和设计",
+        "count": 4,
+        "unit": "计划变体或团体设计记录",
+        "relationship": "2 个命名变体及 2 个通用团体设计"
+      },
+      {
+        "region": "ID",
+        "scope": "Capital 独立目录",
+        "count": 9,
+        "unit": "RIPLAY 目录引用",
+        "relationship": "不按同名并入产品材料"
+      },
+      {
+        "region": "ID",
+        "scope": "DPLK 计划",
+        "count": 2,
+        "unit": "退休计划记录",
+        "relationship": "非保险产品"
+      },
+      {
+        "region": "ID",
+        "scope": "DPLK 材料",
+        "count": 4,
+        "unit": "退休文件引用",
+        "relationship": "不是保险产品或已审读原件"
+      },
+      {
+        "region": "ID",
+        "scope": "Victoria 图片",
+        "count": 5,
+        "unit": "未审读图片引用",
+        "relationship": "未作图片内容审核，不是 PDF 或产品"
+      }
+    ],
+    "combined_product_or_contract_total": null
+  },
+  "previous_verified_public_baseline": {
+    "site_version": 135,
+    "site_url": "https://hong-kong-insurance-library.balabalaniuniu.chatgpt.site/coverage",
+    "github_repository_url": "https://github.com/hui-li-312/insurance-materials-handover",
+    "github_runtime_source_commit": "be1caf68d5d22e007cf32a0c8e527bd94e8db677",
+    "mixed_observations": 5720,
+    "active_feed_descriptors": 35,
+    "directory_entries": 2360,
+    "formal_originals": 4713,
+    "strict_verified_main_files": 426,
+    "baseline_note": "上一已核实部署 Site 135；本轮发布前的历史基线，不再是当前运行状态。"
+  },
+  "delivered_batch": {
+    "status": "published_and_deployed_verified",
+    "frozen_at": "2026-10-27T21:48:50.350869+00:00",
+    "new_typed_observations": 395,
+    "mixed_observations_after_delivery": 6115,
+    "active_feed_descriptors_after_delivery": 43,
+    "actual_publication_commit": "5626ab659c8bb8587048befba717e7784f92765a",
+    "actual_site_version": 136,
+    "github_readback_verified_at": "2026-10-27T22:11:20.184499+00:00",
+    "actual_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
+    "new_formal_original_credit": 0,
+    "new_verified_sku_credit": 0
+  },
+  "delivery_result": "八份有限来源元数据及运行投影已在 GitHub 与 Site 136 交付；全公司、渠道、语言、历史版本和完整合同包缺口继续开放。",
+  "verification_limits": [
+    "公开源码的 714 文件回读与部署源归档的 44 个运行资产逐字节一致；原生成功部署记录标识 Site 136。",
+    "新鲜桌面检查为代表性语境验证，不是 6,115 条逐条在线检查，也不是所有数值都由页面计数器展示。",
+    "移动模拟、触屏与实体手机未测；未重读保险公司来源页面、PDF 或图片。",
+    "此页只总结八份来源包；其他已存在来源的角色分类调整须单独处理，不算本轮已完成工作。"
+  ],
+  "public_handover_link_scope": {
+    "documentation_links": "Mutable main-branch documentation, distinct from source snapshots pinned to the verified release commit.",
+    "status_documents_at_source_release_commit": "The source release commit still contained Site 135 handover records; the Site 136 handover update is a separate documentation change.",
+    "do_not_infer_document_sync_from_link_presence": true
+  }
+}
