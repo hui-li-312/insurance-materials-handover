@@ -1,0 +1,58 @@
+{
+  "snapshot_at": "2026-10-27T18:29:02.792313+00:00",
+  "source_snapshot_at": "2026-10-27T18:20:31.247477+00:00",
+  "scope": "derived_metadata_candidate_not_publication",
+  "supersedes_manifest_sha256": "f7be3821444fdfb790dff829ae9db55d21509d5eff4ebb34e6b9b5649aca488b",
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "2805eced7454382ef33fc8359a2ee7229a4e42c6e10248ce6ffb35df2c42966c",
+      "bytes": 3805
+    },
+    {
+      "file": "frontier.jsonl",
+      "sha256": "aae9d8485e76a26c747418e84b64e8b564ddbcb1644fad2290c77136a153cd63",
+      "bytes": 4556
+    },
+    {
+      "file": "identity-evidence.json",
+      "sha256": "f4e12935e5a95f3d89f4d20095ad6d402ad3cdbf7c286c40f29ab82c0fe13e12",
+      "bytes": 890
+    },
+    {
+      "file": "material-links.jsonl",
+      "sha256": "180c4af5cbacca09390f48418e29ac525da0b9daa440f04682f30cda44850dbe",
+      "bytes": 9204
+    },
+    {
+      "file": "products.jsonl",
+      "sha256": "5258355e07e28f9f5dd897e7468a63cc756302a7834f0edb1687605668fbb671",
+      "bytes": 106242
+    },
+    {
+      "file": "qa-corrections.json",
+      "sha256": "366957fb7f1d3cddbbcc530ba80421a54ab854fcb0f2f74bdff943371b5f9276",
+      "bytes": 865
+    },
+    {
+      "file": "qa-summary.json",
+      "sha256": "c279dd0f2f50ee73282066cabbc52c8e02645537f5d1eda9371af4f1fdb09861",
+      "bytes": 1085
+    },
+    {
+      "file": "run-status.json",
+      "sha256": "7b89e6c218a60a4285a4fd2b8a04b7aed7bd4e6ccac4574fa3ea1baf35d410e8",
+      "bytes": 2898
+    },
+    {
+      "file": "sources.json",
+      "sha256": "7ebebbcd88b0724c288d30d4f4a7efc536ec6b2f0c151675aa9483d2e1f984b7",
+      "bytes": 31274
+    },
+    {
+      "file": "visited-pages.jsonl",
+      "sha256": "a8179982848d32b5b4e7c8ce6b3c866f875686d195add0c96db84dc6f47e2150",
+      "bytes": 35363
+    }
+  ]
+}

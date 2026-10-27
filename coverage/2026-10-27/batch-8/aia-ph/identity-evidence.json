@@ -1,0 +1,14 @@
+{
+  "source_company_brand": "AIA Philippines",
+  "own_brand_identity_status": "confirmed_in_public_about_text",
+  "own_brand_identity_source_id": "aia-ph-web-about",
+  "roster_associated_issuer_id": "own-ph-e1004ee517bf",
+  "roster_legal_name": "AIA Philippines Life and General Insurance Company Inc.",
+  "roster_legal_name_provenance": "PH IC 2026-09-30 composite row 2; prior transcription",
+  "roster_website_association_provenance": "PLIA exact member website anchor, rehashed local HTML",
+  "own_exact_full_legal_name_confirmed": false,
+  "contractual_issuer_id": null,
+  "contractual_issuer_name": null,
+  "contractual_issuer_status": "not_verified_from_product_specific_contract_or_legal_disclosure",
+  "source_company_identity_caveat": "Own brand, roster legal entity and contractual underwriter are separate evidence tiers; AIA group, Thailand and BPI AIA products not merged."
+}

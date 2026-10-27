@@ -1,0 +1,16 @@
+{
+  "qa_revision_at": "2026-10-27T18:29:02.792313+00:00",
+  "source_snapshot_at": "2026-10-27T18:20:31.247477+00:00",
+  "supersedes_candidate": "aia-ph-web-catalog-candidate-v3",
+  "supersedes_manifest_sha256": "f7be3821444fdfb790dff829ae9db55d21509d5eff4ebb34e6b9b5649aca488b",
+  "corrections": [
+    "Recorded original Critical Protect Plus L754-L862 text truncation without rewriting original source metadata timestamps or bytes.",
+    "Added separately timed supplemental source and observed-related-card closure; no additional named offerings or PDFs.",
+    "Distinguished 30 web operations from 29 distinct requested URLs and 29 text captures plus one tool error."
+  ],
+  "named_observation_count_unchanged": 56,
+  "source_capture_timestamps_preserved": true,
+  "prior_candidates_rewritten": false,
+  "audit_network_operations": 0,
+  "public_writes": false
+}
