@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "scope": "public-source metadata only",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 1520,
+      "sha256": "83de7519bbf33b9cf2c7a7fd075fc17b8a60c2ba24dd506a88828b9c2a1e0588"
+    },
+    {
+      "file": "baseline-reconciliation.json",
+      "bytes": 833,
+      "sha256": "f1b5ca32a0d0c7032438a3bb652abdf6dbd718063a0c7fed44a42cc127417d3c"
+    },
+    {
+      "file": "coverage-summary.json",
+      "bytes": 2256,
+      "sha256": "cccab9c2b4e90bd84f09dc8a8413fbaa12eaf117996880ccaef29cad110a5f35"
+    },
+    {
+      "file": "documents-hla-disclosure-directory.jsonl",
+      "bytes": 411830,
+      "sha256": "a7e68ea54c13002c4904de4a170578727af8097a1beff609140994eba1950656"
+    },
+    {
+      "file": "issuer-origin-evidence.json",
+      "bytes": 1675,
+      "sha256": "aeb395ae2cad40e30f99498aadfd478cf7bc953ce55aeabc1dba5d7066868150"
+    },
+    {
+      "file": "products-hongleong-my.jsonl",
+      "bytes": 375661,
+      "sha256": "a9faa1fcb28abfd07a3f9638b5390c3da32ef75553503db2961b72df8c8c257f"
+    },
+    {
+      "file": "sources.json",
+      "bytes": 24067,
+      "sha256": "4390220fdf4375492421f589d90ab32bf8998ddbd70ee4c9de48de564a647b09"
+    }
+  ]
+}
