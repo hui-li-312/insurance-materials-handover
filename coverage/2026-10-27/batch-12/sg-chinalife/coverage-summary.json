@@ -1,0 +1,75 @@
+{
+  "snapshot_at": "2026-10-27T13:23:36.420304+00:00",
+  "jurisdiction": "SG",
+  "issuer": "CHINA LIFE INSURANCE (SINGAPORE) PTE. LTD.",
+  "issuer_id": "SG-own-d92208c3e2d0a057",
+  "products_status": "partial_one_named_detail_unavailable_wider_channels_and_contracts_unclosed",
+  "C1": {
+    "status": "positive_official_source_identity",
+    "basis": "SDIC PPF life-member row3 exact legal entity and website, MAS exact legal entity, cached official HK Singapore HTTPS reference; no candidate-domain guessing."
+  },
+  "C2": {
+    "status": "selected_queue_processed_one_detail_gap",
+    "selected_named_targets": 30,
+    "named_detail_targets_read": 29,
+    "named_card_only_detail_502": 1,
+    "root_category_targets_read": 6,
+    "source_request_events": 39,
+    "HTTP200": 36,
+    "HTTP502": 2,
+    "selected_catalog_enumeration_scope": "Six observed catalog roots plus homepage named cards and their exact source-advertised product/rider detail links.",
+    "remaining_failed_detail": {
+      "official_name": "China Life Lifetime Income Plan (RMB)",
+      "url": "https://www.chinalife.com.sg/products/China-Life-Lifetime-Income-Plan-%28RMB%29",
+      "attempts": 2,
+      "failure": "HTTP502 both initial and one delayed exact-URL retry; no further retry, details/materials not inferred."
+    },
+    "pagination_evidence": "No numbered/next-page continuation in the six selected category/root scopes. Final read-detail href reconciliation exposes no new product/rider target. Percent-encoded alias comparison does not alter request URLs.",
+    "whole_issuer_catalog_complete": false,
+    "HTTP_to_HTTPS_redirect_not_followed_original_request": 1
+  },
+  "C3": {
+    "material_reference_count": 48,
+    "unique_publishable_material_urls": 46,
+    "material_role_counts": {
+      "brochure_reference": 44,
+      "general_consumer_information": 4
+    },
+    "product_related_brochure_reference_occurrences": 44,
+    "general_consumer_DPI_reference_occurrences_zero_product_material_credit": 4,
+    "rider_pages_with_no_public_PDF_href": 5,
+    "file_contents_and_complete_contract_packages_verified": false
+  },
+  "C4": {
+    "status": "not_started",
+    "PDFs_downloaded": 0,
+    "file_bodies_reviewed": 0,
+    "formal_new_material_files": 0
+  },
+  "inventory_observations": 36,
+  "role_counts": {
+    "catalog_category": 6,
+    "product": 23,
+    "plan": 2,
+    "rider": 5
+  },
+  "verified_unique_SKUs": 0,
+  "key_findings": [
+    "Generic /products landing retains apparent overseas MPF/CPF/group template copy; these template names are not assigned as Singapore offerings. Current category/homepage named cards and own detail pages form the inventory.",
+    "Twenty-five named product/family target pages include two named plan families. The combined USD Eternal Wealth page and Multiplier Guardian Series preserve explicit variant names without pretending unique contract counts.",
+    "Five rider-page observations include a combined regular/DIRECT Critical Care family with variant distinctions. Generic basic-plan attachment prose is not used to invent specific named-parent eligibility.",
+    "No public PDF href appears on the read rider pages. Adviser-provided summaries/provisions may exist; no outreach or private material access performed.",
+    "DIRECT product pages link generic consumer infographics/checklists; these four reference occurrences are not product-specific policy materials.",
+    "RMB Lifetime Income remains a named homepage card only after two502 outcomes, not a complete product-detail read.",
+    "Product dates remain null; source timestamps and URL filenames are not product-effective dates. Public listing does not confirm current purchase eligibility."
+  ],
+  "limits": [
+    "Wider bank/distributor, legacy, non-English, unlinked variants and full policy/rider packages remain unclosed.",
+    "No quotation, application, account/login, contact, purchase, external distributor website or PDF file requested.",
+    "Official publisher attribution is not independent policy-contract verification."
+  ],
+  "metadata_reviewed_at": "2026-10-27T21:16:52.836081+00:00",
+  "status": "bounded_metadata_reviewed_not_whole_market_complete",
+  "parent_edges_resolved_by_exact_name_and_source_page": 0,
+  "source_date_policy": "Publication/effective dates unknown and null; acquisition and metadata review times kept separately."
+}

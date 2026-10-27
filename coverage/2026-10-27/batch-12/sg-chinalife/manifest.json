@@ -1,0 +1,57 @@
+{
+  "created_at": "2026-10-27T21:16:52.836081+00:00",
+  "status": "reviewed_metadata_only",
+  "source_snapshot_manifest_sha256": "4e16a93010ca946e3cdb73a4c52cf134764a3274580e6e2c8b477b39e8ba763a",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 1236,
+      "sha256": "ddf5b5a7c1ff92ea286e241a9016c151187c35c2330ed66fdb10e3c6a88e7f8c"
+    },
+    {
+      "file": "baseline-reconciliation.json",
+      "bytes": 488,
+      "sha256": "2eded33c0ad440778d8fa0eec69e3e0253e0dc0e811615422e8fa40f16fa6749"
+    },
+    {
+      "file": "comparison-only-aliases.json",
+      "bytes": 400,
+      "sha256": "3b196498824ce4868ae024f1a2cc1343c784fcc63644e8d38efe62d0a0ec628b"
+    },
+    {
+      "file": "corrections.json",
+      "bytes": 327,
+      "sha256": "93cacc013519021dd3cd8522310c8dc1f3b5079196f27053d5a3be90eae93dfc"
+    },
+    {
+      "file": "coverage-summary.json",
+      "bytes": 4361,
+      "sha256": "be0b336754d52d33e14dacda8ca06da386fdd1c4b062e164065d69795e128e10"
+    },
+    {
+      "file": "final-link-reconciliation.json",
+      "bytes": 423,
+      "sha256": "463a49bdf44831d4aabbb1beaac084bb2c24f535575c7e2721a23ede7d0bef83"
+    },
+    {
+      "file": "issuer-origin-evidence.json",
+      "bytes": 890,
+      "sha256": "eb39e95e8e93cecc2199419146acc162e23529cc3efbdc14172138e3b25f5faa"
+    },
+    {
+      "file": "products-sg-chinalife.jsonl",
+      "bytes": 121260,
+      "sha256": "5979a6622634172c3879e9bcd1001ccca47668c5a16aaa77dca446274789e8cf"
+    },
+    {
+      "file": "source-attempts.json",
+      "bytes": 9916,
+      "sha256": "88bec111f303d71bfceb543f456264cfcbd3a0613eabb99bd581bf716bc2e324"
+    },
+    {
+      "file": "sources.json",
+      "bytes": 15905,
+      "sha256": "fd99061ebc97840c20639826834a9a65c05ea88c7e50efad8376dad0dbdf7cb8"
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "source_url": "https://www.chinalife.com.sg",
+    "checked_at": "2026-10-27T13:09:47.521566+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 110885,
+    "content_sha256": "d05ca83e9a9a36739d6c34c88267a71ab5bd80bfa4fc710e9123ae510434f0f9"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products",
+    "checked_at": "2026-10-27T13:10:43.433899+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 70714,
+    "content_sha256": "e1f29106611a3fc31d455568ab48dc0811ca7f32ebcd3aa0083861947c6d16f7"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/endowment-plans",
+    "checked_at": "2026-10-27T13:10:49.536507+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/endowment-plans",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 74145,
+    "content_sha256": "7c296323f0daae32d05226a90fade4be9e316d9e79b4fffe50770d319c63663d"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/retirement-annuity-plans",
+    "checked_at": "2026-10-27T13:10:53.752313+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/retirement-annuity-plans",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 91737,
+    "content_sha256": "a3efd750f1fc162e42f757354e09640791baf45581dda3a66ee0b134d4b34848"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/legacy-planning",
+    "checked_at": "2026-10-27T13:10:58.331532+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/legacy-planning",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 76108,
+    "content_sha256": "94585981b2973fe7f0eb895ab4ae5d8f9c5d764c7f5353bcc30c4343f439ed44"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/protection",
+    "checked_at": "2026-10-27T13:11:03.211693+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/protection",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 102326,
+    "content_sha256": "3a050b3fa8b3b3852c8994205007648a3c873cb81a50b2ba017005045f67bda1"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/riders",
+    "checked_at": "2026-10-27T13:11:07.604829+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/riders",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 78700,
+    "content_sha256": "685982053d9c20555d220c8ce28c1be491b2fddd2e24ff3b5e9a9b3b1d2aea9c"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/china-life-harvest-income-supreme-plan-usd-s2",
+    "checked_at": "2026-10-27T13:11:12.037800+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/china-life-harvest-income-supreme-plan-usd-s2",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 82018,
+    "content_sha256": "9e8e2451f478b9310c325e4f468db67e68a22769ef0efb6f4bb71e75e052801c"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/china-life-eternal-wealth-china-life-eternal-wealth-supreme-USD",
+    "checked_at": "2026-10-27T13:11:16.121235+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/china-life-eternal-wealth-china-life-eternal-wealth-supreme-USD",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 83388,
+    "content_sha256": "12791cc5b72ae52aa0969105c315600489dbd0dae606da419bd2b66ebcf7c200"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/china-life-lifetime-income-supreme-plan(rmb)",
+    "checked_at": "2026-10-27T13:11:20.113417+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/china-life-lifetime-income-supreme-plan(rmb)",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 84578,
+    "content_sha256": "31237e53279d3f582cfcf2a964ec214db5373b4c77da6b3847fc34572e569cdc"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/china-life-lifetime-income-plan",
+    "checked_at": "2026-10-27T13:11:24.244949+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/china-life-lifetime-income-plan",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 84609,
+    "content_sha256": "cf02a360b228392ec2419f21ac514ac5e24705e97ad7f37ab3df3ffe15c93c99"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/insurance/china-life-harvest-income-supreme-plan-usd",
+    "checked_at": "2026-10-27T13:11:28.210554+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/insurance/china-life-harvest-income-supreme-plan-usd",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 85346,
+    "content_sha256": "b6b7eda0752ba1bd002f5eccd3b057adda81b819f22d8aa5766d57de6ed81270"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/china-life-lifetime-income-supreme-plan",
+    "checked_at": "2026-10-27T13:11:37.465040+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/china-life-lifetime-income-supreme-plan",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 85968,
+    "content_sha256": "75638b5eab804a662fda25aab33a74522380e02b853ed1a7af2361e2f692adf9"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/china-life-multiplier-guardian-supreme",
+    "checked_at": "2026-10-27T13:11:41.347679+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/china-life-multiplier-guardian-supreme",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 89725,
+    "content_sha256": "d12a687faca18c42de73af7361d9b3675e16134418b4ae8f293332fec2649e12"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/china-life-critical-trio",
+    "checked_at": "2026-10-27T13:11:47.230558+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/china-life-critical-trio",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 82023,
+    "content_sha256": "7e8f5d170ed20c94d80c939c566e57eed5b9c22e69b779ac539ef7e72d6be8aa"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/china-life-eternal-wealth",
+    "checked_at": "2026-10-27T13:11:51.621695+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/china-life-eternal-wealth",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 83171,
+    "content_sha256": "d1ae40444fcdc5aaeeecd08ebe26c6c8685ae32ac2c70c95be0864de55a791c8"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/china-life-harvest-income-plan-%28USD%29",
+    "checked_at": "2026-10-27T13:11:55.556495+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/china-life-harvest-income-plan-%28USD%29",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 87070,
+    "content_sha256": "203b0e0edbedd7b8154986db9cf7cb7511c6c2fe5ebf3421e7f15755e6974762"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/SOPHY",
+    "checked_at": "2026-10-27T13:12:01.130173+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/SOPHY",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 84308,
+    "content_sha256": "50975e22fa1aef8bb23ea19e5b7fa68e4e153b160dd22580701fee3fe509a622"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/China-Life-Term-Guardian-Plus",
+    "checked_at": "2026-10-27T13:12:04.916755+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/China-Life-Term-Guardian-Plus",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 83434,
+    "content_sha256": "af065c71f88528e07df500a94cde64e0a72dea563c8c75f097e2a6a4e6005b07"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/China-Life-Accident-Guardian",
+    "checked_at": "2026-10-27T13:12:09.173371+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/China-Life-Accident-Guardian",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 82984,
+    "content_sha256": "f266f07238e085a46aaed6849d9ea78c1b3c42b7e0e2e25c7a9f7352e353c75a"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/China-Life-Prosperous-Retirement",
+    "checked_at": "2026-10-27T13:12:13.602136+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/China-Life-Prosperous-Retirement",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 83747,
+    "content_sha256": "2a4c5750b8d5fc3d20e7843c4b1e4637545b61e233d312491f8fe9965c8d747a"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/China-Life-SaveForward-Endowment-Plan",
+    "checked_at": "2026-10-27T13:12:59.848861+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/China-Life-SaveForward-Endowment-Plan",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 83233,
+    "content_sha256": "5239e199a2f133d7f5a23e750c9663770d154a88af0bd7c51c50be66285c399e"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/China-Life-FlexiCash-Growth",
+    "checked_at": "2026-10-27T13:13:04.398213+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/China-Life-FlexiCash-Growth",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 85360,
+    "content_sha256": "49101bf3aecf802b032509d19df5b4b8923d4958134273e5dacd435b9376a773"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/personal-accident-cashback-plan",
+    "checked_at": "2026-10-27T13:13:08.578037+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/personal-accident-cashback-plan",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 88681,
+    "content_sha256": "c3db05ffd4a9944464d79e22c315f18411eb5a80b9a745207843f8e1bb8a1d5c"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/China-Life-Term-Guardian",
+    "checked_at": "2026-10-27T13:13:14.566021+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/China-Life-Term-Guardian",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 83304,
+    "content_sha256": "7d1d5bf5f7479b7bbf85fff98c093f0b41bf0587f1ca5a9de65b915fd2f12ed7"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/China-Life-Whole-Life-Guardian",
+    "checked_at": "2026-10-27T13:13:21.312695+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/China-Life-Whole-Life-Guardian",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 83239,
+    "content_sha256": "4465db63cd55a62e59fdc7e94898257ae65fd649c6d3aecd52ee4d19f3c4e3bc"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/China-Life-MediCash-Guardian",
+    "checked_at": "2026-10-27T13:13:26.060990+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/China-Life-MediCash-Guardian",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 86562,
+    "content_sha256": "75136c53c5a79fac28be19bcf3eb785474f04362df8068b425cd356f2bd5c0d9"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/DIRECT-China-Life-Term-Plan",
+    "checked_at": "2026-10-27T13:13:30.567195+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/DIRECT-China-Life-Term-Plan",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 80305,
+    "content_sha256": "4ec8020906d226b9b80bc90afe1df243f2f6796e0e2fbee9e8b061a8c9a0feba"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/DIRECT-China-Life-Whole-Life-Plan",
+    "checked_at": "2026-10-27T13:13:35.338750+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/DIRECT-China-Life-Whole-Life-Plan",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 82166,
+    "content_sha256": "73f6aa91562983e014b4117ec6c29f8080d5acd22f8e827e2bde44e2401c7b43"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/China-Life-Cancer-Guardian",
+    "checked_at": "2026-10-27T13:13:39.679945+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/China-Life-Cancer-Guardian",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 83139,
+    "content_sha256": "77259eacf68cae9ed9cf149d29eefc8763a0097e012b811a90496d07bc8957e5"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/products/China-Life-Multiplier-Guardian-Series",
+    "checked_at": "2026-10-27T13:13:43.735995+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/products/China-Life-Multiplier-Guardian-Series",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 87107,
+    "content_sha256": "f1aaae19d2fa5b44a17bddf198ceaf8902c763438bdb608ac476efdd3358be76"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/riders/china-life-payer-benefit-rider",
+    "checked_at": "2026-10-27T13:13:47.823894+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/riders/china-life-payer-benefit-rider",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 81239,
+    "content_sha256": "99ac90d3b0de16b52aa20b3c56a142b62d117c48061e7770240855197574e8d1"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/riders/china-life-premium-waiver-benefit-rider",
+    "checked_at": "2026-10-27T13:13:51.701704+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/riders/china-life-premium-waiver-benefit-rider",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 84874,
+    "content_sha256": "d70fca4325862692d9b8cdae34f8252f38619197443c143ec87afbf80a145ffd"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/riders/china-life-enhanced-payer-benefit-rider",
+    "checked_at": "2026-10-27T13:13:56.722992+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/riders/china-life-enhanced-payer-benefit-rider",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 85006,
+    "content_sha256": "636341e39e79fe916202a18c036fac9f2608af7f315b77c1ac5e3ee70ef6da67"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/riders/China-Life-Critical-Care-Rider/DIRECT-China-Life-Critical-Care-Rider",
+    "checked_at": "2026-10-27T13:14:01.930337+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/riders/China-Life-Critical-Care-Rider/DIRECT-China-Life-Critical-Care-Rider",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 83787,
+    "content_sha256": "dd83e85fd1a797025ecbe53524666fbc9fa746db261e00f764c4f70e72b5135b"
+  },
+  {
+    "source_url": "https://www.chinalife.com.sg/riders/china-life-early-critical-care-rider",
+    "checked_at": "2026-10-27T13:14:06.376957+00:00",
+    "http_status": 200,
+    "final_url": "https://www.chinalife.com.sg/riders/china-life-early-critical-care-rider",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "bytes": 81234,
+    "content_sha256": "986ed4ecd001d574a4137c3394457375f5513d545d468489808c1ea3f6f03489"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "source_scope": "All36 queued root/detail targets,35successfulHTML; checked only source-advertised same-origin product/rider hrefs, not a recursive crawler.",
+  "new_named_target_links": [],
+  "one_failed_detail_preserved": true,
+  "no_page_cursor_or_next_link_in_selected_categories": true,
+  "source_URL_normalization": "percent-decoding/fragments/trailing-slash used comparison-only; request URLs preserved exact"
+}

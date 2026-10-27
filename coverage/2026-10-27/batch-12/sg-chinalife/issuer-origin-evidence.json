@@ -1,0 +1,16 @@
+{
+  "issuer_id": "SG-own-d92208c3e2d0a057",
+  "legal_name": "CHINA LIFE INSURANCE (SINGAPORE) PTE. LTD.",
+  "exact_origin": "https://www.chinalife.com.sg",
+  "source_date": null,
+  "mapping_source_url": "https://www.sdic.org.sg/api/PPFLSchemeMemberList.json",
+  "mapping_source_row": 3,
+  "mapping_source_sha256": "a8ba6f853918c5c1a054bc21578f4cf0c4178fe7a5b1b24bb286ffb836255ccd",
+  "mapping_source_checked_at": "2026-10-27T12:55:31.302420+00:00",
+  "regulator_source_url": "https://eservices.mas.gov.sg/fid/custom/printpartial?sector=Insurance",
+  "https_reference_source_url": "https://www.chinalife.com.hk",
+  "https_reference_label": "China Life (Overseas) – Singapore",
+  "https_reference_checked_at": "2026-10-27T10:11:14.871564+00:00",
+  "https_reference_content_sha256": "6525fc2159a639c49d9468680556df52b36933eaae0e888c74916414a3e00684",
+  "contract_document_reviewed": false
+}

@@ -1,0 +1,8 @@
+{
+  "source_snapshot_manifest_sha256": "4e16a93010ca946e3cdb73a4c52cf134764a3274580e6e2c8b477b39e8ba763a",
+  "corrections": [],
+  "parent_edge_resolution": 0,
+  "source_rows_preserved": 36,
+  "original_snapshot_unchanged": true,
+  "review_scope": "Cached official HTML metadata, not live availability or linked PDF content."
+}
