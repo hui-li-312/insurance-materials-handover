@@ -1,0 +1,188 @@
+[
+  {
+    "name": "normal_insurance_page",
+    "body_text": "<html><title>Insurance products</title><h1>Plans</h1><p>Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. </p></html>",
+    "expected": "content_candidate"
+  },
+  {
+    "name": "substantial_with_incapsula_script",
+    "body_text": "<html><title>Insurance products</title><h1>Plans</h1><p>Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. </p><script src=\"/_Incapsula_Resource?fixture=1\"></script></html>",
+    "expected": "content_candidate"
+  },
+  {
+    "name": "script_phrase_not_visible",
+    "body_text": "<html><title>Insurance products</title><h1>Plans</h1><p>Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. </p><script>var x=\"Request unsuccessful\";</script></html>",
+    "expected": "content_candidate"
+  },
+  {
+    "name": "hidden_phrase_not_visible",
+    "body_text": "<html><title>Insurance products</title><h1>Plans</h1><p>Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. </p><div hidden>Request unsuccessful</div></html>",
+    "expected": "content_candidate"
+  },
+  {
+    "name": "template_phrase_not_visible",
+    "body_text": "<html><title>Insurance products</title><h1>Plans</h1><p>Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. </p><template>Access denied</template></html>",
+    "expected": "content_candidate"
+  },
+  {
+    "name": "sparse_incapsula_challenge",
+    "body_text": "<html><iframe src=\"/_Incapsula_Resource\"></iframe></html>",
+    "expected": "stop_challenge"
+  },
+  {
+    "name": "visible_unsuccessful_incapsula",
+    "body_text": "<h1>Request unsuccessful</h1><script src=\"/_Incapsula_Resource\"></script>",
+    "expected": "stop_challenge"
+  },
+  {
+    "name": "visible_challenge_large_body",
+    "body_text": "<h1>Verify you are human</h1><html><title>Insurance products</title><h1>Plans</h1><p>Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. </p></html>",
+    "expected": "stop_challenge"
+  },
+  {
+    "name": "sparse_cloud_challenge",
+    "body_text": "<script src=\"/cdn-cgi/challenge-platform/test\"></script>",
+    "expected": "stop_challenge"
+  },
+  {
+    "name": "bare_forbidden",
+    "body_text": "Forbidden",
+    "expected": "stop_challenge"
+  },
+  {
+    "name": "ordinary_product_code_403",
+    "body_text": "{\"product\":{\"code\":403,\"name\":\"Synthetic Plan\"}}",
+    "expected": "content_candidate"
+  },
+  {
+    "name": "ordinary_products_code_403",
+    "body_text": "{\"products\":[{\"code\":\"403\",\"name\":\"Synthetic Plan\"}]}",
+    "expected": "content_candidate"
+  },
+  {
+    "name": "root_code_forbidden",
+    "body_text": "{\"code\":403,\"message\":\"Forbidden\"}",
+    "expected": "stop_access_denial"
+  },
+  {
+    "name": "root_http_status",
+    "body_text": "{\"http_status\":403}",
+    "expected": "stop_access_denial"
+  },
+  {
+    "name": "root_error_forbidden",
+    "body_text": "{\"error\":\"Forbidden\"}",
+    "expected": "stop_access_denial"
+  },
+  {
+    "name": "nested_error_code",
+    "body_text": "{\"response\":{\"error\":{\"code\":403}}}",
+    "expected": "stop_access_denial"
+  },
+  {
+    "name": "nested_errors_list",
+    "body_text": "{\"data\":{\"errors\":[{\"status\":407,\"message\":\"Proxy authentication required\"}]}}",
+    "expected": "stop_access_denial"
+  },
+  {
+    "name": "root_ambiguous_code",
+    "body_text": "{\"code\":403}",
+    "expected": "review_required"
+  },
+  {
+    "name": "unknown_context_code",
+    "body_text": "{\"response\":{\"code\":403}}",
+    "expected": "review_required"
+  },
+  {
+    "name": "ambiguous_message",
+    "body_text": "{\"message\":\"Forbidden\"}",
+    "expected": "review_required"
+  },
+  {
+    "name": "other_application_error",
+    "body_text": "{\"error\":{\"code\":500,\"message\":\"Unavailable\"}}",
+    "expected": "review_required"
+  },
+  {
+    "name": "null_error",
+    "body_text": "{\"error\":null,\"products\":[]}",
+    "expected": "content_candidate"
+  },
+  {
+    "name": "malformed_json",
+    "body_text": "{\"error\":",
+    "expected": "review_required"
+  },
+  {
+    "name": "duplicate_json_keys",
+    "body_text": "{\"error\":null,\"error\":\"Forbidden\"}",
+    "expected": "review_required"
+  },
+  {
+    "name": "empty_200",
+    "body_text": "",
+    "expected": "review_required"
+  },
+  {
+    "name": "sparse_app_shell",
+    "body_text": "<div id=\"app\"></div>",
+    "expected": "review_required"
+  },
+  {
+    "name": "not_found_heading",
+    "body_text": "<h1>404 Page not found</h1>",
+    "expected": "not_found"
+  },
+  {
+    "name": "ordinary_number_in_page",
+    "body_text": "<html><title>Insurance products</title><h1>Plan code 403</h1><p>Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. Synthetic insurance product description. </p></html>",
+    "expected": "content_candidate"
+  },
+  {
+    "name": "http_404",
+    "body_text": "",
+    "overrides": {
+      "http_status": 404
+    },
+    "expected": "not_found"
+  },
+  {
+    "name": "transient_500",
+    "body_text": "",
+    "overrides": {
+      "http_status": 500
+    },
+    "expected": "transient_server_error"
+  },
+  {
+    "name": "product_status_is_ambiguous",
+    "body_text": "{\"product\":{\"status\":403}}",
+    "expected": "review_required"
+  },
+  {
+    "name": "nested_product_metadata_code_ambiguous",
+    "body_text": "{\"product\":{\"metadata\":{\"code\":403}}}",
+    "expected": "review_required"
+  },
+  {
+    "name": "combined_root_status_string",
+    "body_text": "{\"status\":\"403 Forbidden\"}",
+    "expected": "stop_access_denial"
+  },
+  {
+    "name": "unclassified_forbidden_string",
+    "body_text": "{\"response\":\"Forbidden\"}",
+    "expected": "review_required"
+  },
+  {
+    "name": "normalized_status_alias_collision",
+    "body_text": "{\"status_code\":403,\"status-code\":200}",
+    "expected": "review_required"
+  },
+  {
+    "name": "visible_login_wall",
+    "body_text": "<h1>Login to continue</h1>",
+    "expected": "stop_challenge"
+  }
+]
