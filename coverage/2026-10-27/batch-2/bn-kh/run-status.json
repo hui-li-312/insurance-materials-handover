@@ -1,0 +1,246 @@
+{
+  "checked_at": "2026-10-27T10:46:51.351821+00:00",
+  "state": "in_progress_bn_kh_partial_metadata",
+  "regions": {
+    "VN": {
+      "census_rows": 60,
+      "census_status": "54_historical_2024_plus_6_supplemental_candidates_not_current_denominator",
+      "product_status": "pending",
+      "product_metadata_rows": 0,
+      "issuer_catalog_status_counts": {
+        "unchecked": 60
+      },
+      "issuers_with_metadata": 0,
+      "material_link_occurrences": 0
+    },
+    "BN": {
+      "census_rows": 11,
+      "census_status": "observed_public_roster_exhausted_asof_unknown",
+      "product_status": "partial",
+      "product_metadata_rows": 144,
+      "issuer_catalog_status_counts": {
+        "partial": 6,
+        "blocked": 5
+      },
+      "issuers_with_metadata": 9,
+      "material_link_occurrences": 202
+    },
+    "KH": {
+      "census_rows": 39,
+      "census_status": "observed_public_roster_exhausted_asof_unknown",
+      "product_status": "partial",
+      "product_metadata_rows": 284,
+      "issuer_catalog_status_counts": {
+        "partial": 23,
+        "blocked": 10,
+        "unchecked": 6
+      },
+      "issuers_with_metadata": 16,
+      "material_link_occurrences": 379
+    },
+    "LA": {
+      "census_rows": 2,
+      "census_status": "regulator_blocked_2_transfer_related_entities_not_denominator",
+      "product_status": "pending",
+      "product_metadata_rows": 0,
+      "issuer_catalog_status_counts": {
+        "unchecked": 2
+      },
+      "issuers_with_metadata": 0,
+      "material_link_occurrences": 0
+    },
+    "MM": {
+      "census_rows": 27,
+      "census_status": "historical_baseline_current_updates_pending",
+      "product_status": "pending",
+      "product_metadata_rows": 0,
+      "issuer_catalog_status_counts": {
+        "unchecked": 27
+      },
+      "issuers_with_metadata": 0,
+      "material_link_occurrences": 0
+    }
+  },
+  "blocks": [
+    {
+      "region": "LA",
+      "action": "GET public regulator homepage",
+      "target": "https://lis.gov.la/",
+      "result": "denied",
+      "reason": "HTTP 403 Forbidden",
+      "next": "no same-origin retries; seek separate official MOF publication; otherwise denominator remains unknown"
+    },
+    {
+      "region": "BN",
+      "action": "GET public company catalog",
+      "target": "https://www.tokiomarine.com/sg/en/life/brunei.html",
+      "result": "denied",
+      "reason": "Incapsula denial body despite HTTP 200; stopped same origin, affects two listed insurers",
+      "next": "Do not bypass; public evidence previously read remains partial"
+    },
+    {
+      "region": "BN",
+      "action": "GET public company homepage",
+      "target": "https://www.takafulbrunei.com.bn/",
+      "result": "denied",
+      "reason": "HTTP 403; affects two listed takaful operators",
+      "next": "Do not retry same/equivalent origin"
+    },
+    {
+      "region": "KH",
+      "action": "GET anonymous public association member endpoint declared by public website",
+      "target": "https://api.iac.org.kh/api/companies/type/All",
+      "result": "denied",
+      "reason": "HTTP 200 response contains application statusCode 403 Forbidden Unauthorized; no key/header used",
+      "next": "Stopped API origin; use separately public insurer websites and regulator denominator"
+    },
+    {
+      "region": "KH",
+      "action": "GET public website/catalog",
+      "target": "https://www.bkicambodia.com/our-company",
+      "result": "denied",
+      "reason": "HTTP 403",
+      "next": "Stop same and equivalent origin; no alternate-header/login/WAF bypass."
+    },
+    {
+      "region": "KH",
+      "action": "GET public website/catalog",
+      "target": "https://www.etiqa.com.kh/etiqakh/homepage/en/contact-us",
+      "result": "denied",
+      "reason": "HTTP 403",
+      "next": "Stop same and equivalent origin; no alternate-header/login/WAF bypass."
+    },
+    {
+      "region": "KH",
+      "action": "GET public website/catalog",
+      "target": "https://www.phillipinsurance.com.kh/",
+      "result": "denied",
+      "reason": "HTTP 403",
+      "next": "Stop same and equivalent origin; no alternate-header/login/WAF bypass."
+    },
+    {
+      "region": "KH",
+      "action": "GET public website/catalog",
+      "target": "https://www.fwd.com.kh/en/",
+      "result": "denied",
+      "reason": "HTTP 403",
+      "next": "Stop same and equivalent origin; no alternate-header/login/WAF bypass."
+    },
+    {
+      "region": "KH",
+      "action": "GET public website/catalog",
+      "target": "https://www.newa-kh.com/en/",
+      "result": "denied",
+      "reason": "HTTP 403",
+      "next": "Stop same and equivalent origin; no alternate-header/login/WAF bypass."
+    },
+    {
+      "region": "KH",
+      "action": "GET public website/catalog",
+      "target": "https://www.prosur.com.kh/en/",
+      "result": "denied",
+      "reason": "HTTP 403",
+      "next": "Stop same and equivalent origin; no alternate-header/login/WAF bypass."
+    },
+    {
+      "region": "KH",
+      "action": "GET public website/catalog",
+      "target": "https://www.rgi.com.kh/en/landing",
+      "result": "denied",
+      "reason": "HTTP 403",
+      "next": "Stop same and equivalent origin; no alternate-header/login/WAF bypass."
+    },
+    {
+      "region": "KH",
+      "action": "GET public website/catalog",
+      "target": "https://www.sovannaphumlife.com/",
+      "result": "denied",
+      "reason": "HTTP 403",
+      "next": "Stop same and equivalent origin; no alternate-header/login/WAF bypass."
+    },
+    {
+      "region": "KH",
+      "action": "GET public website/catalog",
+      "target": "https://civil-safe.com/",
+      "result": "denied",
+      "reason": "HTTP 403",
+      "next": "Stop same and equivalent origin; no alternate-header/login/WAF bypass."
+    },
+    {
+      "region": "KH",
+      "action": "GET public website/catalog",
+      "target": "https://www.ababank.com/etiqa-general-insurance/",
+      "result": "denied",
+      "reason": "HTTP 403",
+      "next": "Stop same and equivalent origin; no alternate-header/login/WAF bypass."
+    },
+    {
+      "region": "BN",
+      "action": "Continue Great Eastern public catalog reads",
+      "target": "https://www.greateasternlife.com",
+      "result": "denied",
+      "reason": "Shared-origin soft-WAF observed 2026-10-27T10:10:53.824206+00:00; previous BN observations predate denial.",
+      "next": "No same/equivalent-origin retry. Retain read-before-denial metadata only."
+    }
+  ],
+  "counts_not_original_documents": true,
+  "publication_scope": "Public company and product metadata only; no raw HTML, headers, personal contacts, PDF bodies or original-document increments.",
+  "product_inventory": {
+    "rows": 428,
+    "meaning": "Page/embedded-offering metadata including category directories, coverage classes, product families, base/rider packages, language/context variants and resource candidates; NOT unique current SKUs",
+    "roles": {
+      "named_product": 135,
+      "group_product": 21,
+      "group_scheme_catalog": 1,
+      "product_family": 172,
+      "resource_only_product_candidate": 2,
+      "rider": 29,
+      "coverage_class": 44,
+      "category_catalog": 13,
+      "benefit_or_rider_candidate": 5,
+      "base_product_and_rider_package": 4,
+      "group_insurance_package": 2
+    },
+    "linked_material_occurrences": 581,
+    "downloaded_verified_original_increment": 0,
+    "source_observed_unique_linked_material_urls": 472,
+    "public_unique_material_urls": 459,
+    "public_material_url_occurrences": 559,
+    "withheld_material_locator_occurrences": 22,
+    "source_observed_material_occurrences": 581,
+    "material_count_basis": "Source-observed counts retain historical-held associations; public URL counts include only non-null exposed locators."
+  },
+  "excluded_incident": {
+    "count": 9,
+    "type": "unauthenticated_social_share_dialog_GET",
+    "action": "No login, submit or sharing performed. Batch interrupted; exact-host discovery filter and social exclusions applied. Excluded from products and public traversal ledger."
+  },
+  "network_controls": {
+    "positive_exact_origin_allowlist": true,
+    "auto_redirect_following": false,
+    "per_origin_serial_requests": true,
+    "cooperative_stop_marker": true,
+    "uncertain_origins_quarantined": true,
+    "note": "Stricter control applies to continuation from 10:24 UTC; historical discovery requests are preserved honestly, not relabelled as pre-approved.",
+    "transport_denial_guard": "Continuation from 10:36 UTC also stops nested transport exception text 401/403/407; offline fixtures passed before resuming approved bounded reads. Shared-origin denials are imported before requests."
+  },
+  "qa_corrections": {
+    "checked_at": "2026-10-27T10:46:51.351821+00:00",
+    "correction_count": 16,
+    "forte_life_routes_reassigned": 4,
+    "material_role_label_prioritized": 12,
+    "duplicate_contexts_flagged": true,
+    "metadata_row_total_unchanged": 428,
+    "downloaded_verified_original_increment": 0
+  },
+  "frozen_at": "2026-10-27T10:47:04.712866+00:00",
+  "public_projection": {
+    "created_at": "2026-10-27T11:37:04.438913+00:00",
+    "qa_status": "independent_qa_pending",
+    "product_material_occurrences_retained": 581,
+    "product_material_occurrences_withheld_locator": 22,
+    "product_material_occurrences_with_public_locator": 559,
+    "verified_original_count_increment": 0,
+    "note": "Exact locator matches a historically held original. Current bytes were not retrieved or verified; direct locator withheld pending reuse review. Historical hold does not establish current confidentiality."
+  }
+}

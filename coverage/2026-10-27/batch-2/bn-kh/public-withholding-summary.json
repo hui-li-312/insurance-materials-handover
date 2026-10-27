@@ -1,0 +1,24 @@
+{
+  "created_at": "2026-10-27T11:37:04.438913+00:00",
+  "projection_basis": "Previously frozen metadata snapshot; recursive known-historical-held-locator withholding applied locally. Source freeze unchanged.",
+  "qa_status": "independent_qa_pending",
+  "source_snapshot": "public-safe-bn-kh-v4a-20261027T1047Z",
+  "metadata_rows": 428,
+  "product_material_occurrences_retained": 581,
+  "product_material_occurrences_withheld_locator": 22,
+  "product_material_occurrences_with_public_locator": 559,
+  "all_file_withheld_locator_occurrences": 23,
+  "distinct_historical_materials_withheld": 13,
+  "per_file": {
+    "products.jsonl": {
+      "withheld_locator_occurrences": 22,
+      "distinct_historical_materials": 13
+    },
+    "qa-corrections-v4.json": {
+      "withheld_locator_occurrences": 1,
+      "distinct_historical_materials": 1
+    }
+  },
+  "verified_original_count_increment": 0,
+  "interpretation": "Exact locator matches a historically held original. Current bytes were not retrieved or verified; direct locator withheld pending reuse review. Historical hold does not establish current confidentiality."
+}

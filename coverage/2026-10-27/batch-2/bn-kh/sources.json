@@ -1,0 +1,579 @@
+[
+  {
+    "region": "KH",
+    "url": "https://www.irc.gov.kh/en/insurance-institutions",
+    "source_type": "regulator_directory",
+    "source_date": null,
+    "checked_at": "2026-10-27T09:45:46.457955+00:00",
+    "extraction": "public HTML __NEXT_DATA__ initialApolloState getAllCompanyPublic",
+    "listed_items": 62,
+    "insurers": 39,
+    "excluded_brokers": 21,
+    "excluded_associations": 2,
+    "pagination": "all 62 getAllCompanyPublic references resolved; no pagination in public page",
+    "coverage": "full_observed_public_directory_not_current_licence_legal_certification"
+  },
+  {
+    "region": "BN",
+    "url": "https://www.bdcb.gov.bn/index.php/regulatory/list-of-bdcb-licensees?flt_subs%5B%5D=01hhgd4ghsn1bm4r37cwyqcwa2&view=50",
+    "source_type": "regulator_directory",
+    "source_date": null,
+    "checked_at": "2026-10-27T09:45:46.457955+00:00",
+    "filter": "Insurance Companies  -  Life",
+    "showing": [
+      1,
+      3,
+      3
+    ],
+    "pagination_complete": true
+  },
+  {
+    "region": "BN",
+    "url": "https://www.bdcb.gov.bn/index.php/regulatory/list-of-bdcb-licensees?flt_subs%5B%5D=01hhgd4s89g48mp2m71rvzze61&view=50",
+    "source_type": "regulator_directory",
+    "source_date": null,
+    "checked_at": "2026-10-27T09:45:46.457955+00:00",
+    "filter": "Insurance Companies - Non-life",
+    "showing": [
+      1,
+      4,
+      4
+    ],
+    "pagination_complete": true
+  },
+  {
+    "region": "BN",
+    "url": "https://www.bdcb.gov.bn/index.php/regulatory/list-of-bdcb-licensees?flt_subs%5B%5D=01hhgd5fbs5tz197f0s1eb8k4k&view=50",
+    "source_type": "regulator_directory",
+    "source_date": null,
+    "checked_at": "2026-10-27T09:45:46.457955+00:00",
+    "filter": "Takaful Operators - General",
+    "showing": [
+      1,
+      2,
+      2
+    ],
+    "pagination_complete": true
+  },
+  {
+    "region": "BN",
+    "url": "https://www.bdcb.gov.bn/index.php/regulatory/list-of-bdcb-licensees?flt_subs%5B%5D=01hhgd662g5n05v295ctd9edg3&view=50",
+    "source_type": "regulator_directory",
+    "source_date": null,
+    "checked_at": "2026-10-27T09:45:46.457955+00:00",
+    "filter": "Takaful Operators - Family",
+    "showing": [
+      1,
+      2,
+      2
+    ],
+    "pagination_complete": true
+  },
+  {
+    "region": "VN",
+    "url": "https://www.mof.gov.vn/api/mediafile/media-article/e31080f8-9fcc-451e-96ad-ad51865b2d3b/64a025f0-ec2d-4222-af2e-af1dfcdfb193.pdf",
+    "source_type": "regulator_yearbook",
+    "source_date": "2024",
+    "source_date_precision": "year",
+    "checked_at": "2026-10-27T09:45:46.457955+00:00",
+    "pages": [
+      22,
+      23
+    ],
+    "counts": {
+      "non_life": 33,
+      "life": 19,
+      "reinsurance": 2
+    },
+    "coverage": "historical_not_current"
+  },
+  {
+    "region": "MM",
+    "url": "https://www.frd.gov.mm/storage/app/public/backend/announcementFiles/64f81cda67043_64f81cda67045.pdf",
+    "landing_url": "https://www.frd.gov.mm/announcements/2",
+    "source_type": "regulator_contact_roster",
+    "source_date": "2023-06-01",
+    "checked_at": "2026-10-27T09:45:46.457955+00:00",
+    "listed_items": 26,
+    "coverage": "historical_contact_roster_not_current"
+  },
+  {
+    "region": "VN",
+    "url": "https://vidi.mof.gov.vn/quan-ly-giam-sat-bao-hiem/thong-bao-2/bo-tai-chinh-cap-giay-phep-thanh-lap-va-hoat-dong-cho-cong-ty-co-phan-bao-hiem-nhan-tho-ky-thuong",
+    "source_type": "regulator_licensing_notice",
+    "source_date": "2025-07-22",
+    "checked_at": "2026-10-27T09:54:55.536543+00:00",
+    "coverage": "individual_entity_update_not_denominator",
+    "notes": [
+      "MOF announcement states licence granted 2025-07-16. Direct HTML is JS shell; substantive regulatory text accessible via public web search index; saved web evidence."
+    ]
+  },
+  {
+    "region": "VN",
+    "url": "https://mof.gov.vn/bo-tai-chinh/hoat-dong-cua-cac-to-chuc-co-so-dang/cap-giay-phep-thanh-lap-va-hoat-dong-cho-cong-ty-co-phan-tai-bao-hiem-alpha",
+    "source_type": "regulator_licensing_notice",
+    "source_date": "2025-11-24",
+    "checked_at": "2026-10-27T09:54:55.536543+00:00",
+    "coverage": "individual_entity_update_not_denominator",
+    "notes": [
+      "MOF announcement states licence granted 2025-11-19. Direct HTML is JS shell; substantive regulatory text accessible via public web search index; saved web evidence."
+    ]
+  },
+  {
+    "region": "VN",
+    "url": "https://mof.gov.vn/quan-ly-giam-sat-bao-hiem/ban-tin-thi-truong-bao-hiem-toan-cau/ban-tin-thi-truong-bao-hiem-thang-82026",
+    "source_type": "regulator_licensing_notice",
+    "source_date": null,
+    "checked_at": "2026-10-27T09:54:55.536543+00:00",
+    "coverage": "individual_entity_update_not_denominator",
+    "notes": [
+      "LP Life licence granted 2026-06-01; MOF August 2026 bulletin states 102/GPĐC1/KDBH dated 2026-08-05 authorizes rename LP to Sacom. One entity, not two. Exact bulletin publication date not displayed in extracted evidence."
+    ]
+  },
+  {
+    "region": "VN",
+    "url": "https://vcci.com.vn/tin-tuc/bvbank-gop-von-thanh-lap-cong-ty-bao-hiem",
+    "source_type": "chamber_report_citing_issuer_filing",
+    "source_date": "2026-09-09",
+    "checked_at": "2026-10-27T09:54:55.536543+00:00",
+    "coverage": "individual_entity_update_not_denominator",
+    "notes": [
+      "VCCI reports licence dated 2026-07-21 based on BVBank interim financial statements. Supplemental candidate; original MOF notice not yet located. No current product inference."
+    ]
+  },
+  {
+    "region": "VN",
+    "url": "https://www.acbjobs.com.vn/news/acb-duoc-cap-phep-thanh-lap-cong-ty-bao-hiem-phi-nhan-tho-403",
+    "source_type": "issuer_parent_announcement",
+    "source_date": "2026-09-04",
+    "checked_at": "2026-10-27T09:54:55.536543+00:00",
+    "coverage": "individual_entity_update_not_denominator",
+    "notes": [
+      "ACB official careers/news page states licence granted 2026-08-12. Parent announcement, not regulator roster."
+    ]
+  },
+  {
+    "region": "VN",
+    "url": "https://www.vpbank.com.vn/tin-tuc/thong-cao-bao-chi/2026/cong-ty-bao-hiem-cua-vpbank-duoc-cap-phep",
+    "source_type": "issuer_parent_announcement",
+    "source_date": "2026-09-28",
+    "checked_at": "2026-10-27T09:54:55.536543+00:00",
+    "coverage": "individual_entity_update_not_denominator",
+    "notes": [
+      "VPBank announcement says licensed, scheduled to commence Q1 2027; licence number/date not specified in this primary source, so null. Treat prelaunch; existing AIA bank products are not VPLife products."
+    ]
+  },
+  {
+    "region": "LA",
+    "url": "https://www.prudential.la/prudential-la/en/",
+    "source_type": "official_transferor_notice",
+    "source_date": null,
+    "checked_at": "2026-10-27T09:54:55.536543+00:00",
+    "coverage": "individual_transfer_not_regulator_denominator"
+  },
+  {
+    "region": "KH",
+    "url": "https://www.aia.com.kh/en/index",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-638d516b466f",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://agi.com.kh/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-33b38a401e12",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.bkicambodia.com/our-company",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-c2677e9d480c",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.caminco.com.kh/index.html",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-0c19b1e2bd19",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://cambodiare.com.kh/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-9e2a72d45559",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://cvi.com.kh/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-7cbd63155279",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.cpbebank.com/campu-lonpac-insurance/contact-us/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-244bf5429cc4",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://cbinsurance.com.kh/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-b43724e1ad49",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://dai-ichilife.com.kh/pages/our-products/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-a8570612d3cb",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.darainsurance.com.kh/products/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-989a292ccc7a",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://yuetai-insurance.com/about",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-139ef6804540",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.etiqa.com.kh/etiqakh/homepage/en/contact-us",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-7d5b00ca8ad0",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.forteinsurance.com/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-35e6558c0ee2",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.forteinsurance.com/life/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-8c91569d7830",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.fortunelife.com.kh/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-6feca2737186",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.fwd.com.kh/en/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-1098fd1d02eb",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.gc-life.com.kh/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-fb34fba0b04e",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.infinity.com.kh/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-743fc4baa803",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://lyhoursbiinsurance.com.kh/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-782eed4a34c0",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.manulife.com.kh/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-ebbe6a7b053f",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.mekongmicroinsurance.com.kh/en/home",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-f9ac4c417ccb",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.newa-kh.com/en/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-8da7e3dd7fe4",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.peoplenpartners.com/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-9d8c1e524c68",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.phillipinsurance.com.kh/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-6618717e97d9",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.philliplife.com.kh/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-7a05b3f6c694",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.prosur.com.kh/en/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-4d061473a9e3",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.prudential.com.kh/en/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-c9b400a29e78",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.rgi.com.kh/en/landing",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-977c98b1bf23",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.serendib.com.kh/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-fc90b9a0851d",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.sovannaphumlife.com/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-24dc8668bca3",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://titanstonelifeinsurance.com.kh/",
+    "source_type": "official_company_or_parent_bank_website",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "issuer_website_identity_and_partial_public_catalog_not_complete_SKUs",
+    "issuer_id": "KH-issuer-5443b65c9b85",
+    "notes": [
+      "Source URL is a company/parent-bank publication, not a regulator licensing assertion. Access attempt status is in issuer-queue.jsonl."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.maybank2u.com.kh/en/personal/insurance/elic/etiqa-life-overview.page",
+    "source_type": "official_bank_distributor",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "partial_public_evidence",
+    "notes": [
+      "Seven life base/rider pages traversed; insurer origin remains 403 closed."
+    ]
+  },
+  {
+    "region": "KH",
+    "url": "https://www.maybank2u.com.kh/en/personal/insurance/egic/Etiqa-General-Overview.page",
+    "source_type": "official_bank_distributor",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "partial_public_evidence",
+    "notes": [
+      "Seven general insurance families traversed; not whole Etiqa portfolio."
+    ]
+  },
+  {
+    "region": "LA",
+    "url": "https://soe.mof.gov.la/",
+    "source_type": "independent_official_ministry_department",
+    "source_date": null,
+    "checked_at": "2026-10-27T10:33:02.615853+00:00",
+    "coverage": "partial_public_evidence",
+    "notes": [
+      "Homepage and public law/news/info pages accessible; no named insurer denominator established. Separate official source, not a lis.gov.la bypass."
+    ]
+  }
+]

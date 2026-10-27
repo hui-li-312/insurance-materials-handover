@@ -1,0 +1,136 @@
+[
+  {
+    "inventory_id": "KH-product-75194fb9e3c9fd97",
+    "action": "correct_material_role",
+    "material_url": "https://www.aia.com.kh/content/dam/kh-wise/policy-contract/AIA_LoanCare_Policy_Contract_en.pdf",
+    "previous_role": "unclassified_document_link",
+    "new_role": "policy_wording_or_contract_candidate",
+    "evidence_label": "Click here for policy contract sample"
+  },
+  {
+    "inventory_id": "KH-product-f2092a608197c5b0",
+    "action": "correct_material_role",
+    "material_url": "https://www.prudential.com.kh/content/dam/prudential-aem-lbu/pcla/product-brochure/PRUអនាគតកូនខ្ញុំ-TnC.pdf",
+    "previous_role": "marketing_brochure",
+    "new_role": "policy_wording_or_contract_candidate",
+    "evidence_label": "Terms & Conditions"
+  },
+  {
+    "inventory_id": "KH-product-442b73e3f584500d",
+    "action": "correct_material_role",
+    "material_url": "https://www.prudential.com.kh/content/dam/prudential-aem-lbu/pcla/product-brochure/PRUSave-TnC.pdf",
+    "previous_role": "marketing_brochure",
+    "new_role": "policy_wording_or_contract_candidate",
+    "evidence_label": "Terms & Conditions"
+  },
+  {
+    "inventory_id": "KH-product-4d3bf774a93fdbef",
+    "action": "correct_material_role",
+    "material_url": "https://www.prudential.com.kh/content/dam/prudential-aem-lbu/pcla/product-brochure/PRUHero-TnC.pdf",
+    "previous_role": "marketing_brochure",
+    "new_role": "policy_wording_or_contract_candidate",
+    "evidence_label": "Terms & Conditions"
+  },
+  {
+    "inventory_id": "KH-product-623bdfd2f83b4e6b",
+    "action": "correct_material_role",
+    "material_url": "https://www.prudential.com.kh/content/dam/prudential-aem-lbu/pcla/product-brochure/PRUទ្រព្យខ្ញុំ%20-TnC.pdf",
+    "previous_role": "marketing_brochure",
+    "new_role": "policy_wording_or_contract_candidate",
+    "evidence_label": "Terms & Conditions"
+  },
+  {
+    "inventory_id": "KH-product-e330f9cad1952a49",
+    "action": "correct_material_role",
+    "material_url": "https://www.prudential.com.kh/content/dam/prudential-aem-lbu/pcla/product-brochure/TnC%20PRUស្រលាញ់+%20PRUSrolanh+%20EN.pdf",
+    "previous_role": "marketing_brochure",
+    "new_role": "policy_wording_or_contract_candidate",
+    "evidence_label": "Terms & Conditions"
+  },
+  {
+    "inventory_id": "KH-product-a9e4b9ae55e03f63",
+    "action": "correct_material_role",
+    "material_url": "https://www.prudential.com.kh/content/dam/prudential-aem-lbu/pcla/product-brochure/LoanSafe-TnC.pdf",
+    "previous_role": "marketing_brochure",
+    "new_role": "policy_wording_or_contract_candidate",
+    "evidence_label": "Terms & Conditions"
+  },
+  {
+    "inventory_id": "KH-product-f7a20f8cfe3751d8",
+    "action": "correct_material_role",
+    "material_url": "https://www.prudential.com.kh/content/dam/prudential-aem-lbu/pcla/product-brochure/4.2%20TnC%20LoanSafe%20Care+_EN%20-%20KH.pdf",
+    "previous_role": "marketing_brochure",
+    "new_role": "policy_wording_or_contract_candidate",
+    "evidence_label": "Terms & Conditions"
+  },
+  {
+    "inventory_id": "KH-product-4e8f3445a2baa10b",
+    "action": "correct_material_role",
+    "material_url": "https://www.prudential.com.kh/content/dam/prudential-aem-lbu/pcla/product-brochure/TnC%20PRUស្រលាញ់%20PRUSrolanh%20EN.pdf",
+    "previous_role": "marketing_brochure",
+    "new_role": "policy_wording_or_contract_candidate",
+    "evidence_label": "Terms & Conditions"
+  },
+  {
+    "inventory_id": "KH-product-c8c9b328fb898fd0",
+    "action": "correct_material_role",
+    "material_url": "https://www.prudential.com.kh/content/dam/prudential-aem-lbu/pcla/product-brochure/PRUទ្រព្យខ្ញុំ%20-TnC.pdf",
+    "previous_role": "marketing_brochure",
+    "new_role": "policy_wording_or_contract_candidate",
+    "evidence_label": "Terms & Conditions"
+  },
+  {
+    "inventory_id": "KH-product-6facd8be8b43b0ad",
+    "action": "correct_material_role",
+    "material_url": "https://www.aia.com.kh/content/dam/kh-wise/brochures/aia-wealth-prestige/250331-AIA-Wealth-Prestige-Policy-Contract-EN.pdf",
+    "previous_role": "marketing_brochure",
+    "new_role": "policy_wording_or_contract_candidate",
+    "evidence_label": "Click here to see policy contract"
+  },
+  {
+    "inventory_id": "KH-product-32fd8f2ed9d0b533",
+    "action": "correct_material_role",
+    "material_url": null,
+    "previous_role": "unclassified_document_link",
+    "new_role": "policy_wording_or_contract_candidate",
+    "evidence_label": "Click here to see policy contract",
+    "material_ref_id": "historical-held-2bbf9c971b73e823a6413b21",
+    "known_historical_held_sha256": "2bbf9c971b73e823a6413b21e1cfc7a0eda391784a70b2bb33c3df0949f8374e",
+    "current_bytes_status": "unretrieved_unverified",
+    "reuse_review_status": "pending",
+    "withholding_reason": "Exact locator matches a historically held original. Current bytes were not retrieved or verified; direct locator withheld pending reuse review. Historical hold does not establish current confidentiality.",
+    "public_direct_locator_status": "withheld_historical_hold_pending_reuse_review"
+  },
+  {
+    "inventory_id": "KH-product-b87a9865bc948860",
+    "action": "correct_legal_issuer",
+    "previous_issuer_id": "KH-issuer-35e6558c0ee2",
+    "issuer_id": "KH-issuer-8c91569d7830",
+    "evidence_url": "https://www.forteinsurance.com/individuals-and-families/life-education/",
+    "reason": "Observed Forte Life navigation/body; non-/life/ route is not evidence of general-insurer underwriting."
+  },
+  {
+    "inventory_id": "KH-product-a5fdbe529aec1f9b",
+    "action": "correct_legal_issuer",
+    "previous_issuer_id": "KH-issuer-35e6558c0ee2",
+    "issuer_id": "KH-issuer-8c91569d7830",
+    "evidence_url": "https://www.forteinsurance.com/individuals-and-families/life-protect/",
+    "reason": "Observed Forte Life navigation/body; non-/life/ route is not evidence of general-insurer underwriting."
+  },
+  {
+    "inventory_id": "KH-product-126d94f6487adc99",
+    "action": "correct_legal_issuer",
+    "previous_issuer_id": "KH-issuer-35e6558c0ee2",
+    "issuer_id": "KH-issuer-8c91569d7830",
+    "evidence_url": "https://www.forteinsurance.com/business/comprehensive-group-care/",
+    "reason": "Observed Forte Life navigation/body; non-/life/ route is not evidence of general-insurer underwriting."
+  },
+  {
+    "inventory_id": "KH-product-df43ff469a8af727",
+    "action": "correct_legal_issuer",
+    "previous_issuer_id": "KH-issuer-35e6558c0ee2",
+    "issuer_id": "KH-issuer-8c91569d7830",
+    "evidence_url": "https://www.forteinsurance.com/business/group-term-life-assurance/",
+    "reason": "Observed Forte Life navigation/body; non-/life/ route is not evidence of general-insurer underwriting."
+  }
+]
