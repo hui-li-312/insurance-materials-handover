@@ -1,0 +1,18 @@
+{
+  "snapshot_at": "2026-10-27T16:09:25.930930+00:00",
+  "region": "TH",
+  "issuer_id": "own-th-0b8588486bb9",
+  "legal_name": "บริษัท กรุงเทพประกันชีวิต จำกัด (มหาชน) (BANGKOK LIFE ASSURANCE PUBLIC COMPANY LIMITED)",
+  "regulator_source_url": "https://smart.oic.or.th/EService/Menu12",
+  "source_locator": "OIC life-company directory row for Bangkok Life Assurance Public Company Limited; official website field",
+  "exact_regulator_website": "https://www.bangkoklife.com",
+  "source_date": null,
+  "currentness_limit": "OIC directory presence does not independently verify active new-business availability or every policy version.",
+  "source_pages_hash_verified": 74,
+  "catalog_method": "Literal canonical entry, nine standard product catalogs, two corporate/group pages, and 62 exact pre-enumerated standard/unit-linked detail hrefs. No automatic redirects, login, form submission, quote, transaction or material download.",
+  "name_method": "Own product-header H1; four unit-linked pages use their own product-specific H1 marked hidden in markup, with that visibility retained. Generic contact/navigation headings excluded. Exact own-name route grouping is not a unique-SKU assertion.",
+  "material_method": "Actual direct PDF and extensionless Download anchors are recorded. Their labels are not file-content verification. Standard pages can contain generic brochure/contact form templates; these were not submitted, and absent qualifying hrefs do not prove no materials exist.",
+  "body_images": "Only actual image references in own product CMS description blocks, excluding images with an ancestor whose class-token is exactly icon, are listed separately and unreviewed. Four own-body icon-circle graphics are retained. This is a markup-reference inventory, not visual review or OCR; no image or HTML-table content receives full-wording credit.",
+  "source_discrepancy": "Pension and Care heading/component description 888 conflicts with a later own note saying168; retained without correction.",
+  "all_public_catalogs_complete": false
+}

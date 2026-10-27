@@ -1,0 +1,63 @@
+{
+  "snapshot_at": "2026-10-27T16:09:25.930930+00:00",
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "c1b2473ef54595d6b0c87421b60f5c7c71cf0b6779384a22a3767f71c45125d2",
+      "bytes": 1511
+    },
+    {
+      "file": "comparison-pages.jsonl",
+      "sha256": "69803590b2af803bbe10867cc829323d7cef736c53da2966713206ff96699af1",
+      "bytes": 510
+    },
+    {
+      "file": "components.jsonl",
+      "sha256": "abc3ff29ef6377f62f9fc72681a1021447b546b4116da14c4a0e4751922d5eb5",
+      "bytes": 14513
+    },
+    {
+      "file": "coverage-classes.jsonl",
+      "sha256": "ca8dc901dc7db4bd0b30f2318081ef047899bec5760a40502e3f1986dce701de",
+      "bytes": 2337
+    },
+    {
+      "file": "image-candidates.jsonl",
+      "sha256": "78d31cd16ed061b18be5dad8b8e0fb459507b083f309d2acafe58821c7d2db49",
+      "bytes": 163764
+    },
+    {
+      "file": "issuer-frontier.jsonl",
+      "sha256": "0a6ee024fe7c0898771ab2ebd1c787d2925bae295042b1d99f11b0504432f188",
+      "bytes": 952
+    },
+    {
+      "file": "products.jsonl",
+      "sha256": "1762fa8653a4e68cbf008537372df92642d00b1440a2c34f349f5ec276e5ec3b",
+      "bytes": 343267
+    },
+    {
+      "file": "run-status.json",
+      "sha256": "5d95ec88dc717dd0e18206135ce2dc75e2246da9116844a57f28c30320db069d",
+      "bytes": 844
+    },
+    {
+      "file": "sources.json",
+      "sha256": "e3c19822e6fda57be402b4f6061208135ff645261058dc70329d6d553dff3ba8",
+      "bytes": 2116
+    },
+    {
+      "file": "unvisited-channel-references.jsonl",
+      "sha256": "9a2e048a0e5a4a955c16304680f53479362ae1f7478d3e1edb8f1018a4c65e33",
+      "bytes": 2398
+    },
+    {
+      "file": "visited-pages.jsonl",
+      "sha256": "fee2e6fac98d67d0ff3f37b9422451fba76a702dd0e89e912fa07a3a503d4740",
+      "bytes": 22690
+    }
+  ],
+  "supersedes_manifest_sha256": "5180dad8dede9f238c552d8a2083fbefc86642caf49a94b9b7568122d4d4b3b6",
+  "qa_correction_recorded_at": "2026-10-27T18:41:54.568227+00:00",
+  "qa_correction": "Clarified exact icon class-token exclusion; all 227 unreviewed image references, 183 unique URLs and original source/snapshot timestamps are unchanged."
+}

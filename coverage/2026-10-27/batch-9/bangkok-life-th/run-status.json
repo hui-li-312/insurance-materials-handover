@@ -1,0 +1,28 @@
+{
+  "snapshot_at": "2026-10-27T16:09:25.930930+00:00",
+  "issuers": 1,
+  "new_requests": 74,
+  "retrieved_pages": 74,
+  "named_own_page_clusters": 59,
+  "named_detail_routes": 61,
+  "same_name_extra_routes_not_extra_products": 2,
+  "roles": {
+    "rider": 15,
+    "product": 32,
+    "package": 9,
+    "endorsement": 2,
+    "group": 1
+  },
+  "comparison_pages_excluded": 1,
+  "generic_group_coverage_classes_excluded": 4,
+  "underlying_component_or_variant_observations_not_additional_products": 28,
+  "material_link_occurrences": 9,
+  "own_body_image_candidates_unreviewed": 227,
+  "unvisited_online_or_legacy_channel_routes": 4,
+  "material_files_requested": 0,
+  "formal_original_count_credit": 0,
+  "all_public_catalogs_complete": false,
+  "all_skus_complete": false,
+  "all_wordings_complete": false,
+  "prior_hold_locator_redactions": 0
+}
