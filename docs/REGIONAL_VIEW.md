@@ -4,9 +4,9 @@
 
 这是既有保险产品资料库的**已发布的补采视图**，不是新网站，不是新闻页。沿用现有蓝白色设计、响应式布局和无依赖静态架构，提供 `coverage.html` 独立入口：地区 → 来源机构／品牌 → 观察条目 → 材料引用。原首页只加导航；原目录、旧审计视图和 25 个其余原运行文件不变。
 
-对应既有 Site：`appgprj_6ad9e50081d881919e1b20b3843c8426`。首轮于 2026-10-27 14:27 UTC 成功部署为 Site 128，随后第五批刷新部署为 Site 129；保持原公开受众。后续当前版本和实际发布证据见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。公开源码不赋予接手人原站部署权限。
+对应既有 Site：`appgprj_6ad9e50081d881919e1b20b3843c8426`。首轮于 2026-10-27 14:27 UTC 成功部署为 Site 128，第五批刷新为 Site 129；第六批于 **2026-10-27 18:04:58 UTC 成功部署为 Site 130**，保持原公开受众。当前为 **24 个 active feeds／4,636 条混合来源观察**，不是独立产品或当前在售 SKU 总数；旧 2,360／4,713／426 基线不变，新增正式原件／核验 SKU 为 0。实际发布证据见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。公开源码不赋予接手人原站部署权限。
 
-以下输入基线记录首版模型；第五批累计替换与当前输入见 [REGIONAL_REFRESH_BATCH5.md](REGIONAL_REFRESH_BATCH5.md) 及 [LATEST.json](../coverage/LATEST.json)，不把初版观察总数当作永久当前值。
+以下输入、计数表与测试条目记录首版模型；第五批历史见 [REGIONAL_REFRESH_BATCH5.md](REGIONAL_REFRESH_BATCH5.md)，第六批来源／关联规则见 [REGIONAL_REFRESH_BATCH6.md](REGIONAL_REFRESH_BATCH6.md)，当前 active 输入见 [LATEST.json](../coverage/LATEST.json)。候选说明保留发布前时点，不以其未部署／未做浏览器检查的历史措辞覆盖当前机器记录。
 
 ## 初版固定输入与确定性方法
 
@@ -17,7 +17,7 @@
 - 无网络请求、运行时密钥、第三方依赖、动态采集、模糊匹配或通用猜测 schema。相同输入逐字节生成相同输出。源文件路径、行号、feed 和输入哈希保留可追溯性。
 - 公开材料链接只接受无用户凭据的 HTTP(S)。源 `null` 保持 `null`，无效 blob 引用不变成可点击 URL。不会从文件名或镜像推测下载地址。
 
-## 不同计数不能相加
+## 首版计数快照：不同计数不能相加
 
 | 单位 | 本投影数量与含义 |
 |---|---|
@@ -69,7 +69,7 @@ npm start
 
 需要 Node.js 24，以及完整仓库的 `coverage/` 与 `website/` 相对结构。`coverage:import` 只重建补采 JSON，不触碰旧 `product-library.json`。`coverage:check` 和 `build` 校验输入及现有输出，不接受静默漂移。静态托管只发 `dist/`；不要上传原件或整个仓库。部署、权限与回滚操作沿用 [WEBSITE_OPERATIONS.md](WEBSITE_OPERATIONS.md)。
 
-## 验证结果与明确边界
+## 首版验证结果与明确边界
 
 - 全部原测试通过：目录校验／原子导入、31 条原界面行为检查、搜索回归、HTTP 逐文件字节与 MIME／HEAD／404／路径穿越检查。
 - 新增 17 组数据适配检查：输入／输出复现、旧计数不变、active feeds 与替换、共享归属、精确关系、实际材料类型、版本分层、空 URL／日期、检索、转义与失败关闭。
@@ -80,4 +80,4 @@ npm start
 
 最终候选另做离线已知 held-locator 校验；私有注册表和匹配定位符不在仓库输出中。校验通过只证明未暴露已知禁发定位符，不等于所有未知文件的权利／隐私已获批准。
 
-Site 129 已在 1180×757 桌面浏览器完成范围内的入口、区域加载、筛选、隐藏候选／HOLD 区分和导航检查；这不扩大为移动端或全部外链验收。机器结果见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。
+Site 129 的 1180×757 桌面抽样检查属于历史证据，不自动适用于第六批。Site 130 已完成限定生产桌面浏览器抽样检查（1180×757、DPR 1），实际范围见当前机器记录；不等于逐条记录或外部材料验收。移动端／触屏未测。机器结果见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。
