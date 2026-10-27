@@ -1,0 +1,45 @@
+[
+  {
+    "issuer_id": "own-ph-dbc66437d231",
+    "name": "PRULove for Life",
+    "url": null,
+    "source_url": "https://www.prulifeuk.com.ph/en/products/life-protection/",
+    "source_html_sha256": "b48e83d2635dfd91de3bcbaa6979e0c300df3602ed69ce9f0499ae1e919308e3",
+    "status": "open_actual_detail_locator_not_observed",
+    "reason": "Named in public category structured data, but no actual query-free detail link was observed; no slug was invented."
+  },
+  {
+    "issuer_id": "own-ph-dbc66437d231",
+    "name": "PRUPersonal Accident",
+    "url": null,
+    "source_url": "https://www.prulifeuk.com.ph/en/products/life-protection/",
+    "source_html_sha256": "b48e83d2635dfd91de3bcbaa6979e0c300df3602ed69ce9f0499ae1e919308e3",
+    "status": "open_actual_detail_locator_not_observed",
+    "reason": "Named in public category structured data, but no actual query-free detail link was observed; no slug was invented."
+  },
+  {
+    "issuer_id": "own-ph-dbc66437d231",
+    "name": "PRUMax Invest",
+    "url": null,
+    "source_url": "https://www.prulifeuk.com.ph/en/products/life-protection/",
+    "source_html_sha256": "b48e83d2635dfd91de3bcbaa6979e0c300df3602ed69ce9f0499ae1e919308e3",
+    "status": "open_actual_detail_locator_not_observed",
+    "reason": "Named in public category structured data, but no actual query-free detail link was observed; no slug was invented."
+  },
+  {
+    "issuer_id": "own-ph-dbc66437d231",
+    "name": "PRUWellness",
+    "url": null,
+    "source_url": "https://www.prulifeuk.com.ph/en/products/health/",
+    "source_html_sha256": "c74c55a5d34c674f1b118e4304d75c41f3347e9ead29641d42cd486651a59872",
+    "status": "open_actual_detail_locator_not_observed",
+    "reason": "Named in public category structured data, but no actual query-free detail link was observed; no slug was invented."
+  },
+  {
+    "issuer_id": "own-ph-dbc66437d231",
+    "name": "Investment category selector coverage",
+    "url": "https://www.prulifeuk.com.ph/en/products/investment/",
+    "status": "open_catalog_listing_not_fully_exposed_in_static_HTML",
+    "reason": "The public HTML supplies a client-rendered product selector without a readable complete named listing; configuration/API endpoints and arbitrary script execution were not used."
+  }
+]

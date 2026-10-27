@@ -1,0 +1,44 @@
+{
+  "issuer_id": "own-ph-dbc66437d231",
+  "legal_name": "Pru Life Insurance Corporation of U.K.",
+  "brand_name": "Pru Life UK",
+  "issuer_association_class": "regulator_named_entity_plus_association_member_link_plus_primary_company_identity",
+  "company_identity_status": "confirmed_for_catalog_source_association",
+  "contractual_issuer_id": null,
+  "regulator_url": "https://www.insurance.gov.ph/wp-content/uploads/2026/06/List-of-Insurance-Compaines-with-Valid-and-Existing-Certificate-of-Authority-as-of-30-September-2026.pdf",
+  "regulator_as_of_date": "2026-09-30",
+  "license_status_scope": "valid_existing_certificate_as_of_roster_date_only",
+  "regulator_file_hash": null,
+  "regulator_original_download_status": "not_a_local_hash_verified_original",
+  "website_origin": "https://www.prulifeuk.com.ph",
+  "website_identity_evidence": {
+    "association_member_link_source": "https://plia.org.ph/",
+    "association_member_page_sha256": "ec7e2fbdf5440c62bc485eaa6e6a395162159576bc75f30e6a985ce3199e7782",
+    "literal_member_website_href": "http://www.prulifeuk.com.ph/",
+    "primary_company_url": "https://www.prulifeuk.com.ph/en/about-us/know-more-about-pru/our-company/",
+    "primary_company_page_sha256": "21d6246980ac4e60a00b241e9888f43b405fbeea1fc20b72be5bd2b9e4d2aab2",
+    "exact_full_legal_name_present": true,
+    "identity_evidence_type": "own_company_history_explicit_legal_incorporation_name",
+    "identity_quote": "Incorporated as Pru Life Insurance Corporation of U.K. in January",
+    "source_stated_incorporation_year": 1996,
+    "page_publication_date": null
+  },
+  "entity_distinctions": {
+    "source_stated_parent_separate_entity": "Prudential plc",
+    "source_explicit_non_affiliations": [
+      "Prudential Financial, Inc.",
+      "Prudential Assurance Company Limited",
+      "Philippine Prudential Life Insurance Company",
+      "Prudentialife Plans, Inc.",
+      "Prudential Guarantee and Assurance, Inc."
+    ],
+    "entity_merge_performed": false
+  },
+  "website_entry_evidence": {
+    "url": "https://www.prulifeuk.com.ph/en/",
+    "page_sha256": "9b9911fda3ebfa1c28c28aecd704d06c7bbdcfcd6c26a8cacb1b54da44a68d7a"
+  },
+  "scope_note": "Finite actual-link traversal of official public product/category HTML; named offerings, embedded rider/benefit contexts, and category/fund hubs are counted separately.",
+  "crawl_method": "Static public HTML and literal href/Location observations; no document download or dynamic catalog execution. Cached source bytes independently rehashed in local metadata audit.",
+  "regulator_original_verified_in_this_audit": false
+}

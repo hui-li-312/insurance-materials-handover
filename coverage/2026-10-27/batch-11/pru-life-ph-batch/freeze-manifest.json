@@ -1,0 +1,42 @@
+{
+  "metadata_snapshot_at": "2026-10-27T20:31:37.600137+00:00",
+  "original_snapshot_at": "2026-10-27T16:55:01.955561+00:00",
+  "original_manifest_sha256": "03516a5794c1f583f9c24a84f457c0b2c764777c530a163c4c55418ca99d2e0d",
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "ac1b3acbde0bcadb22028d680e6d4153f15aff4876a23443733876f230e2be01",
+      "bytes": 2287
+    },
+    {
+      "file": "coverage-gaps.json",
+      "sha256": "95996003820505218c37e204bec12f85f2851724414d7d7e6497738c15fc3510",
+      "bytes": 2259
+    },
+    {
+      "file": "coverage-status.json",
+      "sha256": "7654803394c591947ec999af7f2a59358771733a6407a308437246badcedf530",
+      "bytes": 1772
+    },
+    {
+      "file": "excluded-nonproduct-links.jsonl",
+      "sha256": "09355afa366bc5fd86acb6357a3c1e7e61687d779a0e275ef67928ba8feaf64a",
+      "bytes": 3608
+    },
+    {
+      "file": "products.jsonl",
+      "sha256": "82c284609df5b6dd77d030309c2cc2a0e048104c2b4c4cfe05ee13216bd3bdc7",
+      "bytes": 157587
+    },
+    {
+      "file": "source-visits.jsonl",
+      "sha256": "a65d86769822814db90c2ba4cdc8403c0fff301553e11866c8092e9164dde8d9",
+      "bytes": 23223
+    },
+    {
+      "file": "sources.json",
+      "sha256": "c90fa5df49fa7e7dab1511b55ba2561249e355348bded783f3fff6e01067275a",
+      "bytes": 2602
+    }
+  ]
+}
