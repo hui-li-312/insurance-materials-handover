@@ -1,0 +1,398 @@
+[
+  {
+    "source_url": "https://www.manulife.com.my/",
+    "final_url": "https://www.manulife.com.my/en/individual.html",
+    "checked_at": "2026-10-27T10:17:53.906937+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "985f13cc0353cc6749dbba14c14443e356cfca751d073f4ae197db029212721b",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/products",
+    "final_url": "https://www.manulife.com.my/en/individual/products.html",
+    "checked_at": "2026-10-27T11:09:23.062975+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "57d4ca762de53556280f51554d1317b9792f0642077f1028d0cd91ad7dcae60d",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/life/protection-life-insurance.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/life/protection-life-insurance.html",
+    "checked_at": "2026-10-27T11:09:31.992172+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "15f2547097fd88eb5f12ab26a11bb7e542d312f170cb4b1a2f73ad125a517a4b",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation.html",
+    "checked_at": "2026-10-27T11:09:35.603898+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "7637439016ee1fb27fca76eecf6250f9135cbc275b9329a35dd59a6b9f710109",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/save/savings.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/save/savings.html",
+    "checked_at": "2026-10-27T11:09:40.064426+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "a3fe7e0b980b32bd93531806a05d06de3dc04b6b7b8d6eef9781071073a5a2c3",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/protection.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/bancassurance/protection.html",
+    "checked_at": "2026-10-27T11:09:44.530486+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "2764a5ab0a56f3f226ebc8994f72f79c22163904d0c0a057465807b1ef68135e",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/services/insurance-library.html",
+    "final_url": "https://www.manulife.com.my/en/individual/services/insurance-library.html",
+    "checked_at": "2026-10-27T11:09:48.321426+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "66ead3f49baea2720e79139e8e6247c1d153338a3905ec1d26c11c6f025a9fc5",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-health-saver-enrich.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-health-saver-enrich.html",
+    "checked_at": "2026-10-27T11:09:52.755186+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "a140b1dcd1a375558eccab46c80a24edadced1727043502bd72c854b38ee28a2",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/save/savings/manusecure-series.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/save/savings/manusecure-series.html",
+    "checked_at": "2026-10-27T11:09:57.430827+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "bf2b9dfa8d24df8db30f5567b6899a40f678e7dd1b65ceee2882b87e3c02fe86",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan.html",
+    "checked_at": "2026-10-27T11:10:01.883653+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "1edf481af563e646118e88454ae7af9bf55b6cd7ac44c0bce12a487b4787c088",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/live-it-up/live-it-up.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/live-it-up/live-it-up.html",
+    "checked_at": "2026-10-27T11:10:05.704421+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "96cc17770328450fa75e0e85dd22791cb4a43f2c5ff37f06238508d05c34667e",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/sme-business/sme-business-solution.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/sme-business/sme-business-solution.html",
+    "checked_at": "2026-10-27T11:10:10.972467+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "7bbda38a7449e926951173733162c7f62c88bc355531942908cc3df3df2df1bd",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/partnership/prime-life-48.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/partnership/prime-life-48.html",
+    "checked_at": "2026-10-27T11:10:16.089843+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "5e1f9f1095bf43434121547e08b6b0e1dae211a248a88c04032775248b82a8fd",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/life/term-life.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/life/term-life.html",
+    "checked_at": "2026-10-27T11:12:05.059931+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "1fa65aa72503f0cfaac5037dddc378f6b4fe32ba88ef2789e2addc5043aeceda",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/life/whole-life.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/life/whole-life.html",
+    "checked_at": "2026-10-27T11:12:10.003977+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "599e3ba56a2679682ee703f00dd92f0b758e3805ee9ed835329c7393d7922293",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness.html",
+    "checked_at": "2026-10-27T11:12:14.475337+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "16e0354001dd5129318f549b18c611acb79d2eced3767241a6a32d688e8ecf1a",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/save/retirement.html",
+    "checked_at": "2026-10-27T11:12:19.781040+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "af670edc3bc1c31c729eaba7c8ee5ac6428abaf22f42e854eec918fe8edae70b",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/wealth-building.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/bancassurance/wealth-building.html",
+    "checked_at": "2026-10-27T11:12:25.252596+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "8cfe7157e73b4cb491dfe23aaee70bba1f5db61569c0da0c216f00580a47987c",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/education.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/bancassurance/education.html",
+    "checked_at": "2026-10-27T11:12:31.811561+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "f8abf7748f05cb250851ae11520e329f745552b6e1d99f3a2358d9bacbbce4a0",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/retirement.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/bancassurance/retirement.html",
+    "checked_at": "2026-10-27T11:12:36.828463+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "d3d0cd91ffe4ab6dc2b8bd266cf76de96327c5a2f68e2cda633635543b88e515",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/legacy.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/bancassurance/legacy.html",
+    "checked_at": "2026-10-27T11:12:41.657093+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "696fcc17a7a496c139df36d678449a2e9a2f692ac15b7e0a55ee8215e0c84f26",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/credit-life.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/bancassurance/credit-life.html",
+    "checked_at": "2026-10-27T11:12:46.131710+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "e65a9c1e1aafa8c95dbdc14d421525289728cda6460723b6b836445cebbf75f4",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuterm.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuterm.html",
+    "checked_at": "2026-10-27T11:12:51.209841+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "37229e3db06293bc7c1474bb752fbf434282ec221b152e793a9be5f36b3c911d",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuprotect.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuprotect.html",
+    "checked_at": "2026-10-27T11:12:56.110963+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "bf1a491a57d25ba4d3777593153bf0dec38fd70f5b61afb681eee432c9a8cd00",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manulife-future-shield.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manulife-future-shield.html",
+    "checked_at": "2026-10-27T11:13:01.010473+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "7d0093632de6f5ddc032085a78b2691bb6c7804ae812c1ddfce590df0e5a4729",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manuwhole-life.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manuwhole-life.html",
+    "checked_at": "2026-10-27T11:13:05.723385+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "3f851df5b6a171b192e66c67cf2d850de581efd8a0bfdb76d111e3c348231f38",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-ez-med-deductible.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-ez-med-deductible.html",
+    "checked_at": "2026-10-27T11:13:11.029024+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "dbc30052c7942343d252b26a45da06114e808c06cef7534825afafc1fce9a893",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-aspire-15.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-aspire-15.html",
+    "checked_at": "2026-10-27T11:13:15.292036+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "0e247f43f6f250f7e061bf1f98efeeae5f834e39a09c5d6cc38e15496bfd3c07",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-future-shield.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-future-shield.html",
+    "checked_at": "2026-10-27T11:13:19.409381+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "0d6054129ab21636e2c5dd284f8699145b38d428f9fd66bfa5553f8a1ba8a4a9",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-universal-saver.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-universal-saver.html",
+    "checked_at": "2026-10-27T11:13:34.699657+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "816d7a15c6da5d23e78b2128b298f9037b1b9718ba48fc11e7788d572c208a24",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manuez-ci.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manuez-ci.html",
+    "checked_at": "2026-10-27T11:13:46.515268+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "f397570f24525b35751fba8b4a52303b02154defe9ddd765b4ac89fa63f6382c",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-heritage.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-heritage.html",
+    "checked_at": "2026-10-27T11:13:52.059409+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "2ad74e0dd7a373d74a3840782ab1d27e61c3c878a5d283973080a34dd3812304",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-essential-and-essential-plus.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-essential-and-essential-plus.html",
+    "checked_at": "2026-10-27T11:13:59.356869+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "884cd0380ecffb590d6557bf2948fa1250983bb2e9f2b808d0d6f5ffb112f161",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-asset-shield.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-asset-shield.html",
+    "checked_at": "2026-10-27T11:14:05.106523+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "39eff7733e4509d094d6297453f780f8fc547b7bc7cab85c5b42625494889e5e",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-value-enhancer.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-value-enhancer.html",
+    "checked_at": "2026-10-27T11:14:09.890419+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "14839a6a88e6008a5021437b4a1c20e69b7e9315b4cf85fe470c085a36cbed35",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-wealth.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-wealth.html",
+    "checked_at": "2026-10-27T11:14:14.815382+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "7651e9479baf82fd48bc5dd535d8cbbb093d15cb6e8ab74f63a4421838afeefe",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-easy-5.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-easy-5.html",
+    "checked_at": "2026-10-27T11:14:25.753194+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "0d4c8cdc793941848a4eb336d5e3ab1881ae18135849047f94f6882a2be39eb3",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-multici-enrich.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-multici-enrich.html",
+    "checked_at": "2026-10-27T11:19:22.944204+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "ba6ba37784c102fcdc3fd7b023ca7c5d2775727bfc1df688a6cbbb12984f7f80",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/beyond-critical-cover-series-plus-bcc-booster.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/beyond-critical-cover-series-plus-bcc-booster.html",
+    "checked_at": "2026-10-27T11:19:33.125000+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "bf14a9af583ec04696741c9fe8766b895d976fa0f319ce7630bd124efdad883a",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-precious-gift.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-precious-gift.html",
+    "checked_at": "2026-10-27T11:19:37.797636+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "ada61d0fc00ce6e5890eb12deb4a2e60dd2ee4e54d3ea9747cccb0f610f032f3",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-aspire-15.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-aspire-15.html",
+    "checked_at": "2026-10-27T11:19:41.794488+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "40004d4467159d3c67557a864e01a9c3e2e30bb48fc31fd8337cd229b9d3dd00",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-future-shield.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-future-shield.html",
+    "checked_at": "2026-10-27T11:19:45.185655+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "244f4d373f78f5dcad1d2c0acd4a391c306be54e951ab27c26c7b7c2c47cff92",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-universal-saver.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-universal-saver.html",
+    "checked_at": "2026-10-27T11:19:48.568828+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "e6cb636ef3ee542019388ff0522424cc250e3e1c397071035e3548e5701a779a",
+    "source_type": "official_public_HTML"
+  },
+  {
+    "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement/manusecure-series.html",
+    "final_url": "https://www.manulife.com.my/en/individual/products/save/retirement/manusecure-series.html",
+    "checked_at": "2026-10-27T11:19:52.327044+00:00",
+    "source_date": null,
+    "http_status": 200,
+    "content_sha256": "65b301d8eef3cb84e59c305cbaa594bf276b4ef2d6fffa797df3e6bc69749531",
+    "source_type": "official_public_HTML"
+  }
+]

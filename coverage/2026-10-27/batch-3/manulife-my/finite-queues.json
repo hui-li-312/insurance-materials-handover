@@ -1,0 +1,279 @@
+{
+  "root": [
+    {
+      "url": "https://www.manulife.com.my/products",
+      "label": "Products",
+      "source_url": "https://www.manulife.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/life/protection-life-insurance.html",
+      "label": "Life",
+      "source_url": "https://www.manulife.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation.html",
+      "label": "Health",
+      "source_url": "https://www.manulife.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings.html",
+      "label": "Save",
+      "source_url": "https://www.manulife.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/bancassurance/protection.html",
+      "label": "Bancassurance",
+      "source_url": "https://www.manulife.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/services/insurance-library.html",
+      "label": "Insurance Library",
+      "source_url": "https://www.manulife.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-health-saver-enrich.html",
+      "label": "",
+      "source_url": "https://www.manulife.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings/manusecure-series.html",
+      "label": "",
+      "source_url": "https://www.manulife.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan.html",
+      "label": "Invest",
+      "source_url": "https://www.manulife.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/live-it-up/live-it-up.html",
+      "label": "Live It Up by Manulife",
+      "source_url": "https://www.manulife.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/sme-business/sme-business-solution.html",
+      "label": "SME Business",
+      "source_url": "https://www.manulife.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/partnership/prime-life-48.html",
+      "label": "Partnership",
+      "source_url": "https://www.manulife.com.my/",
+      "status": "read"
+    }
+  ],
+  "phase2": [
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/life/term-life.html",
+      "source_url": "https://www.manulife.com.my/products",
+      "link_label": "Term Life",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/life/whole-life.html",
+      "source_url": "https://www.manulife.com.my/products",
+      "link_label": "Whole Life",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness.html",
+      "source_url": "https://www.manulife.com.my/products",
+      "link_label": "Critical Illness",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement.html",
+      "source_url": "https://www.manulife.com.my/products",
+      "link_label": "Retirement",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/bancassurance/wealth-building.html",
+      "source_url": "https://www.manulife.com.my/products",
+      "link_label": "Wealth Building",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/bancassurance/education.html",
+      "source_url": "https://www.manulife.com.my/products",
+      "link_label": "Education",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/bancassurance/retirement.html",
+      "source_url": "https://www.manulife.com.my/products",
+      "link_label": "Retirement",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/bancassurance/legacy.html",
+      "source_url": "https://www.manulife.com.my/products",
+      "link_label": "Legacy",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/bancassurance/credit-life.html",
+      "source_url": "https://www.manulife.com.my/products",
+      "link_label": "Credit Life",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuterm.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/protection-life-insurance.html",
+      "link_label": "",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuprotect.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/protection-life-insurance.html",
+      "link_label": "",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manulife-future-shield.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/protection-life-insurance.html",
+      "link_label": "",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manuwhole-life.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/protection-life-insurance.html",
+      "link_label": "",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-ez-med-deductible.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation.html",
+      "link_label": "",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-aspire-15.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/savings.html",
+      "link_label": "",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-future-shield.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/savings.html",
+      "link_label": "",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-universal-saver.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/savings.html",
+      "link_label": "",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manuez-ci.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-health-saver-enrich.html",
+      "link_label": "",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-heritage.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan.html",
+      "link_label": "",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-essential-and-essential-plus.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan.html",
+      "link_label": "",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-asset-shield.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan.html",
+      "link_label": "",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-value-enhancer.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan.html",
+      "link_label": "",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-wealth.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan.html",
+      "link_label": "",
+      "status": "read"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-premier.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/live-it-up/live-it-up.html",
+      "link_label": "Manulink Premier",
+      "status": "failed_or_quarantined"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-easy-5.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/live-it-up/live-it-up.html",
+      "link_label": "Manulife Easy 5",
+      "status": "read"
+    }
+  ],
+  "phase3": [
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-multici-enrich.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness.html",
+      "label": "",
+      "source_attribute": "href",
+      "status": "preenumerated_pending_review"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/beyond-critical-cover-series-plus-bcc-booster.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness.html",
+      "label": "",
+      "source_attribute": "href",
+      "status": "preenumerated_pending_review"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-precious-gift.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness.html",
+      "label": "",
+      "source_attribute": "href",
+      "status": "preenumerated_pending_review"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-aspire-15.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement.html",
+      "label": "",
+      "source_attribute": "href",
+      "status": "preenumerated_pending_review"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-future-shield.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement.html",
+      "label": "",
+      "source_attribute": "href",
+      "status": "preenumerated_pending_review"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-universal-saver.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement.html",
+      "label": "",
+      "source_attribute": "href",
+      "status": "preenumerated_pending_review"
+    },
+    {
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manusecure-series.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement.html",
+      "label": "",
+      "source_attribute": "href",
+      "status": "preenumerated_pending_review"
+    }
+  ]
+}

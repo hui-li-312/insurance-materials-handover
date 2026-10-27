@@ -1,0 +1,678 @@
+{
+  "cards": [
+    {
+      "official_name": "Manulife Health Saver Enrich (MHSE)",
+      "url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-health-saver-enrich.html",
+      "source_url": "https://www.manulife.com.my/",
+      "source_checked_at": "2026-10-27T10:17:53.906937+00:00",
+      "label": "Your Total Health Solution from Prevention to Recovery Read more"
+    },
+    {
+      "official_name": "ManuSecure Series",
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings/manusecure-series.html",
+      "source_url": "https://www.manulife.com.my/",
+      "source_checked_at": "2026-10-27T10:17:53.906937+00:00",
+      "label": "Build your wealth for a financially secure future. Read more"
+    },
+    {
+      "official_name": "Announcements",
+      "url": "https://www.manulife.com.my/en/individual/services/announcements/investment-linked-policy-guide.html",
+      "source_url": "https://www.manulife.com.my/",
+      "source_checked_at": "2026-10-27T10:17:53.906937+00:00",
+      "label": "Guide to Investment-linked Policy Owners on Insurance Coverage. Read more"
+    },
+    {
+      "official_name": "ManuTerm",
+      "url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuterm.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/protection-life-insurance.html",
+      "source_checked_at": "2026-10-27T11:09:31.992172+00:00",
+      "label": "Term Life"
+    },
+    {
+      "official_name": "ManuProtect",
+      "url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuprotect.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/protection-life-insurance.html",
+      "source_checked_at": "2026-10-27T11:09:31.992172+00:00",
+      "label": "Term Life"
+    },
+    {
+      "official_name": "Manulife Future Shield",
+      "url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manulife-future-shield.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/protection-life-insurance.html",
+      "source_checked_at": "2026-10-27T11:09:31.992172+00:00",
+      "label": "Whole Life"
+    },
+    {
+      "official_name": "ManuWhole Life",
+      "url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manuwhole-life.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/protection-life-insurance.html",
+      "source_checked_at": "2026-10-27T11:09:31.992172+00:00",
+      "label": "Whole Life"
+    },
+    {
+      "official_name": "Manulife Health Saver Enrich (MHSE)",
+      "url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-health-saver-enrich.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation.html",
+      "source_checked_at": "2026-10-27T11:09:35.603898+00:00",
+      "label": "Medical and Hospitalisation"
+    },
+    {
+      "official_name": "Manulife EZ-Med Deductible",
+      "url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-ez-med-deductible.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation.html",
+      "source_checked_at": "2026-10-27T11:09:35.603898+00:00",
+      "label": "Medical and Hospitalisation"
+    },
+    {
+      "official_name": "Manulife Aspire 15",
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-aspire-15.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/savings.html",
+      "source_checked_at": "2026-10-27T11:09:40.064426+00:00",
+      "label": "Savings"
+    },
+    {
+      "official_name": "Manulife Future Shield",
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-future-shield.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/savings.html",
+      "source_checked_at": "2026-10-27T11:09:40.064426+00:00",
+      "label": "Savings"
+    },
+    {
+      "official_name": "Manulife Universal Saver",
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-universal-saver.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/savings.html",
+      "source_checked_at": "2026-10-27T11:09:40.064426+00:00",
+      "label": "Savings"
+    },
+    {
+      "official_name": "ManuSecure Series",
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings/manusecure-series.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/savings.html",
+      "source_checked_at": "2026-10-27T11:09:40.064426+00:00",
+      "label": "Savings"
+    },
+    {
+      "official_name": "EliteLife Signature Prestige",
+      "url": "https://www.alliancebank.com.my/personal/Insurance/Life-Insurance/EliteLife-Signature-Prestige",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/protection.html",
+      "source_checked_at": "2026-10-27T11:09:44.530486+00:00",
+      "label": "Protection"
+    },
+    {
+      "official_name": "EliteLife Signature Heritage",
+      "url": "https://www.alliancebank.com.my/personal/Insurance/Life-Insurance/EliteLife-Signature-Heritage",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/protection.html",
+      "source_checked_at": "2026-10-27T11:09:44.530486+00:00",
+      "label": "Protection"
+    },
+    {
+      "official_name": "EliteLife Signature Legacy",
+      "url": "https://www.alliancebank.com.my/Personal/Insurance/Life-Insurance/EliteLife-Signature-Legacy",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/protection.html",
+      "source_checked_at": "2026-10-27T11:09:44.530486+00:00",
+      "label": "Protection"
+    },
+    {
+      "official_name": "EliteLife Signature Treasure",
+      "url": "https://www.alliancebank.com.my/Personal/Insurance/Life-Insurance/Elitelife-Signature-Treasure",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/protection.html",
+      "source_checked_at": "2026-10-27T11:09:44.530486+00:00",
+      "label": "Protection"
+    },
+    {
+      "official_name": "Manulife EZ-Med Deductible",
+      "url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-ez-med-deductible.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-health-saver-enrich.html",
+      "source_checked_at": "2026-10-27T11:09:52.755186+00:00",
+      "label": "Health / Medical and Hospitalisation"
+    },
+    {
+      "official_name": "ManuEZ-CI",
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manuez-ci.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-health-saver-enrich.html",
+      "source_checked_at": "2026-10-27T11:09:52.755186+00:00",
+      "label": "Health / Critical Illness"
+    },
+    {
+      "official_name": "Manulife Universal Saver",
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-universal-saver.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/savings/manusecure-series.html",
+      "source_checked_at": "2026-10-27T11:09:57.430827+00:00",
+      "label": "Celebrate life milestones with confidence Read more"
+    },
+    {
+      "official_name": "Manulife Heritage",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-heritage.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan.html",
+      "source_checked_at": "2026-10-27T11:10:01.883653+00:00",
+      "label": "Invest"
+    },
+    {
+      "official_name": "ManuLink Essential/ManuLink Essential Plus",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-essential-and-essential-plus.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan.html",
+      "source_checked_at": "2026-10-27T11:10:01.883653+00:00",
+      "label": "Investment-Linked Plan"
+    },
+    {
+      "official_name": "Manulife Asset Shield",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-asset-shield.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan.html",
+      "source_checked_at": "2026-10-27T11:10:01.883653+00:00",
+      "label": "Investment-Linked Plan"
+    },
+    {
+      "official_name": "Manulife Value Enhancer",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-value-enhancer.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan.html",
+      "source_checked_at": "2026-10-27T11:10:01.883653+00:00",
+      "label": "Investment-Linked Plan"
+    },
+    {
+      "official_name": "ManuLink Wealth",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-wealth.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan.html",
+      "source_checked_at": "2026-10-27T11:10:01.883653+00:00",
+      "label": "Investment-Linked Plan"
+    },
+    {
+      "official_name": "ManuSecure Series",
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings/manusecure-series.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/live-it-up/live-it-up.html",
+      "source_checked_at": "2026-10-27T11:10:05.704421+00:00",
+      "label": "Save / Savings"
+    },
+    {
+      "official_name": "Manulife Easy 5",
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-easy-5.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/live-it-up/live-it-up.html",
+      "source_checked_at": "2026-10-27T11:10:05.704421+00:00",
+      "label": "Critical Illness"
+    },
+    {
+      "official_name": "ManuLink Essential",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-essential-and-essential-plus.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/live-it-up/live-it-up.html",
+      "source_checked_at": "2026-10-27T11:10:05.704421+00:00",
+      "label": "Investment-Linked Plan"
+    },
+    {
+      "official_name": "PHM PrimeLife 48",
+      "url": "https://metafin.com.my/life-protection.php",
+      "source_url": "https://www.manulife.com.my/en/individual/products/partnership/prime-life-48.html",
+      "source_checked_at": "2026-10-27T11:10:16.089843+00:00",
+      "label": "Protection"
+    },
+    {
+      "official_name": "ManuTerm",
+      "url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuterm.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/term-life.html",
+      "source_checked_at": "2026-10-27T11:12:05.059931+00:00",
+      "label": "Term Life"
+    },
+    {
+      "official_name": "ManuProtect",
+      "url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuprotect.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/term-life.html",
+      "source_checked_at": "2026-10-27T11:12:05.059931+00:00",
+      "label": "Term Life"
+    },
+    {
+      "official_name": "Manulife Future Shield",
+      "url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manulife-future-shield.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/whole-life.html",
+      "source_checked_at": "2026-10-27T11:12:10.003977+00:00",
+      "label": "Whole Life"
+    },
+    {
+      "official_name": "ManuWhole Life",
+      "url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manuwhole-life.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/whole-life.html",
+      "source_checked_at": "2026-10-27T11:12:10.003977+00:00",
+      "label": "Whole Life"
+    },
+    {
+      "official_name": "Manulife MultiCI Enrich",
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-multici-enrich.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness.html",
+      "source_checked_at": "2026-10-27T11:12:14.475337+00:00",
+      "label": "Critical Illness"
+    },
+    {
+      "official_name": "Beyond Critical Cover (BCC) Series + BCC Booster",
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/beyond-critical-cover-series-plus-bcc-booster.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness.html",
+      "source_checked_at": "2026-10-27T11:12:14.475337+00:00",
+      "label": "Critical Illness"
+    },
+    {
+      "official_name": "Manulife Easy 5",
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-easy-5.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness.html",
+      "source_checked_at": "2026-10-27T11:12:14.475337+00:00",
+      "label": "Critical Illness"
+    },
+    {
+      "official_name": "Manulife Precious Gift",
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-precious-gift.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness.html",
+      "source_checked_at": "2026-10-27T11:12:14.475337+00:00",
+      "label": "Critical Illness"
+    },
+    {
+      "official_name": "ManuEZ-CI",
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manuez-ci.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness.html",
+      "source_checked_at": "2026-10-27T11:12:14.475337+00:00",
+      "label": "Critical Illness"
+    },
+    {
+      "official_name": "Manulife Aspire 15",
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-aspire-15.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement.html",
+      "source_checked_at": "2026-10-27T11:12:19.781040+00:00",
+      "label": "Retirement"
+    },
+    {
+      "official_name": "Manulife Future Shield",
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-future-shield.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement.html",
+      "source_checked_at": "2026-10-27T11:12:19.781040+00:00",
+      "label": "Retirement"
+    },
+    {
+      "official_name": "Manulife Universal Saver",
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-universal-saver.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement.html",
+      "source_checked_at": "2026-10-27T11:12:19.781040+00:00",
+      "label": "Retirement"
+    },
+    {
+      "official_name": "ManuSecure Series",
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manusecure-series.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement.html",
+      "source_checked_at": "2026-10-27T11:12:19.781040+00:00",
+      "label": "Savings"
+    },
+    {
+      "official_name": "EliteLife Signature Prestige",
+      "url": "https://www.alliancebank.com.my/personal/Insurance/Life-Insurance/EliteLife-Signature-Prestige",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/wealth-building.html",
+      "source_checked_at": "2026-10-27T11:12:25.252596+00:00",
+      "label": "Protection"
+    },
+    {
+      "official_name": "Elite Income 88",
+      "url": "https://www.alliancebank.com.my/protection/personal/life-insurance/elite-income-88.aspx",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/wealth-building.html",
+      "source_checked_at": "2026-10-27T11:12:25.252596+00:00",
+      "label": "Bancassurance"
+    },
+    {
+      "official_name": "EliteLife Signature Saver",
+      "url": "https://www.alliancebank.com.my/protection/personal/life-insurance/elitelife-signature-saver.aspx",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/wealth-building.html",
+      "source_checked_at": "2026-10-27T11:12:25.252596+00:00",
+      "label": "Bancassurance"
+    },
+    {
+      "official_name": "EliteLife Signature Treasure",
+      "url": "https://www.alliancebank.com.my/Personal/Insurance/Life-Insurance/Elitelife-Signature-Treasure",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/wealth-building.html",
+      "source_checked_at": "2026-10-27T11:12:25.252596+00:00",
+      "label": "Protection"
+    },
+    {
+      "official_name": "Elite Income 88",
+      "url": "https://www.alliancebank.com.my/protection/personal/life-insurance/elite-income-88.aspx",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/education.html",
+      "source_checked_at": "2026-10-27T11:12:31.811561+00:00",
+      "label": "Bancassurance"
+    },
+    {
+      "official_name": "EliteLife Signature Saver",
+      "url": "https://www.alliancebank.com.my/protection/personal/life-insurance/elitelife-signature-saver.aspx",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/education.html",
+      "source_checked_at": "2026-10-27T11:12:31.811561+00:00",
+      "label": "Bancassurance"
+    },
+    {
+      "official_name": "EliteLife Signature Prestige",
+      "url": "https://www.alliancebank.com.my/personal/Insurance/Life-Insurance/EliteLife-Signature-Prestige",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/retirement.html",
+      "source_checked_at": "2026-10-27T11:12:36.828463+00:00",
+      "label": "Protection"
+    },
+    {
+      "official_name": "Elite Income 88",
+      "url": "https://www.alliancebank.com.my/protection/personal/life-insurance/elite-income-88.aspx",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/retirement.html",
+      "source_checked_at": "2026-10-27T11:12:36.828463+00:00",
+      "label": "Bancassurance"
+    },
+    {
+      "official_name": "EliteLife Signature Saver",
+      "url": "https://www.alliancebank.com.my/protection/personal/life-insurance/elitelife-signature-saver.aspx",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/retirement.html",
+      "source_checked_at": "2026-10-27T11:12:36.828463+00:00",
+      "label": "Bancassurance"
+    },
+    {
+      "official_name": "EliteLife Signature Treasure",
+      "url": "https://www.alliancebank.com.my/Personal/Insurance/Life-Insurance/Elitelife-Signature-Treasure",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/retirement.html",
+      "source_checked_at": "2026-10-27T11:12:36.828463+00:00",
+      "label": "Protection"
+    },
+    {
+      "official_name": "EliteLife Signature Heritage",
+      "url": "https://www.alliancebank.com.my/personal/Insurance/Life-Insurance/EliteLife-Signature-Heritage",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/legacy.html",
+      "source_checked_at": "2026-10-27T11:12:41.657093+00:00",
+      "label": "Legacy"
+    },
+    {
+      "official_name": "EliteLife Signature Legacy",
+      "url": "https://www.alliancebank.com.my/Personal/Insurance/Life-Insurance/EliteLife-Signature-Legacy",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/legacy.html",
+      "source_checked_at": "2026-10-27T11:12:41.657093+00:00",
+      "label": "Legacy"
+    },
+    {
+      "official_name": "Mortgage Loan Reducing Term Assurance (MRTA)",
+      "url": "https://www.alliancebank.com.my/personal/Insurance/Life-Insurance/Mortgage-Reducing-Term-Assurance",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/credit-life.html",
+      "source_checked_at": "2026-10-27T11:12:46.131710+00:00",
+      "label": "Credit Life"
+    },
+    {
+      "official_name": "Mortgage Loan Level Term Assurance (MLTA)",
+      "url": "https://www.alliancebank.com.my/Personal/Insurance/Life-Insurance/Mortgage-Level-Term-Assurance",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/credit-life.html",
+      "source_checked_at": "2026-10-27T11:12:46.131710+00:00",
+      "label": "Credit Life"
+    },
+    {
+      "official_name": "Business Loan Reducing Term Assurance (BLRTA)",
+      "url": null,
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/credit-life.html",
+      "source_checked_at": "2026-10-27T11:12:46.131710+00:00",
+      "label": "Credit Life"
+    },
+    {
+      "official_name": "Business Loan Level Term Assurance (BLLTA)",
+      "url": null,
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/credit-life.html",
+      "source_checked_at": "2026-10-27T11:12:46.131710+00:00",
+      "label": "Credit Life"
+    },
+    {
+      "official_name": "Personal Loan Reducing Term Assurance (PLRTA)",
+      "url": "https://www.alliancebank.com.my/personal/Insurance/Life-Insurance/Personal-Loan-Reducing-Term-Assurance",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/credit-life.html",
+      "source_checked_at": "2026-10-27T11:12:46.131710+00:00",
+      "label": "Credit Life"
+    },
+    {
+      "official_name": "Elite Credit Shield",
+      "url": "https://www.alliancebank.com.my/Personal/Insurance/Life-Insurance/Elite-Credit-Shield",
+      "source_url": "https://www.manulife.com.my/en/individual/products/bancassurance/credit-life.html",
+      "source_checked_at": "2026-10-27T11:12:46.131710+00:00",
+      "label": "Credit Life"
+    },
+    {
+      "official_name": "ManuWhole Life",
+      "url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manuwhole-life.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuterm.html",
+      "source_checked_at": "2026-10-27T11:12:51.209841+00:00",
+      "label": "Provides life-time insurance protection at affordable premiums. Read more"
+    },
+    {
+      "official_name": "ManuProtect",
+      "url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuprotect.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuterm.html",
+      "source_checked_at": "2026-10-27T11:12:51.209841+00:00",
+      "label": "Protection doesn’t have to be a big commitment. Read more"
+    },
+    {
+      "official_name": "ManuWhole Life",
+      "url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manuwhole-life.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuprotect.html",
+      "source_checked_at": "2026-10-27T11:12:56.110963+00:00",
+      "label": "Provides life-time insurance protection at affordable premiums. Read more"
+    },
+    {
+      "official_name": "ManuTerm",
+      "url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuterm.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuprotect.html",
+      "source_checked_at": "2026-10-27T11:12:56.110963+00:00",
+      "label": "Life insurance protection for a stipulated number of years at the lowest outlay. Read more"
+    },
+    {
+      "official_name": "ManuSecure Series",
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manusecure-series.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manulife-future-shield.html",
+      "source_checked_at": "2026-10-27T11:13:01.010473+00:00",
+      "label": "Build your wealth for a financially secure future. Read more"
+    },
+    {
+      "official_name": "ManuTerm",
+      "url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuterm.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manuwhole-life.html",
+      "source_checked_at": "2026-10-27T11:13:05.723385+00:00",
+      "label": "Life insurance protection for a stipulated number of years at the lowest outlay. Read more"
+    },
+    {
+      "official_name": "ManuProtect",
+      "url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuprotect.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/whole-life/manuwhole-life.html",
+      "source_checked_at": "2026-10-27T11:13:05.723385+00:00",
+      "label": "Protection doesn’t have to be a big commitment. Read more"
+    },
+    {
+      "official_name": "ManuEZ-CI",
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manuez-ci.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-ez-med-deductible.html",
+      "source_checked_at": "2026-10-27T11:13:11.029024+00:00",
+      "label": "A plan that provides you coverage for 5 common critical illnesses. Read more"
+    },
+    {
+      "official_name": "ManuSecure Series",
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manusecure-series.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-aspire-15.html",
+      "source_checked_at": "2026-10-27T11:13:15.292036+00:00",
+      "label": "Build your wealth for a financially secure future. Read more"
+    },
+    {
+      "official_name": "Manulife Universal Saver",
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-universal-saver.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-aspire-15.html",
+      "source_checked_at": "2026-10-27T11:13:15.292036+00:00",
+      "label": "Celebrate life milestones with confidence Read more"
+    },
+    {
+      "official_name": "ManuSecure Series",
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manusecure-series.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-future-shield.html",
+      "source_checked_at": "2026-10-27T11:13:19.409381+00:00",
+      "label": "Build your wealth for a financially secure future. Read more"
+    },
+    {
+      "official_name": "ManuSecure Series",
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manusecure-series.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-universal-saver.html",
+      "source_checked_at": "2026-10-27T11:13:34.699657+00:00",
+      "label": "Build your wealth for a financially secure future. Read more"
+    },
+    {
+      "official_name": "ManuEZ-Med",
+      "url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-ez-med-deductible.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manuez-ci.html",
+      "source_checked_at": "2026-10-27T11:13:46.515268+00:00",
+      "label": "Get your medical plan from as low as RM2 a day! Read more"
+    },
+    {
+      "official_name": "ManuLink Wealth",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-wealth.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-heritage.html",
+      "source_checked_at": "2026-10-27T11:13:52.059409+00:00",
+      "label": "Keeping you on course for your future. Read more"
+    },
+    {
+      "official_name": "ManuLink Premier",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-premier.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-heritage.html",
+      "source_checked_at": "2026-10-27T11:13:52.059409+00:00",
+      "label": "Enjoy dual benefits of wealth and protection Read more"
+    },
+    {
+      "official_name": "ManuLink Wealth",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-wealth.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-essential-and-essential-plus.html",
+      "source_checked_at": "2026-10-27T11:13:59.356869+00:00",
+      "label": "Keeping you on course for your future. Read more"
+    },
+    {
+      "official_name": "ManuLink Premier",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-premier.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-essential-and-essential-plus.html",
+      "source_checked_at": "2026-10-27T11:13:59.356869+00:00",
+      "label": "Enjoy dual benefits of wealth and protection Read more"
+    },
+    {
+      "official_name": "ManuLink Premier",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-premier.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-asset-shield.html",
+      "source_checked_at": "2026-10-27T11:14:05.106523+00:00",
+      "label": "Enjoy dual benefits of wealth and protection. Read more"
+    },
+    {
+      "official_name": "ManuLink Wealth",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-wealth.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-asset-shield.html",
+      "source_checked_at": "2026-10-27T11:14:05.106523+00:00",
+      "label": "Keeping you on course for your future. Read more"
+    },
+    {
+      "official_name": "ManuLink Premier",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-premier.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-value-enhancer.html",
+      "source_checked_at": "2026-10-27T11:14:09.890419+00:00",
+      "label": "Enjoy dual benefits of wealth and protection. Read more"
+    },
+    {
+      "official_name": "ManuLink Wealth",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-wealth.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-value-enhancer.html",
+      "source_checked_at": "2026-10-27T11:14:09.890419+00:00",
+      "label": "Keeping you on course for your future. Read more"
+    },
+    {
+      "official_name": "ManuLink Essential",
+      "url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-essential-and-essential-plus.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-wealth.html",
+      "source_checked_at": "2026-10-27T11:14:14.815382+00:00",
+      "label": "Protection in every step of life's journey Read more"
+    },
+    {
+      "official_name": "ManuEZ-Med",
+      "url": "https://www.manulife.com.my/en/individual/products/health/medical-hospitalisation/manulife-ez-med-deductible.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/beyond-critical-cover-series-plus-bcc-booster.html",
+      "source_checked_at": "2026-10-27T11:19:33.125000+00:00",
+      "label": "Get your medical plan from as low as RM2 a day! Read more"
+    },
+    {
+      "official_name": "ManuSecure Series",
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manusecure-series.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-aspire-15.html",
+      "source_checked_at": "2026-10-27T11:19:41.794488+00:00",
+      "label": "Build your wealth for a financially secure future. Read more"
+    },
+    {
+      "official_name": "Manulife Universal Saver",
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-universal-saver.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-aspire-15.html",
+      "source_checked_at": "2026-10-27T11:19:41.794488+00:00",
+      "label": "Celebrate life milestones with confidence Read more"
+    },
+    {
+      "official_name": "ManuSecure Series",
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manusecure-series.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-future-shield.html",
+      "source_checked_at": "2026-10-27T11:19:45.185655+00:00",
+      "label": "Build your wealth for a financially secure future. Read more"
+    },
+    {
+      "official_name": "ManuSecure Series",
+      "url": "https://www.manulife.com.my/en/individual/products/save/retirement/manusecure-series.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement/manulife-universal-saver.html",
+      "source_checked_at": "2026-10-27T11:19:48.568828+00:00",
+      "label": "Build your wealth for a financially secure future. Read more"
+    },
+    {
+      "official_name": "Manulife Universal Saver",
+      "url": "https://www.manulife.com.my/en/individual/products/save/savings/manulife-universal-saver.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/save/retirement/manusecure-series.html",
+      "source_checked_at": "2026-10-27T11:19:52.327044+00:00",
+      "label": "Celebrate life milestones with confidence Read more"
+    }
+  ],
+  "generic_optional_rider_cards": [
+    {
+      "official_name": "Critical Illness",
+      "url": null,
+      "source_url": "https://www.manulife.com.my/en/individual/products/life/term-life/manuprotect.html",
+      "source_checked_at": "2026-10-27T11:12:56.110963+00:00",
+      "label": "Receive one lump sum benefit, upon Insured's diagnosis of a covered critical illness. Read more"
+    },
+    {
+      "official_name": "Income Benefit",
+      "url": null,
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-heritage.html",
+      "source_checked_at": "2026-10-27T11:13:52.059409+00:00",
+      "label": "Specially designed for those who wish to receive a regular income to help pay future insurance premiums. Read more"
+    },
+    {
+      "official_name": "Critical Illness",
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-multici-enrich.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulife-heritage.html",
+      "source_checked_at": "2026-10-27T11:13:52.059409+00:00",
+      "label": "Critical Illness Coverage with multi-stage protection, multiple recovery support and other benefits. Read more"
+    },
+    {
+      "official_name": "Critical Illness",
+      "url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/beyond-critical-cover-series-plus-bcc-booster.html",
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-essential-and-essential-plus.html",
+      "source_checked_at": "2026-10-27T11:13:59.356869+00:00",
+      "label": "Receive one lump sum benefit, upon Insured's diagnosis of a covered critical illness. Read more"
+    },
+    {
+      "official_name": "Accidental Benefit",
+      "url": null,
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-essential-and-essential-plus.html",
+      "source_checked_at": "2026-10-27T11:13:59.356869+00:00",
+      "label": "Comprehensive insurance coverage for death, injuries, hospitalisation or surgeries resulting from accident. Read more"
+    },
+    {
+      "official_name": "Income Benefit",
+      "url": null,
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-essential-and-essential-plus.html",
+      "source_checked_at": "2026-10-27T11:13:59.356869+00:00",
+      "label": "Specially designed for those who wish to receive a regular income to help pay future insurance premiums. Read more"
+    },
+    {
+      "official_name": "Income Benefit",
+      "url": null,
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-wealth.html",
+      "source_checked_at": "2026-10-27T11:14:14.815382+00:00",
+      "label": "Specially designed for those who wish to receive a regular income to help pay future insurance premiums. Read more"
+    },
+    {
+      "official_name": "Critical Illness",
+      "url": null,
+      "source_url": "https://www.manulife.com.my/en/individual/products/invest/investment-linked-plan/manulink-wealth.html",
+      "source_checked_at": "2026-10-27T11:14:14.815382+00:00",
+      "label": "Receive one lump sum benefit, upon Insured's diagnosis of a covered critical illness. Read more"
+    }
+  ]
+}

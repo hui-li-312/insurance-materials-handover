@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-10-27T12:53:08.378236+00:00",
+  "status": "immutable_candidate_v2_for_final_QA",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 2390,
+      "sha256": "faaff69dc32ffd124cd507785997abbdbeecf73e1f63df4abc330d5184a88a6e"
+    },
+    {
+      "file": "card-evidence.json",
+      "bytes": 37685,
+      "sha256": "6a1cfbc5853064b62faae9890ed9d9ba3b306c12fb475b4a83c694fbdceb87f7"
+    },
+    {
+      "file": "excluded-material-links.json",
+      "bytes": 9810,
+      "sha256": "459cbadfec27d4606836760ec58c6f4c0b52f07f0543e605be1b08d76e128b9b"
+    },
+    {
+      "file": "finite-queues.json",
+      "bytes": 11474,
+      "sha256": "bd71958989f2bc90865b669b72d1cbf791ac53f39f2ede91025cc437fa769c31"
+    },
+    {
+      "file": "issuer-origin-evidence.json",
+      "bytes": 588,
+      "sha256": "98289fefb9bfe950ff7c516aa5d4c28d43cac3cf8478da066953f29ab75eca9b"
+    },
+    {
+      "file": "manulife-my-traversal.json",
+      "bytes": 22757,
+      "sha256": "f5979178bb7c072b7124e3f5cef27856971998fdd9db4e290ea2b383ee338ce4"
+    },
+    {
+      "file": "products-manulife-my.jsonl",
+      "bytes": 163737,
+      "sha256": "ed0020ed6fdd95b295f5d016179c8cdd2685c2f0e9e50fc56705f60413e85682"
+    },
+    {
+      "file": "publication-safety-gate.json",
+      "bytes": 157,
+      "sha256": "08ac81f16f09199f21e5612e502c8cea726f43b28adbe3c0853e0525e8dba690"
+    },
+    {
+      "file": "sources.json",
+      "bytes": 20336,
+      "sha256": "f180a8ff9d25642a7a200805836dc42c708b32d2ab0eb9fb3e3bb73bdbb243dd"
+    },
+    {
+      "file": "v2-corrections-and-merge-map.json",
+      "bytes": 1009,
+      "sha256": "f5f9634a94396178c6892a517b3668f5870cecea5bfa48ae384c3c1fa1fef165"
+    }
+  ]
+}

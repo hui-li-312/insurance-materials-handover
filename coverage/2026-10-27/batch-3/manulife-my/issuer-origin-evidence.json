@@ -1,0 +1,13 @@
+[
+  {
+    "origin": "https://www.manulife.com.my",
+    "legal_names": [
+      "Manulife Insurance Berhad"
+    ],
+    "evidence_url": "https://www.manulife.com.my/",
+    "evidence_checked_at": "2026-10-27T10:17:53.906937+00:00",
+    "source_content_sha256": "985f13cc0353cc6749dbba14c14443e356cfca751d073f4ae197db029212721b",
+    "basis": "Exact full legal entity name visibly present in official site footer; punctuation and whitespace normalized only. Shared-brand product underwriting still requires item-specific evidence.",
+    "reviewed_at": "2026-10-27T11:08:15.294722+00:00"
+  }
+]

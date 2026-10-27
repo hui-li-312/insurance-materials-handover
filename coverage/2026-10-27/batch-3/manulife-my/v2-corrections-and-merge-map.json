@@ -1,0 +1,24 @@
+{
+  "created_at": "2026-10-27T12:53:08.378236+00:00",
+  "source_snapshot": "my-manulife-ready-20261027T112659Z",
+  "source_snapshot_unchanged": true,
+  "replace_entire_prior_candidate_not_append": true,
+  "rows_before_and_after": 65,
+  "material_references_before_and_after": 71,
+  "unique_material_URLs_before_and_after": 58,
+  "changed_observation": {
+    "old_observation_id": "MY-observation-f18db232ca6f049fb8a6",
+    "new_observation_id": "MY-observation-d8273683996037ec7a59",
+    "issuer_id": "MY-own-c2def21204b2a30b",
+    "official_name": "Manulife Health Saver Benefit – Baby",
+    "product_url": "https://www.manulife.com.my/en/individual/products/health/critical-illness/manulife-precious-gift.html",
+    "old_role": "rider",
+    "new_role": "coverage_class",
+    "contractual_rider_status": "unconfirmed",
+    "standalone_or_base_status": "unconfirmed",
+    "parent_official_name": "Manulife Precious Gift",
+    "material_links": []
+  },
+  "network_requests": 0,
+  "file_bodies_reviewed": 0
+}
