@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "compiled_at": "2026-10-27T16:52:04Z",
+  "compiled_at": "2026-10-27T18:09:36.041296+00:00",
   "status": "in_progress_not_all_market_complete",
   "formal_original_baseline": 4713,
   "new_formal_original_credit": 0,
@@ -28,19 +28,25 @@
     },
     {
       "id": "bn_kh_catalog_and_regional_queues",
-      "path": "2026-10-27/batch-5/bn-kh-la-mm/",
-      "source_observations": 706,
-      "supersedes": "2026-10-27/batch-2/bn-kh/",
-      "unit": "BN144_KH284_LA83_MM195_mixed_catalog_observations_not_unique_skus",
-      "source_material_occurrences": 943,
-      "publicly_exposed_occurrences": 911,
+      "path": "2026-10-27/batch-7/bn-kh-la-mm/",
+      "source_observations": 872,
+      "supersedes": "2026-10-27/batch-5/bn-kh-la-mm/",
+      "unit": "BN145_KH386_LA109_MM232_mixed_catalog_language_and_resource_contexts_not_unique_skus",
+      "source_material_occurrences": 1183,
+      "publicly_exposed_occurrences": 1151,
       "withheld_occurrences": 32,
-      "source_unique_material_urls": 801,
-      "publicly_exposed_unique_material_urls": 778,
+      "source_unique_material_urls": 939,
+      "publicly_exposed_unique_material_urls": 916,
       "matched_historical_held_identities": 20,
       "hidden_markup_material_occurrences": 16,
       "hidden_markup_visible_offer_credit": 0,
-      "aggregation_notice": "Cumulative replacement: 706 replaces the prior 428, not an additional 706. Preserve BN/KH stable identities; LA83/MM195 are additions. Hidden markup does not establish a visible/current material offer."
+      "aggregation_notice": "Cumulative replacement: 872 replaces prior 706 (+166), never 706+872. All 706 prior source identities and historical sidecars remain; 16 GGI hidden references have zero visible/current offer credit. VN933 remains a separate unchanged feed.",
+      "issuer_candidates": 89,
+      "source_only_material_observations": 21,
+      "source_only_material_rule": "Retained source-level contexts, not extra product observations or product-material coverage.",
+      "frozen_acquisition_as_of": "2026-10-27T16:11:11.532978+00:00",
+      "acquisition_scope": "Frozen finite queues including source-only contexts; 705 targets / 695 private captures / 674 unique hashes including one held; no full-content clearance, formal-original credit or public raw release.",
+      "accepted_source_manifest_sha256": "a7477213c044a80ea8e5fef5a59d1bb5bcbf8f57c123c7f1109539d934a4c197"
     },
     {
       "id": "ocean_life_selected_catalog",
@@ -250,5 +256,5 @@
     }
   ],
   "public_projection_rule": "Known historical or already-held raw locators are withheld; observed source-reference counts are not the count of exposed download URLs. No current-file confidentiality finding or fresh-byte verification is inferred.",
-  "last_projection_correction": "Batch 6: fixed Etiqa SG v3 + four exact material reviews, Etiqa MY v2, VN v2 source contexts. Preserve hidden/related/resource-only scopes, held nulls and zero formal credit."
+  "last_projection_correction": "Batch 7: approved v7c cumulative four-region metadata replaces 706 with 872. Fortune Khmer title/og:title corrections and seven CVI source-only label/role clarifications retained. C4 frozen at 2026-10-27T16:11:11.532978+00:00; VN933 and other feeds unchanged."
 }
