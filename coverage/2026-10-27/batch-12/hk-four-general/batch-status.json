@@ -1,0 +1,28 @@
+{
+  "frozen_at": "2026-10-27T12:32:03.008445+00:00",
+  "status": "metadata_audited_bounded_partial",
+  "issuer_count": 4,
+  "source_events": 96,
+  "source_HTTP_status_counts": {
+    "200": 96
+  },
+  "offering_category_observations": 81,
+  "offering_role_counts": {
+    "coverage_class": 57,
+    "plan": 7,
+    "catalog_category": 5,
+    "product": 12
+  },
+  "document_observations": 85,
+  "material_link_occurrences": 165,
+  "source_unique_material_urls": 88,
+  "raw_PDF_requests": 0,
+  "new_formal_material_files": 0,
+  "verified_unique_SKUs": 0,
+  "whole_market_or_issuer_complete": false,
+  "candidate_origin_manifest_sha256": "d0fd7d5daa0601e792944be34caa04d33da016883bd170f6b2b743b47f311932",
+  "audit_performed_at": "2026-10-27T21:07:00Z",
+  "source_org_count": 4,
+  "verified_contracting_entity_count": 0,
+  "new_source_reads_by_this_audit": 0
+}

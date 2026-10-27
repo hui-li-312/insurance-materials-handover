@@ -1,0 +1,36 @@
+{
+  "audit_scope": "independent offline reconciliation of saved source evidence and metadata; no new network requests",
+  "source_count": 96,
+  "verified_source_hashes": 96,
+  "verified_source_byte_lengths": 96,
+  "verified_source_timestamps_and_final_URLs": 96,
+  "source_role_counts": {
+    "public_HTML": 69,
+    "public_client_code_read_as_text_not_executed": 20,
+    "public_CMS_JSON": 7
+  },
+  "row_label_provenance_checked": 166,
+  "material_link_and_label_contexts_checked": 165,
+  "strict_Chong_Hing_adjacent_directory_label_contexts_checked": 42,
+  "source_organisation_identity_pairs_checked": 4,
+  "source_organisation_mapping_not_contracting_entity_verification": true,
+  "role_counts": {
+    "coverage_class": 57,
+    "plan": 7,
+    "catalog_category": 5,
+    "product": 12
+  },
+  "dates": "Unknown publication, source and effective dates remain null; checked_at is retrieval observation time only. Filename tokens are not dates.",
+  "limitations": {
+    "California": "Six visible commercial classes are expressly non-exhaustive. No wider issuer completeness credit.",
+    "Chong_Hing": "Online enrolment suspension during system upgrading is a channel limitation, not proven product withdrawal.",
+    "Pacific": "Six advertised coverage/plan observations; eleven router-only paths stay excluded from observations. Six proposal-viewer leaves were not requested. Claims-form POST directory was not requested and remains unresolved.",
+    "Tugu": "Seven wording-labelled HTML candidates and one Shop Package coverage summary keep headings/structure-only status. No full-wording, schedule, issued-policy or current-sale credit.",
+    "all": "81 offering/category rows and 85 document contexts; 88 referenced material URLs, zero new formal material files, zero verified SKUs, zero confirmed current-sale products. Current applicability and whole-issuer or market completeness remain unverified."
+  },
+  "corrections": {
+    "explicit_source_issuer_and_unverified_contracting_entity": 166,
+    "corrected_directory_label_basis": 42
+  },
+  "public_payload": "Structured metadata and source locators/hashes only; no source capture, executable script body, full text, PDF, collection queue, or unadvertised router path list included."
+}

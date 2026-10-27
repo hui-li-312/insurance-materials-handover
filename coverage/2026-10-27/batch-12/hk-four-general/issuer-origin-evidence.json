@@ -1,0 +1,74 @@
+[
+  {
+    "origin": "https://www.california.com.hk",
+    "issuer_id": "HK-own-eeabdd36e7d08db0",
+    "legal_name": "California Insurance Company Limited",
+    "roster_source_url": "https://www.hkfi.org.hk/member-companies",
+    "source_website_hint": "http://www.california.com.hk",
+    "evidence_url": "https://www.california.com.hk",
+    "checked_at": "2026-10-27T10:11:12.572855+00:00",
+    "evidence_sha256": "9b3473b4726ab4f2d7ce2e9f12576451cca26156c8a860a25c7c5a8db9fa8a41",
+    "visible_legal_name_matches": [
+      "California Insurance Company Limited"
+    ],
+    "mapping_basis": "Exact published HKFI entity-host record plus same-host saved public page containing the full legal English or local organisation name. HKFI membership is not an IA licence census.",
+    "source_organisation_legal_name": "California Insurance Company Limited",
+    "legal_name_scope": "official_source_organisation_identity_not_observation_contracting_entity",
+    "contracting_entity_status": "not_independently_verified",
+    "roster_evidence_sha256": "50a8061ca16448e7e6f9d5357a5de290048ec358c306a741330e6c10cb6a2567"
+  },
+  {
+    "origin": "https://www.chins.com.hk",
+    "issuer_id": "HK-own-cc6b8ad199b98498",
+    "legal_name": "Chong Hing Insurance Company Limited",
+    "roster_source_url": "https://www.hkfi.org.hk/member-companies",
+    "source_website_hint": "http://www.chins.com.hk",
+    "evidence_url": "https://www.chins.com.hk",
+    "checked_at": "2026-10-27T10:11:19.817152+00:00",
+    "evidence_sha256": "2d687a67c59eda4ae6fd0b0cc27986132eba14563c630c07d07eb25ff79773b0",
+    "visible_legal_name_matches": [
+      "創興保險有限公司"
+    ],
+    "mapping_basis": "Exact published HKFI entity-host record plus same-host saved public page containing the full legal English or local organisation name. HKFI membership is not an IA licence census.",
+    "source_organisation_legal_name": "Chong Hing Insurance Company Limited",
+    "legal_name_scope": "official_source_organisation_identity_not_observation_contracting_entity",
+    "contracting_entity_status": "not_independently_verified",
+    "roster_evidence_sha256": "50a8061ca16448e7e6f9d5357a5de290048ec358c306a741330e6c10cb6a2567"
+  },
+  {
+    "origin": "https://www.pacificinsurance.com.hk",
+    "issuer_id": "HK-own-0ecba6d1d9683817",
+    "legal_name": "The Pacific Insurance Company, Limited",
+    "roster_source_url": "https://www.hkfi.org.hk/member-companies",
+    "source_website_hint": "http://www.pacificinsurance.com.hk",
+    "evidence_url": "https://www.pacificinsurance.com.hk",
+    "checked_at": "2026-10-27T09:55:59.920148+00:00",
+    "evidence_sha256": "5442ada4f32678d715e89217e331ac3bc900d0babbf7aed9669bb9655f4f40eb",
+    "visible_legal_name_matches": [
+      "太平洋保險有限公司"
+    ],
+    "mapping_basis": "Exact published HKFI entity-host record plus same-host saved public page containing the full legal English or local organisation name. HKFI membership is not an IA licence census.",
+    "source_organisation_legal_name": "The Pacific Insurance Company, Limited",
+    "legal_name_scope": "official_source_organisation_identity_not_observation_contracting_entity",
+    "contracting_entity_status": "not_independently_verified",
+    "roster_evidence_sha256": "50a8061ca16448e7e6f9d5357a5de290048ec358c306a741330e6c10cb6a2567"
+  },
+  {
+    "origin": "https://www.tuguhk.com",
+    "issuer_id": "HK-own-6010f73b4043dce8",
+    "legal_name": "Tugu Insurance Company Limited",
+    "roster_source_url": "https://www.hkfi.org.hk/member-companies",
+    "source_website_hint": "http://www.tuguhk.com",
+    "evidence_url": "https://www.tuguhk.com",
+    "checked_at": "2026-10-27T10:11:43.919124+00:00",
+    "evidence_sha256": "06f8ae00c2ed39a4673b1ba7409ce121b841ca6f50e8c48cf09674c7867fe003",
+    "visible_legal_name_matches": [
+      "Tugu Insurance Company Limited"
+    ],
+    "mapping_basis": "Exact published HKFI entity-host record plus same-host saved public page containing the full legal English or local organisation name. HKFI membership is not an IA licence census.",
+    "source_organisation_legal_name": "Tugu Insurance Company Limited",
+    "legal_name_scope": "official_source_organisation_identity_not_observation_contracting_entity",
+    "contracting_entity_status": "not_independently_verified",
+    "roster_evidence_sha256": "50a8061ca16448e7e6f9d5357a5de290048ec358c306a741330e6c10cb6a2567"
+  }
+]

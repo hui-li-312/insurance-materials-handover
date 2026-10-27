@@ -1,0 +1,57 @@
+{
+  "active_HK_coverage_runtime_baseline_rows": 652,
+  "active_HK_coverage_runtime_candidate_observation_id_overlap": 0,
+  "active_HK_coverage_runtime_exact_material_URL_overlap": 0,
+  "active_HK_coverage_runtime_source_issuer_or_host_matches": 0,
+  "candidate_offering_category_observations": 81,
+  "candidate_document_contexts": 85,
+  "legacy_catalog_HK_rows": 2329,
+  "legacy_runtime_all_documents_rows": 2357,
+  "legacy_exact_material_URL_overlap": 31,
+  "legacy_exact_material_URL_SHA_rows": 31,
+  "normalized_alias_overlap_rows_already_in_exact_set": 4,
+  "normalized_alias_additional_rows": 0,
+  "candidate_distinct_material_URLs_not_exactly_in_legacy_catalog": 57,
+  "prior_coverage_statement": "These source organisations are not new to the legacy corpus: exact candidate material locators overlap 10 California, 17 Chong Hing and 4 Tugu historical rows. Zero applies only to active coverage observation runtime matching, not to prior issuer or material coverage.",
+  "identity_separation": "The Pacific Insurance Company, Limited is not China Pacific Insurance Co. (H.K.) Limited; no name-fragment merge is permitted. No exact Pacific overlap is not proof of zero historical coverage; other aliases remain unconfirmed.",
+  "credit_rule": "Exact URL overlap is historical locator evidence only. No current-byte equality, body-review, completeness, current-offering or new formal-material credit transfers to these observations.",
+  "count_scope": "Language counterparts, tiers, coverage classes, categories and document contexts are observations, not independently verified products or SKUs.",
+  "per_issuer": {
+    "Tugu Insurance Company Limited": {
+      "offering_category_rows": 19,
+      "document_context_rows": 25,
+      "material_occurrences": 33,
+      "distinct_material_urls": 25,
+      "legacy_exact_locator_urls": 4,
+      "legacy_exact_locator_SHA_rows": 4,
+      "not_present_by_exact_locator_in_legacy_catalog": 21
+    },
+    "The Pacific Insurance Company, Limited": {
+      "offering_category_rows": 6,
+      "document_context_rows": 0,
+      "material_occurrences": 6,
+      "distinct_material_urls": 6,
+      "legacy_exact_locator_urls": 0,
+      "legacy_exact_locator_SHA_rows": 0,
+      "not_present_by_exact_locator_in_legacy_catalog": 6
+    },
+    "Chong Hing Insurance Company Limited": {
+      "offering_category_rows": 28,
+      "document_context_rows": 42,
+      "material_occurrences": 84,
+      "distinct_material_urls": 42,
+      "legacy_exact_locator_urls": 17,
+      "legacy_exact_locator_SHA_rows": 17,
+      "not_present_by_exact_locator_in_legacy_catalog": 25
+    },
+    "California Insurance Company Limited": {
+      "offering_category_rows": 28,
+      "document_context_rows": 18,
+      "material_occurrences": 42,
+      "distinct_material_urls": 15,
+      "legacy_exact_locator_urls": 10,
+      "legacy_exact_locator_SHA_rows": 10,
+      "not_present_by_exact_locator_in_legacy_catalog": 5
+    }
+  }
+}

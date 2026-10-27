@@ -1,0 +1,82 @@
+{
+  "created_at": "2026-10-27T21:07:00Z",
+  "status": "metadata_audited_bounded_partial",
+  "predecessor_manifest_sha256": "d0fd7d5daa0601e792944be34caa04d33da016883bd170f6b2b743b47f311932",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 3469,
+      "sha256": "e752d82815f084023ac1e692814d8b82b9fce61938c46e0dc6ab84b386c6fbb5"
+    },
+    {
+      "file": "audit-summary.json",
+      "bytes": 2244,
+      "sha256": "2b7bccecd789db623d7190c9446efb95b21b9af04e253c62471f5c3fd6fa4db9"
+    },
+    {
+      "file": "batch-status.json",
+      "bytes": 853,
+      "sha256": "df76f220f34bb5f3c53acb24efaaa08a8643f3e37fe9ae0265037961ede1410f"
+    },
+    {
+      "file": "documents-california-hk.jsonl",
+      "bytes": 50999,
+      "sha256": "aea3464a282b8c911f9c4417254111cbe586cae082217a2d4c8a005d22f65cd2"
+    },
+    {
+      "file": "documents-chonghing-hk.jsonl",
+      "bytes": 124267,
+      "sha256": "3266b5dc4b3babe380c618025ceee77c1b02c05d3dd89bd4afdb462fb6193a44"
+    },
+    {
+      "file": "documents-pacific-general-hk.jsonl",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "documents-tugu-hk.jsonl",
+      "bytes": 77545,
+      "sha256": "5e7cf1eec99f28dad7b99de5c49b7947dbb1d04e1997c260602c4e4e8c4354a0"
+    },
+    {
+      "file": "issuer-origin-evidence.json",
+      "bytes": 4406,
+      "sha256": "240d515aac48a8ae95024383f6f0d4bc1d38c6ce6f922f834f064eebb194aa98"
+    },
+    {
+      "file": "issuer-specific-status.json",
+      "bytes": 6551,
+      "sha256": "c3a7a45aa57d33601cc44d3a2b2946b7ec8e7941f0b2dc90b1fc7094deb921b7"
+    },
+    {
+      "file": "merge-map.json",
+      "bytes": 2952,
+      "sha256": "b3499dbc2cf7ce91c7e1cd89b93c18dcea36f1862ef22db733b79dd50e4461ae"
+    },
+    {
+      "file": "products-california-hk.jsonl",
+      "bytes": 81841,
+      "sha256": "6a25668b5fccb2321d74e9b33d97eb5937875411c1efb041c705d45b6537da5e"
+    },
+    {
+      "file": "products-chonghing-hk.jsonl",
+      "bytes": 96570,
+      "sha256": "d0a5e814f040cecf413f31885162b48a65f28cd30364cf628d19f02451f8602e"
+    },
+    {
+      "file": "products-pacific-general-hk.jsonl",
+      "bytes": 20674,
+      "sha256": "0fde7a45eb30f0f70ecd816a7346478ee05945d54c721592a31b26cde9148e64"
+    },
+    {
+      "file": "products-tugu-hk.jsonl",
+      "bytes": 47301,
+      "sha256": "0617f8fd054deb45ded3ac039ba27534a3743570c698547a95bab4be65f26baf"
+    },
+    {
+      "file": "sources.json",
+      "bytes": 43116,
+      "sha256": "97a30b2ae1092b55b41186371dd746e0518f22aa008ccb10a3d20ce64a23f8d4"
+    }
+  ]
+}
