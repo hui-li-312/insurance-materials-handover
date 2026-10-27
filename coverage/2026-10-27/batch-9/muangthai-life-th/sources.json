@@ -1,0 +1,17 @@
+{
+  "snapshot_at": "2026-10-27T17:05:31.311856+00:00",
+  "region": "TH",
+  "issuer_id": "own-th-1489116e8845",
+  "legal_name": "บริษัท เมืองไทยประกันชีวิต จำกัด (มหาชน) (MUANG THAI LIFE ASSURANCE PUBLIC COMPANY LIMITED)",
+  "regulator_source_url": "https://smart.oic.or.th/EService/Menu12",
+  "source_locator": "OIC life-company directory: Muang Thai Life Assurance Public Company Limited website field",
+  "exact_regulator_website": "http://www.muangthai.co.th",
+  "source_date": null,
+  "currentness_limit": "Directory presence is not a verified current sale/license-status statement. Source document versions and all channels remain unknown.",
+  "source_pages_hash_verified": 60,
+  "new_requests": 60,
+  "method": "One Thai all-insurance catalog,38 literal detail routes,12 exact category routes,and9 additional actual life-insurance-card detail routes. Four immutable finite queues, no automatic redirects or material requests. The initial historical homepage prefix was exactly5,000,000 bytes and is not credited as a complete catalog; successful fresh reads used the tested16MiB bound with actual byte/MIME/length diagnostics.",
+  "classification": "56 named offering observations comprise46 substantive named HTML routes,8 document-only cards and2 separately hosted online cards. One additional child-health audience route identifies D Health Lite and is not another product. Named variants/components are separate; joint pages do not imply combined sale.",
+  "materials": "Actual own-main-content PDF anchors and named direct-document cards only. Anchor labels establish candidate type, not reviewed wording, language, dates or complete individual contracts. Form/service/footer links and quote/calculator interactions are excluded.",
+  "company_scope": "Muang Thai Life only; not the distinct Muang Thai Insurance nonlife entity."
+}

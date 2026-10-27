@@ -1,0 +1,35 @@
+{
+  "snapshot_at": "2026-10-27T17:05:31.311856+00:00",
+  "own_issuer_count": 1,
+  "named_offering_observations": 56,
+  "detail_HTML_named_observations": 46,
+  "document_only_named_cards": 8,
+  "separately_hosted_online_named_cards": 2,
+  "alternate_audience_routes_not_additional_product": 1,
+  "source_static_unique_card_targets": 57,
+  "retrieved_detail_routes": 47,
+  "retrieved_entry_and_category_routes": 13,
+  "new_requests": 60,
+  "successful_HTML_pages": 60,
+  "request_status_counts": {
+    "retrieved": 60
+  },
+  "roles": {
+    "product": 43,
+    "package": 2,
+    "rider": 9,
+    "group": 2
+  },
+  "component_and_variant_relationships": 16,
+  "generic_credit_life_classes_excluded": 1,
+  "material_link_occurrences": 109,
+  "unique_nonnull_material_urls": 70,
+  "query_material_locators_quarantined": 0,
+  "material_files_requested": 0,
+  "formal_original_count_credit": 0,
+  "all_public_catalogs_complete": false,
+  "all_channels_complete": false,
+  "all_skus_complete": false,
+  "all_wordings_complete": false,
+  "prior_hold_locator_redactions": 0
+}
