@@ -1,0 +1,24 @@
+{
+  "frozen_at": "2026-10-27T18:09:36.041296+00:00",
+  "scope": "v7c: one projection-notes sentence corrected to match cached Fortune education/family title/og:title evidence; all872 observation facts, source timestamps, materials, coverage boundaries and fixed C4 remain byte-unchanged; metadata-only independent QA recorded separately",
+  "parent_snapshot_manifest_sha256": "7a569528d9d87865d11c0818601e1e2cc28127c071fbb50909bdcc9c8f324dbc",
+  "active_hold_gate_aliases": 61,
+  "held_locator_matches": 0,
+  "files": {
+    "README.md": "05b437c09e91007cb5413717650035c351d430e30e981aaf3d0e3550fa37e1d1",
+    "catalog-observations.jsonl": "2168ba7e6590501c1b2478bc543e5dc7844e97ac35cb5244e3ad881e220f6964",
+    "content-name-corrections-v7b.json": "91ce77f2ea5bf2e8756083345bc3390746d1c4a7042d27d3e4b30b645d5447a2",
+    "identity-evidence-supplement.json": "b0324dddb09617242eee8d521654d3e8a8d678ffbddce6570c3d4de455e7bd63",
+    "issuer-coverage-layers.jsonl": "ba1751ced343ec558ac74e8e2d78e3348c26bc80103d18c2b6623c54fb5cd087",
+    "issuer-queue.jsonl": "ef46593a6637689ff0a19566ebb317defcec2453b5242bd5640b56dda460f1ef",
+    "issuers.jsonl": "76d56ab979f52100cd4e222f5afbba24f7705aaddceb846b4e1c1ec14daac1ec",
+    "msig-selected-scope.json": "447dffe6255069e7105aafe200afae3ec9ceafa9293fb87dc184468ad2a5a585",
+    "products.jsonl": "8ab4ba0181bfa1d85ab40b9e7fb2c01da8b9619da579b57e8b6481e47bb698c1",
+    "projection-notes.json": "da518c2fcb4cc5dd0ddde2b3826cc63e912f628d1389900100d9100ca70eb3f3",
+    "run-status.json": "48c5e87ea6c850c3e168a780ff5d45f7493569ca6cd55dd1dee91b3e935c2941",
+    "selected-frontier-status.json": "1d70bbc8cd4fc36b34134064d7dd455bbc4b9efe8a6ce7748327174d0bee3f65",
+    "source-context-role-corrections-v7a.json": "5f4396a9ac642463310682bd095ae20691f8d6de9cd3e91b10500d5bdf798895",
+    "source-only-material-observations.jsonl": "a4b2dc28301da9b7768c8e841ab6eedc7285b09a9fe86ca40a4450d1b7cb040f",
+    "sources.json": "faea74cf6068d86832583ceb2c7c9bed8193bd2d0e8761c706b9032d58967cbe"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-27T16:11:11.532978+00:00",
+  "base_product_rows_preserved": 706,
+  "added_named_or_language_contexts": 96,
+  "added_MSIG_Lao_language_contexts": 26,
+  "added_Campu_resource_contexts": 44,
+  "changes": [
+    "Generic Manulife promotional/Downloadable headings replaced with exact own-page titles; Fortune Khmer names use own-page headings, with the education/family names corrected from cached title and identical og:title product-name segments, excluding corporate suffixes.",
+    "Fortune PGH service-campaign version links are supporting service terms, not main insurance policy wording; observed versions are not distinct current products.",
+    "Preview-only filename hints are independent of document role, confidentiality and final/current applicability. AGI HTTPS wording cover received only pages1–2 ordinary visual triage; original HTTP association was not fetched.",
+    "National notice is announcement evidence only, not a new product row.",
+    "Great Eastern inherited marker-only denial classification corrected from retained ordinary HTML; original dated history remains, narrow HTML-only scope does not authorize PDFs.",
+    "Language/canonical/same-name relationships are explicit observations, not fuzzy issuer merges or verified SKU equivalence.",
+    "All prior held locator redactions retained; public current catalog completeness and formal original credit remain zero."
+  ]
+}

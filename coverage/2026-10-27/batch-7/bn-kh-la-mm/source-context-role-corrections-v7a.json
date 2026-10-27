@@ -1,0 +1,46 @@
+{
+  "created_at": "2026-10-27T16:36:03.056645+00:00",
+  "scope": "Only7 CVI source-only material label/role clarifications from2 already-cached public source pages. No product rows, URLs, counts, acquisition outcomes, issuer coverage or new routes changed.",
+  "corrections": [
+    {
+      "material_ref_id": "material-baa9e1cb015c387738a7",
+      "document_role": "application_or_claim_service_form_candidate",
+      "source_page_url": "https://online.cvi.com.kh/auto-insurance-download"
+    },
+    {
+      "material_ref_id": "material-6c9a57321989e1e486c8",
+      "document_role": "application_or_claim_service_form_candidate",
+      "source_page_url": "https://online.cvi.com.kh/auto-insurance-download"
+    },
+    {
+      "material_ref_id": "material-70fde830179f5bb79f09",
+      "document_role": "application_or_claim_service_form_candidate",
+      "source_page_url": "https://online.cvi.com.kh/auto-insurance-download"
+    },
+    {
+      "material_ref_id": "material-eef470e3c34d5f6d7a4f",
+      "document_role": "policy_wording_or_contract_candidate",
+      "source_page_url": "https://online.cvi.com.kh/international-travel-insurance-download"
+    },
+    {
+      "material_ref_id": "material-bf571f0a5fcc614e20e0",
+      "document_role": "application_or_claim_service_form_candidate",
+      "source_page_url": "https://online.cvi.com.kh/international-travel-insurance-download"
+    },
+    {
+      "material_ref_id": "material-f29c2c79f24d3817f93a",
+      "document_role": "unclassified_document_source_label_filename_conflict",
+      "source_page_url": "https://online.cvi.com.kh/international-travel-insurance-download"
+    },
+    {
+      "material_ref_id": "material-f489a2d8979e3c28f510",
+      "document_role": "supporting_assistance_service_information_candidate",
+      "source_page_url": "https://online.cvi.com.kh/international-travel-insurance-download"
+    }
+  ],
+  "no_network_requests": true,
+  "no_new_material_acquisitions": true,
+  "product_rows_unchanged": 872,
+  "source_only_material_occurrences_unchanged": 21,
+  "full_content_or_underwriter_verification": false
+}

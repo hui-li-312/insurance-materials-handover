@@ -1,0 +1,18 @@
+{
+  "checked_at": "2026-10-27T14:46:13.185921+00:00",
+  "issuer_id": "LA-issuer-5add2d83d0dd",
+  "selected_catalog_scope": "Observed English and Lao public insurance-product navigation plus form-download pages.",
+  "product_family_language_contexts": 26,
+  "english_contexts": 13,
+  "lao_contexts": 13,
+  "explicit_language_relationships": 26,
+  "english_named_variant_labels_not_extra_skus": 11,
+  "source_document_anchor_occurrences": 0,
+  "unread_grounded_selected_frontier": [],
+  "selected_frontier_status": "exhausted",
+  "market_or_current_unique_sku_completeness": false,
+  "C1_current_regulator_census": "unavailable",
+  "C4_downloads_from_these_pages": 0,
+  "formal_original_increment": 0,
+  "public_raw_release_count": 0
+}

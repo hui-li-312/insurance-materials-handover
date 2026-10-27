@@ -1,0 +1,158 @@
+{
+  "frozen_at": "2026-10-27T16:11:11.532978+00:00",
+  "publication_status": "candidate_pending_independent_QA",
+  "scope": "Fixed cumulative four-region872 metadata observations; prior706 plus166 additional contexts. VN identity-only rows previously present in v6c2 are intentionally excluded here and remain in separate VN scope.",
+  "base_snapshot_manifest_sha256": "23f5e19ca0e1045a0329c48a4d1f446cea17c6ccafeb1b06b8f8e14b9ad58305",
+  "regions": {
+    "BN": {
+      "issuer_or_candidate_records": 11,
+      "metadata_observations": 145,
+      "issuers_with_observations": 9,
+      "source_material_occurrences": 204,
+      "public_material_occurrences": 204,
+      "public_unique_material_urls": 186,
+      "C2_status_counts": {
+        "exhausted_observed_cache_frontier_only": 2,
+        "selected_literal_HTML_frontier_handled_after_false_marker_correction": 1,
+        "blocked": 4,
+        "underdetermined_announced_offering_without_separate_detail": 1,
+        "selected_observed_public_HTML_frontier_handled": 1,
+        "underdetermined": 2
+      }
+    },
+    "KH": {
+      "issuer_or_candidate_records": 39,
+      "metadata_observations": 386,
+      "issuers_with_observations": 17,
+      "source_material_occurrences": 549,
+      "public_material_occurrences": 525,
+      "public_unique_material_urls": 401,
+      "C2_status_counts": {
+        "selected_observed_public_HTML_frontier_handled": 8,
+        "blocked": 10,
+        "underdetermined": 17,
+        "exhausted_observed_cache_frontier_only": 4
+      }
+    },
+    "LA": {
+      "issuer_or_candidate_records": 12,
+      "metadata_observations": 109,
+      "issuers_with_observations": 6,
+      "source_material_occurrences": 86,
+      "public_material_occurrences": 78,
+      "public_unique_material_urls": 72,
+      "C2_status_counts": {
+        "underdetermined": 1,
+        "selected_observed_public_HTML_frontier_handled": 1,
+        "exhausted_observed_cache_frontier_only": 4,
+        "server503_catalog_body_unavailable_no_retry": 1,
+        "selected_EN_LO_product_and_resource_frontier_exhausted": 1,
+        "terminal_access_blocked_http403": 1,
+        "transferor_current_origin_and_remaining_business_unresolved": 1,
+        "current_origin_unresolved_no_company_fetch": 1,
+        "current_public_origin_unresolved_no_company_fetch": 1
+      }
+    },
+    "MM": {
+      "issuer_or_candidate_records": 27,
+      "metadata_observations": 232,
+      "issuers_with_observations": 14,
+      "source_material_occurrences": 344,
+      "public_material_occurrences": 344,
+      "public_unique_material_urls": 257,
+      "C2_status_counts": {
+        "selected_observed_public_HTML_frontier_handled": 6,
+        "exhausted_observed_cache_frontier_only": 6,
+        "underdetermined": 8,
+        "blocked": 7
+      }
+    }
+  },
+  "C1": {
+    "issuer_or_candidate_records": 89,
+    "BN_regulator_observed_directory_rows": 11,
+    "KH_regulator_observed_directory_rows": 39,
+    "LA_individual_primary_source_candidates": 12,
+    "MM_historical2023_named_rows": 27,
+    "current2026_named_denominator_complete": false
+  },
+  "C2": {
+    "observation_count": 872,
+    "additional_contexts": 166,
+    "role_counts": {
+      "named_product": 166,
+      "group_product": 34,
+      "group_scheme_catalog": 1,
+      "product_family": 362,
+      "resource_only_product_candidate": 6,
+      "rider": 31,
+      "coverage_class": 49,
+      "category_catalog": 23,
+      "benefit_or_rider_candidate": 5,
+      "base_product_and_rider_package": 4,
+      "group_insurance_package": 2,
+      "channel_variant": 1,
+      "coverage_class_family": 2,
+      "group_product_context": 2,
+      "group_umbrella_package": 2,
+      "group_product_family": 5,
+      "language_context_candidate": 1,
+      "embedded_plan_variant": 5,
+      "combination_package": 2,
+      "product_card_candidate": 4,
+      "coverage_class_card": 4,
+      "product_with_rider_option": 1,
+      "product_page_candidate_content_conflict": 1,
+      "standalone_or_rider_product": 1,
+      "optional_benefit_candidate": 10,
+      "rider_context": 1,
+      "marketing_solution_bundle": 6,
+      "embedded_product_family": 1,
+      "product_or_coverage_family_context": 88,
+      "rider_or_benefit_candidate": 7,
+      "group_product_family_context": 1,
+      "named_product_family_catalog_context": 8,
+      "proposal_form_named_context_not_product_credit": 11,
+      "named_resource_context": 25
+    },
+    "all_market_or_unique_current_sku_complete": false
+  },
+  "C3": {
+    "source_product_material_occurrences": 1183,
+    "source_observed_unique_material_urls": 939,
+    "source_unique_count_basis": "Prior audited801 observed locators plus new non-held exact locators not in prior public778; zero new held matches.",
+    "public_material_url_occurrences": 1151,
+    "public_unique_material_urls": 916,
+    "withheld_material_occurrences": 32,
+    "source_only_additional_material_occurrences": 21,
+    "hidden_markup_visible_credit": 0,
+    "main_contract_content_verified": 0
+  },
+  "C4": {
+    "as_of": "2026-10-27T16:11:11.532978+00:00",
+    "scope": "All finite regional target queues, including source-only document contexts; counts are not a promotion of product-material attribution.",
+    "unique_queued_target_ids": 705,
+    "terminal_status_counts": {
+      "downloaded_private_unreviewed": 693,
+      "404": 5,
+      "historical_held_sha_local_hold": 2,
+      "size_limit_not_retained": 1,
+      "421": 1,
+      "503": 2,
+      "transport_error_no_retry": 1
+    },
+    "privately_captured_targets": 695,
+    "global_unique_captured_sha256": 674,
+    "known_held_unique_sha256": 1,
+    "full_content_review_complete": 0,
+    "new_formally_verified_originals": 0,
+    "public_raw_files_released": 0
+  },
+  "source_safety": {
+    "active_hold_alias_count": 61,
+    "held_locator_gate_recursive": true,
+    "no_source_bodies_or_raw_PDFs": true,
+    "no_credentials_contacts_or_private_paths": true,
+    "no_new_network_in_projection": true
+  }
+}

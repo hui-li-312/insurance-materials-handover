@@ -1,0 +1,23 @@
+{
+  "corrected_at": "2026-10-27T17:47:53.777580+00:00",
+  "scope": "Two Fortune Khmer name corrections only from already-cached own-page title and og:title; all872 observations, IDs, URLs, materials, dates, C1-C4 counts and cutoffs unchanged. Prior v7a CVI clarifications retained.",
+  "independent_QA_status": "pending",
+  "corrections": [
+    {
+      "inventory_id": "KH-product-617b231f7339f5eb",
+      "source_page_url": "https://www.fortunelife.com.kh/km/life-insurance-products/forlife-education-plan/",
+      "old_name_basis_issue": "Descriptive introductory sentence rather than product title",
+      "official_name": "ផលិតផលការសិក្សាជាមួយ ហ្វ័រឈូន ឡាយហ្វ៍",
+      "evidence_basis": "Existing own-page title and identical og:title, company suffix excluded; no slug-based guess."
+    },
+    {
+      "inventory_id": "KH-product-c269905216de193e",
+      "source_page_url": "https://www.fortunelife.com.kh/km/life-insurance-products/forlife-family-plan/",
+      "old_name_basis_issue": "Generic product-process section heading",
+      "official_name": "ផលិតផលអនាគតគ្រួសារខ្ញុំជាមួយ ហ្វ័រឈូន ឡាយហ្វ៍",
+      "evidence_basis": "Existing own-page title and identical og:title, company suffix excluded; no slug-based guess."
+    }
+  ],
+  "network_used": false,
+  "later_private_acquisitions_absorbed": false
+}

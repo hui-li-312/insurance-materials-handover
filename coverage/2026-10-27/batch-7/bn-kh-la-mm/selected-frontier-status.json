@@ -1,0 +1,32 @@
+{
+  "checked_at": "2026-10-27T16:11:11.532978+00:00",
+  "scope": "89 named four-region records and finite inspected source frontiers, not a current all-market census or unique-SKU universe.",
+  "issuer_records": 89,
+  "later_route_observations": 247,
+  "later_successful_unique_pages": 169,
+  "additional_national_notice_observations": 1,
+  "additional_GE_error_redirect_observations": 1,
+  "eligible_unread_targets_in_reviewed_later_HTML_frontier": 0,
+  "global_future_targets_exhausted": false,
+  "remaining_requirements": [
+    "Current named regulator census for LA, VN and MM remains unresolved; VN is in a separate candidate.",
+    "Denied origins remain closed; new access permission or independent official publication is needed, not alternate-host bypass.",
+    "Shared-brand issuer attribution, dynamic catalogs without proven public models, and announcement-to-detail relationships remain explicit uncertainties.",
+    "GE false-marker correction covers only finite HTML; no PDF permission follows.",
+    "Material links, resource caps, missing files and transport failures are not full-contract or current-offer certification."
+  ],
+  "issuer_status_counts": {
+    "selected_observed_public_HTML_frontier_handled": 16,
+    "blocked": 21,
+    "underdetermined": 28,
+    "exhausted_observed_cache_frontier_only": 16,
+    "selected_literal_HTML_frontier_handled_after_false_marker_correction": 1,
+    "underdetermined_announced_offering_without_separate_detail": 1,
+    "server503_catalog_body_unavailable_no_retry": 1,
+    "selected_EN_LO_product_and_resource_frontier_exhausted": 1,
+    "terminal_access_blocked_http403": 1,
+    "transferor_current_origin_and_remaining_business_unresolved": 1,
+    "current_origin_unresolved_no_company_fetch": 1,
+    "current_public_origin_unresolved_no_company_fetch": 1
+  }
+}
