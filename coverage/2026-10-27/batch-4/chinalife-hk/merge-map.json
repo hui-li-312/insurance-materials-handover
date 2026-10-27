@@ -1,0 +1,6 @@
+{
+  "prior_integrated_observations_for_issuer": 0,
+  "new_observations": 49,
+  "VHIS_scheme_registry_records": "Separate overlapping registry observations; not automatically merged or counted as extra unique products.",
+  "integration_status": "independent_content_QA_pending"
+}

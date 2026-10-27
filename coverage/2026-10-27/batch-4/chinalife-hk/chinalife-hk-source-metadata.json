@@ -1,0 +1,314 @@
+[
+  {
+    "url": "https://www.chinalife.com.hk/products",
+    "checked_at": "2026-10-27T12:44:50.146524+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 75397,
+    "sha256": "ad910ac9196231c00b8dcef682429ea55108f3bd3d544bf34e0017326ca3dc85"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance",
+    "checked_at": "2026-10-27T12:44:58.892274+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 137147,
+    "sha256": "bef8fda7148c0916098ea485892761119826f8d85e5012f28f8f77de9ede1190"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/employee-benefits-protection",
+    "checked_at": "2026-10-27T12:45:03.158279+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 97694,
+    "sha256": "1236c5cb04aa95ed3585ab915000f2733088176cdf9fc48a493cca1799cde448"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/savings",
+    "checked_at": "2026-10-27T12:45:07.950950+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 122818,
+    "sha256": "c3caa836889cc0a4022d4a4e62fc56e1a0a1df0213bd8a12aeaf741118f68d88"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/juvenile-protection",
+    "checked_at": "2026-10-27T12:45:12.369160+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 86775,
+    "sha256": "66782a3ef9f8963be3a81a82e6a7c8dfae0d7f00097e908b2988891a66c976dd"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/retirement",
+    "checked_at": "2026-10-27T12:45:17.581432+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 127077,
+    "sha256": "96445b1a452d85868c670e643087ffc9e3be5db228388af1cf268e66aa122a02"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/medical",
+    "checked_at": "2026-10-27T12:45:21.976591+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 86992,
+    "sha256": "92b4cd012c5870dd1d78ae89d944fff29658f347f0646827c197e6adf57143a2"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/life-protection",
+    "checked_at": "2026-10-27T12:45:26.882446+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 126191,
+    "sha256": "7631feb016791a3a4403b967601260977365a49522a8911e4cbbe50dd9962d01"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/accident",
+    "checked_at": "2026-10-27T12:45:31.725694+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 75786,
+    "sha256": "51148984dd289a73f5194558e342fb9cffd8538e0cca3cb1ac98f4897982c7bd"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/critical-illness",
+    "checked_at": "2026-10-27T12:45:36.650396+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 82971,
+    "sha256": "e9e20f51437cb6c0b98eb6a6d7ae0013cb74d6a46386ba28b39bbd7d9ccac4d4"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/noble-pride-life-insurance-plan",
+    "checked_at": "2026-10-27T12:45:41.186031+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 193264,
+    "sha256": "1e7ce85a540c41ce5cf44944c292c94b000d68c3a3f5dc84ee74098a24fdc562"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/lifelong-partner-golden-age-deferred-annuity-insurance-plan",
+    "checked_at": "2026-10-27T12:45:47.857244+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 180256,
+    "sha256": "ba358e93e67c2c49d084f95be0cd78dd1c2737221a3d3206101ce0257f91c102"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/eternal-love-savings-insurance-plan",
+    "checked_at": "2026-10-27T12:45:52.280712+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 200767,
+    "sha256": "f30b236319b2b77c4143bd3b13af6d294e7958b412ec4051c50bf1f5c5772be1"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/evertogether-savings-insurance-plan-supreme",
+    "checked_at": "2026-10-27T12:45:56.696043+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 200215,
+    "sha256": "652591014f2573442eb47324e08c376c745452b73fe475dd78b99f9914ee2a55"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/regal-prime-savings-insurance-plan-supreme",
+    "checked_at": "2026-10-27T12:46:01.480415+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 183718,
+    "sha256": "7b3df83190f74341f20094f6c465f5d526e1c1f72904d712b2d8d43484cf2632"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/eminent-fortune-savings-insurance-plan-excel",
+    "checked_at": "2026-10-27T12:46:06.685927+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 174068,
+    "sha256": "5e06fadd791a65ea2e28bbad612f5666251dac330d15d30353ea823b7dc6c7e3"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/totalguard-critical-illness-multiple-protector-series-self-selected-plan",
+    "checked_at": "2026-10-27T12:46:11.182538+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 187592,
+    "sha256": "51078c8b9098bff6ea868ce4f52504e4af2fdb758b8d65a5bbe35a4a6eee63f2"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/grand-horizon-savings-insurance-plan-exclusive-to-broker-channel",
+    "checked_at": "2026-10-27T12:49:32.974334+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 202952,
+    "sha256": "1e6700d99734c6969c7a3b9f14e4915cd1bb80e0443f4c041f6f59fda06e69b1"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/glory-income-insurance-plan-exclusive-to-broker-channel",
+    "checked_at": "2026-10-27T12:49:41.305248+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 175118,
+    "sha256": "be20e9b2051d92d957dbc66f8ac29140a7790fcef724c8abdb32c36372df7681"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/comfort-life-deferred-annuity-plan",
+    "checked_at": "2026-10-27T12:49:47.689692+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 183959,
+    "sha256": "071b8623e853634205179065939dc73ebf03ff9aa9f0393c627565eee7a0fbe9"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/regal-heritage-savings-insurance-plan-exclusive-to-broker-channel",
+    "checked_at": "2026-10-27T12:49:52.316849+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 200274,
+    "sha256": "3d43e8615f4c0f23bd5783b8babc4f22ab39b4fb53cb6b0c58d9ea8d938b7fb8"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/wise-legend-multi-currency-plan",
+    "checked_at": "2026-10-27T12:49:57.010955+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 195632,
+    "sha256": "9aacfeefb9353bff95a94872ecc0572099e54b3c3c29291dc1885ea5b65a7b02"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/myharvest-savings-insurance-plan-iii-exclusive-to-broker-channel",
+    "checked_at": "2026-10-27T12:50:02.286849+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 174418,
+    "sha256": "6759ba52a60489713fd913e405f37065964dc5c6163b27eb64fe08288566d2e8"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/supreme-fortune-savings-insurance-plan-premier",
+    "checked_at": "2026-10-27T12:50:06.875267+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 183958,
+    "sha256": "9b7f4f98fb131bb3fd2d19740f8208adf185eb3617885b09a1ebc7ee85f53b51"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/great-harvest-income-insurance-plan",
+    "checked_at": "2026-10-27T12:50:12.535089+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 171631,
+    "sha256": "a2a7066b7c57e87a688985d9a8f47ff32621e185ecfc39c8316d0d3c70fb4e6f"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/noble-legend-life-insurance-plan",
+    "checked_at": "2026-10-27T12:50:18.551753+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 172244,
+    "sha256": "d40159a4745e7b5f2a96d40a697f93f48a45675802de3f12e8f420453d743133"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/graceful-life-deferred-annuity-plan-ii",
+    "checked_at": "2026-10-27T12:50:23.062238+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 171691,
+    "sha256": "56dadf329afd60ceb1e1c8805a911ab122c28eb4e30e0eefccf8d1d6451eba21"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/promise-family-insurance-plan",
+    "checked_at": "2026-10-27T12:50:27.836913+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 151724,
+    "sha256": "beca3d789c8a0113130c45526e8eed33206cabf0a9cbe1280933f21a66d9489b"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/Protector-Critical-Illness-Insurance-Plan",
+    "checked_at": "2026-10-27T12:50:33.713178+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 179409,
+    "sha256": "7209e28a056b595c376b2509e7c17b5e5f29c60befae6b0aa2e7cfca378d2a8c"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/i-care-medical-insurance-plan",
+    "checked_at": "2026-10-27T12:50:39.338506+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 148600,
+    "sha256": "9f48f5e40f85ea2730d3e06758798c8358675adba3c96dd3bd0e4d2d7082df74"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/mastercare-medical-plan",
+    "checked_at": "2026-10-27T12:50:44.658776+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 153836,
+    "sha256": "2e7a87d858c68dc433a02467688db016c7bc5bc22c5d34364d9e4ac13bfc3021"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/voluntary-health-insurance-scheme-flexi-plan-healthy-life-medical-insurance-plan",
+    "checked_at": "2026-10-27T12:50:49.577729+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 161948,
+    "sha256": "76570bf5a98905f47615f558a9ebeac00eb09eda53344865950c414490437ece"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/voluntary-health-insurance-scheme-standard-plan-guard-your-health-medical",
+    "checked_at": "2026-10-27T12:50:54.516260+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 151227,
+    "sha256": "9bbd0e89e5dceedd768228e2f478e6ba341d1600e4f9f342d70ad7e801a6496a"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/mpf",
+    "checked_at": "2026-10-27T12:50:59.947002+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 138566,
+    "sha256": "c586dd582b49fe2667501e03c1bd6ee046ada304b414b7085ba74be518281ca1"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/orso",
+    "checked_at": "2026-10-27T12:51:05.805657+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 138569,
+    "sha256": "5e57649b08abfb3e4a498782384c3ddb72755ff6b4d79bb2a553fda42e681013"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/totalProtect-refundable-accident-disability-protection-plan",
+    "checked_at": "2026-10-27T12:51:10.730786+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 164614,
+    "sha256": "103771f597eeaecbc4d1a98a7eb20e4e2c37a8c0fad7ad15045abb72028e5800"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/elite-care-critical-illness-insurance-plan",
+    "checked_at": "2026-10-27T12:51:15.990799+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 173702,
+    "sha256": "785eefc3354e623068bcd05a83c768e0dc8a1a9d8ce870a26da45c936310215f"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/joyful-care-critical-illness-insurance-plan",
+    "checked_at": "2026-10-27T12:51:21.213149+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 161243,
+    "sha256": "c8d432ae78f1ba980a602234b5a2ae3d7ff16e2bb6a4b4ef1eef99965595b817"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/comfort-accident-and-disability-protection-plan",
+    "checked_at": "2026-10-27T12:51:27.342184+00:00",
+    "http_status": 200,
+    "source_date": null,
+    "bytes": 161318,
+    "sha256": "7501d9afa928c9790d833dd42ee48d72997198c7792b2a1d913041aa8dba7bcb"
+  }
+]

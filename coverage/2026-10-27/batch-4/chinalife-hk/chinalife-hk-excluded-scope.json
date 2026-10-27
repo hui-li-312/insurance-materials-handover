@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/mpf",
+    "reason": "Pension/retirement scheme navigation, separate non-insurance business scope, zero insurance-product credit."
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/orso",
+    "reason": "Pension/retirement scheme navigation, separate non-insurance business scope, zero insurance-product credit."
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/www.chinalife.com.hk/products/dividendandinvestment",
+    "reason": "Malformed literal source footer reference returned404; no retry, not insurance offering."
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/www.chinalife.com.hk",
+    "label": "www.chinalife.com.hk",
+    "source_url": "https://www.chinalife.com.hk/products/insurance/comfort-life-deferred-annuity-plan",
+    "status": "malformed_relative_external_footer_not_product_do_not_request"
+  },
+  {
+    "url": "https://www.chinalife.com.hk/products/insurance/www.ia.org.hk",
+    "label": "www.ia.org.hk",
+    "source_url": "https://www.chinalife.com.hk/products/insurance/comfort-life-deferred-annuity-plan",
+    "status": "malformed_relative_external_footer_not_product_do_not_request"
+  }
+]

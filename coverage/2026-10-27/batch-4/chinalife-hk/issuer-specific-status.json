@@ -1,0 +1,52 @@
+[
+  {
+    "issuer_id": "HK-own-1168aa4e098ad0bf",
+    "legal_name": "China Life Insurance (Overseas) Company Limited",
+    "products_status": "partial",
+    "scope": "Selected English current public catalog and two named group offerings; family/variant/rider distinctions retained. All40 source targets accounted, one malformed footer404 not offering failure. No whole issuer or channel closure.",
+    "source_status": {
+      "checked_at": "2026-10-27T13:11:25.920271+00:00",
+      "issuer_id": "HK-own-1168aa4e098ad0bf",
+      "issuer": "China Life Insurance (Overseas) Company Limited",
+      "observation_count": 49,
+      "role_counts": {
+        "catalog_category": 10,
+        "group": 2,
+        "product": 25,
+        "product_family": 2,
+        "plan_variant": 9,
+        "rider": 1
+      },
+      "material_references": 69,
+      "unique_material_URLs": 69,
+      "material_role_counts": {
+        "brochure": 37,
+        "ancillary_service_guide": 10,
+        "promotion_terms": 6,
+        "ancillary_membership_information": 1,
+        "policy_terms_candidate": 12,
+        "premium_schedule": 3
+      },
+      "current_application_terms_references": 6,
+      "not_for_new_application_terms_references": 6,
+      "source_targets": 40,
+      "HTTP200": 39,
+      "HTTP404": 1,
+      "remaining_in_scope_visible_detail_href_delta": 0,
+      "additional_malformed_footer_hrefs_not_requested": 2,
+      "selected_English_source_catalog_queue_accounted": true,
+      "whole_issuer_catalog_complete": false,
+      "PDFs_downloaded": 0,
+      "verified_SKUs": 0,
+      "formal_material_file_credit": 0,
+      "scope_limits": [
+        "English source pages only; other language/card/channel uniqueness unverified.",
+        "One malformed footer href404 and two further malformed external/footer hrefs excluded without retry.",
+        "MPF and ORSO pages separately scoped, not insurance offering credit.",
+        "Repeated promotion blocks are not individual products or extra versions.",
+        "Named plan variants and family containers are distinct observation roles, not additive unique products.",
+        "Exact material current-vs-old status only from own-page Available/Not Available for New Application columns; filenames not effective dates."
+      ]
+    }
+  }
+]

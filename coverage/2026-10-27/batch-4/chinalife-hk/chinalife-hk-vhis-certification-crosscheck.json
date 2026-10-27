@@ -1,0 +1,59 @@
+[
+  {
+    "product_url": "https://www.chinalife.com.hk/products/insurance/voluntary-health-insurance-scheme-flexi-plan-healthy-life-medical-insurance-plan",
+    "parent_observation_id": "HK-ChinaLife-observation-115696809395846ecb6e",
+    "certification_ids": [
+      "F00024-01-000-03",
+      "F00030-01-000-03",
+      "F00030-01-001-03",
+      "F00030-02-000-03",
+      "F00030-02-001-03"
+    ],
+    "availability": "available_for_new_application",
+    "source_date": null,
+    "checked_at": "2026-10-27T12:50:49.577729+00:00",
+    "scope": "Literal own-page certification row; no automatic merge with government registry or per-plan assignment by order."
+  },
+  {
+    "product_url": "https://www.chinalife.com.hk/products/insurance/voluntary-health-insurance-scheme-flexi-plan-healthy-life-medical-insurance-plan",
+    "parent_observation_id": "HK-ChinaLife-observation-115696809395846ecb6e",
+    "certification_ids": [
+      "F00024-01-000-02",
+      "F00024-01-000-01",
+      "F00030-01-000-02",
+      "F00030-01-001-02",
+      "F00030-02-000-02",
+      "F00030-02-001-02",
+      "F00030-01-000-01",
+      "F00030-01-001-01",
+      "F00030-02-000-01",
+      "F00030-02-001-01"
+    ],
+    "availability": "not_available_for_new_application",
+    "source_date": null,
+    "checked_at": "2026-10-27T12:50:49.577729+00:00",
+    "scope": "Literal own-page certification row; no automatic merge with government registry or per-plan assignment by order."
+  },
+  {
+    "product_url": "https://www.chinalife.com.hk/products/insurance/voluntary-health-insurance-scheme-standard-plan-guard-your-health-medical",
+    "parent_observation_id": "HK-ChinaLife-observation-09fda1cd168865380ec2",
+    "certification_ids": [
+      "S00021-01-000-02"
+    ],
+    "availability": "available_for_new_application",
+    "source_date": null,
+    "checked_at": "2026-10-27T12:50:54.516260+00:00",
+    "scope": "Literal own-page certification row; no automatic merge with government registry or per-plan assignment by order."
+  },
+  {
+    "product_url": "https://www.chinalife.com.hk/products/insurance/voluntary-health-insurance-scheme-standard-plan-guard-your-health-medical",
+    "parent_observation_id": "HK-ChinaLife-observation-09fda1cd168865380ec2",
+    "certification_ids": [
+      "S00021-01-000-01"
+    ],
+    "availability": "not_available_for_new_application",
+    "source_date": null,
+    "checked_at": "2026-10-27T12:50:54.516260+00:00",
+    "scope": "Literal own-page certification row; no automatic merge with government registry or per-plan assignment by order."
+  }
+]

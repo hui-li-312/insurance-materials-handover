@@ -1,0 +1,11 @@
+{
+  "issuer_id": "HK-own-1168aa4e098ad0bf",
+  "legal_name": "China Life Insurance (Overseas) Company Limited",
+  "origin": "https://www.chinalife.com.hk",
+  "roster_source_url": "https://www.hkfi.org.hk/member-companies",
+  "roster_website": "http://www.chinalife.com.hk",
+  "evidence_url": "https://www.chinalife.com.hk",
+  "checked_at": "2026-10-27T10:11:14.871564+00:00",
+  "evidence_sha256": "6525fc2159a639c49d9468680556df52b36933eaae0e888c74916414a3e00684",
+  "mapping_basis": "Exact HKFI named entity website host plus full legal English name in cached current official homepage."
+}

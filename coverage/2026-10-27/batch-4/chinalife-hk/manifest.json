@@ -1,0 +1,71 @@
+{
+  "frozen_at": "2026-10-27T13:11:26.485710+00:00",
+  "status": "immutable_candidate_content_QA_pending",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 2429,
+      "sha256": "ca812c10327b87fe5f70afa7a21e8a5d30e280e89b6a5be7795204a4515c59d4"
+    },
+    {
+      "file": "chinalife-hk-detail-queue.json",
+      "bytes": 6460,
+      "sha256": "0c52f5fc054f2e74f0fa3d980df98301b5ffc9077d4cd935e2481b1ac4277dd2"
+    },
+    {
+      "file": "chinalife-hk-excluded-scope.json",
+      "bytes": 1237,
+      "sha256": "69e33331f48f34f147ffdace63c83cf2565e8977f59f4314c633e2b197439d99"
+    },
+    {
+      "file": "chinalife-hk-positive-origin-evidence.json",
+      "bytes": 589,
+      "sha256": "de448d7e2b5bfaa9f337f56ee66bbd0e41f19be80b9f4b8b2c7e1069acb725c1"
+    },
+    {
+      "file": "chinalife-hk-role-visibility-audit.json",
+      "bytes": 10596,
+      "sha256": "7e8d1b2b201eb1fba18e2396507d06d76738feaa32f78f97ca1d2950651597c8"
+    },
+    {
+      "file": "chinalife-hk-root-queue.json",
+      "bytes": 3241,
+      "sha256": "11b871e6d933fc41e21dd694d5d8376e9e8bfb4e9407122ab659664dc4edbbe9"
+    },
+    {
+      "file": "chinalife-hk-source-metadata.json",
+      "bytes": 12150,
+      "sha256": "5cd135926fd34b86a3138aac3c5ebfb3a7d31611df7c443b9d7cea53276a3bda"
+    },
+    {
+      "file": "chinalife-hk-traversal.json",
+      "bytes": 1686,
+      "sha256": "e8bd891ef6326ae32b3c92673882070fabc5a242cadd6bfae1966a64e41cb706"
+    },
+    {
+      "file": "chinalife-hk-vhis-certification-crosscheck.json",
+      "bytes": 2562,
+      "sha256": "9503e9d5f1f532a8ac07de3bf99de808650cb33e7481b122d82c1d87546e7e64"
+    },
+    {
+      "file": "issuer-specific-status.json",
+      "bytes": 2283,
+      "sha256": "73933965be8f4c9433705615c24ac25c2b02bc0748b4223c98f5da99619505fc"
+    },
+    {
+      "file": "merge-map.json",
+      "bytes": 278,
+      "sha256": "b7904cdb79c45f816c604f90088882a0561e3ec034d40fdc646e900e8738deac"
+    },
+    {
+      "file": "products-chinalife-hk.jsonl",
+      "bytes": 106288,
+      "sha256": "ea6a7d86882adf302cafec0647fcda009e773b1dacfd22062929bbdf195d1248"
+    },
+    {
+      "file": "publication-safety-gate.json",
+      "bytes": 238,
+      "sha256": "8d508688e4563cd19a820f7bf633fc8e2c93bdf2d918c65d815a86a935cfb868"
+    }
+  ]
+}
