@@ -1,0 +1,187 @@
+{
+  "checked_date": "2026-10-27",
+  "issuer_legal_name": "Krungthai-AXA Life Insurance Public Company Limited",
+  "scope_status": "bounded_official_public_catalog_complete_with_explicit_gaps",
+  "individual_root_cards": {
+    "th": 29,
+    "en": 29,
+    "th_resolved_http_200": 29,
+    "en_card_targets_http_200": 29,
+    "deduplicated_root_products": 29,
+    "category_counts": {
+      "life_accident_critical": 18,
+      "health": 6,
+      "retirement": 3,
+      "legacy": 1,
+      "online": 1
+    },
+    "root_role_counts": {
+      "product": 21,
+      "rider": 4,
+      "product_family": 1,
+      "sales_bundle": 3
+    },
+    "en_missing_card_names": [
+      "wealthplus-ready-90-8",
+      "worldclass-ready-16-6",
+      "retireready85-6"
+    ],
+    "en_undefined_route_aliases": [
+      "global-saving-plus-25-5-index-linked",
+      "wealthplus-ready-90-8",
+      "retireready85-6"
+    ],
+    "note": "EN root contains 29 card anchors but 3 have no name; 3 /undefined/ route aliases return HTTP 200. Locale duplicates are not additional products."
+  },
+  "additional_catalog": {
+    "group_families_or_packages": 4,
+    "group_subordinate_riders_or_plans": 6,
+    "ilink_subordinate_riders": 4,
+    "extra_current_root_cards_claimed": 0
+  },
+  "product_locale_records": 86,
+  "unique_product_ids_including_subordinate_records": 43,
+  "documents": {
+    "unique_urls": 100,
+    "status_counts": {
+      "downloaded_original_bytes": 98,
+      "invalid_non_http_download_link": 1,
+      "hold_known_internal_do_not_download": 1
+    },
+    "downloaded_url_count": 98,
+    "unique_downloaded_sha256": 85,
+    "bytes_stored_per_url": 429210089,
+    "type_counts": {
+      "reference_index_information": 6,
+      "product_brochure": 44,
+      "rider_brochure": 18,
+      "rider_exclusions_excerpt": 2,
+      "benefit_schedule": 2,
+      "coverage_and_exclusions_summary": 1,
+      "beneficiary_designation_form": 5,
+      "application_form": 14,
+      "enrollment_and_beneficiary_form": 1,
+      "consent_form": 4,
+      "self_certification_form": 2,
+      "insurance_certificate_request_and_consent_form": 1
+    },
+    "publication_status_counts": {
+      "copyright_review_required_no_rehosting_authorized": 93,
+      "HOLD_INTERNAL": 2,
+      "HOLD_THIRD_PARTY_INDEX_RIGHTS_REVIEW": 2,
+      "HOLD_CONFIDENTIAL_REPRODUCTION_RESTRICTION": 3
+    },
+    "full_policy_wordings_verified": 0,
+    "full_read_true": 0,
+    "sha256_reverified_count": 98,
+    "raw_files_publication_authorized": false,
+    "language_counts": {
+      "th": 54,
+      "unknown": 1,
+      "en": 31,
+      "th-en": 14
+    },
+    "primary_verified_documents_added": 0,
+    "withheld_download_url_records": 7,
+    "disclosed_http_download_urls": 92,
+    "non_http_broken_link_records": 1,
+    "unique_urls_note": "100 distinct original locators in private inventory; all 7 HOLD locators redacted from this public metadata version."
+  },
+  "gaps": [
+    {
+      "kind": "broken_download",
+      "product": "Krungthai Super Save 16/5",
+      "locale": "th",
+      "reason": "Official brochure link is a non-resolvable blob URL; EN brochure downloaded; no verified public TH replacement."
+    },
+    {
+      "kind": "no_material_link",
+      "products": [
+        "Health Extra",
+        "Health Ultra"
+      ],
+      "locales": [
+        "th",
+        "en"
+      ],
+      "reason": "Detail webpages available but no separate public download link discovered."
+    },
+    {
+      "kind": "missing_en_localization",
+      "products": [
+        "WealthPlus Ready 90/8",
+        "RetireReady 85/6"
+      ],
+      "reason": "EN pages return 200 but no official EN product name or download link; TH pages/materials retained."
+    },
+    {
+      "kind": "restricted_label",
+      "reason": "Known iHealthy Ultra exclusions not downloaded; newly found MEA Extra Internal excluded from publication. Confidential/index-rights flagged originals quarantined."
+    },
+    {
+      "kind": "full_wording_not_found",
+      "reason": "Brochures, benefit schedules, exclusions summaries and blank forms do not establish full policy wording coverage."
+    },
+    {
+      "kind": "bank_origin_blocked",
+      "reason": "Krungthai bank origin returned 403; stopped without bypass; cannot claim full bank-channel catalog."
+    }
+  ],
+  "excluded_from_current_product_count": [
+    {
+      "slug": "global-index-16-6",
+      "th_status": 404,
+      "en_status": 500,
+      "counted_current": false,
+      "note": "Present in official sitemap, absent root catalog. Current direct requests failed. Cached search content cannot override live status."
+    },
+    {
+      "slug": "life-super-save-14-5",
+      "th_status": 404,
+      "en_status": 500,
+      "counted_current": false,
+      "note": "Present in official sitemap, absent root catalog. Current direct requests failed. Cached search content cannot override live status."
+    },
+    {
+      "slug": "ultimate-growth",
+      "th_status": 404,
+      "en_status": 500,
+      "counted_current": false,
+      "note": "Present in official sitemap, absent root catalog. Current direct requests failed. Cached search content cannot override live status."
+    },
+    {
+      "slug": "bumnan-ready",
+      "th_status": 404,
+      "en_status": 500,
+      "counted_current": false,
+      "note": "Present in official sitemap, absent root catalog. Current direct requests failed. Cached search content cannot override live status."
+    },
+    {
+      "product": "WealthReady 99/5",
+      "reason": "Bank-channel discovery only; live bank origin 403; absent 29 root cards."
+    }
+  ],
+  "storage": {
+    "publication_payload": "Metadata only; original evidence retained privately outside Git."
+  },
+  "public_scope_caveat": "Not all historical, closed, private/broker, individually issued, or every configurable SKU. No claim of full Thailand market coverage. No GitHub/site/index publication performed.",
+  "validation": {
+    "checked_date": "2026-10-27",
+    "result": "pass",
+    "root_cards_th": 29,
+    "root_cards_en": 29,
+    "product_locale_records": 86,
+    "unique_document_urls": 100,
+    "original_files_sha256_and_bytes_reverified": 98,
+    "unique_sha256": 85,
+    "originals_inside_metadata_directory": 0,
+    "known_internal_ihealthy_downloaded": false,
+    "full_policy_wordings_verified": 0,
+    "primary_verified_documents_added": 0,
+    "raw_rehosting_authorized": false,
+    "source_scope_not_thailand_market_census": true,
+    "private_filesystem_paths_in_payload": 0,
+    "held_direct_download_urls_in_public_payload": 0
+  },
+  "publication_version": "public-v2"
+}

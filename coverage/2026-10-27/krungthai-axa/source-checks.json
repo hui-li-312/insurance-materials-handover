@@ -1,0 +1,1722 @@
+{
+  "checked_date": "2026-10-27",
+  "issuer_check": {
+    "url": "https://www.krungthai-axa.co.th/en/about-us/company-profile",
+    "issuer_legal_name": "Krungthai-AXA Life Insurance Public Company Limited",
+    "business_type": "Life Insurance",
+    "not_issuer": "AXA Insurance Public Company Limited (general insurance)"
+  },
+  "individual_page_checks": [
+    {
+      "url": "https://www.krungthai-axa.co.th/en/about-us/company-profile",
+      "checked_at": "2026-10-27T09:44:06.263316+00:00",
+      "name": "company-profile",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/about-us/company-profile",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 55253,
+      "sha256": "88293c03d4d08958bf9dccf4c67bd99642e3fe4bc0c4d014226a6c94d72dff7f",
+      "title": "ข้อมูลบริษัท",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/global-saving-plus-25-5-index-linked",
+      "checked_at": "2026-10-27T09:44:06.263880+00:00",
+      "name": "th-global-saving-plus-25-5-index-linked",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/global-saving-plus-25-5-index-linked",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 153357,
+      "sha256": "8712b31b40ebb3c37bcd52823d6f8aa957b4c46c7aa1815d016550c76eb85f47",
+      "title": "แบบประกันสะสมทรัพย์ | โกลบอล เซฟวิ่งส์ พลัส 25/5",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/easy-protect-6",
+      "checked_at": "2026-10-27T09:44:06.265262+00:00",
+      "name": "th-easy-protect-6",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/easy-protect-6",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 123808,
+      "sha256": "6cee777e850f8a7a814c0f38c69e9e331fcc88a16f7aa6dfc5a6e71e71c2b629",
+      "title": "แบบประกันตลอดชีพ | อีซี่ โพรเทค 6",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/life-protect-plus",
+      "checked_at": "2026-10-27T09:44:06.264428+00:00",
+      "name": "th-life-protect-plus",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/life-protect-plus",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 142226,
+      "sha256": "1c8f7860722ddb06093ca686ce1fc76c2944a6550cdb38b80d24d5aec9b459d5",
+      "title": "แบบประกันตลอดชีพ | ไลฟ์ โพรเทค+",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products",
+      "checked_at": "2026-10-27T09:44:06.262307+00:00",
+      "name": "en-products",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 1519365,
+      "sha256": "6458d19a7d54fe2d5a16c15688a383e797193a2e28439fe279327bcb69114fb6",
+      "title": "Products | Life Insurance packages that matches your lifestyle",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/wealthplus-ready-90-8",
+      "checked_at": "2026-10-27T09:44:14.091008+00:00",
+      "name": "th-wealthplus-ready-90-8",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/wealthplus-ready-90-8",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 120995,
+      "sha256": "c3dbb1c599d9cb1e2d72f0e4c14be608adb5932cbe13dfebcd2ec4abd9dbfdc4",
+      "title": "ประกันตลอดชีพ WealthPlus Ready 90/8",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/worldclass-legacy-99-5-index-linked",
+      "checked_at": "2026-10-27T09:44:16.940252+00:00",
+      "name": "th-worldclass-legacy-99-5-index-linked",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/worldclass-legacy-99-5-index-linked",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 127369,
+      "sha256": "02cd143dc8a5e729016e02b591784b3f645e97f998f0487587d9cf8efa6a7528",
+      "title": "ประกันตลอดชีพ | เวิลด์คลาส เลกาซี 99/5 แบบมีผลตอบแทนตามดัชนีอ้างอิง",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/life-treasure",
+      "checked_at": "2026-10-27T09:44:18.063388+00:00",
+      "name": "th-life-treasure",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/life-treasure",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 133787,
+      "sha256": "5afdcee25063021a51164f56817954085577cec40e0a175a813608707f8ddd7e",
+      "title": "แบบประกันตลอดชีพ | LifeTreasure ปกป้องเพื่อส่งมอบอย่างยั่งยืน",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/ci-123",
+      "checked_at": "2026-10-27T09:44:16.910333+00:00",
+      "name": "th-ci-123",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/ci-123",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 120347,
+      "sha256": "886585f59469039d2374e09d932f6e578197e63f3542d5037e229a068836feae",
+      "title": "ประกันโรคร้ายแรง ประกันคุ้มครองชีวิต | CI 123",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/ismart80-6",
+      "checked_at": "2026-10-27T09:44:17.018858+00:00",
+      "name": "th-ismart80-6",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/ismart80-6",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 135043,
+      "sha256": "abbc5677c001f6fc3218c4292f3d376ca5db040570fede4c9274e74678ab2c53",
+      "title": "แบบประกันตลอดชีพ | iSmart 80/6",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/pa-classic",
+      "checked_at": "2026-10-27T09:44:20.500715+00:00",
+      "name": "th-pa-classic",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/pa-classic",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 120861,
+      "sha256": "4a8674283059d019bd14cfe63bb9a34ff9aca113061215714cb0f37f4d5bb022",
+      "title": "ประกันอุบัติเหตุส่วนบุคคล | กรุงไทย-แอกซ่า ประกันชีวิต",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/icare",
+      "checked_at": "2026-10-27T09:44:24.586475+00:00",
+      "name": "th-icare",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/icare",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 110238,
+      "sha256": "963b2e008d8fef8015bf92042d7433e744aad7eb28cf41edaeef036ecf071767",
+      "title": "ประกันโรคร้ายแรง | iCare |  ประกันสุขภาพ กรุงไทย-แอกซ่า",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/life-ready",
+      "checked_at": "2026-10-27T09:44:23.683442+00:00",
+      "name": "th-life-ready",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/life-ready",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 137160,
+      "sha256": "d4fd0b97ce1cee29835e98b655048eee5ccc4da6e9437e157c8216e00fdcb1ed",
+      "title": "ประกันตลอดชีพ | LifeReady | กรุงไทย-แอกซ่า ประกันชีวิต",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/lifeplus-saver",
+      "checked_at": "2026-10-27T09:44:24.616366+00:00",
+      "name": "th-lifeplus-saver",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/lifeplus-saver",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 139431,
+      "sha256": "efdfc94343cfc54c12cf5c26a96cc966bd8970270ff86f2023aac459a19c0067",
+      "title": "แบบประกันสะสมทรัพย์ | LifePlus+ Saver",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/ishield",
+      "checked_at": "2026-10-27T09:44:24.629363+00:00",
+      "name": "th-ishield",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/ishield",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 140429,
+      "sha256": "e955404ea84d3b141961388539478b72f62b8f8f4e11b0041da852ad8e5890f5",
+      "title": "ประกันคุ้มครองชีวิตและโรคร้ายแรงตลอดชีพ | iShield",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/worldclass-saver-12-5-index-linked",
+      "checked_at": "2026-10-27T09:44:27.005908+00:00",
+      "name": "th-worldclass-saver-12-5-index-linked",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/worldclass-saver-12-5-index-linked",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 124671,
+      "sha256": "740faf2f1f853611d05622d1ccdb5898a4314640db030072609ba438379bb53c",
+      "title": "แบบประกันสะสมทรัพย์ (มีผลตอบแทนตามดัชนีอ้างอิง)  | เวิลด์คลาส เซฟเวอร์ 12/5 ​",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/ilink",
+      "checked_at": "2026-10-27T09:44:30.100942+00:00",
+      "name": "th-ilink",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/ilink",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 166336,
+      "sha256": "86ffde5932f73b956ade2feaed59ec5214aa19e02e4aa9b22210102384659bf9",
+      "title": "ประกันชีวิตควบการลงทุน | iLink | กรุงไทย-แอกซ่า",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/krungthai-super-save-16-5",
+      "checked_at": "2026-10-27T09:44:30.221710+00:00",
+      "name": "th-krungthai-super-save-16-5",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/krungthai-super-save-16-5",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 117477,
+      "sha256": "503f28c2844bdf1c26fa1bbbc811c67982af8e0ae1213aa52c61af6ab29d3032",
+      "title": "ประกันสะสมทรัพย์ | กรุงไทย ซุปเปอร์ เซฟ 16/5 (ชนิดไม่มีเงินปันผล)",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/worldclass-ready-16-6",
+      "checked_at": "2026-10-27T09:44:30.012627+00:00",
+      "name": "th-worldclass-ready-16-6",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/worldclass-ready-16-6",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 147011,
+      "sha256": "6c9ed0bbc5d3a408399c972273107626124e0f0c8e83fbd8077467ec52ff0acf",
+      "title": "ประกันสะสมทรัพย์ | Worldclass Ready 16/6 | กรุงไทย-แอกซ่าประกันชีวิต",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/global-saving-plus-15-8-index-linked",
+      "checked_at": "2026-10-27T09:44:30.156975+00:00",
+      "name": "th-global-saving-plus-15-8-index-linked",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/global-saving-plus-15-8-index-linked",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 154266,
+      "sha256": "b9583481db8becc8f706a37ade0e02260ef4bdf14ce521860cba3fcc403f8838",
+      "title": "แบบประกันสะสมทรัพย์ | โกลบอล เซฟวิ่งส์ พลัส 15/8",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/health-extra-package",
+      "checked_at": "2026-10-27T09:44:33.446735+00:00",
+      "name": "th-health-extra-package",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/health-extra-package",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 122442,
+      "sha256": "986085b6ab418b7bb1cab402b8d57f913796fa03ab1fbc0200bfc9c1c33110ce",
+      "title": "แผนประกันสุขภาพสำเร็จรูป | Health Extra",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/double-shield-health-combo",
+      "checked_at": "2026-10-27T09:44:37.130194+00:00",
+      "name": "th-double-shield-health-combo",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/double-shield-health-combo",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 122208,
+      "sha256": "10a97df09e069803910c93adb7ca13f059d2b198db940016a74f8927cfe92806",
+      "title": "ประกันสุขภาพ คุ้มครองค่ารักษา โรคร้ายแรง123 โรค | ดับเบิลชิลด์ เฮลท์ คอมโบ",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/mea-extra",
+      "checked_at": "2026-10-27T09:44:37.521997+00:00",
+      "name": "th-mea-extra",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/mea-extra",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 147400,
+      "sha256": "26895c6c3878152cb8b0ac715171a3477d7db09f86b551a6dcd488f8f5a04f65",
+      "title": "ประกันสุขภาพ MEA Extra | กรุงไทย-แอกซ่า ประกันชีวิต ประกันสุขภาพ",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/ihealthy-ultra",
+      "checked_at": "2026-10-27T09:44:37.017673+00:00",
+      "name": "th-ihealthy-ultra",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/ihealthy-ultra",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 163496,
+      "sha256": "fd3a6e154bd568658a8cc08285a433ba2d6d2b601c6047ca0a64942e26860d46",
+      "title": "ประกันสุขภาพ | iHealthy Ultra |  กรุงไทย-แอกซ่า ประกันชีวิต",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/health-ultra-package",
+      "checked_at": "2026-10-27T09:44:36.208635+00:00",
+      "name": "th-health-ultra-package",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/health-ultra-package",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 124392,
+      "sha256": "7cd56bb34cf7ac6afd98827ff87b1b9f97a669c46c9c5a888e79fdf5565c77a8",
+      "title": "แผนประกันสุขภาพสำเร็จรูป | Health Ultra",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/rokeraisoshield",
+      "checked_at": "2026-10-27T09:44:40.164753+00:00",
+      "name": "th-rokeraisoshield",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/rokeraisoshield",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 120394,
+      "sha256": "6c49e830618d2ea87b0e7809dc97e5789422b5dabc452fac2e2c10e5da4a00d5",
+      "title": "ประกันสุขภาพ | Roke Rai So Shield",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/saving-for-retirement/iwealthy",
+      "checked_at": "2026-10-27T09:44:43.418963+00:00",
+      "name": "th-iwealthy",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/saving-for-retirement/iwealthy",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 149425,
+      "sha256": "0d788b3bdd146614f809cc297d0b44fd002ebb41037aedc017e8ec6148a227af",
+      "title": "ประกันชีวิตควบการลงทุน | iWealthy",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/saving-for-retirement/retireready85-6",
+      "checked_at": "2026-10-27T09:44:42.650087+00:00",
+      "name": "th-retireready85-6",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/saving-for-retirement/retireready85-6",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 123049,
+      "sha256": "1cd9f6b41fe1772f473027454880b3bb83014f286fd1c4c03f8e796c02a9c066",
+      "title": "แบบประกันบำนาญ | RetireReady | กรุงไทย-แอกซ่า",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/saving-for-legacy/iinvest",
+      "checked_at": "2026-10-27T09:44:43.456997+00:00",
+      "name": "th-iinvest",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/saving-for-legacy/iinvest",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 152263,
+      "sha256": "5f6d395a9a24eccac58f02ee727e747ab38f0cd179e9cbb1c130b3f6143c0fe9",
+      "title": "ประกันชีวิตควบการลงทุน | iInvest",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/saving-for-retirement/bumnan-smart-95",
+      "checked_at": "2026-10-27T09:44:42.543231+00:00",
+      "name": "th-bumnan-smart-95",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/saving-for-retirement/bumnan-smart-95",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 116206,
+      "sha256": "5f80afdf3475c22693d81e2e016c59f1061eebc3139f92172c46f5ea85b3c3f1",
+      "title": "ประกันบำนาญ วางแผนการเกษียณ ลดหย่อนภาษีได้| บำนาญ สมาร์ท 95",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/roke-rai-bao-jai/roke-rai-bao-jai",
+      "checked_at": "2026-10-27T09:44:47.584524+00:00",
+      "name": "th-roke-rai-bao-jai",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/roke-rai-bao-jai/roke-rai-bao-jai",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 120391,
+      "sha256": "8cdc27e1c26b8f5c811b30a98195294a11713b581e6e0225f6fec7caa7c1a32d",
+      "title": "ประกันออนไลน์ | โรคร้ายเบาใจ",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/saving-for-retirement",
+      "checked_at": "2026-10-27T09:44:49.615097+00:00",
+      "name": "th-category-saving-for-retirement",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/saving-for-retirement",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 219984,
+      "sha256": "8cab2b8de6ab3f263ae3eb7f8609a58644323b61e103d97f18583bf4d2794f9c",
+      "title": "การออมเพื่อการเกษียณอายุ | กรุงไทย-แอกซ่า ประกันชีวิต",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income",
+      "checked_at": "2026-10-27T09:44:48.672664+00:00",
+      "name": "th-category-health-insurance-and-hospital-income",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 382104,
+      "sha256": "79ea2d4e1d1ba479e2783fedf9a4eb71f9f640d237d38b49a60e84335688cf46",
+      "title": "ประกันสุขภาพ | กรุงไทย-แอกซ่า ประกันชีวิต",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance",
+      "checked_at": "2026-10-27T09:44:48.642448+00:00",
+      "name": "th-category-life-accident-and-critical-insurance",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 1008862,
+      "sha256": "c6ec3ab6f1783142e922676d66125e2f6a2010b037c26ccf0f589a5d2c048ba4",
+      "title": "ประกันคุ้มครองชีวิต อุบัติเหตุ และโรคร้ายแรง | กรุงไทย-แอกซ่า ประกันชีวิต",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/saving-for-legacy",
+      "checked_at": "2026-10-27T09:44:50.092963+00:00",
+      "name": "th-category-saving-for-legacy",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/saving-for-legacy",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 151334,
+      "sha256": "4e2d3a3e1a20f50f455de6870e3b6a567f50a445d1f51de5db2145db9b842972",
+      "title": "การออมเพื่อสร้างกองมรดก | กรุงไทย-แอกซ่า ประกันชีวิต",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/online-insurance",
+      "checked_at": "2026-10-27T09:44:54.773733+00:00",
+      "name": "th-category-online-insurance",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/online-insurance",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 129002,
+      "sha256": "be62503a3a55d14465d352c4831ccbe787bacd0a7b907215cec1a72e4c008a51",
+      "title": "แบบประกันออนไลน์ | กรุงไทย-แอกซ่า ประกันชีวิต",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products/plan-right-for-you",
+      "checked_at": "2026-10-27T09:44:55.549241+00:00",
+      "name": "th-category-plan-right-for-you",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products/plan-right-for-you",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 88690,
+      "sha256": "2daaad5711f970764dd887d095675d4e21ffdccb012293a7e220efa1911492a2",
+      "title": "ประกันสุขภาพแผนประกันชีวิตที่เหมาะสมกับคุณ | กรุงไทย-แอกซ่า ประกันชีวิต",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/worldclass-legacy-99-5-index-linked",
+      "checked_at": "2026-10-27T09:45:02.837035+00:00",
+      "name": "en-worldclass-legacy-99-5-index-linked",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/worldclass-legacy-99-5-index-linked",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 121162,
+      "sha256": "2c5ad8990420a1d5d6adfada7c4aabc7040c0195d87d8ad489cab3f7baf357c4",
+      "title": "Whole Life Insurance​ | Worldclass Legacy 99/5 with returns based on the reference index",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/global-saving-plus-25-5-index-linked",
+      "checked_at": "2026-10-27T09:45:02.835050+00:00",
+      "name": "en-global-saving-plus-25-5-index-linked",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/global-saving-plus-25-5-index-linked",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 142688,
+      "sha256": "73b399cb9ee31742838f74c4e375a12a64d9d82a804023b1be4aab8c29a20045",
+      "title": "Global Saving Plus 25/5\nwith returns based on the reference index (Index-Linked)",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/wealthplus-ready-90-8",
+      "checked_at": "2026-10-27T09:45:02.836657+00:00",
+      "name": "en-wealthplus-ready-90-8",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/wealthplus-ready-90-8",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 95883,
+      "sha256": "f26d1cc31008e1c387571c44f29f5156e7559d87f0505623482ab5db1d90df4e",
+      "title": "",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/easy-protect-6",
+      "checked_at": "2026-10-27T09:45:02.835552+00:00",
+      "name": "en-easy-protect-6",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/easy-protect-6",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 118042,
+      "sha256": "4fd98940944edf1655e6daff3adc4c95414a00c8ba2ec4a70b59599e9d7607c5",
+      "title": "Whole life product | Easy Protect 6",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/life-protect-plus",
+      "checked_at": "2026-10-27T09:45:02.836041+00:00",
+      "name": "en-life-protect-plus",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/life-protect-plus",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 133208,
+      "sha256": "5f2a4f1573e77c4dc40fcafe52c08a7de6d5c4eabb3274db4aa88a8d45bc2fe0",
+      "title": "Whole life product | Life Protect+",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/ci-123",
+      "checked_at": "2026-10-27T09:45:09.063330+00:00",
+      "name": "en-ci-123",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/ci-123",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 115664,
+      "sha256": "f28293cd8d918c549ceb2cba8352fc619f179bb480fc2003546d5c9a414ac734",
+      "title": "CI 123",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/pa-classic",
+      "checked_at": "2026-10-27T09:45:09.116788+00:00",
+      "name": "en-pa-classic",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/pa-classic",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 115835,
+      "sha256": "4b26d178945ca6d9bcf438b457745ba80bc6aa9be292a231b859cd279c4214ef",
+      "title": "Personal Accident Insurance (PA) | Krungthai-AXA Life Insurance",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/icare",
+      "checked_at": "2026-10-27T09:45:09.170387+00:00",
+      "name": "en-icare",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/icare",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 107638,
+      "sha256": "4b414d3d3657ebc9f7ee7a43f7f8bb2bb6977434794e9a8fe210798cfbfae420",
+      "title": "iCare",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/life-treasure",
+      "checked_at": "2026-10-27T09:45:09.021931+00:00",
+      "name": "en-life-treasure",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/life-treasure",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 126741,
+      "sha256": "d37947bf2b0b0c508ab189c72cd3fd00f9d721eadc5cd02a5e416034b556f081",
+      "title": "Whole life product | LifeTreasure Securing & imparting a legacy",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/ismart80-6",
+      "checked_at": "2026-10-27T09:45:09.087400+00:00",
+      "name": "en-ismart80-6",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/ismart80-6",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 128769,
+      "sha256": "c429e4a246502629b5c080d838e9668e43d54c26147f9865e16b0efdfb82e4ca",
+      "title": "Whole life product | iSmart 80/6",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/life-ready",
+      "checked_at": "2026-10-27T09:45:16.023627+00:00",
+      "name": "en-life-ready",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/life-ready",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 133533,
+      "sha256": "130d650eb30e10d10ea9750493d7dff15463cfc8607de8d7ae069f2a4e45279b",
+      "title": "Whole life product | LifeReady",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/lifeplus-saver",
+      "checked_at": "2026-10-27T09:45:16.025146+00:00",
+      "name": "en-lifeplus-saver",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/lifeplus-saver",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 136337,
+      "sha256": "181ca8db75df51b2dfbf2955a379684aa17c259ce2b9ca3a0e3dd3e6f32728c3",
+      "title": "LifePlus+ Saver",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/ishield",
+      "checked_at": "2026-10-27T09:45:16.040359+00:00",
+      "name": "en-ishield",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/ishield",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 134965,
+      "sha256": "37449ed5cbc0bb9362ccba2ed1bb46cfa4a539569c61bdd35805f61264f66fcc",
+      "title": "iShield",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/ilink",
+      "checked_at": "2026-10-27T09:45:16.098512+00:00",
+      "name": "en-ilink",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/ilink",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 157683,
+      "sha256": "1f254e2b769c392cd22b36f9773c974047b82950d0f19ab2fadeda7e9a1bf0df",
+      "title": "iLink | Krungthai-AXA Life Insurance",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/worldclass-saver-12-5-index-linked",
+      "checked_at": "2026-10-27T09:45:16.041158+00:00",
+      "name": "en-worldclass-saver-12-5-index-linked",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/worldclass-saver-12-5-index-linked",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 118627,
+      "sha256": "8820284e612aa62b14cd34c1fa317adf5d1786cc7c58ee2c1434442d38f3688c",
+      "title": "Worldclass Saver 12/5​ with returns based on the reference index",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/double-shield-health-combo",
+      "checked_at": "2026-10-27T09:45:23.410335+00:00",
+      "name": "en-double-shield-health-combo",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/double-shield-health-combo",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 117900,
+      "sha256": "0a0fd507b20ab556d1dde29624f7b365c9c3e75d3f34ed8ce3062a1ab1720aea",
+      "title": "Double Shield Health Combo",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/global-saving-plus-15-8-index-linked",
+      "checked_at": "2026-10-27T09:45:23.293891+00:00",
+      "name": "en-global-saving-plus-15-8-index-linked",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/global-saving-plus-15-8-index-linked",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 143300,
+      "sha256": "d62bce45bf10a37e0f1af290361fbf5827a76ec92baf97d26610ea4ffbe2cf0f",
+      "title": "Global Saving Plus 15/8 with returns based on the reference index  (Index-Linked)​",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/health-extra-package",
+      "checked_at": "2026-10-27T09:45:23.368842+00:00",
+      "name": "en-health-extra-package",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/health-extra-package",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 119028,
+      "sha256": "68f4f6190c6196057fc8a1b5e3fbb5f04c95f25d5b3299b6612248419af5af41",
+      "title": "Health Extra",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/worldclass-ready-16-6",
+      "checked_at": "2026-10-27T09:45:22.415088+00:00",
+      "name": "en-worldclass-ready-16-6",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/worldclass-ready-16-6",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 128112,
+      "sha256": "935d4f4730245ac3176b70338e230f26bdc93fc62da361d13a3d168213635fbf",
+      "title": "",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/krungthai-super-save-16-5",
+      "checked_at": "2026-10-27T09:45:22.381344+00:00",
+      "name": "en-krungthai-super-save-16-5",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/krungthai-super-save-16-5",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 112587,
+      "sha256": "a7c86e7a0c5529edd66e866deab1a0ea1d5dd81fd6be138b4c2a0aca337a386b",
+      "title": "Krungthai Super Save 16/5 (Non-participating)",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/saving-for-retirement/iwealthy",
+      "checked_at": "2026-10-27T09:45:31.366096+00:00",
+      "name": "en-iwealthy",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/saving-for-retirement/iwealthy",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 143528,
+      "sha256": "a10ef64a2af70349f60fefc9133716c3272a7ed87850c3be360bd034c44b4bf8",
+      "title": "iWealthy | Krungthai-AXA Life Insurance",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/health-ultra-package",
+      "checked_at": "2026-10-27T09:45:31.115187+00:00",
+      "name": "en-health-ultra-package",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/health-ultra-package",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 120680,
+      "sha256": "b5d15582ba75a9e0d8dff08f2ce523a42dd717743859fa58f347e5c350a0eb0d",
+      "title": "Health Ultra | Krungthai-AXA",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/rokeraisoshield",
+      "checked_at": "2026-10-27T09:45:31.145972+00:00",
+      "name": "en-rokeraisoshield",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/rokeraisoshield",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 116139,
+      "sha256": "ee890e17c28c710d5dad420925313139c7dca9d5efcbec094954493eb78c6fc7",
+      "title": "Roke Rai So Shield",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/ihealthy-ultra",
+      "checked_at": "2026-10-27T09:45:31.112025+00:00",
+      "name": "en-ihealthy-ultra",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/ihealthy-ultra",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 150201,
+      "sha256": "6478e076b62beedc69d04f90b5354dad3ac24a4ee3654ef7fccf7c3607c93705",
+      "title": "iHealthy Ultra | Health Insurance | Krungthai-AXA Life Insurance",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/mea-extra",
+      "checked_at": "2026-10-27T09:45:31.097210+00:00",
+      "name": "en-mea-extra",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/mea-extra",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 137590,
+      "sha256": "53de0f9d9107d0e59e95dcba2364e6ff420cd4d632bcad8632110346269d5168",
+      "title": "MEA Extra | Krungthai-AXA Life Insurance",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/saving-for-retirement/bumnan-smart-95",
+      "checked_at": "2026-10-27T09:45:38.840533+00:00",
+      "name": "en-bumnan-smart-95",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/saving-for-retirement/bumnan-smart-95",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 111577,
+      "sha256": "5334156dd7f110f2c443488b52fbd0ebb16b8183fd9a226ef42eb5bf66abe056",
+      "title": "Bumnan Smart 95",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/roke-rai-bao-jai/roke-rai-bao-jai",
+      "checked_at": "2026-10-27T09:45:38.872170+00:00",
+      "name": "en-roke-rai-bao-jai",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/roke-rai-bao-jai/roke-rai-bao-jai",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 114183,
+      "sha256": "3e6eca42850062ed52169c2c6aa866f825e9eb069f12c69b6a990dc145023df9",
+      "title": "Online Insurance | Roke Rai Bao Jai",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/saving-for-retirement/retireready85-6",
+      "checked_at": "2026-10-27T09:45:37.912116+00:00",
+      "name": "en-retireready85-6",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/saving-for-retirement/retireready85-6",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 95796,
+      "sha256": "9dd1dd21b7b4c99f81559baf011750ba54723c22d16d68b3decca12c5c13a458",
+      "title": "",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/saving-for-legacy/iinvest",
+      "checked_at": "2026-10-27T09:45:38.831976+00:00",
+      "name": "en-iinvest",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/saving-for-legacy/iinvest",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 144867,
+      "sha256": "6364fa053a0f8d4ee672191a59e99041fcebb77ffcb8b8baca56a8c2d9e519d0",
+      "title": "iInvest",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/saving-for-legacy",
+      "checked_at": "2026-10-27T09:50:15.820945+00:00",
+      "name": "en-category-saving-for-legacy",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/saving-for-legacy",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 149494,
+      "sha256": "5a18c8cf91b60024aa2fc28996f5bff1436708ddcc8393c9e5bc2d0ea0f62bee",
+      "title": "Saving for Legacy | Krungthai-AXA Life Insurance",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/saving-for-retirement",
+      "checked_at": "2026-10-27T09:50:15.819079+00:00",
+      "name": "en-category-saving-for-retirement",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/saving-for-retirement",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 217366,
+      "sha256": "de9b2c4f7b39f902b2fe89d379694a9ce3a1a70c2670854cdbdd652b83a6a1a8",
+      "title": "Saving for Retirement | Krungthai-AXA Life Insurance",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income",
+      "checked_at": "2026-10-27T09:50:15.819873+00:00",
+      "name": "en-category-health-insurance-and-hospital-income",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 380002,
+      "sha256": "cfd19081253b0dc52e42bc9ab670d555a3de45d096b35b2e6ff6ae7d587f89b4",
+      "title": "Health Insurance and Hospital Income | Krungthai-AXA Life Insurance",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance",
+      "checked_at": "2026-10-27T09:50:15.820310+00:00",
+      "name": "en-category-life-accident-and-critical-insurance",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 1001051,
+      "sha256": "ce6c0f8faede2ff37d5556f851c3c8b4ae2a8f58e03540b14e751243b05e34ac",
+      "title": "Life, Accident and Critical Insurance | Krungthai-AXA Life Insurance",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/th/products",
+      "checked_at": "2026-10-27T09:50:25.654156+00:00",
+      "name": "th-products",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/th/products",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 1531718,
+      "sha256": "342dc6cb5a3bc3ad03304af2ff0d76d2c2c58c06c8ed2750cdc3be47d53816ef",
+      "title": "แบบประกันที่น่าสนใจทั้งหมด",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/plan-right-for-you",
+      "checked_at": "2026-10-27T09:50:25.486378+00:00",
+      "name": "en-category-plan-right-for-you",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/plan-right-for-you",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 87647,
+      "sha256": "c9b807379f212dd71e3e7892e5c25c4978c84d4c7a064019f1f819d3ce4e86bf",
+      "title": "ประกันสุขภาพแผนประกันชีวิตที่เหมาะสมกับคุณ | กรุงไทย-แอกซ่า ประกันชีวิต",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/online-insurance",
+      "checked_at": "2026-10-27T09:50:25.159546+00:00",
+      "name": "en-category-online-insurance",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/online-insurance",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 127613,
+      "sha256": "9bb451bd15c79e4a71d1b885e5beb28af647ac77e7c0e662c6f4d863c3b7933d",
+      "title": "Online Insurance | Krungthai-AXA Life Insurance",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/undefined/global-saving-plus-25-5-index-linked",
+      "checked_at": "2026-10-27T09:52:44.754569+00:00",
+      "name": "en-root-alias-global-saving-plus-25-5-index-linked",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/undefined/global-saving-plus-25-5-index-linked",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 142499,
+      "sha256": "a1191c6b232f5b0f46e9f59792af5ab9ae11a85dfe63469ae06cf255a4958d89",
+      "title": "Global Saving Plus 25/5\nwith returns based on the reference index (Index-Linked)",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/undefined/retireready85-6",
+      "checked_at": "2026-10-27T09:52:44.756141+00:00",
+      "name": "en-root-alias-retireready85-6",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/undefined/retireready85-6",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 95712,
+      "sha256": "9f39447da8481483eeffc486ad0000b2d49ff9b91358470abdbaada4a28b445c",
+      "title": "",
+      "status": "success"
+    },
+    {
+      "url": "https://www.krungthai-axa.co.th/en/products/undefined/wealthplus-ready-90-8",
+      "checked_at": "2026-10-27T09:52:44.755494+00:00",
+      "name": "en-root-alias-wealthplus-ready-90-8",
+      "http_status": 200,
+      "final_url": "https://www.krungthai-axa.co.th/en/products/undefined/wealthplus-ready-90-8",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 95694,
+      "sha256": "e59b3b69a5c0e23e160a223f78446187f5804bddf28be054e2c9c124430a50fd",
+      "title": "",
+      "status": "success"
+    }
+  ],
+  "root_card_inventory": [
+    {
+      "product_id": "TH-KTAXA-global-saving-plus-25-5-index-linked",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/global-saving-plus-25-5-index-linked",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/undefined/global-saving-plus-25-5-index-linked",
+      "official_name_th": "โกลบอล เซฟวิ่งส์ พลัส 25/5 แบบมีผลตอบแทนตามดัชนีอ้างอิง (อินเด็กซ์ ลิงค์)",
+      "official_name_en": "Global Savings Plus 25/5 with returns based on the reference index (Index-Linked)"
+    },
+    {
+      "product_id": "TH-KTAXA-life-protect-plus",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/life-protect-plus",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/life-protect-plus",
+      "official_name_th": "ไลฟ์ โพรเทค+",
+      "official_name_en": "Life Protect+"
+    },
+    {
+      "product_id": "TH-KTAXA-easy-protect-6",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/easy-protect-6",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/easy-protect-6",
+      "official_name_th": "อีซี่ โพรเทค 6",
+      "official_name_en": "Easy Protect 6"
+    },
+    {
+      "product_id": "TH-KTAXA-wealthplus-ready-90-8",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/wealthplus-ready-90-8",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/undefined/wealthplus-ready-90-8",
+      "official_name_th": "WealthPlus Ready 90/8",
+      "official_name_en": null
+    },
+    {
+      "product_id": "TH-KTAXA-ci-123",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/ci-123",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/ci-123",
+      "official_name_th": "CI 123",
+      "official_name_en": "CI 123"
+    },
+    {
+      "product_id": "TH-KTAXA-worldclass-legacy-99-5-index-linked",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/worldclass-legacy-99-5-index-linked",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/worldclass-legacy-99-5-index-linked",
+      "official_name_th": "เวิลด์คลาส เลกาซี 99/5 แบบมีผลตอบแทนตามดัชนีอ้างอิง",
+      "official_name_en": "Worldclass Legacy 99/5 with returns based on the reference index"
+    },
+    {
+      "product_id": "TH-KTAXA-ismart80-6",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/ismart80-6",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/ismart80-6",
+      "official_name_th": "iSmart 80/6",
+      "official_name_en": "iSmart 80/6"
+    },
+    {
+      "product_id": "TH-KTAXA-life-treasure",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/life-treasure",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/life-treasure",
+      "official_name_th": "LifeTreasure",
+      "official_name_en": "LifeTreasure"
+    },
+    {
+      "product_id": "TH-KTAXA-pa-classic",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/pa-classic",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/pa-classic",
+      "official_name_th": "ประกันอุบัติเหตุ",
+      "official_name_en": "Personal Accident Insurance"
+    },
+    {
+      "product_id": "TH-KTAXA-life-ready",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/life-ready",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/life-ready",
+      "official_name_th": "LifeReady",
+      "official_name_en": "LifeReady"
+    },
+    {
+      "product_id": "TH-KTAXA-icare",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/icare",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/icare",
+      "official_name_th": "iCare",
+      "official_name_en": "iCare"
+    },
+    {
+      "product_id": "TH-KTAXA-lifeplus-saver",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/lifeplus-saver",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/lifeplus-saver",
+      "official_name_th": "LifePlus+ Saver",
+      "official_name_en": "LifePlus+ Saver"
+    },
+    {
+      "product_id": "TH-KTAXA-ishield",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/ishield",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/ishield",
+      "official_name_th": "iShield",
+      "official_name_en": "iShield"
+    },
+    {
+      "product_id": "TH-KTAXA-worldclass-saver-12-5-index-linked",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/worldclass-saver-12-5-index-linked",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/worldclass-saver-12-5-index-linked",
+      "official_name_th": "เวิลด์คลาส เซฟเวอร์ 12/5 ​แบบมีผลตอบแทนตามดัชนีอ้างอิง",
+      "official_name_en": "Worldclass Saver 12/5​ with returns based on the reference index"
+    },
+    {
+      "product_id": "TH-KTAXA-worldclass-ready-16-6",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/worldclass-ready-16-6",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/worldclass-ready-16-6",
+      "official_name_th": "Worldclass Ready 16/6",
+      "official_name_en": null
+    },
+    {
+      "product_id": "TH-KTAXA-ilink",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/ilink",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/ilink",
+      "official_name_th": "iLink",
+      "official_name_en": "iLink"
+    },
+    {
+      "product_id": "TH-KTAXA-global-saving-plus-15-8-index-linked",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/global-saving-plus-15-8-index-linked",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/global-saving-plus-15-8-index-linked",
+      "official_name_th": "โกลบอล เซฟวิ่งส์ พลัส 15/8 แบบมีผลตอบแทนตามดัชนีอ้างอิง (อินเด็กซ์ ลิงค์)",
+      "official_name_en": "Global Savings Plus 15/8 with returns based on the reference index (Index-Linked)"
+    },
+    {
+      "product_id": "TH-KTAXA-krungthai-super-save-16-5",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/krungthai-super-save-16-5",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/krungthai-super-save-16-5",
+      "official_name_th": "กรุงไทย ซุปเปอร์ เซฟ 16/5 (ชนิดไม่มีเงินปันผล)",
+      "official_name_en": "Krungthai Super Save 16/5 (Non-participating)"
+    },
+    {
+      "product_id": "TH-KTAXA-health-extra-package",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/health-extra-package",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/health-extra-package",
+      "official_name_th": "Health Extra",
+      "official_name_en": "Health Extra"
+    },
+    {
+      "product_id": "TH-KTAXA-health-ultra-package",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/health-ultra-package",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/health-ultra-package",
+      "official_name_th": "Health Ultra",
+      "official_name_en": "Health Ultra"
+    },
+    {
+      "product_id": "TH-KTAXA-ihealthy-ultra",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/ihealthy-ultra",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/ihealthy-ultra",
+      "official_name_th": "iHealthy Ultra",
+      "official_name_en": "iHealthy Ultra"
+    },
+    {
+      "product_id": "TH-KTAXA-double-shield-health-combo",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/double-shield-health-combo",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/double-shield-health-combo",
+      "official_name_th": "ดับเบิลชิลด์ เฮลท์ คอมโบ",
+      "official_name_en": "Double Shield Health Combo"
+    },
+    {
+      "product_id": "TH-KTAXA-mea-extra",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/mea-extra",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/mea-extra",
+      "official_name_th": "MEA Extra",
+      "official_name_en": "MEA Extra"
+    },
+    {
+      "product_id": "TH-KTAXA-rokeraisoshield",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/health-insurance-and-hospital-income/rokeraisoshield",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/health-insurance-and-hospital-income/rokeraisoshield",
+      "official_name_th": "โรคร้ายโซชิลด์",
+      "official_name_en": "Roke Rai So Shield"
+    },
+    {
+      "product_id": "TH-KTAXA-bumnan-smart-95",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/saving-for-retirement/bumnan-smart-95",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/saving-for-retirement/bumnan-smart-95",
+      "official_name_th": "บำนาญ สมาร์ท 95",
+      "official_name_en": "Bumnan Smart 95"
+    },
+    {
+      "product_id": "TH-KTAXA-retireready85-6",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/saving-for-retirement/retireready85-6",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/undefined/retireready85-6",
+      "official_name_th": "RetireReady 85/6",
+      "official_name_en": null
+    },
+    {
+      "product_id": "TH-KTAXA-iwealthy",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/saving-for-retirement/iwealthy",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/saving-for-retirement/iwealthy",
+      "official_name_th": "iWealthy",
+      "official_name_en": "iWealthy"
+    },
+    {
+      "product_id": "TH-KTAXA-iinvest",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/saving-for-legacy/iinvest",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/saving-for-legacy/iinvest",
+      "official_name_th": "iInvest",
+      "official_name_en": "iInvest"
+    },
+    {
+      "product_id": "TH-KTAXA-roke-rai-bao-jai",
+      "th_url": "https://www.krungthai-axa.co.th/th/products/roke-rai-bao-jai/roke-rai-bao-jai",
+      "en_card_url": "https://www.krungthai-axa.co.th/en/products/roke-rai-bao-jai/roke-rai-bao-jai",
+      "official_name_th": "โรคร้ายเบาใจ",
+      "official_name_en": "Roke Rai Bao Jai"
+    }
+  ],
+  "additional_scope_checks": {
+    "checked_date": "2026-10-27",
+    "scope": "Additional public Krungthai-AXA Life group catalog plus public download-center discovery; not a claim of all historical, closed, broker/private SKUs",
+    "group_catalog": {
+      "urls": [
+        "https://www.krungthai-axa.co.th/th/group-insurance",
+        "https://www.krungthai-axa.co.th/en/group-insurance"
+      ],
+      "dedup_current_families": 4,
+      "locale_product_pages": 8,
+      "material_url_count": 30,
+      "individual_root_cards_overlap": 0,
+      "note": "Current canonical direct product pages all fetched 200. Older nested URLs seen in search cache are TH 404 / EN 500 and not used as current evidence.",
+      "subordinate_components": 6,
+      "subordinate_locale_records": 12,
+      "material_classifications": {
+        "application_form": 14,
+        "beneficiary_designation_form": 6,
+        "brochure": 3,
+        "consent_form": 5,
+        "self_certification_form": 2
+      }
+    },
+    "stale_sitemap_candidates": [
+      {
+        "slug": "global-index-16-6",
+        "th_status": 404,
+        "en_status": 500,
+        "counted_current": false,
+        "note": "Present in official sitemap, absent root catalog. Current direct requests failed. Cached search content cannot override live status."
+      },
+      {
+        "slug": "life-super-save-14-5",
+        "th_status": 404,
+        "en_status": 500,
+        "counted_current": false,
+        "note": "Present in official sitemap, absent root catalog. Current direct requests failed. Cached search content cannot override live status."
+      },
+      {
+        "slug": "ultimate-growth",
+        "th_status": 404,
+        "en_status": 500,
+        "counted_current": false,
+        "note": "Present in official sitemap, absent root catalog. Current direct requests failed. Cached search content cannot override live status."
+      },
+      {
+        "slug": "bumnan-ready",
+        "th_status": 404,
+        "en_status": 500,
+        "counted_current": false,
+        "note": "Present in official sitemap, absent root catalog. Current direct requests failed. Cached search content cannot override live status."
+      }
+    ],
+    "bank_channel": {
+      "status": "blocked_403_stop_origin",
+      "origin": "https://krungthai.com",
+      "checked_urls": [
+        "https://krungthai.com/th/personal/insurance/life-insurance",
+        "https://krungthai.com/th/personal/insurance/life-insurance/retirement/618"
+      ],
+      "discovery_only_product": "WealthReady 99/5",
+      "counted_current": false,
+      "note": "Search result pre-dating live fetch identifies Krungthai-AXA Life issuer; both direct public requests 403. No origin retry or bypass, no claim of complete bank catalog. wealth.krungthai.com public promotion shell 200, but JS content not independently verified; excluded."
+    },
+    "download_centers": [
+      {
+        "url": "https://www.krungthai-axa.co.th/th/customer-service/download",
+        "status": 200,
+        "conclusion": "Investment performance reports, not full policy wordings"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/customer-service/download/general-form",
+        "status": 200,
+        "conclusion": "Generic servicing, investment-risk, claims, and change forms; no specifically named 29-root-product wording found"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/customer-service/download/report-policy",
+        "status": 200,
+        "conclusion": "Annual participating-policy investment notices; path name is not evidence of policy wordings"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/policy-information",
+        "status": 200,
+        "conclusion": "Personal policy services via Emma; not an open wording library"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/distribution/application-form",
+        "status": 200,
+        "conclusion": "Public application-form category page, with dynamically loaded form categories"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/customer-service/download",
+        "status": 200,
+        "conclusion": "Investment performance reports, not full policy wordings"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/customer-service/download/general-form",
+        "status": 200,
+        "conclusion": "Generic servicing, investment-risk, claims, and change forms; no specifically named 29-root-product wording found"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/customer-service/download/report-policy",
+        "status": 200,
+        "conclusion": "Annual participating-policy investment notices; path name is not evidence of policy wordings"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/policy-information",
+        "status": 200,
+        "conclusion": "Personal policy services via Emma; not an open wording library"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/distribution/application-form",
+        "status": 200,
+        "conclusion": "Public application-form category page, with dynamically loaded form categories"
+      }
+    ],
+    "private_boundaries": [
+      "Distributor AdvisorZone/iPro/G-Biz/DMS links not entered",
+      "Emma personal e-Policy/download workflows not entered; no identity or policy numbers supplied",
+      "No public document bytes downloaded by this subagent; only public HTML/JS/JSON evidence",
+      "No API keys, login, CAPTCHA, forms, outreach, or purchases used"
+    ],
+    "individual_application_forms_check": {
+      "source_page": "https://www.krungthai-axa.co.th/th/distribution/application-form",
+      "public_category_id": "aRWX3hEAACwAmWOb",
+      "public_json": "public-component-uid-1763023205012-3.json",
+      "named_root_product_wordings_found": 0,
+      "result": "18 generic application/consent/risk/customer-vulnerability forms; no specific 29-root-product wordings. Not downloaded."
+    },
+    "super_save_16_5_th_brochure_gap": {
+      "source_page": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/krungthai-super-save-16-5",
+      "status": "parent_reported_invalid_blob_link_no_public_download_center_replacement_found",
+      "note": "Three exact official-domain web searches found only the main page; no filename/path was guessed."
+    }
+  },
+  "methodology": {
+    "root_scope": "All rendered relative-link product cards from TH and EN root; not only search-engine results. Each of 29 TH and 29 EN card targets requested; language-switch alternatives also retained.",
+    "public_dynamic_group_components": "Used exact linked public component IDs and the same non-authenticated public read pattern shipped in official client JavaScript; no API keys/private endpoints.",
+    "documents": "Original response bytes saved unchanged, SHA256 and byte length measured; native PDF metadata/text permissions respected. No OCR, unlocking, print bypass, authentication, CAPTCHA, purchases, or outreach.",
+    "dates": "Source publication dates unknown unless explicitly established; all are null here. Issue/as-of footer text stored separately, never treated as policy effective dates.",
+    "counts": "Root cards, canonical products, locale records, subordinate plans/riders, unique URLs, and unique hashes are separately counted. No existing index totals or live site modified."
+  },
+  "additional_http_checks": {
+    "fetches.json": [
+      {
+        "url": "https://www.krungthai-axa.co.th/robots.txt",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/robots.txt",
+        "bytes": 144,
+        "sha256": "06acbb89d9db1794a9a223ab59e8e5d3aef3a7e52dd9ed1c4457ea2477b2afbb"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/sitemap.xml",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/sitemap.xml",
+        "bytes": 43882,
+        "sha256": "84b4e734ad20d1166106587dcca486ee73defee365aba4284c8efb9125504f1b"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/distribution",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/th/distribution",
+        "bytes": 85800,
+        "sha256": "054596bdeb4dfb3645ad44b55cd0122a13bf70825f598741c49d62d902dbdaa6"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/th/",
+        "bytes": 98388,
+        "sha256": "df39b12d59d3d2dd52d96dcae9a622a31236924d656a118bb681fb040e1d0a59"
+      }
+    ],
+    "extra-fetches.json": [
+      {
+        "url": "https://www.krungthai-axa.co.th/th/group-insurance",
+        "checked_at_utc": "2026-10-27T09:44:32.801919+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/th/group-insurance",
+        "bytes": 46522,
+        "sha256": "b052f158f3cf570c86697e36e22bf9de54f25f92d04375fe9554644fd15fb986"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/group-insurance/group-package",
+        "checked_at_utc": "2026-10-27T09:44:32.802589+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/group-insurance/group-package/pa-package",
+        "checked_at_utc": "2026-10-27T09:44:32.803015+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/group-insurance/group-package/health-package",
+        "checked_at_utc": "2026-10-27T09:44:32.803409+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/group-insurance/group-tailor-made/tailor-made",
+        "checked_at_utc": "2026-10-27T09:44:37.438526+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/group-insurance/group-credit-life/credit-life",
+        "checked_at_utc": "2026-10-27T09:44:37.741847+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/global-index-16-6",
+        "checked_at_utc": "2026-10-27T09:44:38.233971+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/life-super-save-14-5",
+        "checked_at_utc": "2026-10-27T09:44:39.212122+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/products/life-accident-and-critical-insurance/ultimate-growth",
+        "checked_at_utc": "2026-10-27T09:44:41.898380+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/products/saving-for-retirement/bumnan-ready",
+        "checked_at_utc": "2026-10-27T09:44:41.913133+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/group-insurance",
+        "checked_at_utc": "2026-10-27T09:44:41.921960+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/en/group-insurance",
+        "bytes": 46171,
+        "sha256": "fc27c68485dd5ce92656ea08ada004a5adb5640ce3bdfb5b1a03c649f85a9c14"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/group-insurance/group-package",
+        "checked_at_utc": "2026-10-27T09:44:41.994200+00:00",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/group-insurance/group-package/pa-package",
+        "checked_at_utc": "2026-10-27T09:44:46.278438+00:00",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/group-insurance/group-package/health-package",
+        "checked_at_utc": "2026-10-27T09:44:46.422541+00:00",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/group-insurance/group-tailor-made/tailor-made",
+        "checked_at_utc": "2026-10-27T09:44:48.032323+00:00",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/group-insurance/group-credit-life/credit-life",
+        "checked_at_utc": "2026-10-27T09:44:48.643274+00:00",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/global-index-16-6",
+        "checked_at_utc": "2026-10-27T09:44:50.269135+00:00",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/life-super-save-14-5",
+        "checked_at_utc": "2026-10-27T09:44:50.289836+00:00",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/products/life-accident-and-critical-insurance/ultimate-growth",
+        "checked_at_utc": "2026-10-27T09:44:50.290437+00:00",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/products/saving-for-retirement/bumnan-ready",
+        "checked_at_utc": "2026-10-27T09:44:54.021978+00:00",
+        "error": "HTTP Error 500: Internal Server Error"
+      }
+    ],
+    "extra2-fetches.json": [
+      {
+        "url": "https://www.krungthai-axa.co.th/th/group-insurance/pa-package",
+        "checked_at_utc": "2026-10-27T09:44:49.012873+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/th/group-insurance/pa-package",
+        "bytes": 88693,
+        "sha256": "be70836c464747bfe640f7ffb57b24824bc8af813cb8f2868c30d15e2f5f290e"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/group-insurance/health-package",
+        "checked_at_utc": "2026-10-27T09:44:49.013470+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/th/group-insurance/health-package",
+        "bytes": 110441,
+        "sha256": "b0fe2d5ecba81855fcfe92738234f3449d6799da0d6944dc9d60effaa0fe5480"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/group-insurance/tailor-made",
+        "checked_at_utc": "2026-10-27T09:44:49.013934+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/th/group-insurance/tailor-made",
+        "bytes": 46278,
+        "sha256": "b321690ce19a43f5825614dfdfc904016b02b93de819b038bd03d496afbdec0f"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/group-insurance/credit-life",
+        "checked_at_utc": "2026-10-27T09:44:49.014370+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/th/group-insurance/credit-life",
+        "bytes": 44429,
+        "sha256": "32546b0f54ddf222e2156ed689e7d82776e4a34c28ecfc2a23ae56737f207370"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/group-insurance/pa-package",
+        "checked_at_utc": "2026-10-27T09:44:55.814477+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/en/group-insurance/pa-package",
+        "bytes": 85481,
+        "sha256": "c9834ca7c669eaf04cc152f50cfce1d276a05b368758b4544380d1acdf7234df"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/group-insurance/health-package",
+        "checked_at_utc": "2026-10-27T09:44:55.878516+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/en/group-insurance/health-package",
+        "bytes": 109378,
+        "sha256": "f6b66574bf1ba87fd50c344593dd36f4b90f179dedb6c53deaa0b767b1133128"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/group-insurance/tailor-made",
+        "checked_at_utc": "2026-10-27T09:44:56.070377+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/en/group-insurance/tailor-made",
+        "bytes": 45935,
+        "sha256": "a851da022fdb7591389cc284637425161598c1146029c9980369b1efb7ccd0c8"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/group-insurance/credit-life",
+        "checked_at_utc": "2026-10-27T09:44:56.094769+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/en/group-insurance/credit-life",
+        "bytes": 43370,
+        "sha256": "ff92cb0a9ce03717e1e37515da83420a0f941cb544f08447e916dba361e6ac40"
+      },
+      {
+        "url": "https://krungthai.com/th/personal/insurance/life-insurance",
+        "checked_at_utc": "2026-10-27T09:45:03.302216+00:00",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://wealth.krungthai.com/event/detail/121",
+        "checked_at_utc": "2026-10-27T09:45:03.386315+00:00",
+        "status": 200,
+        "final_url": "https://wealth.krungthai.com/event/detail/121",
+        "bytes": 3595,
+        "sha256": "d4789b9f1b9ff5ee7d0f8a36887e0ef40bd4674b9276b674cfb65775d2644b26"
+      },
+      {
+        "url": "https://krungthai.com/th/personal/insurance/life-insurance/retirement/618",
+        "checked_at_utc": "2026-10-27T09:45:03.402463+00:00",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "download-center-fetches.json": [
+      {
+        "url": "https://www.krungthai-axa.co.th/th/customer-service/download",
+        "checked_at_utc": "2026-10-27T09:47:17.406574+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/th/customer-service/download",
+        "bytes": 277488,
+        "sha256": "ffb7d21c7f5d1931ee3fbb664136cad6b82b71513fa744d627eebe119bc80403"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/customer-service/download/general-form",
+        "checked_at_utc": "2026-10-27T09:47:17.407082+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/th/customer-service/download/general-form",
+        "bytes": 359058,
+        "sha256": "a6cacc7f000d9378163b7c4a7e6a691cca8c6d0793272978a2cd5b311ba77915"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/customer-service/download/report-policy",
+        "checked_at_utc": "2026-10-27T09:47:17.407647+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/th/customer-service/download/report-policy",
+        "bytes": 277624,
+        "sha256": "8f23a9cc02a22490e07ad9bc378033dfc00457d6808ce62e838565d03d0343ca"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/policy-information",
+        "checked_at_utc": "2026-10-27T09:47:17.408056+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/th/policy-information",
+        "bytes": 59899,
+        "sha256": "7061df3bf9d3f215423695fd51ad7184ea969afde1d5ba26c6fac11798ec6513"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/th/distribution/application-form",
+        "checked_at_utc": "2026-10-27T09:47:22.262369+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/th/distribution/application-form",
+        "bytes": 77386,
+        "sha256": "5f3244b2f64f00c23b7d561ea744d723d6318ed82ff393cedf234926419163cb"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/customer-service/download",
+        "checked_at_utc": "2026-10-27T09:47:24.605812+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/en/customer-service/download",
+        "bytes": 275936,
+        "sha256": "d08501aedad39683bf9c84202ed2ebf392f5fe4d66e8047718c67e3127da8406"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/customer-service/download/general-form",
+        "checked_at_utc": "2026-10-27T09:47:24.643431+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/en/customer-service/download/general-form",
+        "bytes": 358718,
+        "sha256": "8d5b002cfd34f841f44289ae40dcd113a9ccc80f6714d8bd43669a2e88b8f881"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/customer-service/download/report-policy",
+        "checked_at_utc": "2026-10-27T09:47:24.730664+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/en/customer-service/download/report-policy",
+        "bytes": 276072,
+        "sha256": "90f97979c4bd554df347fbf6afd6e6725d73ca0221b204d29d92b19a465a24d6"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/policy-information",
+        "checked_at_utc": "2026-10-27T09:47:27.530494+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/en/policy-information",
+        "bytes": 56495,
+        "sha256": "4729f7473e84cb6515f39695338de9018ed4d77329263c58b8ce870b1acf9dc1"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/en/distribution/application-form",
+        "checked_at_utc": "2026-10-27T09:47:27.674562+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/en/distribution/application-form",
+        "bytes": 77076,
+        "sha256": "09ed00a49d09ac1fe6d5bdd866c3e41a46d52648047bc9e58387c94b878b8c38"
+      },
+      {
+        "url": "https://www.krungthai-axa.co.th/_next/static/chunks/4022-f06be9ebd667a498.js",
+        "checked_at_utc": "2026-10-27T09:47:27.825064+00:00",
+        "status": 200,
+        "final_url": "https://www.krungthai-axa.co.th/_next/static/chunks/4022-f06be9ebd667a498.js",
+        "bytes": 1019243,
+        "sha256": "0fc5ad145ce37d41fbb18d20b51b0c8f1cff33ca1a12a463aa51a3ad687540c3"
+      }
+    ],
+    "public-component-checks.json": [
+      {
+        "id": "aRW2VhEAACwAmZ-H",
+        "uid": "total-and-permanent-disability",
+        "parent_page": "https://www.krungthai-axa.co.th/th/group-insurance/tailor-made",
+        "kind": "group_product_component",
+        "api_url": "https://thailandgi-ktaxa.cdn.prismic.io/api/v2/documents/search?ref=auBRXhEAAC0AAQYE&q=%5B%5Bat%28document.id%2C%22aRW2VhEAACwAmZ-H%22%29%5D%5D",
+        "query_language": "*",
+        "retrieval_evidence": "Public website JS module 3413 d2 performs document.id query with lang=*",
+        "checked_at_utc": "2026-10-27T09:50:45.328851+00:00",
+        "status": 200,
+        "bytes": 23973,
+        "sha256": "4f561437bb5bf298128d3d83b8656b3696003df0fdcfd8ec2e99340e1d71cb08",
+        "actual_request_url": "https://thailandgi-ktaxa.cdn.prismic.io/api/v2/documents/search?ref=auBRXhEAAC0AAQYE&q=%5B%5Bat%28document.id%2C%22aRW2VhEAACwAmZ-H%22%29%5D%5D&lang=*",
+        "results_size": 1
+      },
+      {
+        "id": "aRW2lxEAACEAgBYL",
+        "uid": "accident-protection1",
+        "parent_page": "https://www.krungthai-axa.co.th/th/group-insurance/tailor-made",
+        "kind": "group_product_component",
+        "api_url": "https://thailandgi-ktaxa.cdn.prismic.io/api/v2/documents/search?ref=auBRXhEAAC0AAQYE&q=%5B%5Bat%28document.id%2C%22aRW2lxEAACEAgBYL%22%29%5D%5D",
+        "query_language": "*",
+        "retrieval_evidence": "Public website JS module 3413 d2 performs document.id query with lang=*",
+        "checked_at_utc": "2026-10-27T09:50:45.329405+00:00",
+        "status": 200,
+        "bytes": 26408,
+        "sha256": "fadd8ff14687c038a0883c2fa98f1db391606574802e3998a6a11e3011cda02e",
+        "actual_request_url": "https://thailandgi-ktaxa.cdn.prismic.io/api/v2/documents/search?ref=auBRXhEAAC0AAQYE&q=%5B%5Bat%28document.id%2C%22aRW2lxEAACEAgBYL%22%29%5D%5D&lang=*",
+        "results_size": 1
+      },
+      {
+        "id": "aRW2fxEAACEAgBXX",
+        "uid": "additional-insurance-contract1",
+        "parent_page": "https://www.krungthai-axa.co.th/th/group-insurance/tailor-made",
+        "kind": "group_product_component",
+        "api_url": "https://thailandgi-ktaxa.cdn.prismic.io/api/v2/documents/search?ref=auBRXhEAAC0AAQYE&q=%5B%5Bat%28document.id%2C%22aRW2fxEAACEAgBXX%22%29%5D%5D",
+        "query_language": "*",
+        "retrieval_evidence": "Public website JS module 3413 d2 performs document.id query with lang=*",
+        "checked_at_utc": "2026-10-27T09:50:45.330001+00:00",
+        "status": 200,
+        "bytes": 25386,
+        "sha256": "9812aa999115b72f410bb3f866990041554826edc77d969fcfb9c7f83cc5d25b",
+        "actual_request_url": "https://thailandgi-ktaxa.cdn.prismic.io/api/v2/documents/search?ref=auBRXhEAAC0AAQYE&q=%5B%5Bat%28document.id%2C%22aRW2fxEAACEAgBXX%22%29%5D%5D&lang=*",
+        "results_size": 1
+      },
+      {
+        "id": "aRW2CxEAACoAmZ7i",
+        "uid": "mrta",
+        "parent_page": "https://www.krungthai-axa.co.th/th/group-insurance/credit-life",
+        "kind": "group_product_component",
+        "api_url": "https://thailandgi-ktaxa.cdn.prismic.io/api/v2/documents/search?ref=auBRXhEAAC0AAQYE&q=%5B%5Bat%28document.id%2C%22aRW2CxEAACoAmZ7i%22%29%5D%5D",
+        "query_language": "*",
+        "retrieval_evidence": "Public website JS module 3413 d2 performs document.id query with lang=*",
+        "checked_at_utc": "2026-10-27T09:50:51.310561+00:00",
+        "status": 200,
+        "bytes": 32112,
+        "sha256": "baf45af201fc7dddd4de2edf370a068fa1657112ad93526db2be00fbc3a67170",
+        "actual_request_url": "https://thailandgi-ktaxa.cdn.prismic.io/api/v2/documents/search?ref=auBRXhEAAC0AAQYE&q=%5B%5Bat%28document.id%2C%22aRW2CxEAACoAmZ7i%22%29%5D%5D&lang=*",
+        "results_size": 1
+      },
+      {
+        "id": "aRW19xEAAC4AmZ6w",
+        "uid": "gltsp",
+        "parent_page": "https://www.krungthai-axa.co.th/th/group-insurance/credit-life",
+        "kind": "group_product_component",
+        "api_url": "https://thailandgi-ktaxa.cdn.prismic.io/api/v2/documents/search?ref=auBRXhEAAC0AAQYE&q=%5B%5Bat%28document.id%2C%22aRW19xEAAC4AmZ6w%22%29%5D%5D",
+        "query_language": "*",
+        "retrieval_evidence": "Public website JS module 3413 d2 performs document.id query with lang=*",
+        "checked_at_utc": "2026-10-27T09:50:51.358551+00:00",
+        "status": 200,
+        "bytes": 32713,
+        "sha256": "46077d69b7ca3a26358eb890f7906721018420a03a93f25c1d3bce770566da69",
+        "actual_request_url": "https://thailandgi-ktaxa.cdn.prismic.io/api/v2/documents/search?ref=auBRXhEAAC0AAQYE&q=%5B%5Bat%28document.id%2C%22aRW19xEAAC4AmZ6w%22%29%5D%5D&lang=*",
+        "results_size": 1
+      },
+      {
+        "id": "aRW2FhEAACcAmZ7_",
+        "uid": "yrt",
+        "parent_page": "https://www.krungthai-axa.co.th/th/group-insurance/credit-life",
+        "kind": "group_product_component",
+        "api_url": "https://thailandgi-ktaxa.cdn.prismic.io/api/v2/documents/search?ref=auBRXhEAAC0AAQYE&q=%5B%5Bat%28document.id%2C%22aRW2FhEAACcAmZ7_%22%29%5D%5D",
+        "query_language": "*",
+        "retrieval_evidence": "Public website JS module 3413 d2 performs document.id query with lang=*",
+        "checked_at_utc": "2026-10-27T09:50:51.498566+00:00",
+        "status": 200,
+        "bytes": 22736,
+        "sha256": "36b7675b2a273d72f0ef003bce1aec9373b1893aee46c70f2689d4acfabd1ebf",
+        "actual_request_url": "https://thailandgi-ktaxa.cdn.prismic.io/api/v2/documents/search?ref=auBRXhEAAC0AAQYE&q=%5B%5Bat%28document.id%2C%22aRW2FhEAACcAmZ7_%22%29%5D%5D&lang=*",
+        "results_size": 1
+      },
+      {
+        "id": "aRWX3hEAACwAmWOb",
+        "uid": "uid-1763023205012-3",
+        "parent_page": "https://www.krungthai-axa.co.th/th/distribution/application-form",
+        "kind": "individual_application_forms",
+        "api_url": "https://thailandgi-ktaxa.cdn.prismic.io/api/v2/documents/search?ref=auBRXhEAAC0AAQYE&q=%5B%5Bat%28document.id%2C%22aRWX3hEAACwAmWOb%22%29%5D%5D",
+        "query_language": "*",
+        "retrieval_evidence": "Public website JS module 3413 d2 performs document.id query with lang=*",
+        "checked_at_utc": "2026-10-27T09:50:55.170693+00:00",
+        "status": 200,
+        "bytes": 22373,
+        "sha256": "80baf6614848d2d56df55c7407b84fe3f48a1752b9827e47ef664e061cdca575",
+        "actual_request_url": "https://thailandgi-ktaxa.cdn.prismic.io/api/v2/documents/search?ref=auBRXhEAAC0AAQYE&q=%5B%5Bat%28document.id%2C%22aRWX3hEAACwAmWOb%22%29%5D%5D&lang=*",
+        "results_size": 1
+      }
+    ]
+  },
+  "completeness_crosschecks": {
+    "all_rendered_root_cards": {
+      "th": 29,
+      "en": 29
+    },
+    "all_12_th_en_category_pages_checked": true,
+    "additional_current_cards_in_categories_not_in_root": 0,
+    "individual_locale_slice_pdf_references_not_in_anchor_inventory": 0,
+    "public_root_embedded_wealthready_995_object": "Not rendered as named current root card; not counted. Bank-current-sales check blocked by 403.",
+    "group_link_label_classifications": "Initial labels retained as source evidence; final documents.jsonl uses native/visual content refinement.",
+    "limitations": "No private portal, individually issued policy, historical/closed SKU, or all configurable plan/premium combinations claimed."
+  },
+  "final_qa": {
+    "checked_date": "2026-10-27",
+    "result": "pass",
+    "root_cards_th": 29,
+    "root_cards_en": 29,
+    "product_locale_records": 86,
+    "unique_document_urls": 100,
+    "original_files_sha256_and_bytes_reverified": 98,
+    "unique_sha256": 85,
+    "originals_inside_metadata_directory": 0,
+    "known_internal_ihealthy_downloaded": false,
+    "full_policy_wordings_verified": 0,
+    "primary_verified_documents_added": 0,
+    "raw_rehosting_authorized": false,
+    "source_scope_not_thailand_market_census": true,
+    "private_filesystem_paths_in_payload": 0,
+    "held_direct_download_urls_in_public_payload": 0
+  },
+  "publication_payload_note": "Only metadata and official URLs. Private evidence provenance can be reconciled by URL, document ID, SHA256 and byte length; local paths and document body excerpts omitted. Direct raw-download locators for all 7 HOLD records are also withheld; document IDs, source product pages, hashes, sizes and reasons remain."
+}
