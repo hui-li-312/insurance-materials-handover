@@ -99,3 +99,9 @@ SAMPLE／示范件仍可以是真正的主保单条款，不等于宣传册；�
 - [VN v2](2026-10-27/batch-6/vn/README.md)：933 条混合观察，其中 368 条仅资料语境，非独立产品；1,997 条关联、1,696 个源唯一引用／1,695 个公开唯一 URL、1 个 HOLD。1,335 条 source-only 材料记录保留在源文件，不伪造产品卡片；历史 60 个身份候选不重复加入产品数量。Cathay 14 条详情观察仍有目录计数差异；嵌入 PDF 重复不新增原件。
 
 本次只接受固定 66 个已独立复核的元数据文件。源 README 中的 pending 等词为冻结时点原文；本批入口记录准入范围，不修改历史源字节。该源码候选合计 4,636 条混合来源观察 / 24 feeds，不是产品数量。原 2,360 条目录、4,713 份原件、426 份严格核验保持不变。日期未知保持 null；适用日期、更新日期、版本标签不变成发布日期。隐藏样式并非隐私限制，非 HOLD 的安全候选 URL 保留。未包括新四区 v7a、后续 TH/Hong Leong/Bowtie/Blue Cross/GE 或任何原件。
+
+## 第八批：Prudential Singapore 与 AIA Philippines 来源目录
+
+[固定 v3 来源](2026-10-27/batch-8/prudential-sg/README.md) 新增 128 条混合观察；49 张卡及 69 条文档索引不另计行。Care Secure 为 Income 承保、Prudential 分销，采集归属 Prudential，不视为 Income 自有目录完成。74 个父关联不继承材料；46 处 information-as-of 只为来源信息时点，非发布／合同生效日期。完整整合边界与本地验证见 [REGIONAL_REFRESH_BATCH8.md](../docs/REGIONAL_REFRESH_BATCH8.md)。本地候选共 4,986 条混合观察 / 26 feeds，不增加正式原件或核验 SKU，未部署。
+
+[AIA Philippines v4 固定源](2026-10-27/batch-8/aia-ph/README.md) 追加 56 条来源公司语境，43 个父关联不模糊合并。11 个宣传册标签目标未暴露，URL null 不等于 HOLD。30 次 web 操作是 29 个不同请求 URL、29 个文本捕获加一次缓存缺失，不是 HTTP 数。9 处目录壳缺口保留；文本行补读闭合不等于动态官网／全市场完成，全部合同承保人未核。

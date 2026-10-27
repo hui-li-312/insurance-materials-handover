@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "compiled_at": "2026-10-27T18:09:36.041296+00:00",
+  "compiled_at": "2026-10-27T18:30:50Z",
   "status": "in_progress_not_all_market_complete",
   "formal_original_baseline": 4713,
   "new_formal_original_credit": 0,
@@ -253,8 +253,56 @@
       "unit": "offering_family_coverage_rider_package_and_resource_contexts_not_unique_products",
       "aggregation_notice": "Supersedes VN identity/status context in the older regional queue, not an additional 60 issuer/product rows. No fuzzy alias merge, source-only material rows or embedded PDF duplicates become new products/originals.",
       "identity_context_supersedes": "2026-10-27/batch-5/bn-kh-la-mm/ (VN context only; BN/KH/LA/MM unchanged)"
+    },
+    {
+      "id": "prudential_sg_catalog",
+      "path": "2026-10-27/batch-8/prudential-sg/",
+      "regions": [
+        "SG"
+      ],
+      "source_observations": 128,
+      "unit": "source_scoped_catalog_observations_not_unique_contracts_or_SKUs",
+      "source_material_occurrences": 75,
+      "source_unique_material_urls": 69,
+      "renderer_card_rows_nonadditive": 49,
+      "document_index_rows_nonadditive": 69,
+      "source_publisher": "Prudential Assurance Company Singapore (Pte) Limited",
+      "catalog_coverage_owner_issuer_id": "SG-own-40bf6a1dd276af06",
+      "source_origin_scope": "Selected English retail and enterprise public Prudential HTML frontier and exact anonymous public selector models only; not all channels or Income own-site catalog.",
+      "whole_issuer_catalog_closed": false,
+      "PDF_requests": 0,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "accepted_source_manifest_sha256": "ee8dbe85db33150042fe8919dede049fa972c37e7c4602796b80dcfbe2c0d5e2",
+      "aggregation_notice": "128 observations added once; 49 selector cards and 69 document-index records are non-additive provenance. Care Secure is Income-underwritten and Prudential-distributed, not Prudential-underwritten or Income own-catalog closure."
+    },
+    {
+      "id": "aia_ph_source_catalog",
+      "path": "2026-10-27/batch-8/aia-ph/",
+      "regions": [
+        "PH"
+      ],
+      "source_observations": 56,
+      "unit": "source_company_named_observations_not_distinct_policy_contracts_or_SKUs",
+      "source_material_mentions": 11,
+      "resolved_material_URLs": 0,
+      "source_company_brand": "AIA Philippines",
+      "source_origin_scope": "Only exact AIA Philippines public crawled-text source frontier. Own brand, roster association and product-contract underwriter remain separate; not AIA Thailand or BPI AIA.",
+      "whole_issuer_catalog_closed": false,
+      "public_web_tool_operations": 30,
+      "unique_requested_web_urls": 29,
+      "source_text_captures": 29,
+      "web_cache_miss_gaps": 1,
+      "catalog_shell_gaps": 9,
+      "underlying_HTTP_requests": null,
+      "source_snapshot_at": "2026-10-27T18:20:31.247477+00:00",
+      "qa_revision_at": "2026-10-27T18:29:02.792313+00:00",
+      "accepted_source_manifest_sha256": "fb28d1e5df7645985da5b7f890071c5c6a79b6abc9cbcd3417b5b543ac562ad4",
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "aggregation_notice": "56 rows added once; 11 brochure-label mentions join exact product IDs and retain null unresolved URLs, not HOLD. Source text operations are not HTTP request counts or product counts."
     }
   ],
   "public_projection_rule": "Known historical or already-held raw locators are withheld; observed source-reference counts are not the count of exposed download URLs. No current-file confidentiality finding or fresh-byte verification is inferred.",
-  "last_projection_correction": "Batch 7: approved v7c cumulative four-region metadata replaces 706 with 872. Fortune Khmer title/og:title corrections and seven CVI source-only label/role clarifications retained. C4 frozen at 2026-10-27T16:11:11.532978+00:00; VN933 and other feeds unchanged."
+  "last_projection_correction": "Batch 8: exact Prudential Singapore v3 (128 observations) and AIA Philippines v4 (56 observations) added once with explicit source ownership, legal-underwriter uncertainty, scoped dates, components, unresolved targets and crawl-origin boundaries. Existing feeds and original/formal/verified credit unchanged."
 }
