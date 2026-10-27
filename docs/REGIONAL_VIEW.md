@@ -4,11 +4,15 @@
 
 这是既有保险产品资料库的**已发布的补采视图**，不是新网站，不是新闻页。沿用现有蓝白色设计、响应式布局和无依赖静态架构，提供 `coverage.html` 独立入口：地区 → 来源机构／品牌 → 观察条目 → 材料引用。原首页只加导航；原目录、旧审计视图和 25 个其余原运行文件不变。
 
-对应既有 Site：`appgprj_6ad9e50081d881919e1b20b3843c8426`。Site 128–133 均保留历史记录；第十批于 **2026-10-27 20:32:24 UTC 成功部署为 Site 134**，保持原公开受众。当前 **30 个来源 feed 描述符（26 个贡献显示行）／5,502 条混合观察**，不是独立产品或当前在售 SKU。旧 2,360／4,713／426 基线不变，新增正式原件／核验 SKU 为 0。证据见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)；公开源码不赋予原站部署权限。
+对应既有 Site：`appgprj_6ad9e50081d881919e1b20b3843c8426`。Site 128–134 均保留历史记录；第十一批于 **2026-10-27 21:30:50 UTC 成功部署为 Site 135**，保持原公开受众。当前 **35 个来源 feed 描述符（31 个贡献显示行）／5,720 条混合观察**，不是独立产品或当前在售 SKU。旧 2,360／4,713／426 基线不变，新增正式原件／核验 SKU 为 0。证据见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)；公开源码不赋予原站部署权限。
 
-以下输入、计数表与测试条目记录首版模型；第五至十批来源规则与历史边界分别见 [第五批](REGIONAL_REFRESH_BATCH5.md)、[第六批](REGIONAL_REFRESH_BATCH6.md)、[第七批](REGIONAL_REFRESH_BATCH7.md)、[第八批](REGIONAL_REFRESH_BATCH8.md)、[第九批](REGIONAL_REFRESH_BATCH9.md)、[第十批](REGIONAL_REFRESH_BATCH10.md)，当前 active 输入见 [LATEST.json](../coverage/LATEST.json)。候选说明保留发布前时点，不以历史的未部署／未做浏览器检查措辞覆盖当前机器记录。
+以下输入、计数表与测试条目记录首版模型；第五至十一批来源规则与历史边界分别见 [第五批](REGIONAL_REFRESH_BATCH5.md)、[第六批](REGIONAL_REFRESH_BATCH6.md)、[第七批](REGIONAL_REFRESH_BATCH7.md)、[第八批](REGIONAL_REFRESH_BATCH8.md)、[第九批](REGIONAL_REFRESH_BATCH9.md)、[第十批](REGIONAL_REFRESH_BATCH10.md)、[第十一批](REGIONAL_REFRESH_BATCH11.md)，当前 active 输入见 [LATEST.json](../coverage/LATEST.json)。候选说明保留发布前时点，不以历史的未部署／未做浏览器检查措辞覆盖当前机器记录。
 
-当前 17,188 次文件材料引用中，普通材料区 17,143 次、隐藏候选 45 次；17,107 次公开 URL 出现。81 个 null 仍为 69 HOLD、11 普通未解决目标、1 既存无效非 HTTP 引用。227 次未审图片引用／183 URL 另列且不增加文件或合同信用。
+当前 17,370 次文件材料引用中，普通材料区 17,325 次、隐藏候选 45 次；17,289 次公开 URL 出现。81 个 null 仍为 69 HOLD、11 普通未解决目标、1 既存无效非 HTTP 引用。227 次未审图片引用／183 URL 另列且不增加文件或合同信用。
+
+第十一批新增菲律宾三来源 141 条（MCBL 24、BPI AIA 45、Pru Life PH 72）及印尼两来源 77 条类型观察。所有新增实际合同承保主体仍未核；印尼一条 issued-by 仅是网页发行声明，不是 underwritten-by。共享页面、变体、附加险与内置保障不合并为独立合同，也不继承父材料；MCBL 与 Manulife Philippines、BPI AIA 与 AIA Philippines 及分销银行保持区分。
+
+新增 182 次材料引用均未审正文，印尼 135 次引用对应 134 URL／144 页面关联，不是已下载文件。Nura Care 范围冲突、Term Life／Inspire 标签疑点、共享 RIPLAY、Optima 多路径及菲律宾目录壳／详情缺口保留。Generali 42 条语言队列为 1 次工具报告 403、41 条未请求、0 成功新页，原站 HTTP 状态未知；不影响 AIA，也不改写旧冻结记录。
 
 AIA 柬埔寨既有 91 页文件含基本／主保单条款、健康附加险及服务条款：91 页视觉查看、41 页英文 OCR／语义审读，不等于高棉文逐条法律翻译、双语等同性、全文安全审查或当前完整签发包核验。旧材料 ID／SHA 精确绑定；冻结来源分类、C4 状态和采集时间不改写，不新增原件或产品。
 
@@ -86,4 +90,4 @@ npm start
 
 最终候选另做离线已知 held-locator 校验；私有注册表和匹配定位符不在仓库输出中。校验通过只证明未暴露已知禁发定位符，不等于所有未知文件的权利／隐私已获批准。
 
-Site 129–133 的桌面抽样检查保留为各版历史，不自动适用于第十批。Site 134 已完成 20 组限定生产桌面抽样检查（1180×757，DPR 1），覆盖材料审读层、主体证据、父子导航、Back/Forward、HOLD／未解决／隐藏候选回归及桌面显示。不是逐条、外部 PDF 或移动端验收；触屏、实机及本轮旧首页交互未测。机器结果见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。
+Site 129–134 的桌面抽样检查保留为各版历史，不自动适用于第十一批。Site 135 的 22 组限定生产桌面检查通过（1180×757，DPR 1），另复现 1 个非阻断交互问题：输入搜索后立即切换机构，可能丢失尚未提交的搜索词；本版尚未修复。已观察的对照中，等待输入稳定再切换可保留搜索。不是逐条、外部 PDF 或移动端验收；触屏、实机、其他视口及本轮旧首页交互未测。机器结果见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。
