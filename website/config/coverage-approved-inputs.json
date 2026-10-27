@@ -880,6 +880,16 @@
     "sha256": "5385b0f8dcbeefdcfaba653f1e77c74d580f42560ad002f5be7e0e627f937d41"
   },
   {
+    "path": "coverage/2026-10-27/batch-13/great-eastern-source-label-review/manifest.json",
+    "bytes": 305,
+    "sha256": "272fd2400494d01e66df84293530cb23e46e12964f91c1eeb4603b01f07f4bf4"
+  },
+  {
+    "path": "coverage/2026-10-27/batch-13/great-eastern-source-label-review/material-role-reviews.json",
+    "bytes": 58408,
+    "sha256": "b4f0efc260bf200681b1c79109be1fc300e8f1dc8842078c6be53ff1428467af"
+  },
+  {
     "path": "coverage/2026-10-27/batch-2/bn-kh/README.md",
     "bytes": 7258,
     "sha256": "6985e84c1762923448617920021a2d1aefbaa42145487f49808c642122267fe7"
