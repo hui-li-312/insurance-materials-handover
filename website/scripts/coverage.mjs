@@ -54,22 +54,40 @@ export function buildCoverage(){
  const regionalPredecessor='coverage/2026-10-27/batch-2/bn-kh/products.jsonl';
  const regionalPrevious=new Map(lines(regionalPredecessor).map(c=>[c.row.inventory_id,{id:`obs-${sha(`${c.path}:${c.line}`).slice(0,20)}`,name:c.row.official_name,region:c.row.region}]));
  assert.equal(regionalPrevious.size,428);
+ const regionalBatch5Path='coverage/2026-10-27/batch-5/bn-kh-la-mm/products.jsonl';
+ const regionalBatch5=new Map(lines(regionalBatch5Path).map(c=>[c.row.inventory_id,c.row]));
+ assert.equal(regionalBatch5.size,706);
+ let regionalBatch5Retained=0;
  let regionalRetained=0;
  add('bn_kh_catalog_and_regional_queues',['products.jsonl'],(r,c)=>{
   assert(typeof r.inventory_id==='string','Regional stable source identity missing');
-  const converted=r.materials.map((m,i)=>{const output=material(m,i,m.document_role,{sourceUrl:m.source_page_url||r.url});Object.assign(output.facts,facts(m,['association_scope','document_role_basis','source_visibility_status','source_visibility_evidence','visible_product_material_credit','current_visible_offer_status','visibility_privacy_interpretation','target_origin_approval','target_access_status','role_conflict','applicable_product_match','current_bytes_status','reuse_review_status','withholding_reason','public_direct_locator_status','contract_content_verified','additional_source_page_urls','source_page_urls']));return output;});
+  const converted=r.materials.map((m,i)=>{const output=material(m,i,m.document_role,{sourceUrl:m.source_page_url||r.url});Object.assign(output.facts,facts(m,['association_scope','document_role_basis','source_visibility_status','source_visibility_evidence','visible_product_material_credit','current_visible_offer_status','visibility_privacy_interpretation','target_origin_approval','target_access_status','role_conflict','applicable_product_match','current_bytes_status','reuse_review_status','withholding_reason','public_direct_locator_status','contract_content_verified','additional_source_page_urls','source_page_urls','observed_labels','context_heading','preliminary_or_specimen_status','final_current_wording_status','product_association_status','version_relationship_status','current_issued_contract_applicability','full_content_safety_review_complete','acquisition_status_as_of','acquisition_status']));return output;});
   const visible=converted.filter((m,i)=>r.materials[i].source_visibility_status!=='hidden_source_markup_inline_display_none');
   const hidden=converted.filter((m,i)=>r.materials[i].source_visibility_status==='hidden_source_markup_inline_display_none');
   const row=observation(r,c,{region:r.region,issuer:r.legal_entity,legalIssuer:r.legal_entity,issuerId:r.issuer_id,name:r.official_name,sourceUrl:r.url,catalogUrl:r.source_urls?.[0],materials:visible});
   if(hidden.length)row.hiddenMaterials=hidden;
+  Object.assign(row.facts,facts(r,['checked_at','official_name_basis','unique_current_sku_verified','all_market_product_catalog_complete','observation_scope','same_offering_context_review','unique_sku_status','language_variant_of_observed_same_route','issuer_mapping_basis','parent_inventory_ids','source_role','issuer_origin_access_status','related_contexts','unique_current_sku_credit','same_observed_name_contexts','observed_plan_variants','observed_risk_classifications_not_products','observed_resource_sections','relationship_note','language']));
+  const batch5=regionalBatch5.get(r.inventory_id);
+  if(batch5){
+   for(const key of ['official_name','region','role','url','source_date','checked_at'])assert.deepEqual(r[key],batch5[key],`Prior regional field changed: ${key}`);
+   assert.equal(r.materials.length,batch5.materials.length,'Prior regional associations changed');
+   for(const [i,m]of r.materials.entries())for(const key of ['url','label','document_role','source_visibility_status'])assert.deepEqual(m[key],batch5.materials[i][key],`Prior regional material changed: ${key}`);
+   regionalBatch5Retained++;
+  }
   const previous=regionalPrevious.get(r.inventory_id);
   if(previous){assert.equal(previous.name,r.official_name);assert.equal(previous.region,r.region);row.id=previous.id;regionalRetained++;}
   else row.id=`obs-${sha(c.feed+':'+r.inventory_id).slice(0,20)}`;
   return row;
  });
  assert.equal(regionalRetained,428,'The cumulative replacement must retain all 428 predecessor identities');
+ assert.equal(regionalBatch5Retained,706,'The cumulative replacement must retain all 706 batch-5 identities');
  const regionalRows=rows.filter(r=>r.provenance.feed==='bn_kh_catalog_and_regional_queues');
- assert.equal(regionalRows.length,706);assert.equal(regionalRows.reduce((n,r)=>n+(r.hiddenMaterials?.length||0),0),16);
+ assert.equal(regionalRows.length,872);assert.equal(new Set(regionalRows.map(r=>r.sourceId)).size,872);assert.equal(regionalRows.reduce((n,r)=>n+(r.hiddenMaterials?.length||0),0),16);
+ // Source-only links stay in their approved sidecar, not invented product cards.
+ const regionalSourceOnlyPath='coverage/'+feeds.get('bn_kh_catalog_and_regional_queues').path+'source-only-material-observations.jsonl';
+ const regionalSourceOnly=lines(regionalSourceOnlyPath);assert.equal(regionalSourceOnly.length,21);
+ const regionalSummary=feedSummaries.find(f=>f.id==='bn_kh_catalog_and_regional_queues');
+ regionalSummary.files.push(regionalSourceOnlyPath);regionalSummary.sourceOnlyMaterialContexts=21;regionalSummary.sourceOnlyDisplayRows=0;
 
  function simple(r,c){return observation(r,c,{region:r.region,issuer:r.issuer,legalIssuer:r.issuer,issuerId:r.issuer_id,name:r.official_name,sourceUrl:r.url,catalogUrl:r.catalog_url,materials:r.material_links.map((m,i)=>material(m,i,m.document_type,{sourceUrl:r.url}))});}
  add('ocean_life_selected_catalog',['products.jsonl'],simple);
@@ -184,12 +202,12 @@ export function buildCoverage(){
  const initialPath='coverage/'+feeds.get('th_id_ph_initial_observations').path+'run-status.json';
  const initial=JSON.parse(read(initialPath));
  const regionContext={};
- for(const id of ['VN','BN','KH','LA','MM'])regionContext[id]={sourcePath:regionalPath,sourceCheckedAt:regional.checked_at,scope:'regional_queue_snapshot_not_market_completion',facts:facts(regional.regions[id],['census_status','product_status','issuer_catalog_status_counts']),blocks:regional.blocks.filter(b=>b.region===id).map(b=>({result:b.result,reason:b.reason}))};
+ for(const id of ['BN','KH','LA','MM'])regionContext[id]={sourcePath:regionalPath,sourceCheckedAt:regional.frozen_at,scope:'frozen_four_region_snapshot_not_current_market_completion',facts:{region:regional.regions[id],fourRegionC1:regional.C1,fourRegionC2:regional.C2,fourRegionC3:regional.C3,fourRegionC4:regional.C4},blocks:[]};
  const vnStatusPath='coverage/'+vnFeed.path+'run-status.json',vnStatus=JSON.parse(read(vnStatusPath));
  regionContext.VN={sourcePath:vnStatusPath,sourceCheckedAt:vnStatus.frozen_at,scope:'VN_finite_source_contexts_not_current_market_or_contract_completion',facts:{C1:vnStatus.C1,C2:vnStatus.C2,C3:vnStatus.C3,C4:vnStatus.C4},blocks:[]};
  for(const id of ['TH','ID','PH'])regionContext[id]={sourcePath:initialPath,sourceCheckedAt:initial.snapshot_at,scope:'initial_roster_snapshot_later_catalog_observations_are_separate',facts:facts(initial.regions[id],['whole_region_current_licensed_denominator_complete','all_products_obtained']),blocks:[]};
 
- return {schemaVersion:1,snapshot:'2026-10-27',compiledFrom:latest.compiled_at,limitations:['这是公开来源观察，不是已核验独立 SKU、当前在售清单或全市场完成证明。','目录类别、附加险、保障组件、版本、登记组及文件目录记录分别标注；不能把它们相加当作产品数。','法定承保人待核的共享品牌不分配到候选公司，不复制为多家公司产品。','材料是来源引用；被隐去的链接保持 null。链接、文件抓取、正式入库及全文核验是不同状态。','原目录 2,360 条、正式原件 4,713 份及严格核验 426 份均保持不变；本视图新增正式原件和核验 SKU 均为 0。','VHIS 最新登记不等于当前可投保；历史组、登记变体与补充资料保留原有范围。','区域累计 706 条替代旧 428 条；16 条 GGI 隐藏源码材料引用单独保留，不计可见／当前提供；候选 URL 与隐私 HOLD 分别处理。','Etiqa SG 127 条目录与 58 条材料目录只导入一次；另 29 条隐藏材料引用、1 个隐藏组件、5 条隐藏目录行不证明当前展示或在售。MY 89 条中 85 条法定承保人待核，8 条汽车相关引用不计父产品主条款。','越南 933 条观察中 368 条仅资料语境，不是独立产品；来源身份、品牌别名与当前牌照／合同承保人核验不同，不作模糊合并。Cathay 目录差异未闭合；重复嵌入 PDF 不增加原件。'],baselines:{directoryEntries:2360,formalOriginals:4713,strictVerified:426,newFormalOriginals:0,newVerifiedSkus:0},regionContext,aggregationRule:latest.aggregation_rule,publicProjectionRule:latest.public_projection_rule,feeds:feedSummaries,replacements,regions:[['HK','香港'],['SG','新加坡'],['MY','马来西亚'],['TH','泰国'],['ID','印度尼西亚'],['PH','菲律宾'],['VN','越南'],['BN','文莱'],['KH','柬埔寨'],['LA','老挝'],['MM','缅甸'],['TL','东帝汶']].map(([id,name])=>({id,name})),summary:{observationRows:rows.length,materialReferences:materials.length,displayedMaterialReferences:visibleMaterials.length,hiddenMarkupMaterialReferences:hiddenMaterials.length,exposedMaterialOccurrences:materials.filter(m=>m.url).length,withheldMaterialOccurrences:materials.filter(m=>m.urlStatus==='withheld_in_public_source').length,subordinateRegistryVariants:variantCount},sourceInputs:[...consumed.values()].sort((a,b)=>a.path.localeCompare(b.path)),observations:rows};
+ return {schemaVersion:1,snapshot:'2026-10-27',compiledFrom:latest.compiled_at,limitations:['这是公开来源观察，不是已核验独立 SKU、当前在售清单或全市场完成证明。','目录类别、附加险、保障组件、版本、登记组及文件目录记录分别标注；不能把它们相加当作产品数。','法定承保人待核的共享品牌不分配到候选公司，不复制为多家公司产品。','材料是来源引用；被隐去的链接保持 null。链接、文件抓取、正式入库及全文核验是不同状态。','原目录 2,360 条、正式原件 4,713 份及严格核验 426 份均保持不变；本视图新增正式原件和核验 SKU 均为 0。','VHIS 最新登记不等于当前可投保；历史组、登记变体与补充资料保留原有范围。','区域累计 872 条替代旧 706 条（净增 166）；21 条仅来源材料语境不增加产品行。16 条 GGI 隐藏源码材料引用单独保留，不计可见／当前提供；候选 URL 与隐私 HOLD 分别处理。','Etiqa SG 127 条目录与 58 条材料目录只导入一次；另 29 条隐藏材料引用、1 个隐藏组件、5 条隐藏目录行不证明当前展示或在售。MY 89 条中 85 条法定承保人待核，8 条汽车相关引用不计父产品主条款。','越南 933 条观察中 368 条仅资料语境，不是独立产品；来源身份、品牌别名与当前牌照／合同承保人核验不同，不作模糊合并。Cathay 目录差异未闭合；重复嵌入 PDF 不增加原件。'],baselines:{directoryEntries:2360,formalOriginals:4713,strictVerified:426,newFormalOriginals:0,newVerifiedSkus:0},regionContext,aggregationRule:latest.aggregation_rule,publicProjectionRule:latest.public_projection_rule,feeds:feedSummaries,replacements,regions:[['HK','香港'],['SG','新加坡'],['MY','马来西亚'],['TH','泰国'],['ID','印度尼西亚'],['PH','菲律宾'],['VN','越南'],['BN','文莱'],['KH','柬埔寨'],['LA','老挝'],['MM','缅甸'],['TL','东帝汶']].map(([id,name])=>({id,name})),summary:{observationRows:rows.length,materialReferences:materials.length,displayedMaterialReferences:visibleMaterials.length,hiddenMarkupMaterialReferences:hiddenMaterials.length,exposedMaterialOccurrences:materials.filter(m=>m.url).length,withheldMaterialOccurrences:materials.filter(m=>m.urlStatus==='withheld_in_public_source').length,subordinateRegistryVariants:variantCount},sourceInputs:[...consumed.values()].sort((a,b)=>a.path.localeCompare(b.path)),observations:rows};
 }
 export function serializeCoverage(payload){
  const {observations,...index}=payload;
