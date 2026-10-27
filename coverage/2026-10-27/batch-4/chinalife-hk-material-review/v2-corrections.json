@@ -1,0 +1,69 @@
+{
+  "supersedes": "chinalife-hk-intake-metadata-20261027T131512Z",
+  "network_requests_performed": 0,
+  "material_URLs_changed": 0,
+  "raw_bytes_changed": 0,
+  "metadata_records_changed": 6,
+  "corrections": [
+    {
+      "content_sha256": "e1b5f97ac16addd4e4e3feffef2cec9e432dbd3a20e27eeed25f04b977c97e02",
+      "fields_added": [
+        "document_form_status",
+        "specimen_visual_evidence"
+      ],
+      "sample_not_confidentiality_hold": true,
+      "material_url_changed": false,
+      "raw_bytes_changed": false
+    },
+    {
+      "content_sha256": "f5f165fec8059b54a1083e1f2982caee0b1e9ab594a28ec2a3b1054ce9894605",
+      "fields_added": [
+        "document_form_status",
+        "specimen_visual_evidence"
+      ],
+      "sample_not_confidentiality_hold": true,
+      "material_url_changed": false,
+      "raw_bytes_changed": false
+    },
+    {
+      "content_sha256": "309017a1cb2f6076caa712d9e6b1a97532453acf10ed7c546f00ddee71fe1106",
+      "fields_added": [
+        "document_form_status",
+        "specimen_visual_evidence"
+      ],
+      "sample_not_confidentiality_hold": true,
+      "material_url_changed": false,
+      "raw_bytes_changed": false
+    },
+    {
+      "content_sha256": "cbdc0c42584b82815d643c2b4c0067fcd3850bb64c420be3c0adcdc2dd344bbb",
+      "fields_added": [
+        "document_form_status",
+        "specimen_visual_evidence"
+      ],
+      "sample_not_confidentiality_hold": true,
+      "material_url_changed": false,
+      "raw_bytes_changed": false
+    },
+    {
+      "content_sha256": "0f89d2b9642f09b5a574f3ab65d89cdad62a637b303145c9aaae2e69cc9a0a40",
+      "fields_added": [
+        "document_form_status",
+        "specimen_visual_evidence"
+      ],
+      "sample_not_confidentiality_hold": true,
+      "material_url_changed": false,
+      "raw_bytes_changed": false
+    },
+    {
+      "content_sha256": "da5b82d1d9750fd0ec0acdea45827c1c58743f3b84f7043077d1c0a98f4b3355",
+      "fields_added": [
+        "document_form_status",
+        "specimen_visual_evidence"
+      ],
+      "sample_not_confidentiality_hold": true,
+      "material_url_changed": false,
+      "raw_bytes_changed": false
+    }
+  ]
+}

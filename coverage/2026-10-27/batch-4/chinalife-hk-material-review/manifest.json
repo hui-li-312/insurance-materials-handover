@@ -1,0 +1,30 @@
+{
+  "frozen_at": "2026-10-27T13:54:00.058218+00:00",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 1485,
+      "sha256": "c87184429372ae042177fffb419efe5095186e9baf0cfea3b4dc5982b27ef15c"
+    },
+    {
+      "file": "private-intake-metadata.json",
+      "bytes": 14502,
+      "sha256": "261756864c88c571d1c09736f9e4fe7c3eb12c782182a8ee57a0e6a6a75a0311"
+    },
+    {
+      "file": "publication-safety-gate.json",
+      "bytes": 238,
+      "sha256": "8d508688e4563cd19a820f7bf633fc8e2c93bdf2d918c65d815a86a935cfb868"
+    },
+    {
+      "file": "status.json",
+      "bytes": 962,
+      "sha256": "d826846ce76cfa5e76837c25c5f3d214c5afdf1a8fbcd07045afc5f00e8e4606"
+    },
+    {
+      "file": "v2-corrections.json",
+      "bytes": 2146,
+      "sha256": "ac87244bd4e771593afb7112c6f880a003b65d3de78c721985474ecb350d21ce"
+    }
+  ]
+}

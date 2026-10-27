@@ -1,0 +1,23 @@
+{
+  "created_at": "2026-10-27T13:15:12.097110+00:00",
+  "material_records": 6,
+  "raw_PDF_bytes": 11688052,
+  "HTTP200": 6,
+  "raw_PDFs_kept_private": true,
+  "raw_release_authorized": false,
+  "known_held_locator_matches": 0,
+  "known_held_SHA_matches": 0,
+  "potential_sensitive_marker_screen_hits": 0,
+  "full_contract_reviews": 0,
+  "formal_new_material_files": 0,
+  "catalog_observation_delta": 0,
+  "guard_offline_fixtures_passed": 18,
+  "held_locator_offline_fixtures_passed": 12,
+  "scope": "Six source-table currently available-for-new-application terms references; origin exact positive legal mapping; all redirects prohibited; no held origin retry.",
+  "revision_created_at": "2026-10-27T13:54:00.058218+00:00",
+  "supersedes": "chinalife-hk-intake-metadata-20261027T131512Z",
+  "public_SAMPLE_specimen_terms_count": 6,
+  "independently_visually_reviewed_first_pages": 6,
+  "total_PDF_pages": 356,
+  "sample_watermark_is_confidentiality_hold": false
+}
