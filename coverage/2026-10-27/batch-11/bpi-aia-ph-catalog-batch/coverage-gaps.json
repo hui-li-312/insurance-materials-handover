@@ -1,0 +1,217 @@
+[
+  {
+    "scope": "catalog_redirect_target",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/health/medlife-protect-plus",
+    "source_observed_at": "2026-10-27T16:08:50.569362+00:00",
+    "http_status": 301,
+    "status": "advertised_redirect_target_unvisited",
+    "unvisited_url": "http://www.bpi-aia.com.ph/en/our-products/health.html",
+    "reason": "The exact source href returned a redirect. The advertised HTTP target was not requested and no alternative URL was guessed. No access-denial conclusion is implied.",
+    "product_detail_complete": false
+  },
+  {
+    "scope": "catalog_redirect_target",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/business-owner-solutions-for-your-employees",
+    "source_observed_at": "2026-10-27T16:08:57.360078+00:00",
+    "http_status": 302,
+    "status": "advertised_redirect_target_unvisited",
+    "unvisited_url": "http://www.bpi-aia.com.ph/en/our-products/business-owner-solutions/for-your-employees.html",
+    "reason": "The exact source href returned a redirect. The advertised HTTP target was not requested and no alternative URL was guessed. No access-denial conclusion is implied.",
+    "product_detail_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/large-corporation-solutions",
+    "source_sha256": "eb7f1b2f05ac2159b29ec90ecdfac30ede384176332c2fa4d69d9f1e6deb69e5",
+    "source_observed_at": "2026-10-27T16:09:05.615595+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 2,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/protection",
+    "source_sha256": "3a1c8914d18e5c66f523a86527a91d0f01b3e7f6bb9c7b9a3cda42c5b52bf9eb",
+    "source_observed_at": "2026-10-27T16:09:12.404471+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/health",
+    "source_sha256": "dda168d88f55f6dd5e147b8c895322c7b2e256d44ff75002e4e71f4934117129",
+    "source_observed_at": "2026-10-27T16:09:18.225573+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/savings",
+    "source_sha256": "8d25e7074062c8b853f5d52e336327e27379c0c959ef6c19a6a1897802b5830b",
+    "source_observed_at": "2026-10-27T16:09:26.128220+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/insurance-with-investment",
+    "source_sha256": "9966cc6099109169f9522b5f754b31e8db6a31c9cf19ea4c4332096faf73fb13",
+    "source_observed_at": "2026-10-27T16:09:32.032653+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/business-owner-solutions",
+    "source_sha256": "1154f0457bd1b223bd3d8709ec9610916b938758ecdd860f1ba61081dc810985",
+    "source_observed_at": "2026-10-27T16:09:48.586108+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/protection/life",
+    "source_sha256": "1398ee3bf6d8450e07700f1f2533c0a8d622bab6ae282a2c39f3bb9ccd9964f4",
+    "source_observed_at": "2026-10-27T16:11:05.090953+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/protection/critical-illness",
+    "source_sha256": "882d1f32cf36315d5b3244434f53157e81433bf45ea4c69042bd2da03a8255d1",
+    "source_observed_at": "2026-10-27T16:11:10.549048+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/protection/medical",
+    "source_sha256": "bac6b786867ca6e4efbf16a8ce5d60afc6cd7dc6bc776a7dc1373c62d96dffaf",
+    "source_observed_at": "2026-10-27T16:11:19.492177+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/health/life",
+    "source_sha256": "33dabf6e68fc27de71e5d519d24cc7dea1f44d9336c80d3c3e5c55c191b814cd",
+    "source_observed_at": "2026-10-27T16:11:24.934723+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/health/critical-illness",
+    "source_sha256": "70e839753c2a5e304b3ab718a0c4c35af710c20f100895085436b60194c47d66",
+    "source_observed_at": "2026-10-27T16:11:31.031277+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/health/medical",
+    "source_sha256": "cb02bde7079ef0d192d07c2fd3528fe91f624e152bc65149d046b688bd1e2bd0",
+    "source_observed_at": "2026-10-27T16:11:37.330353+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/savings/life",
+    "source_sha256": "c723e3377c4f1e82a5953e5ca5c8704aea55eecbaf2dd979e80e039f1208bef2",
+    "source_observed_at": "2026-10-27T16:11:43.486842+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/savings/critical-illness",
+    "source_sha256": "e9a95ae2eb8638ca842f42c7e27163965cebb1841b3e1176904cef360ca88754",
+    "source_observed_at": "2026-10-27T16:11:49.044700+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/savings/medical",
+    "source_sha256": "33cc116deaf1b30cf19beaf7099c133883f2df0200b3a8feafbc3f53b12a236a",
+    "source_observed_at": "2026-10-27T16:11:55.287367+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/insurance-with-investment/life",
+    "source_sha256": "05adb7965c91f0551877515cf377a1cee7eeabb200729de3702c29b67ec75dac",
+    "source_observed_at": "2026-10-27T16:12:01.465333+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/insurance-with-investment/critical-illness",
+    "source_sha256": "9d61ce707a79ee126cf531bac1418060afacedb982bd5dc4f7452a95bb269b22",
+    "source_observed_at": "2026-10-27T16:12:07.010634+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/insurance-with-investment/medical",
+    "source_sha256": "76a01416fbd11c0adddf4e5a3b544bc72ecf95b450ad3228025a68c5cc0c4675",
+    "source_observed_at": "2026-10-27T16:12:12.811836+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "dynamic_catalog_results_and_pagination",
+    "source_url": "https://www.bpi-aia.com.ph/en/our-products/business-owner-solutions/for-your-employees",
+    "source_sha256": "07c1609478a72bf0442770e304c72468f29fb4f2e737c61a3655fddc46585f04",
+    "source_observed_at": "2026-10-27T16:12:24.279771+00:00",
+    "status": "unexecuted_dynamic_catalog_frontier",
+    "static_named_product_cards": 0,
+    "reason": "Saved HTML includes a dynamic ProductFilterList component. Dynamic results, model/API endpoints and pagination were not executed. Category/filter labels are not product observations.",
+    "all_channel_or_group_catalog_coverage_complete": false
+  },
+  {
+    "scope": "all_company_channels_SKUs_and_contract_materials",
+    "status": "not_established",
+    "reason": "The selected static public HTML sources do not establish all-company, all-channel, all-group, all-SKU or all-wording completeness. Brochures are linked candidates only; no policy documents were downloaded or reviewed. Named payment terms and rider relationships are not a unique-contract count."
+  }
+]

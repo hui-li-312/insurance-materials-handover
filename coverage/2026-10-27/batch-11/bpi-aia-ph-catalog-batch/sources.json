@@ -1,0 +1,269 @@
+{
+  "issuer_id": "own-ph-f8a4da0bc4ba",
+  "legal_name": "BPI AIA Life Assurance Corporation",
+  "issuer_id_scheme": "local_name_sha256_12_not_regulator_id",
+  "regulator_url": "https://www.insurance.gov.ph/wp-content/uploads/2026/06/List-of-Insurance-Compaines-with-Valid-and-Existing-Certificate-of-Authority-as-of-30-September-2026.pdf",
+  "regulator_source_locator": "Life, row 4",
+  "regulator_scope_date": "2026-09-30",
+  "regulator_source_publication_date": null,
+  "regulator_source_observed_at": "2026-10-27T09:44:00Z",
+  "regulator_scope": "Certificate roster identity; not the source for company website ownership.",
+  "website_association_source_url": "https://plia.org.ph/",
+  "website_association_source_sha256": "ec7e2fbdf5440c62bc485eaa6e6a395162159576bc75f30e6a985ce3199e7782",
+  "website_association_source_date": null,
+  "own_identity_url": "https://www.bpi-aia.com.ph/en/about-us",
+  "own_identity_page_sha256": "0b20d02cecfa6f2351ddce46d5d8a5e7e846495d3006004114b6d33eeeda7c28",
+  "own_identity_page_observed_at": "2026-10-27T16:00:52.722158+00:00",
+  "exact_legal_entity_identity_status": "resolved_by_main_company_description",
+  "identity_evidence": "The main company description explicitly names BPI AIA Life Assurance Corporation, matching the IC entity. It describes BPI and AIA Philippines as partners; neither partner is merged into this issuer. Identity does not rely on a shared footer.",
+  "identity_request_chain": [
+    {
+      "requested_url": "https://www.bpi-aia.com.ph/en/about-us/about-bpi-aia",
+      "checked_at": "2026-10-27T15:46:41.189099+00:00",
+      "http_status": 302,
+      "content_retrieved": false,
+      "html_sha256": null,
+      "advertised_location": "http://www.bpi-aia.com.ph/en/about-us.html",
+      "transport": "https",
+      "disposition": "advertised_target_observed_in_later_separate_request"
+    },
+    {
+      "requested_url": "http://www.bpi-aia.com.ph/en/about-us.html",
+      "checked_at": "2026-10-27T15:50:29.105068+00:00",
+      "http_status": 301,
+      "content_retrieved": false,
+      "html_sha256": null,
+      "advertised_location": "https://www.bpi-aia.com.ph/en/about-us.html",
+      "transport": "http_unencrypted",
+      "disposition": "advertised_target_observed_in_later_separate_request"
+    },
+    {
+      "requested_url": "https://www.bpi-aia.com.ph/en/about-us.html",
+      "checked_at": "2026-10-27T15:53:53.117578+00:00",
+      "http_status": 301,
+      "content_retrieved": false,
+      "html_sha256": null,
+      "advertised_location": "https://www.bpi-aia.com.ph/en/about-us",
+      "transport": "https",
+      "disposition": "advertised_target_observed_in_later_separate_request"
+    },
+    {
+      "requested_url": "https://www.bpi-aia.com.ph/en/about-us",
+      "checked_at": "2026-10-27T16:00:52.722158+00:00",
+      "http_status": 200,
+      "content_retrieved": true,
+      "html_sha256": "0b20d02cecfa6f2351ddce46d5d8a5e7e846495d3006004114b6d33eeeda7c28",
+      "advertised_location": null,
+      "transport": "https",
+      "disposition": "exact_legal_entity_resolved_by_fourth_identity_page"
+    }
+  ],
+  "identity_transport_caveat": "The second, identity request used the exact advertised unencrypted HTTP Location and returned no page content. Final own legal-entity evidence was obtained over HTTPS.",
+  "cached_homepage_url": "https://www.bpi-aia.com.ph/en",
+  "cached_homepage_sha256": "d7a78bd35694cbabea3b866db2e536da70c296e46eb1c03dd6cd9c9d34b6c90b",
+  "cached_homepage_observed_at": "2026-10-27T09:50:50.642000+00:00",
+  "source_date": null,
+  "catalog_scope": "Twelve exact own homepage/About product-menu hrefs, then sixteen exact hrefs from retrieved main-content catalogs. Repeated hrefs were not requested again. No further unrequested eligible static main-content product/category href remained.",
+  "catalog_page_observations": [
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/large-corporation-solutions",
+      "page_sha256": "eb7f1b2f05ac2159b29ec90ecdfac30ede384176332c2fa4d69d9f1e6deb69e5",
+      "page_title": "Large Corporation Solutions",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 2,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/protection",
+      "page_sha256": "3a1c8914d18e5c66f523a86527a91d0f01b3e7f6bb9c7b9a3cda42c5b52bf9eb",
+      "page_title": "Protection",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/health",
+      "page_sha256": "dda168d88f55f6dd5e147b8c895322c7b2e256d44ff75002e4e71f4934117129",
+      "page_title": "Health",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/savings",
+      "page_sha256": "8d25e7074062c8b853f5d52e336327e27379c0c959ef6c19a6a1897802b5830b",
+      "page_title": "Savings",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/insurance-with-investment",
+      "page_sha256": "9966cc6099109169f9522b5f754b31e8db6a31c9cf19ea4c4332096faf73fb13",
+      "page_title": "Insurance with Investment",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/business-owner-solutions",
+      "page_sha256": "1154f0457bd1b223bd3d8709ec9610916b938758ecdd860f1ba61081dc810985",
+      "page_title": "Business Owner Solutions",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/protection/life",
+      "page_sha256": "1398ee3bf6d8450e07700f1f2533c0a8d622bab6ae282a2c39f3bb9ccd9964f4",
+      "page_title": "Life Insurance Plans - Protection",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/protection/critical-illness",
+      "page_sha256": "882d1f32cf36315d5b3244434f53157e81433bf45ea4c69042bd2da03a8255d1",
+      "page_title": "Critical Illness Life Insurance Plan",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/protection/medical",
+      "page_sha256": "bac6b786867ca6e4efbf16a8ce5d60afc6cd7dc6bc776a7dc1373c62d96dffaf",
+      "page_title": "Medical",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/health/life",
+      "page_sha256": "33dabf6e68fc27de71e5d519d24cc7dea1f44d9336c80d3c3e5c55c191b814cd",
+      "page_title": "Life Insurance Plans - Health",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/health/critical-illness",
+      "page_sha256": "70e839753c2a5e304b3ab718a0c4c35af710c20f100895085436b60194c47d66",
+      "page_title": "Critical Illness Health Insurance Plan",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/health/medical",
+      "page_sha256": "cb02bde7079ef0d192d07c2fd3528fe91f624e152bc65149d046b688bd1e2bd0",
+      "page_title": "Health",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/savings/life",
+      "page_sha256": "c723e3377c4f1e82a5953e5ca5c8704aea55eecbaf2dd979e80e039f1208bef2",
+      "page_title": "Life Insurance Plans - Savings",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/savings/critical-illness",
+      "page_sha256": "e9a95ae2eb8638ca842f42c7e27163965cebb1841b3e1176904cef360ca88754",
+      "page_title": "Critical Illness Savings Insurance Plan",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/savings/medical",
+      "page_sha256": "33cc116deaf1b30cf19beaf7099c133883f2df0200b3a8feafbc3f53b12a236a",
+      "page_title": "Health",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/insurance-with-investment/life",
+      "page_sha256": "05adb7965c91f0551877515cf377a1cee7eeabb200729de3702c29b67ec75dac",
+      "page_title": "Life",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/insurance-with-investment/critical-illness",
+      "page_sha256": "9d61ce707a79ee126cf531bac1418060afacedb982bd5dc4f7452a95bb269b22",
+      "page_title": "Critical Illness",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/insurance-with-investment/medical",
+      "page_sha256": "76a01416fbd11c0adddf4e5a3b544bc72ecf95b450ad3228025a68c5cc0c4675",
+      "page_title": "Health",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    },
+    {
+      "url": "https://www.bpi-aia.com.ph/en/our-products/business-owner-solutions/for-your-employees",
+      "page_sha256": "07c1609478a72bf0442770e304c72468f29fb4f2e737c61a3655fddc46585f04",
+      "page_title": "Business Owner Solutions",
+      "dynamic_product_filter_present": true,
+      "static_named_product_cards": 0,
+      "category_or_hub_product_credit": 0,
+      "dynamic_results_requested": false,
+      "pagination_complete": false
+    }
+  ],
+  "counting_basis": "Eight offering-page/card observations, seven named plan/package variants, and thirty parent-context rider relationships are separate counts. Rider names are preserved by parent and not presumed identical contracts across products. Category and navigation labels receive no product credit.",
+  "product_material_scope": "Seven brochure links classified from published labels only. A separate customer-charter link is nonpolicy corporate information, excluded from the product-material count.",
+  "coverage_limitations": [
+    "Nineteen category/solution pages contain dynamic product-list components; their dynamic results and pagination remain unexecuted.",
+    "Two catalog redirect targets remain unvisited. MedLife Protect Plus is supported only by an actual named descriptive card in homepage main content, not a successfully retrieved detail page.",
+    "Large-corporation catalog placement does not by itself establish group-contract form. PamilyaProtect group form is separately explicit on its own page.",
+    "No all-company, all-channel, all-SKU, standalone-contract or policy-wording completeness is established."
+  ],
+  "crawl_method": "Static public HTML and literal href/Location observations; no document download or dynamic catalog execution. Cached source bytes independently rehashed in local metadata audit.",
+  "regulator_original_verified_in_this_audit": false
+}
