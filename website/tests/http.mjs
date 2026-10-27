@@ -12,5 +12,5 @@ try{
   assert.equal((await fetch(base+'/.env')).status,404);assert.equal((await fetch(base+'/package.json')).status,404);
   assert.equal((await fetch(base+'/%2e%2e%2fpackage.json')).status,404);assert.equal((await fetch(base+'/',{method:'POST'})).status,405);
   const head=await fetch(base+'/product-library.json',{method:'HEAD'});assert.equal(head.status,200);assert.equal((await head.arrayBuffer()).byteLength,0);
-  console.log('PASS HTTP smoke: all 26 runtime assets byte-equal, root, MIME, HEAD, missing/private/traversal paths, unsupported method.');
+  console.log('PASS HTTP smoke: all runtime assets byte-equal, root, MIME, HEAD, missing/private/traversal paths, unsupported method.');
 }finally{await new Promise(resolve=>server.close(resolve));}
