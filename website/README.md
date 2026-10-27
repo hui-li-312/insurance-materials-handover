@@ -3,7 +3,8 @@
 这里是 **「地区 → 产品 → 材料」资料库** 的可运行交接源码，不是保险新闻日志。它以已部署版本为基线，并包含「本轮补采」独立视图（首轮 Site 128，后续版本以当前部署记录为准）。
 
 - 原站：<https://hong-kong-insurance-library.balabalaniuniu.chatgpt.site>
-- 对应版本：Site 127，源提交 `29f8a8f21308468f6c5e143676fb12db6627df75`。
+- 初始交接基线：Site 127，源提交 `29f8a8f21308468f6c5e143676fb12db6627df75`；不是当前版本号。
+- 当前公开部署：Site 130（2026-10-27 18:04:58 UTC），Site 源提交 `4eed42ee3cf599010a73cc2a5185b0f206268a9b`，对应 GitHub 运行与数据源码 `fa5032a59c302a13e0f4e576e124c109691a6fbe`。43 个静态运行文件逐字节一致；补采视图为 24 feeds／4,636 条混合来源观察，不是独立产品数。
 - 初始 `public/` 的 26 个文件来自该提交的 `dist/`。新增补采视图只在原 `index.html` 加导航入口，其他 25 个基线文件逐字节保留。原站是 **buildless 静态应用**，这些 HTML/CSS/JS 就是可编辑源码，不是只有截图或编译后黑盒。
 - 不需要数据库、API key、登录、第三方运行依赖或联网安装。使用 Node.js 24；本次实测版本为 **24.22.1 / npm 11.9.0**。`.nvmrc`、`package.json`、`package-lock.json` 固定本次工具约定。
 
@@ -63,4 +64,4 @@ npm run build
 
 不修改原 `product-library.json`、其他既有 JSON 或归档台账。正式原件 4,713 份和严格核验 426 份不变；补采引用不自动增加产品／材料原件。详细字段、替换规则、测试和部署界限见 [补采视图接续手册](../docs/REGIONAL_VIEW.md)。
 
-当前发布证据和真实浏览器 QA 限制见 [CURRENT_DEPLOYMENT.json](../docs/CURRENT_DEPLOYMENT.json)；历史源码候选清单保留原验收时状态，不代表仍未上线。
+当前发布证据和真实浏览器 QA 限制见 [CURRENT_DEPLOYMENT.json](../docs/CURRENT_DEPLOYMENT.json)；历史源码候选清单保留原验收时状态，不代表仍未上线。Site 130 已完成限定生产桌面浏览器抽样检查（1180×757、DPR 1），实际范围见当前机器记录；不等于逐条记录或外部材料验收。移动端／触屏未测。
