@@ -1,6 +1,6 @@
 # 网站来源、交付范围与验证边界
 
-## 真实部署来源
+## 初始部署来源（历史基线）
 
 2026-10-27 08:51 UTC 原生项目、已保存版本和部署查询确认：
 
@@ -14,7 +14,7 @@
 | 部署状态更新时间 | `2026-10-26T23:29:58.026999+00:00` |
 | 访问级别 | public |
 
-使用官方 Sites 源仓库读取流程恢复该提交，并确认 checkout 干净。没有修改原站、受众或原源仓库。机器清单记录项目/版本/部署 ID 和每个文件的 SHA-256：[website-source.json](../manifests/website-source.json)。这些标识不是登录凭据，也不赋予接手人访问权。
+使用官方 Sites 源仓库读取流程恢复该提交，并确认 checkout 干净。初始提取时没有修改原站、受众或原源仓库；后续 Site 128 发布记录见下方。机器清单记录项目/版本/部署 ID 和每个文件的 SHA-256：[website-source.json](../manifests/website-source.json)。这些标识不是登录凭据，也不赋予接手人访问权。
 
 ## 提取内容
 
@@ -36,12 +36,12 @@
 
 `tests/ui.mjs` 从原站 `tests/test_ui.mjs` 适配，仅改变 `dist → public` 路径、去除依赖私有附加证据的最后一段 28 条专用断言，保留其余界面/状态测试。`tests/search.mjs` 仅改路径。测试来源与适配说明见机器清单。新服务器、构建、目录工具和新增测试均为这次交接编写，不冒称历史生产实现。
 
-**限制：** 原生保存包提供了大小/哈希元数据，但直接获取该归档的请求未被授权或解析成功；未绕过限制，也不声称重新下载验证了整包。来源证据来自可访问的官方源仓库和精确提交。Node DOM stub/HTTP 检查不是实际浏览器视觉 QA；本次没有重新验证全部官方外链当前可访问，也没有执行真实外部托管发布、原站重新部署或全历史私有审查测试。具体执行结果见仓库接手总结。
+**限制：** 原生保存包提供了大小/哈希元数据，但直接获取该归档的请求未被授权或解析成功；未绕过限制，也不声称重新下载验证了整包。来源证据来自可访问的官方源仓库和精确提交。Node DOM stub/HTTP 检查不是实际浏览器视觉 QA；初始交接没有重新验证全部官方外链当前可访问，也未执行外部托管发布或全历史私有审查测试；后续原站发布见下方实际记录。具体执行结果见仓库接手总结。
 
 保险公司文档及标识的权利不因源码交接改变；页面仅保留官方链接与最小元数据，原件的复制/再分发/商用许可需要单独判断。
 
-## 2026-10-27 补采视图源码增量（未部署）
+## 2026-10-27 补采视图源码增量与发布
 
 新增的 `coverage.html` 独立读取 `coverage-observations*.json`，不并入原 2,360 条目录。公开来源基线为GitHub 已验证提交 `58fb5d5c5ab09e74c4f3be88d2c9fa1d7b8f144b` 的独立批准 313 文件清单（原 264 文件及第四批 49 个新增文件，LATEST／README 替换）；只从固定批准清单中的明确 active-feed 文件生成。输入每次先校验 SHA-256 和字节数。输入元数据、转换代码、前端、测试和方法均可在仓库内接续，私有原件和私有 held-locator 注册表不进入输出。
 
-新视图没有发布、保存 Sites 版本、部署或修改受众。原 `website-source.json` 是原站来源历史；新源码清单另见 [website-regional-view.json](../manifests/website-regional-view.json)。本轮真实浏览器验证因受支持的 managed preview 启动超时未完成；这不是访问拒绝。行为 DOM stub、HTTP、离线复现、构建及移动 CSS 结构检查的具体边界见 [REGIONAL_VIEW.md](REGIONAL_VIEW.md)。
+新视图已于 2026-10-27 14:27 UTC 成功部署到原站 Site 128，受众仍为 public。源提交为 `1589c3e915ce4341a11f338b51c7c705d810275b`；43 个运行文件与已核验 GitHub 源码逐字节一致，发布包另含 1 个托管配置文件。完整发布与测试边界见 [CURRENT_DEPLOYMENT.json](CURRENT_DEPLOYMENT.json)。原 `website-source.json` 是原站来源历史；新源码清单另见 [website-regional-view.json](../manifests/website-regional-view.json)，该文件保留发布前开发验收快照，不将其历史状态当作当前部署状态。本轮真实浏览器验证因受支持的 managed preview 启动超时未完成；这不是访问拒绝。行为 DOM stub、HTTP、离线复现、构建及移动 CSS 结构检查的具体边界见 [REGIONAL_VIEW.md](REGIONAL_VIEW.md)。
