@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "request_url": "https://insurer.example.invalid/catalog",
+  "http_status": 200,
+  "headers": [["Content-Type", "application/json"]],
+  "body_text": "{\"products\":[{\"name\":\"Synthetic Plan A\",\"code\":403}],\"note\":\"Invented offline fixture, not insurance advice or real source evidence.\"}",
+  "body_complete": true,
+  "transport_error": null
+}
