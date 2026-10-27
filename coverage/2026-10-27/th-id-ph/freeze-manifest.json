@@ -1,0 +1,51 @@
+{
+  "frozen_at": "2026-10-27T10:03:25Z",
+  "supersedes": "../publication-v2/freeze-manifest.json",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 2497,
+      "sha256": "35485b9aeea83795ecd34b9a88f64f0dbe66f2a2ca2021bf3906dd5c63db9a8c"
+    },
+    {
+      "file": "excluded-catalog-pages.jsonl",
+      "bytes": 576,
+      "sha256": "4605a8bff13757039fc0bb4715556f475e8b4734243252698f7df406d3984416"
+    },
+    {
+      "file": "existing-crosswalk.jsonl",
+      "bytes": 234704,
+      "sha256": "aab9c5bb3625a4f6bb0a083a406c529a9d21de595ba915882318953dc68e633d"
+    },
+    {
+      "file": "failed-sources.jsonl",
+      "bytes": 13882,
+      "sha256": "49b201c9955b2ddc1dbabf578f5239b6231effbcbf51fcfd3421acca17eddc39"
+    },
+    {
+      "file": "issuers.jsonl",
+      "bytes": 343952,
+      "sha256": "ba23e75911bf0408b7f31a45739127b7c7dbd7386616d7926af9641ae6bacce8"
+    },
+    {
+      "file": "products.jsonl",
+      "bytes": 23712,
+      "sha256": "9413f0714d77a2f9b2959c4bb2f6784d19cb3cc60101cb80834c1cb75642dc69"
+    },
+    {
+      "file": "run-status.json",
+      "bytes": 1835,
+      "sha256": "7d48cb7f80043e1957c21d0cd6f30e50b29964fcc7d965e2b76f8aa3bce1bea9"
+    },
+    {
+      "file": "sources.json",
+      "bytes": 2919,
+      "sha256": "416c47f2861f9b223246df7d2b4fb61fa424ee313e7f57c6b6b72d19e7d496f2"
+    },
+    {
+      "file": "visited-catalog-pages.jsonl",
+      "bytes": 16858,
+      "sha256": "579d8c3ec89bc1176024c43a2b8d03c69c249ebfefd89ad2bca0d57b9828ea66"
+    }
+  ]
+}

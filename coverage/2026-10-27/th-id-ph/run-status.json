@@ -1,0 +1,42 @@
+{
+  "snapshot_at": "2026-10-27T09:55:37.978524+00:00",
+  "run_status": "in_progress",
+  "regions": {
+    "TH": {
+      "issuer_rows": 70,
+      "selected_roster_enumeration_complete": true,
+      "whole_region_current_licensed_denominator_complete": false,
+      "verified_public_catalog_entries": 0,
+      "product_catalogs_complete": 0,
+      "all_products_obtained": false
+    },
+    "ID": {
+      "issuer_rows": 148,
+      "selected_roster_enumeration_complete": true,
+      "whole_region_current_licensed_denominator_complete": false,
+      "verified_public_catalog_entries": 13,
+      "product_catalogs_complete": 0,
+      "all_products_obtained": false
+    },
+    "PH": {
+      "issuer_rows": 81,
+      "selected_roster_enumeration_complete": true,
+      "whole_region_current_licensed_denominator_complete": false,
+      "verified_public_catalog_entries": 0,
+      "product_catalogs_complete": 0,
+      "all_products_obtained": false
+    }
+  },
+  "homepage_attempts": 222,
+  "product_page_attempts": 42,
+  "new_formal_original_file_count": 0,
+  "original_handover_unchanged": true,
+  "scope_limits": [
+    "TH: 22 life-directory rows plus 49 nonlife-directory rows; one explicitly old duplicate retained in the source reconciliation. 70 distinct directory identities, not an independently verified count of active new-business licences.",
+    "ID: all 148 head-office rows in OJK Q3 2025 workbook enumerated; exact as-of day is not asserted and post-Q3 changes remain open.",
+    "PH: all 81 insurance-company entries as of 2026-09-30 enumerated, including 4 servicing and 1 reinsurer; separate MBA/HMO/pre-need/CRL universes remain open.",
+    "Product names, webpages, brochures and full policy contract sets are separate coverage units."
+  ],
+  "qa_corrections_at": "2026-10-27T10:03:25Z",
+  "supersedes": "publication-v2"
+}
