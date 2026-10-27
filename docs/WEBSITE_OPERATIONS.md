@@ -104,3 +104,18 @@ Windows 用户换成存在且可写的本机临时目录。日期标签只是例
 `verified` 必须同时是 `downloaded` 且两个全文旗标都为真；`fullContentReviewComplete` 不能在 `allPagesReviewed` 为假时为真。`needs_review` 即使读完整件也表示问题未解决。保存候选主条款不等于确认归类的主条款，更不等于完整个人保单、在售或法律适用结论。
 
 新增材料/提高审查状态前：核对合法获取与阅读权限 → 保存有权保留的原件与 SHA-256 → 确认地区/发行人/文件角色/语言/版本 → 完成相应范围审读并记录未决项 → 独立复核变更 → 更新归档台账与公开最小投影 → 测试 → 单独授权发布。不要对访问拒绝或文件权限限制使用规避方案。
+
+## 6. 独立补采视图更新
+
+`coverage.html` 是尚未部署的源码增量，与原已收录目录分开。正常启动方式不变；`npm run build` 现在还会校验批准输入和已生成投影是否逐字节一致，失败时不会继续构建。
+
+```bash
+npm run coverage:import
+npm run coverage:check
+npm test
+npm run build
+```
+
+完整仓库的 `coverage/` 是离线生成输入；不要只复制 `website/` 后声称可以重建数据。静态发布仍只使用 `website/dist/`。每个地区的补采 JSON 按需加载；不能把 JSON 请求改写为 HTML。不要把新材料引用自动导入原目录的 `main` 或 `downloaded` 状态，也不要累加到正式原件总数。
+
+新批次必须先获得独立公开安全核对，再明确更新 `coverage/LATEST.json`、`config/coverage-approved-inputs.json` 和 `scripts/coverage.mjs` 的已支持文件／字段映射。未知 feed、输入哈希改变、找不到明确父记录或遗漏替换规则都会失败；不得用猜测字段、模糊名称合并或扫描工作区来绕过。细节见 [补采视图手册](REGIONAL_VIEW.md)。
