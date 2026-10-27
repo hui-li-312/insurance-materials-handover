@@ -1,0 +1,17 @@
+{
+  "issuer_id": "own-th-046242061657",
+  "regulator_source": {
+    "url": "https://smart.oic.or.th/EService/Menu12",
+    "source_date": null,
+    "official_website": "https://samsunglife.co.th",
+    "source_locator": "OIC insurer directory life-insurance tab, named Samsung Life Insurance (Thailand) record."
+  },
+  "navigation_source": {
+    "url": "https://samsunglife.co.th",
+    "page_sha256": "4969cbe84888800e984d4e96b204088ecd7b5cd8705a82a1523c53d3109792ed",
+    "observed_detail_hrefs": 56,
+    "source_date": null
+  },
+  "canonical_alias_note": "/product-smart-pa redirects301 to /product-smart-pa/; both published hrefs map to one named observation.",
+  "budget_note": "The approved53-request cap was reached after52 path attempts because the same-origin canonical redirect required an additional request. No request was made for Samsung888 in this batch."
+}

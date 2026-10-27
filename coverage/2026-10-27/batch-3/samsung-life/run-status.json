@@ -1,0 +1,27 @@
+{
+  "snapshot_at": "2026-10-27T11:03:46.626943+00:00",
+  "named_entries_verified": 53,
+  "roles": {
+    "product": 32,
+    "plan": 5,
+    "rider": 16
+  },
+  "visible_markup_verified_entries": 51,
+  "hidden_markup_verified_entries": 2,
+  "observed_detail_hrefs": 56,
+  "slash_normalized_candidate_routes": 55,
+  "bounded_network_requests": 53,
+  "bounded_path_attempts": 52,
+  "bounded_retrieved_path_attempts": 51,
+  "bounded_http500_attempts": 1,
+  "preexisting_same_day_detail_pages": 3,
+  "unattempted_candidate_routes": 1,
+  "material_links_identified": 0,
+  "material_files_requested": 0,
+  "new_formal_original_files": 0,
+  "selected_navigation_detail_queue_complete": false,
+  "issuer_all_public_catalogs_complete": false,
+  "all_skus_complete": false,
+  "all_wordings_complete": false,
+  "status": "ready_for_QA_not_publication"
+}
