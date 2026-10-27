@@ -1,0 +1,27 @@
+{
+  "issuer_id": "HK-own-0bd6077303871316",
+  "legal_name": "Tahoe Life Insurance Company Limited",
+  "scope": "Seven explicit public catalog roots and all23 linked Traditional Chinese detail URLs; broader channels and unnamed rider universe remain open.",
+  "catalog_roots": 7,
+  "named_detail_urls": 23,
+  "detail_urls_read": 23,
+  "observations": 32,
+  "roles": {
+    "product": 17,
+    "rider": 7,
+    "rider_family": 1,
+    "catalog_category": 7
+  },
+  "unique_material_urls": 32,
+  "material_role_counts": {
+    "brochure": 26,
+    "dividend_and_investment_information": 18,
+    "supporting_eligibility_reference": 1
+  },
+  "queue_exhausted": true,
+  "pagination_evidence": "Six static category child lists fully enumerated, duplicate desktop/mobile cards deduplicated by exact source href; no pagination shown. No SKU/new-sale closure.",
+  "products_status": "partial",
+  "raw_PDFs_downloaded": 0,
+  "formal_file_increment": 0,
+  "verified_SKU_increment": 0
+}

@@ -1,0 +1,31 @@
+{
+  "issuer_id": "HK-own-96a9936cfc92cc7d",
+  "scope": "Four official insurance pages plus same-origin public CMS display arrays and form metadata; no whole issuer/channel closure.",
+  "observations": 42,
+  "roles": {
+    "catalog_category": 3,
+    "product": 2,
+    "coverage_component": 2,
+    "coverage_class": 7,
+    "document_page": 28
+  },
+  "unique_material_urls": 28,
+  "material_role_counts": {
+    "claim_form": 8,
+    "claims_guidance": 2,
+    "application_form": 18
+  },
+  "unresolved_motor_document_references": 2,
+  "raw_PDFs_downloaded": 0,
+  "formal_file_increment": 0,
+  "verified_SKU_increment": 0,
+  "products_status": "partial",
+  "pagination_evidence": "All explicit website CMS product arrays and two source-ID coverage arrays read in full; public form list has10 claims and18 proposal metadata rows. No pagination parameter in the display requests.45 advertised JS URLs accounted,43 read and2 timed out; document helper resolution remains unverified.",
+  "replacement": {
+    "replace_files": [
+      "products-trinity-hk-categories.jsonl"
+    ],
+    "existing_category_rows_represented": 3,
+    "append_instead_of_replace": false
+  }
+}

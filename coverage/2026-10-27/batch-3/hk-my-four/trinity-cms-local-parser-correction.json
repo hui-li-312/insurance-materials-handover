@@ -1,0 +1,3 @@
+{
+  "correction": "HTTP200 public CMS response code string1 and messageSuccess are equivalent to numeric1 in official JavaScript; initial strict integer comparison conservatively stopped local queue. Cached first response reused, no access denial occurred or was overridden."
+}

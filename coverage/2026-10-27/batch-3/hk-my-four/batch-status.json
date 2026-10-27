@@ -1,0 +1,23 @@
+{
+  "frozen_at": "2026-10-27T11:32:34.868484+00:00",
+  "observations": 283,
+  "issuers_with_observations": 4,
+  "role_counts": {
+    "product": 61,
+    "rider": 12,
+    "rider_family": 1,
+    "catalog_category": 34,
+    "coverage_class": 61,
+    "document_page": 111,
+    "group": 1,
+    "coverage_component": 2
+  },
+  "material_reference_occurrences": 743,
+  "unique_material_urls": 688,
+  "explicit_product_unavailable_rows": 8,
+  "source_records": 258,
+  "raw_PDFs_downloaded": 0,
+  "formal_file_increment": 0,
+  "verified_SKU_increment": 0,
+  "complete_issuer_or_market_claim": false
+}

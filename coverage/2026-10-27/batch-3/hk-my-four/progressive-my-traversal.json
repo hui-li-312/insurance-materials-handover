@@ -1,0 +1,293 @@
+{
+  "scope": "Full advertised personal/business navigation and53 catalog/directory URLs after explicit11-link expansion; named disclosure/fact/brochure lists parsed. Wider partner/unlinked catalog remains open.",
+  "observations": 117,
+  "roles": {
+    "catalog_category": 16,
+    "coverage_class": 33,
+    "product": 3,
+    "group": 1,
+    "document_page": 64
+  },
+  "unique_material_urls": 124,
+  "material_role_counts": {
+    "product_disclosure": 98,
+    "general_consumer_information": 1,
+    "product_fact_sheet": 14,
+    "brochure": 7,
+    "benefit_schedule": 4,
+    "application_form": 1
+  },
+  "explicit_unavailable_rows": 0,
+  "products_status": "partial",
+  "pagination_evidence": "Complete static lists on every recorded catalog/root page read; finite source-advertised queue accounted. No market or channel closure.",
+  "attempted_urls": [
+    {
+      "url": "https://www.progressiveinsurance.com.my/personal/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/personal/house-owners-insurance/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/personal/householder-insurance/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/personal/motor-insurance/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/personal/hospital-surgical/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/personal/progressive-personal-accident/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/personal/progressive-family-personal-accident/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/aviation/aviation-hull-liability/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/bonds/advanced-payment-bond/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/bonds/bid-tender-bond/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/bonds/performance-bond/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/bonds/supply-bond/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/engineering/erection-all-risk/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/engineering/contractors-all-risks/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/engineering/civil-engineering-completed-risks/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/engineering/loss-profit-following-machinery-breakdown/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/engineering/machinery-breakdown/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/fire-property/burglary/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/fire-property/business-interruption-fire/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/fire-property/fire/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/fire-property/growing-trees/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/fire-property/industrial-all-risks/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/foreign-workers/foreign-workers-hospitalization-surgical-fwhs-skhppa/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/foreign-workers/foreign-workers-insurance-guarantee-fwig/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/hospital-surgical/group-hospital-surgical/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/liability/comprehensive-general-liability/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/liability/employers-liability/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/liability/professional-indemnity/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/liability/public-liability/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/liability/workmens-compensation/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/marine/marine-cargo/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/marine/marine-hull/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/miscellaneous/all-risk/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/miscellaneous/fidelity-guarantee/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/miscellaneous/jewellers-block/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/miscellaneous/money/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/download-centre/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/download-centre/product-disclosure-sheets/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/download-centre/product-fact-sheets/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/download-centre/product-brochures/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/personal/hospital-surgical/smartmediflex/",
+      "source_url": "https://www.progressiveinsurance.com.my/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/personal/hospital-surgical/hospital-surgical/",
+      "source_url": "https://www.progressiveinsurance.com.my/personal/hospital-surgical/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/aviation/",
+      "source_url": "https://www.progressiveinsurance.com.my/business/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/bonds/",
+      "source_url": "https://www.progressiveinsurance.com.my/business/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/engineering/",
+      "source_url": "https://www.progressiveinsurance.com.my/business/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/fire-property/",
+      "source_url": "https://www.progressiveinsurance.com.my/business/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/foreign-workers/",
+      "source_url": "https://www.progressiveinsurance.com.my/business/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/hospital-surgical/",
+      "source_url": "https://www.progressiveinsurance.com.my/business/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/liability/",
+      "source_url": "https://www.progressiveinsurance.com.my/business/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/marine/",
+      "source_url": "https://www.progressiveinsurance.com.my/business/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/miscellaneous/",
+      "source_url": "https://www.progressiveinsurance.com.my/business/",
+      "status": "read"
+    },
+    {
+      "url": "https://www.progressiveinsurance.com.my/business/foreign-workers/foreign-workers-compensation-scheme-fwcs/",
+      "source_url": "https://www.progressiveinsurance.com.my/business/foreign-workers/foreign-workers-hospitalization-surgical-fwhs-skhppa/",
+      "status": "read"
+    }
+  ],
+  "raw_PDFs_downloaded": 0,
+  "formal_file_increment": 0,
+  "verified_SKU_increment": 0
+}

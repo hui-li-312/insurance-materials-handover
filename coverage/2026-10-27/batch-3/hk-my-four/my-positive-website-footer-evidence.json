@@ -1,0 +1,138 @@
+[
+  {
+    "origin": "https://www.ammetlife.com",
+    "legal_names": [
+      "AmMetLife Insurance Berhad"
+    ],
+    "evidence_url": "https://www.ammetlife.com/",
+    "evidence_checked_at": "2026-10-27T09:45:18.621982+00:00",
+    "source_content_sha256": "1f5e9154e952aa68a81cade071d7d71de8b64b2b7da4cff3d01e760d1821ea68",
+    "basis": "Exact full legal entity name visibly present in official site footer; punctuation and whitespace normalized only. Shared-brand product underwriting still requires item-specific evidence.",
+    "reviewed_at": "2026-10-27T11:08:15.246817+00:00"
+  },
+  {
+    "origin": "https://www.chubb.com",
+    "legal_names": [
+      "Chubb Insurance Malaysia Berhad"
+    ],
+    "evidence_url": "https://www.chubb.com/my-en/",
+    "evidence_checked_at": "2026-10-27T09:56:19.606667+00:00",
+    "source_content_sha256": "bd130e70456100906225247a9f32ee7d4ef27fe4051c465b8f345369346fe44c",
+    "basis": "Exact full legal entity name visibly present in official site footer; punctuation and whitespace normalized only. Shared-brand product underwriting still requires item-specific evidence.",
+    "reviewed_at": "2026-10-27T11:08:15.251076+00:00"
+  },
+  {
+    "origin": "https://www.aia.com.my",
+    "legal_names": [
+      "AIA General Berhad",
+      "AIA PUBLIC Takaful Bhd",
+      "AIA Bhd."
+    ],
+    "evidence_url": "https://www.aia.com.my/en/our-products.html",
+    "evidence_checked_at": "2026-10-27T09:56:32.553327+00:00",
+    "source_content_sha256": "3c4cb422d3e3bd401feb94d926889411eed921e9bc0a3f072cd8b8a9d070e547",
+    "basis": "Exact full legal entity name visibly present in official site footer; punctuation and whitespace normalized only. Shared-brand product underwriting still requires item-specific evidence.",
+    "reviewed_at": "2026-10-27T11:08:15.257633+00:00"
+  },
+  {
+    "origin": "https://www.ammetlifetakaful.com",
+    "legal_names": [
+      "AmMet Life Takaful Berhad"
+    ],
+    "evidence_url": "https://www.ammetlifetakaful.com/",
+    "evidence_checked_at": "2026-10-27T09:56:33.365456+00:00",
+    "source_content_sha256": "7fa0c917e1335cf29dc3774a1a27bcb7b5158ee3746205f8a1a3ff47df0026aa",
+    "basis": "Exact full legal entity name visibly present in official site footer; punctuation and whitespace normalized only. Shared-brand product underwriting still requires item-specific evidence.",
+    "reviewed_at": "2026-10-27T11:08:15.260339+00:00"
+  },
+  {
+    "origin": "https://www.mcis.my",
+    "legal_names": [
+      "MCIS Insurance Berhad"
+    ],
+    "evidence_url": "https://www.mcis.my/Our-Products",
+    "evidence_checked_at": "2026-10-27T09:45:24.879227+00:00",
+    "source_content_sha256": "781a0fe3f3f3bbf7aad7a4e2abeffb2e9682746ea06a9800f0e84386017d5a93",
+    "basis": "Exact full legal entity name visibly present in official site footer; punctuation and whitespace normalized only. Shared-brand product underwriting still requires item-specific evidence.",
+    "reviewed_at": "2026-10-27T11:08:15.263079+00:00"
+  },
+  {
+    "origin": "https://www.generali.com.my",
+    "legal_names": [
+      "Generali Insurance Malaysia Berhad",
+      "Generali Life Insurance Malaysia Berhad"
+    ],
+    "evidence_url": "https://www.generali.com.my/",
+    "evidence_checked_at": "2026-10-27T10:17:49.565246+00:00",
+    "source_content_sha256": "62c6e993919651b017cf954972f06cfb770d66e2079d76be0c08e5fff316daa3",
+    "basis": "Exact full legal entity name visibly present in official site footer; punctuation and whitespace normalized only. Shared-brand product underwriting still requires item-specific evidence.",
+    "reviewed_at": "2026-10-27T11:08:15.267504+00:00"
+  },
+  {
+    "origin": "https://www.msig.com.my",
+    "legal_names": [
+      "MSIG Insurance (Malaysia) Bhd."
+    ],
+    "evidence_url": "https://www.msig.com.my/products/",
+    "evidence_checked_at": "2026-10-27T10:17:29.402456+00:00",
+    "source_content_sha256": "9671c177c80f5eff1b847d3ae104f3ae0862d3c5af7fbee513de84fd9b3b2739",
+    "basis": "Exact full legal entity name visibly present in official site footer; punctuation and whitespace normalized only. Shared-brand product underwriting still requires item-specific evidence.",
+    "reviewed_at": "2026-10-27T11:08:15.273581+00:00"
+  },
+  {
+    "origin": "https://www.libertyinsurance.com.my",
+    "legal_names": [
+      "Liberty General Insurance Berhad"
+    ],
+    "evidence_url": "https://www.libertyinsurance.com.my/",
+    "evidence_checked_at": "2026-10-27T10:17:49.582430+00:00",
+    "source_content_sha256": "7029c5ae7664bec968184514a39e66c1c95a847b6694de1fb19b4bcf0e36a2c4",
+    "basis": "Exact full legal entity name visibly present in official site footer; punctuation and whitespace normalized only. Shared-brand product underwriting still requires item-specific evidence.",
+    "reviewed_at": "2026-10-27T11:08:15.275806+00:00"
+  },
+  {
+    "origin": "https://www.progressiveinsurance.com.my",
+    "legal_names": [
+      "Progressive Insurance Bhd."
+    ],
+    "evidence_url": "https://www.progressiveinsurance.com.my/",
+    "evidence_checked_at": "2026-10-27T10:17:54.856573+00:00",
+    "source_content_sha256": "18a808ab04f4d3445673387bea3297ac825b7ccebcdc37d87ecbe219403d9339",
+    "basis": "Exact full legal entity name visibly present in official site footer; punctuation and whitespace normalized only. Shared-brand product underwriting still requires item-specific evidence.",
+    "reviewed_at": "2026-10-27T11:08:15.287861+00:00"
+  },
+  {
+    "origin": "https://www.sunlifemalaysia.com",
+    "legal_names": [
+      "Sun Life Malaysia Assurance Berhad",
+      "Sun Life Malaysia Takaful Berhad"
+    ],
+    "evidence_url": "https://www.sunlifemalaysia.com/",
+    "evidence_checked_at": "2026-10-27T10:17:55.114237+00:00",
+    "source_content_sha256": "1a984dd9aa1ae69b072db182f513555ecc6797bb3e34e7843446e54f2653bad7",
+    "basis": "Exact full legal entity name visibly present in official site footer; punctuation and whitespace normalized only. Shared-brand product underwriting still requires item-specific evidence.",
+    "reviewed_at": "2026-10-27T11:08:15.290446+00:00"
+  },
+  {
+    "origin": "https://www.tokiomarinelife.com.my",
+    "legal_names": [
+      "Tokio Marine Life Insurance Malaysia Bhd."
+    ],
+    "evidence_url": "https://www.tokiomarinelife.com.my/",
+    "evidence_checked_at": "2026-10-27T10:17:55.996900+00:00",
+    "source_content_sha256": "1af37140e3bc762ddb33f419a666c2e9bd69072732c7653ac0d6588dfb87ef1f",
+    "basis": "Exact full legal entity name visibly present in official site footer; punctuation and whitespace normalized only. Shared-brand product underwriting still requires item-specific evidence.",
+    "reviewed_at": "2026-10-27T11:08:15.291293+00:00"
+  },
+  {
+    "origin": "https://www.manulife.com.my",
+    "legal_names": [
+      "Manulife Insurance Berhad"
+    ],
+    "evidence_url": "https://www.manulife.com.my/",
+    "evidence_checked_at": "2026-10-27T10:17:53.906937+00:00",
+    "source_content_sha256": "985f13cc0353cc6749dbba14c14443e356cfca751d073f4ae197db029212721b",
+    "basis": "Exact full legal entity name visibly present in official site footer; punctuation and whitespace normalized only. Shared-brand product underwriting still requires item-specific evidence.",
+    "reviewed_at": "2026-10-27T11:08:15.294722+00:00"
+  }
+]

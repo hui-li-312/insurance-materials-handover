@@ -1,0 +1,96 @@
+{
+  "frozen_at": "2026-10-27T11:32:34.868484+00:00",
+  "scope": "four-issuer metadata-only catalog expansion; independent QA pending",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 5300,
+      "sha256": "2700fa7175d5006968f6ab694637172c9b5dbc4a9782d83813caeb5af134dc14"
+    },
+    {
+      "file": "batch-status.json",
+      "bytes": 590,
+      "sha256": "7f428f9373e2de9a60d548c8e60e69a35701e4a8ba6ee30393d2f9d5b5057624"
+    },
+    {
+      "file": "issuer-attempt-updates.jsonl",
+      "bytes": 3775,
+      "sha256": "6ceb8b6e4386a5ff193c99a0a65511e9a08b8c1a4a4a474ad20c4dbf53405744"
+    },
+    {
+      "file": "issuer-operating-status.jsonl",
+      "bytes": 977,
+      "sha256": "d8f73e292d81700634847491dec2b39883261fd48f23f660ca273544b42774b1"
+    },
+    {
+      "file": "issuer-queue-update-rows.jsonl",
+      "bytes": 34234,
+      "sha256": "357f2e53adcc0ade6083e60efa279f6c3067f113ca1f12de62a151ad1746cac4"
+    },
+    {
+      "file": "liberty-my-traversal.json",
+      "bytes": 13009,
+      "sha256": "a8f5874dfe373d7e52bd7e35f38a46d094145e2bd828e258b5ca442b95027928"
+    },
+    {
+      "file": "merge-replacement-map.json",
+      "bytes": 647,
+      "sha256": "dcb0ba1c0b7f8f507aa4739c99f5fc3b766037014e5fc00f1db5dc862f47e7bf"
+    },
+    {
+      "file": "my-positive-website-footer-evidence.json",
+      "bytes": 7276,
+      "sha256": "dd029d808497ea8bd2be94f96e9a626670f8296d14995bec5cc681b8e96da1b8"
+    },
+    {
+      "file": "picc-download-target-review.json",
+      "bytes": 18386,
+      "sha256": "29ebb313924a7d1baafce50cad1aa9004592c92b403c9eb0baaf0c3b49333eb6"
+    },
+    {
+      "file": "products-liberty-my.jsonl",
+      "bytes": 372138,
+      "sha256": "32d8ac3488698b07edb6b21be90a8a462ae9a921524192984e7325a9ae62fae8"
+    },
+    {
+      "file": "products-progressive-my.jsonl",
+      "bytes": 205969,
+      "sha256": "7a784a43d635bfc02a803c04cf6f1abc49e9cfc01d8e6d65824285b60f844820"
+    },
+    {
+      "file": "products-tahoe-hk.jsonl",
+      "bytes": 65247,
+      "sha256": "600ee431051ef24c62cfcab4aad34bae9e5a42d3f6fecd7cd7619db8b3a42d2a"
+    },
+    {
+      "file": "products-trinity-hk.jsonl",
+      "bytes": 70458,
+      "sha256": "79f411bdb6014a96407b0e833b05f6a82024409358640ca947fdd945d197f7eb"
+    },
+    {
+      "file": "progressive-my-traversal.json",
+      "bytes": 11343,
+      "sha256": "211988906b2e5a5d65e385480770343f7a5edc714cfe9ad33e6370b7671fbdb3"
+    },
+    {
+      "file": "source-provenance.json",
+      "bytes": 133796,
+      "sha256": "5a0b67e2365ec9c8c6f95f349a44a30bf68a592c121eb3c7d334aa263b2e3a56"
+    },
+    {
+      "file": "tahoe-hk-traversal.json",
+      "bytes": 967,
+      "sha256": "5695d1e7c8086fb6599823c9219c96ea2d48b0abacd5492daa26cd1609980f94"
+    },
+    {
+      "file": "trinity-cms-local-parser-correction.json",
+      "bytes": 278,
+      "sha256": "118d164b3089ac280b1c1724cdf16833a4d23d05159c5295b22419cc91e61f3f"
+    },
+    {
+      "file": "trinity-hk-traversal.json",
+      "bytes": 1160,
+      "sha256": "7e24af6ccce70c75733a7906d1cee20bd48752f6197e49196f8c5dc4b4cfd20d"
+    }
+  ]
+}

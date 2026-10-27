@@ -1,0 +1,363 @@
+{
+  "scope": "Official all-products67 card occurrences/66 distinct linked detail URLs plus public category roots; all66 detail URLs read. Eight linked pages expressly unavailable and four named add-on packages separated. Wider unlinked/partner channels open.",
+  "observations": 92,
+  "roles": {
+    "product": 39,
+    "coverage_class": 21,
+    "rider": 5,
+    "document_page": 19,
+    "catalog_category": 8
+  },
+  "unique_material_urls": 504,
+  "material_role_counts": {
+    "product_disclosure": 194,
+    "policy_wording_candidate": 153,
+    "brochure": 83,
+    "application_form": 75,
+    "endorsement_wording_candidate": 10,
+    "product_information_sheet": 4,
+    "product_faq": 3,
+    "provider_network_directory": 3,
+    "claim_form": 2,
+    "nomination_form": 16,
+    "underwriting_questionnaire": 2
+  },
+  "explicit_unavailable_rows": 8,
+  "products_status": "partial",
+  "pagination_evidence": "Complete static lists on every recorded catalog/root page read; finite source-advertised queue accounted. No market or channel closure.",
+  "attempted_urls": [
+    {
+      "url": "https://www.libertyinsurance.com.my/auto365-comprehensive-premier",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/auto365-comprehensive-plus",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/auto365-comprehensive-lite",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/insuremytesla",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/auto365-tpft-premier",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/private-car-third-party-fire-theft",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/private-car-third-party",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/private-car-365-plan",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/ev-365-care",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/motor-insurance/private-car/ezy-plus",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/motorcycle365-comprehensive-plus",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/motorcycle-comprehensive",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/motorcycle-third-party",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/motorcycle-365-plan",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/travel-star",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/pa-flex",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/liberty-tenang",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/liberty-pa-guard",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/liberty-ezypa",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/smart-cover",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/travel-pa-insurance/general/smart-care",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/flexi-care",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/travel-pa-insurance/general/pa-care",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/special-care-pa",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/right-cover-personal-accident",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/right-cover-plus",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/pos-value-insurance-plan",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/perfect-rider-plus",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/driver-passengers-personal-accident",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/motorcyclist-personal-accident",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/pos-motor-pa-plus",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/motor-insurance/drive-passenger/motorists-companion",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/motor-insurance/drive-passenger/motorists-companion-extra",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/motor-insurance/drive-passenger/motorists-companion-rider",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/houseowner",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/householder",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/commercial-fire",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/medistar",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/uob-max-guard",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/uob-bizpac",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/uob-premier-care-cash-plan",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/uob-revo-care-monthly",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/uob-travellers-insurance-plus",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/other-uob-products",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/bizcare",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/liberty-premier-fire-con-loss",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/fire-365-fire-consequential-loss-365",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/sme-bi-365",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/fire-premier-365",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/money",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/all-risks-office",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/burglary",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/plate-glass",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/fidelity-guarantee",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/commercial-comprehensive",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/commercial-third-party-fire-theft",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/commercial-vehicle-365-plan",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/motor-insurance/drive-passenger/motorists-companion-commercial",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/motor-insurance/drive-passenger/motorists-companion-taxi",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/marine-cargo",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/skhppa-fwhs",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/foreign-worker-insurance-guarantee",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/workmens-compensation",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/public-liability",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/employers-liability",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    },
+    {
+      "url": "https://www.libertyinsurance.com.my/product-liability",
+      "source_url": "https://www.libertyinsurance.com.my/products",
+      "status": "read"
+    }
+  ],
+  "raw_PDFs_downloaded": 0,
+  "formal_file_increment": 0,
+  "verified_SKU_increment": 0
+}

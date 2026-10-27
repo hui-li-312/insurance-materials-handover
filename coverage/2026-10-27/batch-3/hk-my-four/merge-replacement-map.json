@@ -1,0 +1,18 @@
+{
+  "previous_approved_cumulative_observations": 435,
+  "scope": "This four-issuer batch only; SG7 and MY-Manulife separate candidates and VHIS registry excluded.",
+  "batch_observations": 283,
+  "replace_existing_issuer_ids": [
+    "HK-own-96a9936cfc92cc7d"
+  ],
+  "existing_Trinity_rows_to_replace": 3,
+  "new_Trinity_rows": 42,
+  "other_three_issuer_new_rows": 241,
+  "net_additional_observations": 280,
+  "do_not_append_Trinity_on_top_of_old_category_rows": true,
+  "issuer_queue_update_rows": 18,
+  "website_mapping_updates": 16,
+  "new_primary_issuer_entities_in_this_batch": 0,
+  "formal_file_increment": 0,
+  "verified_SKU_increment": 0
+}

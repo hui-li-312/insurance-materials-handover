@@ -1,0 +1,341 @@
+[
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/gkHjDlV-P.html",
+    "official_name": "安粵行-港車北上計劃車險",
+    "checked_at": "2026-10-27T10:02:46.587388+00:00",
+    "download_UI_labels": [],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "links_or_no_labeled_download_block",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/PxZIRGsq-g.html",
+    "official_name": "港珠澳泊車計劃車險",
+    "checked_at": "2026-10-27T10:02:51.566973+00:00",
+    "download_UI_labels": [],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "links_or_no_labeled_download_block",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/eN6VVLJ-w.html",
+    "official_name": "旅遊保險",
+    "checked_at": "2026-10-27T10:02:55.217076+00:00",
+    "download_UI_labels": [
+      "投保書下載",
+      "標準條款下載"
+    ],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "labeled_download_controls_without_anchor_targets_in_read_HTML",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/s91JtnIfZ.html",
+    "official_name": "私家車保險",
+    "checked_at": "2026-10-27T10:03:00.728757+00:00",
+    "download_UI_labels": [
+      "投保書下載",
+      "標準條款下載"
+    ],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "labeled_download_controls_without_anchor_targets_in_read_HTML",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/iftLZbNBf.html",
+    "official_name": "家居保險",
+    "checked_at": "2026-10-27T10:03:04.874073+00:00",
+    "download_UI_labels": [
+      "投保書下載",
+      "標準條款下載"
+    ],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "labeled_download_controls_without_anchor_targets_in_read_HTML",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/iP7sAB4Jn.html",
+    "official_name": "商業財產保險",
+    "checked_at": "2026-10-27T10:03:10.072977+00:00",
+    "download_UI_labels": [
+      "投保書下載",
+      "標準條款下載"
+    ],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "labeled_download_controls_without_anchor_targets_in_read_HTML",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/41GL-0CSe.html",
+    "official_name": "商業綜合保險",
+    "checked_at": "2026-10-27T10:03:14.327584+00:00",
+    "download_UI_labels": [
+      "投保書下載",
+      "標準條款下載"
+    ],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "labeled_download_controls_without_anchor_targets_in_read_HTML",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/ozYtb5808.html",
+    "official_name": "辦公室綜合保險",
+    "checked_at": "2026-10-27T10:03:19.299814+00:00",
+    "download_UI_labels": [
+      "投保書下載",
+      "標準條款下載"
+    ],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "labeled_download_controls_without_anchor_targets_in_read_HTML",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/3cpTsfW0h.html",
+    "official_name": "旅遊保險",
+    "checked_at": "2026-10-27T10:03:24.652232+00:00",
+    "download_UI_labels": [
+      "投保書下載",
+      "標準條款下載"
+    ],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "labeled_download_controls_without_anchor_targets_in_read_HTML",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/4yw-Wv-MX.html",
+    "official_name": "商用汽車保險",
+    "checked_at": "2026-10-27T10:03:30.598593+00:00",
+    "download_UI_labels": [],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "links_or_no_labeled_download_block",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/UrBJR_Y33.html",
+    "official_name": "室內裝修保險",
+    "checked_at": "2026-10-27T10:03:34.198799+00:00",
+    "download_UI_labels": [
+      "投保書下載",
+      "標準條款下載"
+    ],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "labeled_download_controls_without_anchor_targets_in_read_HTML",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/ezJTpN9MU.html",
+    "official_name": "建築工程保險",
+    "checked_at": "2026-10-27T10:03:39.247980+00:00",
+    "download_UI_labels": [
+      "投保書下載",
+      "標準條款下載"
+    ],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "labeled_download_controls_without_anchor_targets_in_read_HTML",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/loT9iz2Z2.html",
+    "official_name": "僱員賠償保險",
+    "checked_at": "2026-10-27T10:03:42.806295+00:00",
+    "download_UI_labels": [
+      "投保書下載",
+      "標準條款下載"
+    ],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "labeled_download_controls_without_anchor_targets_in_read_HTML",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/MRlXedYKQ.html",
+    "official_name": "貨物運輸保險",
+    "checked_at": "2026-10-27T10:03:48.080563+00:00",
+    "download_UI_labels": [
+      "投保書下載",
+      "標準條款下載"
+    ],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "labeled_download_controls_without_anchor_targets_in_read_HTML",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/NMBa86OaN.html",
+    "official_name": "責任保險",
+    "checked_at": "2026-10-27T10:03:54.452843+00:00",
+    "download_UI_labels": [],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "links_or_no_labeled_download_block",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/-eFepSFAM.html",
+    "official_name": "船舶保險",
+    "checked_at": "2026-10-27T10:03:58.681628+00:00",
+    "download_UI_labels": [
+      "投保書下載",
+      "標準條款下載"
+    ],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "labeled_download_controls_without_anchor_targets_in_read_HTML",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/Yj1SguQYC.html",
+    "official_name": "信用保證保險",
+    "checked_at": "2026-10-27T10:04:03.750462+00:00",
+    "download_UI_labels": [],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "links_or_no_labeled_download_block",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/uMZOyBz9A.html",
+    "official_name": "航天航空保險",
+    "checked_at": "2026-10-27T10:04:09.186540+00:00",
+    "download_UI_labels": [],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "links_or_no_labeled_download_block",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/Dl7iW2V_nA.html",
+    "official_name": "安港行-粤车南下计划车险",
+    "checked_at": "2026-10-27T10:13:01.533577+00:00",
+    "download_UI_labels": [],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 0,
+    "status": "links_or_no_labeled_download_block",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  },
+  {
+    "issuer": "The People's Insurance Company of China (Hong Kong) Limited",
+    "issuer_id": "HK-own-46f7f550ef01498b",
+    "product_url": "https://www.picchk.com/zh-HK/details/WBnc6aoKCU.html",
+    "official_name": "北上醫無憂",
+    "checked_at": "2026-10-27T10:13:11.736027+00:00",
+    "download_UI_labels": [
+      "投保書下載",
+      "標準條款下載"
+    ],
+    "download_UI_anchor_targets": [],
+    "verified_material_link_count": 2,
+    "status": "labeled_download_controls_without_anchor_targets_in_read_HTML",
+    "notes": [
+      "Official advertised product-display script was inspected as text and does not supply targets for the plain download-label spans. No quote/adviser/CAPTCHA/account endpoints followed. Missing href is unresolved material coverage, not a conclusion that documents do not exist."
+    ],
+    "display_script_url": "https://www.picchk.com/static/themes/picchk/js/insuranceProducts.js?3.2"
+  }
+]
