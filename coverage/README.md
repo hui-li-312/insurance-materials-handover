@@ -72,3 +72,13 @@ Krungthai-AXA Life 的泰文主目录29个卡位已逐项访问，并与英文�
 - [Generali Malaysia 84条产品／组件／类别观察与46条独立文档记录](2026-10-27/batch-3/generali-my/README.md)
 
 共享品牌站点的承保主体不从页脚猜测；目录文档、附加组件和语言版本不自动成为独立产品。新增PDF正文仍不随本批发布，正式原件和严格主条款计数不增加。
+
+## 第四批：主保单样本与承保主体证据
+
+- [AIA Malaysia 190条目录观察，另列59条文档观察和8条隐藏变体；仅按原件证据修正3个稳定条目](2026-10-27/batch-4/aia-my/README.md)
+- [AIA Malaysia 4份私有原件的材料类型／承保主体核对，非113页全文验收](2026-10-27/batch-4/aia-my-material-review/README.md)
+- [中国人寿（海外）香港49条混合目录观察与69项不同材料引用](2026-10-27/batch-4/chinalife-hk/README.md)
+- [中国人寿（海外）香港6份示范保单条款的首面核对，非356页全文验收](2026-10-27/batch-4/chinalife-hk-material-review/README.md)
+- [菲律宾 Manila Bankers／Paramount 两份主保单样本，共21页已逐页视觉检查](2026-10-27/batch-4/ph-master-policy-samples/README.md)
+
+SAMPLE／示范件仍可以是真正的主保单条款，不等于宣传册；空白签发字段只说明它不是客户已签发合同。文件类型核对、逐页视觉检查、条款实质完整性核验和正式原件接纳分别记录。未知发布日期／生效日期保留未知，本批不增加正式原件或严格主文计数，不公开新增原件正文。

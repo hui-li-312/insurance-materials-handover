@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "compiled_at": "2026-10-27T13:33:40.466491+00:00",
+  "compiled_at": "2026-10-27T13:59:51.304668+00:00",
   "status": "in_progress_not_all_market_complete",
   "formal_original_baseline": 4713,
   "new_formal_original_credit": 0,
@@ -135,6 +135,57 @@
       "offering_component_category_observations": 84,
       "document_observations": 46,
       "unit": "mixed_source_observations_with_scoped_or_unresolved_legal_underwriter_not_unique_products"
+    },
+    {
+      "id": "aia_my_catalog",
+      "path": "2026-10-27/batch-4/aia-my/",
+      "catalog_observations": 190,
+      "separate_document_observations": 59,
+      "hidden_variant_observations": 8,
+      "legal_assignment": {
+        "assigned_catalog_rows": 16,
+        "unresolved_catalog_rows": 174
+      },
+      "unit": "mixed_catalog_and_separate_document_variant_observations_not_unique_skus",
+      "material_review_feed": "aia_my_material_review",
+      "narrow_corrections": "Three stable IDs corrected using material evidence; CI Insure is group coverage. Prior unpublished v2 is not a separate feed."
+    },
+    {
+      "id": "aia_my_material_review",
+      "path": "2026-10-27/batch-4/aia-my-material-review/",
+      "material_observations": 4,
+      "private_pdf_pages": 113,
+      "unit": "private_pdf_capture_and_selected_page_role_legalissuer_evidence_not_four_new_products",
+      "full_all_pages_review": false,
+      "raw_files_included": false
+    },
+    {
+      "id": "chinalife_hk_catalog",
+      "path": "2026-10-27/batch-4/chinalife-hk/",
+      "source_observations": 49,
+      "distinct_material_references": 69,
+      "unit": "mixed_named_pages_groups_families_variants_rider_categories_not_unique_skus",
+      "material_review_feed": "chinalife_hk_material_review"
+    },
+    {
+      "id": "chinalife_hk_material_review",
+      "path": "2026-10-27/batch-4/chinalife-hk-material-review/",
+      "material_observations": 6,
+      "private_pdf_pages": 356,
+      "unit": "six_specimen_policy_terms_files_with_first_page_visual_review_not_full_clause_review",
+      "all_six_specimen_watermarks_observed": true,
+      "full_all_pages_review": false,
+      "raw_files_included": false
+    },
+    {
+      "id": "ph_master_policy_samples",
+      "path": "2026-10-27/batch-4/ph-master-policy-samples/",
+      "material_observations": 2,
+      "pdf_pages": 21,
+      "unit": "two_genuine_sample_master_policy_wordings_not_brochures_or_executed_customer_policies",
+      "all_pages_visual_review": true,
+      "substantive_clause_verification_complete": false,
+      "raw_files_included": false
     }
   ],
   "public_projection_rule": "Known historical or already-held raw locators are withheld; observed source-reference counts are not the count of exposed download URLs. No current-file confidentiality finding or fresh-byte verification is inferred.",
