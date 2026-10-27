@@ -1,0 +1,606 @@
+{
+  "phase1": [
+    {
+      "url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "Insurance & Takaful",
+      "status": "preenumerated_catalog_or_source_index"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/insurance-and-takaful/life-insurance",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "Life insurance",
+      "status": "preenumerated_catalog_or_source_index"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "Family takaful",
+      "status": "preenumerated_catalog_or_source_index"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/insurance-and-takaful/protection",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "Protection",
+      "status": "preenumerated_catalog_or_source_index"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/insurance-and-takaful/savings",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "Insurance / takaful saving plans",
+      "status": "preenumerated_catalog_or_source_index"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/insurance-and-takaful/investment",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "Investment plans",
+      "status": "preenumerated_catalog_or_source_index"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/insurance-and-takaful/health",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "Health insurance & medical card",
+      "status": "preenumerated_catalog_or_source_index"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/insurance-and-takaful/critical-illness",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "Critical illness insurance / takaful",
+      "status": "preenumerated_catalog_or_source_index"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/insurance-and-takaful/education",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "Education",
+      "status": "preenumerated_catalog_or_source_index"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/insurance-and-takaful/retirement",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "Retirement",
+      "status": "preenumerated_catalog_or_source_index"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/client-care/downloads",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "Overview",
+      "status": "preenumerated_catalog_or_source_index"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Invest-Takaful",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "",
+      "status": "preenumerated_catalog_or_source_index"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/insurance-and-takaful/life-insurance/sun-save-future/",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "",
+      "status": "preenumerated_catalog_or_source_index"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/insurance-and-takaful/legacy-inheritance-family-empowerment-(life)/overview",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "Overview",
+      "status": "preenumerated_catalog_or_source_index"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/sitemap",
+      "source_url": "https://www.sunlifemalaysia.com/",
+      "source_checked_at": "2026-10-27T10:17:55.114237+00:00",
+      "label": "Sitemap",
+      "status": "preenumerated_catalog_or_source_index"
+    }
+  ],
+  "phase2": [
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Shield_Medi_Care_Max",
+      "official_name": "Shield Medi Care Max",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Agency",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Fortune",
+      "official_name": "Sun Fortune",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Agency",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Prestige-Life",
+      "official_name": "Sun Prestige Life",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Agency",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Protect-Term",
+      "official_name": "Sun Protect Term",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Agency",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Future",
+      "official_name": "Sun Save Future",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Agency",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Shield-Link",
+      "official_name": "Sun Shield Link",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Agency",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Cash-Plus-Assurance",
+      "official_name": "Cash Plus Assurance",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Credit-Protector-Plus",
+      "official_name": "Credit Protector Plus",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Amanah-Saham-Assurance",
+      "official_name": "Group Amanah Saham Assurance",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Level-Term-Assurance",
+      "official_name": "Group Mortgage Level Term Assurance",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Reducing-Term-Assurance",
+      "official_name": "Group Mortgage Reducing Term Assurance",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-AutoLife",
+      "official_name": "Sun AutoLife",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-EduSmart",
+      "official_name": "Sun EduSmart",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Income-Secure-Max",
+      "official_name": "Sun Income Secure Max",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Invest",
+      "official_name": "Sun Save Invest",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-SaveAssured",
+      "official_name": "Sun SaveAssured",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Saver-Max",
+      "official_name": "Sun Saver Max",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Signature-Life-Plus",
+      "official_name": "Sun Signature Life Plus",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Wealth-Plus",
+      "official_name": "Sun Wealth Plus",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunInvest",
+      "official_name": "SunInvest",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunLink-Max",
+      "official_name": "SunLink Max",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eCritical-Shield",
+      "official_name": "Sun eCritical Shield",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Online",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eMediCare-Income",
+      "official_name": "Sun eMediCare Income",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Online",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eSsential-Life",
+      "official_name": "Sun eSsential Life",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+      "source_checked_at": "2026-10-27T11:30:29.931511+00:00",
+      "channel_label": "Online",
+      "type_label": "Life Insurance",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Prime-Family-Critical-Care-i",
+      "official_name": "Prime Family Critical Care-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Agency",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Prime-Medi-Care-Max-i",
+      "official_name": "Prime Medi Care Max-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Agency",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Hajj",
+      "official_name": "Sun Hajj",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Agency",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Heritage-Plus-i",
+      "official_name": "Sun Heritage Plus-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Agency",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-MediMax-i",
+      "official_name": "Sun MediMax-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Agency",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Prime-Link-i",
+      "official_name": "Sun Prime Link-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Agency",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Secure-Treasure-i",
+      "official_name": "Sun Secure Treasure-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Agency",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Wealth-Protect-i",
+      "official_name": "Sun Wealth Protect-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Agency",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sinar-Kasih",
+      "official_name": "Sinar Kasih",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sinar-Wasilah",
+      "official_name": "Sinar Wasilah",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancassurance",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Credit-Protector-Plus-i",
+      "official_name": "Credit Protector Plus-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Level-Term-Takaful",
+      "official_name": "Group Mortgage Level Term Takaful",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Reducing-Term-Takaful",
+      "official_name": "Group Mortgage Reducing Term Takaful",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Term-Financing-Takaful",
+      "official_name": "Group Term Financing Takaful",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SinarLink-Aiman",
+      "official_name": "SinarLink Aiman",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Apex-i",
+      "official_name": "Sun Apex-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-AutoTakaful",
+      "official_name": "Sun AutoTakaful",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Cover-i",
+      "official_name": "Sun Cover-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Critical-Elite",
+      "official_name": "Sun Critical Elite",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Enrich-Extra-i",
+      "official_name": "Sun Enrich Extra-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Inspirasi",
+      "official_name": "Sun Inspirasi",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Istismar-Extra",
+      "official_name": "Sun Istismar Extra",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Legacy-Shield",
+      "official_name": "Sun Legacy Shield",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-MaxiMed-i",
+      "official_name": "Sun MaxiMed-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Ultimate-Coverage-i",
+      "official_name": "Sun Ultimate Coverage-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunInvest-i",
+      "official_name": "SunInvest-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Takaful-Mulia",
+      "official_name": "Takaful Mulia",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Takaful-Suria-Plus",
+      "official_name": "Takaful Suria Plus",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Bancatakaful",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eCritical-Shield-i",
+      "official_name": "Sun eCritical Shield-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Online",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eMediCare-Income-i",
+      "official_name": "Sun eMediCare Income-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Online",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    },
+    {
+      "url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eSsential-i",
+      "official_name": "Sun eSsential-i",
+      "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+      "source_checked_at": "2026-10-27T11:30:43.958519+00:00",
+      "channel_label": "Online",
+      "type_label": "Family Takaful",
+      "status": "preenumerated_product_detail_pending_guarded_fetch"
+    }
+  ]
+}

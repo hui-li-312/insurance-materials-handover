@@ -1,0 +1,22 @@
+[
+  {
+    "issuer_id": "MY-own-ce129644661ee399",
+    "legal_name": "Sun Life Malaysia Assurance Berhad",
+    "products_status": "partial",
+    "current_offering_assignment_status": "unresolved_shared_brand_legal_underwriter_not_proven",
+    "confirmed_current_offering_rows": 0,
+    "entity_headed_document_observations": 74,
+    "shared_origin_request_event_count": 71,
+    "request_count_note": "Same shared71 requests referenced by both entities, never142 separate requests."
+  },
+  {
+    "issuer_id": "MY-own-66b03be0417a1f3f",
+    "legal_name": "Sun Life Malaysia Takaful Berhad",
+    "products_status": "partial",
+    "current_offering_assignment_status": "unresolved_shared_brand_legal_underwriter_not_proven",
+    "confirmed_current_offering_rows": 0,
+    "entity_headed_document_observations": 144,
+    "shared_origin_request_event_count": 71,
+    "request_count_note": "Same shared71 requests referenced by both entities, never142 separate requests."
+  }
+]

@@ -1,0 +1,519 @@
+{
+  "created_at": "2026-10-27T13:02:39.383956+00:00",
+  "source_snapshot": "sunlife-my-ready-20261027T114549Z",
+  "source_snapshot_unchanged": true,
+  "replace_prior_candidate_not_append": true,
+  "offering_rows_before_and_after": 61,
+  "document_rows_before_and_after": 218,
+  "material_references_before_and_after": 385,
+  "exposed_material_occurrences_before_and_after": 384,
+  "unique_publishable_material_URLs_before_and_after": 305,
+  "material_role_corrections": [
+    {
+      "observation_id": "MY-SunLife-observation-0e09ed617510597769f0",
+      "official_name": "Shield Medi Care Max",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Shield_Medi_Care_Max",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-afa019ea53a6d8344e59",
+      "official_name": "Sun Fortune",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Fortune",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-69d0e4a24a3e4552f7f1",
+      "official_name": "Sun Prestige Life",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Prestige-Life",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-e95d53dafa12b46bb124",
+      "official_name": "Sun Protect Term",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Protect-Term",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-2d67b7e33ddf3c5e59b3",
+      "official_name": "Sun Save Future",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Future",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-ed5a4f88749af0fc786c",
+      "official_name": "Sun Shield Link",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Shield-Link",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-0e5c3e8b79d46f44d050",
+      "official_name": "Cash Plus Assurance",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Cash-Plus-Assurance",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-4ed3ea5a77382329ad50",
+      "official_name": "Credit Protector Plus",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Credit-Protector-Plus",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-ad1c8d5c7becbaad295c",
+      "official_name": "Group Amanah Saham Assurance",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Amanah-Saham-Assurance",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-bb3d2738e1553285a7f5",
+      "official_name": "Group Mortgage Level Term Assurance",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Level-Term-Assurance",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-f768d6328a52cbb7d1a2",
+      "official_name": "Group Mortgage Reducing Term Assurance",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Reducing-Term-Assurance",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-9c14515469104537b970",
+      "official_name": "Sun AutoLife",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-AutoLife",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-11f1e6dd7962bc443bb0",
+      "official_name": "Sun EduSmart",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-EduSmart",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-e0ab2d230782d57ac750",
+      "official_name": "Sun Income Secure Max",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Income-Secure-Max",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-b2dff4d570d465da6c9c",
+      "official_name": "Sun Save Invest",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Invest",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-e38dc81230d085bd0a66",
+      "official_name": "Sun SaveAssured",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-SaveAssured",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-2ea78afea1ee9994d472",
+      "official_name": "Sun Saver Max",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Saver-Max",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-5c01862629ff977fdba6",
+      "official_name": "Sun Signature Life Plus",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Signature-Life-Plus",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-7363139985f8d226c0f9",
+      "official_name": "Sun Wealth Plus",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Wealth-Plus",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-a3115de4c5a58c5599b0",
+      "official_name": "SunInvest",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunInvest",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-9863d5d075f975927dcc",
+      "official_name": "SunLink Max",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunLink-Max",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-5e3b3baedda5c5cf8a9f",
+      "official_name": "Sun eCritical Shield",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eCritical-Shield",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-711f4d3792ef528f75e0",
+      "official_name": "Sun eMediCare Income",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eMediCare-Income",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-3e47b447ac281ed9e099",
+      "official_name": "Sun eSsential Life",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eSsential-Life",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-151ceb61aa1a55f6a59c",
+      "official_name": "Prime Family Critical Care-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Prime-Family-Critical-Care-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-446999c4ecb61be87091",
+      "official_name": "Prime Medi Care Max-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Prime-Medi-Care-Max-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-a6deb088ce8b0e8b3632",
+      "official_name": "Sun Hajj",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Hajj",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-fd41343cbce206f0a8ce",
+      "official_name": "Sun Heritage Plus-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Heritage-Plus-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-8590c6210514527cb3dd",
+      "official_name": "Sun MediMax-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-MediMax-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-8abaf4c5b4d4aeab4b95",
+      "official_name": "Sun Prime Link-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Prime-Link-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-e46c2626a1746fdb5a54",
+      "official_name": "Sun Secure Treasure-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Secure-Treasure-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-d32a0ed860269a35ee83",
+      "official_name": "Sun Wealth Protect-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Wealth-Protect-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-7eb80b8873e07a5433f7",
+      "official_name": "Sinar Kasih",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sinar-Kasih",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-e4fc0754e4f5d043020b",
+      "official_name": "Sinar Wasilah",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sinar-Wasilah",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-bd15f3b3b7334174ec86",
+      "official_name": "Credit Protector Plus-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Credit-Protector-Plus-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-f829dfbfda217f9e4f48",
+      "official_name": "Group Mortgage Level Term Takaful",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Level-Term-Takaful",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-2edeec27af3702e1d104",
+      "official_name": "Group Mortgage Reducing Term Takaful",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Reducing-Term-Takaful",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-417fa0ade384b4b2355a",
+      "official_name": "Group Term Financing Takaful",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Term-Financing-Takaful",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-51095299981c73ebd778",
+      "official_name": "SinarLink Aiman",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SinarLink-Aiman",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-161f6f60f22025671e37",
+      "official_name": "Sun Apex-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Apex-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-e19ab015fe17c7aacc48",
+      "official_name": "Sun AutoTakaful",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-AutoTakaful",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-d8af8875dd2fcb13c613",
+      "official_name": "Sun Cover-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Cover-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-451fa30e3fdd7844eaa1",
+      "official_name": "Sun Critical Elite",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Critical-Elite",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-7ef4ed184de221fa5f97",
+      "official_name": "Sun Enrich Extra-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Enrich-Extra-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-67725aa06b50da0c0e22",
+      "official_name": "Sun Inspirasi",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Inspirasi",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-25835a4490382d561a7f",
+      "official_name": "Sun Istismar Extra",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Istismar-Extra",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-07c4dad7e23210a6a89a",
+      "official_name": "Sun Legacy Shield",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Legacy-Shield",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-7cced8362647f25f1eef",
+      "official_name": "Sun MaxiMed-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-MaxiMed-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-1aae0d69b915877f42d9",
+      "official_name": "Sun Save Invest Takaful",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Invest-Takaful",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-e8e1444242f6018fec72",
+      "official_name": "Sun Ultimate Coverage-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Ultimate-Coverage-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-036b8ed8e8e952111616",
+      "official_name": "SunInvest-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunInvest-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-3a3d1000a12ed645e43a",
+      "official_name": "Takaful Mulia",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Takaful-Mulia",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-392b4c9dde6c8605ab4c",
+      "official_name": "Takaful Suria Plus",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Takaful-Suria-Plus",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-b158016fd5d375973881",
+      "official_name": "Sun eCritical Shield-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eCritical-Shield-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-51f6d23c183dbdfbe912",
+      "official_name": "Sun eMediCare Income-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eMediCare-Income-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    },
+    {
+      "observation_id": "MY-SunLife-observation-6ce8afe53a9c7ccdf920",
+      "official_name": "Sun eSsential-i",
+      "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eSsential-i",
+      "material_url": "https://www.sunlifemalaysia.com/getContentAsset/a04f4bef-1f8c-46d0-a999-6073cbe5956f/826411a5-9a44-43a6-8410-a7ad95da6d70/PrivacyNotice.pdf?language=en",
+      "old_type": "public_attachment_unclassified",
+      "new_type": "privacy_notice",
+      "individual_product_material_credit": false
+    }
+  ],
+  "network_requests": 0,
+  "file_bodies_reviewed": 0
+}

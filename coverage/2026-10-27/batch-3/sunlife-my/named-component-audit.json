@@ -1,0 +1,506 @@
+[
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Shield_Medi_Care_Max",
+    "official_name": "Shield Medi Care Max",
+    "source_checked_at": "2026-10-27T11:32:29.398032+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": true,
+    "legal_notice_conflict": true,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Fortune",
+    "official_name": "Sun Fortune",
+    "source_checked_at": "2026-10-27T11:32:33.529120+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": true,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Prestige-Life",
+    "official_name": "Sun Prestige Life",
+    "source_checked_at": "2026-10-27T11:32:37.408926+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Protect-Term",
+    "official_name": "Sun Protect Term",
+    "source_checked_at": "2026-10-27T11:32:41.539947+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Future",
+    "official_name": "Sun Save Future",
+    "source_checked_at": "2026-10-27T11:32:45.774349+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": true,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Shield-Link",
+    "official_name": "Sun Shield Link",
+    "source_checked_at": "2026-10-27T11:32:50.182306+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": true,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Cash-Plus-Assurance",
+    "official_name": "Cash Plus Assurance",
+    "source_checked_at": "2026-10-27T11:32:54.038572+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Credit-Protector-Plus",
+    "official_name": "Credit Protector Plus",
+    "source_checked_at": "2026-10-27T11:32:57.991028+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Amanah-Saham-Assurance",
+    "official_name": "Group Amanah Saham Assurance",
+    "source_checked_at": "2026-10-27T11:33:01.784984+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Level-Term-Assurance",
+    "official_name": "Group Mortgage Level Term Assurance",
+    "source_checked_at": "2026-10-27T11:33:05.578709+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Reducing-Term-Assurance",
+    "official_name": "Group Mortgage Reducing Term Assurance",
+    "source_checked_at": "2026-10-27T11:33:10.658501+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-AutoLife",
+    "official_name": "Sun AutoLife",
+    "source_checked_at": "2026-10-27T11:33:14.770509+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": true,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-EduSmart",
+    "official_name": "Sun EduSmart",
+    "source_checked_at": "2026-10-27T11:33:18.923991+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": true,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Income-Secure-Max",
+    "official_name": "Sun Income Secure Max",
+    "source_checked_at": "2026-10-27T11:33:22.788651+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Invest",
+    "official_name": "Sun Save Invest",
+    "source_checked_at": "2026-10-27T11:33:26.613371+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-SaveAssured",
+    "official_name": "Sun SaveAssured",
+    "source_checked_at": "2026-10-27T11:33:31.293717+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": true,
+    "legal_notice_conflict": true,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Saver-Max",
+    "official_name": "Sun Saver Max",
+    "source_checked_at": "2026-10-27T11:33:35.174958+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": true,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Signature-Life-Plus",
+    "official_name": "Sun Signature Life Plus",
+    "source_checked_at": "2026-10-27T11:33:39.635070+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": true,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Wealth-Plus",
+    "official_name": "Sun Wealth Plus",
+    "source_checked_at": "2026-10-27T11:33:43.465335+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": true,
+    "legal_notice_conflict": true,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunInvest",
+    "official_name": "SunInvest",
+    "source_checked_at": "2026-10-27T11:33:47.923352+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunLink-Max",
+    "official_name": "SunLink Max",
+    "source_checked_at": "2026-10-27T11:33:52.141580+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": true,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eCritical-Shield",
+    "official_name": "Sun eCritical Shield",
+    "source_checked_at": "2026-10-27T11:33:56.245237+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": true,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eMediCare-Income",
+    "official_name": "Sun eMediCare Income",
+    "source_checked_at": "2026-10-27T11:34:00.643025+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": true,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eSsential-Life",
+    "official_name": "Sun eSsential Life",
+    "source_checked_at": "2026-10-27T11:34:05.719463+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": true,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Prime-Family-Critical-Care-i",
+    "official_name": "Prime Family Critical Care-i",
+    "source_checked_at": "2026-10-27T11:34:10.608786+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": true,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Prime-Medi-Care-Max-i",
+    "official_name": "Prime Medi Care Max-i",
+    "source_checked_at": "2026-10-27T11:34:14.687568+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": true,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Hajj",
+    "official_name": "Sun Hajj",
+    "source_checked_at": "2026-10-27T11:34:19.193441+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Heritage-Plus-i",
+    "official_name": "Sun Heritage Plus-i",
+    "source_checked_at": "2026-10-27T11:34:23.345751+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": true,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-MediMax-i",
+    "official_name": "Sun MediMax-i",
+    "source_checked_at": "2026-10-27T11:34:27.948927+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Prime-Link-i",
+    "official_name": "Sun Prime Link-i",
+    "source_checked_at": "2026-10-27T11:34:32.187329+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": true,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Secure-Treasure-i",
+    "official_name": "Sun Secure Treasure-i",
+    "source_checked_at": "2026-10-27T11:34:37.885299+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Wealth-Protect-i",
+    "official_name": "Sun Wealth Protect-i",
+    "source_checked_at": "2026-10-27T11:34:42.752839+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sinar-Kasih",
+    "official_name": "Sinar Kasih",
+    "source_checked_at": "2026-10-27T11:34:46.744840+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sinar-Wasilah",
+    "official_name": "Sinar Wasilah",
+    "source_checked_at": "2026-10-27T11:34:51.429454+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Credit-Protector-Plus-i",
+    "official_name": "Credit Protector Plus-i",
+    "source_checked_at": "2026-10-27T11:34:56.354163+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": true,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Level-Term-Takaful",
+    "official_name": "Group Mortgage Level Term Takaful",
+    "source_checked_at": "2026-10-27T11:35:00.632265+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Reducing-Term-Takaful",
+    "official_name": "Group Mortgage Reducing Term Takaful",
+    "source_checked_at": "2026-10-27T11:35:05.989798+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Term-Financing-Takaful",
+    "official_name": "Group Term Financing Takaful",
+    "source_checked_at": "2026-10-27T11:35:10.393049+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SinarLink-Aiman",
+    "official_name": "SinarLink Aiman",
+    "source_checked_at": "2026-10-27T11:35:15.381999+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": true,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Apex-i",
+    "official_name": "Sun Apex-i",
+    "source_checked_at": "2026-10-27T11:35:21.312286+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": true,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-AutoTakaful",
+    "official_name": "Sun AutoTakaful",
+    "source_checked_at": "2026-10-27T11:35:25.475626+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Cover-i",
+    "official_name": "Sun Cover-i",
+    "source_checked_at": "2026-10-27T11:35:29.819344+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Critical-Elite",
+    "official_name": "Sun Critical Elite",
+    "source_checked_at": "2026-10-27T11:35:40.787636+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Enrich-Extra-i",
+    "official_name": "Sun Enrich Extra-i",
+    "source_checked_at": "2026-10-27T11:35:46.304780+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Inspirasi",
+    "official_name": "Sun Inspirasi",
+    "source_checked_at": "2026-10-27T11:35:50.058802+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Istismar-Extra",
+    "official_name": "Sun Istismar Extra",
+    "source_checked_at": "2026-10-27T11:35:54.043889+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": true,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Legacy-Shield",
+    "official_name": "Sun Legacy Shield",
+    "source_checked_at": "2026-10-27T11:35:58.408590+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-MaxiMed-i",
+    "official_name": "Sun MaxiMed-i",
+    "source_checked_at": "2026-10-27T11:36:02.415515+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Invest-Takaful",
+    "official_name": "Sun Save Invest Takaful",
+    "source_checked_at": "2026-10-27T11:31:27.563826+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Ultimate-Coverage-i",
+    "official_name": "Sun Ultimate Coverage-i",
+    "source_checked_at": "2026-10-27T11:36:07.498869+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunInvest-i",
+    "official_name": "SunInvest-i",
+    "source_checked_at": "2026-10-27T11:36:12.582659+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": true,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Takaful-Mulia",
+    "official_name": "Takaful Mulia",
+    "source_checked_at": "2026-10-27T11:36:16.289881+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Takaful-Suria-Plus",
+    "official_name": "Takaful Suria Plus",
+    "source_checked_at": "2026-10-27T11:36:21.353858+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eCritical-Shield-i",
+    "official_name": "Sun eCritical Shield-i",
+    "source_checked_at": "2026-10-27T11:36:25.507112+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eMediCare-Income-i",
+    "official_name": "Sun eMediCare Income-i",
+    "source_checked_at": "2026-10-27T11:36:29.753792+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  },
+  {
+    "product_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eSsential-i",
+    "official_name": "Sun eSsential-i",
+    "source_checked_at": "2026-10-27T11:36:33.762738+00:00",
+    "audit_at": "2026-10-27T11:41:53.180250+00:00",
+    "rider_or_addon_language_present": false,
+    "legal_notice_conflict": false,
+    "audit_scope": "Visible HTML only; no PDF content, policy/applicant eligibility or legal-underwriter contract verification."
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "created_at": "2026-10-27T13:02:39.383956+00:00",
+  "status": "immutable_candidate_v2_for_final_QA",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 2774,
+      "sha256": "0573445fd01cce42d80806efe1e06289e46d0e9ebb6974917159db8259785872"
+    },
+    {
+      "file": "documents-sunlife-my.jsonl",
+      "bytes": 405361,
+      "sha256": "b7573884bfabf6959c53a32925d2e9b3429969c837d4a22047abdca7e42f5411"
+    },
+    {
+      "file": "finite-queues.json",
+      "bytes": 28808,
+      "sha256": "d6b682a23386276d2a4755971c4779b6c7d22e6833d3163b34fdeb91323da2a0"
+    },
+    {
+      "file": "issuer-origin-evidence.json",
+      "bytes": 647,
+      "sha256": "a645f1687768cec6fabf1c67f32084cbc51875bfd6a2dc5d5cc002eedfc846f6"
+    },
+    {
+      "file": "issuer-specific-status.json",
+      "bytes": 968,
+      "sha256": "20f36eca94488bae6134e5e9fa0f05dc2d9044bf025618d7d66ee683ccf53116"
+    },
+    {
+      "file": "merge-map.json",
+      "bytes": 522,
+      "sha256": "fb3b45707bff3f762f861b5f2a44ced6f33a65692657bfdf22f1bb0752300e11"
+    },
+    {
+      "file": "named-component-audit.json",
+      "bytes": 26385,
+      "sha256": "624ec06f4c13cec428b48f7dd142d50b9492c816ccbeb134faf09339e550c705"
+    },
+    {
+      "file": "products-sunlife-my.jsonl",
+      "bytes": 234545,
+      "sha256": "57775a6a5d31c0019019582371f1620b736cfa695775517c10eec9e9fe13b56f"
+    },
+    {
+      "file": "publication-safety-gate.json",
+      "bytes": 361,
+      "sha256": "0a4973b76018acd754cdd001c0d7936a690662a9136056a5e1408744801cb612"
+    },
+    {
+      "file": "shared-source-attempts.json",
+      "bytes": 20972,
+      "sha256": "07426971c999de1f132c29a6c98a83b0d0b3fb7fb55eed2acd6815073e63bae3"
+    },
+    {
+      "file": "sources.json",
+      "bytes": 28673,
+      "sha256": "7ab30b43f888db3eccb745162436f1e79c7ac9a88bf1fb0b5c12a6b902e1778f"
+    },
+    {
+      "file": "sunlife-my-traversal.json",
+      "bytes": 5075,
+      "sha256": "3013a3006f654011e5cee3e64833ae8cc142b201993e7a9b7fbce8ca087694a2"
+    },
+    {
+      "file": "sunlife-my-unresolved-issuer-map.jsonl",
+      "bytes": 70117,
+      "sha256": "e845bd107fd9e7c98f56ae6b08de0d2d26a6945ea0eccda6ffd2becd0f3dca92"
+    },
+    {
+      "file": "v2-corrections.json",
+      "bytes": 30859,
+      "sha256": "ebeb1d6efc85c0554462005d778a51e1380dde2a5b18938ac97b13ad5f3c7876"
+    }
+  ]
+}

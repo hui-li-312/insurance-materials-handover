@@ -1,0 +1,570 @@
+[
+  {
+    "source_url": "https://www.sunlifemalaysia.com/",
+    "final_url": "https://www.sunlifemalaysia.com/",
+    "checked_at": "2026-10-27T10:17:55.114237+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "1a984dd9aa1ae69b072db182f513555ecc6797bb3e34e7843446e54f2653bad7"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful",
+    "final_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/life-insurance",
+    "checked_at": "2026-10-27T11:30:29.931511+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "6dc0830b174f941907338765db05ed4e342d9a424b2a768b55086f741ade6af8"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/life-insurance",
+    "final_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/life-insurance",
+    "checked_at": "2026-10-27T11:30:39.265657+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "2b281be199c2c147be8fc2a34d6a98bb6f9a9717d94ba96ac5dda28f92272032"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+    "final_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/family-takaful",
+    "checked_at": "2026-10-27T11:30:43.958519+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "acf5b26497e91f1cafe14ea6765afaecf5dedecef1d99d0848c012d35de8eca5"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/protection",
+    "final_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/protection",
+    "checked_at": "2026-10-27T11:30:49.826747+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "063552ff8181ca4e8d8d9479d5cc49b55376f83e24864c25ed470a6a500084b1"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/savings",
+    "final_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/savings",
+    "checked_at": "2026-10-27T11:30:54.095692+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "6a279f6ee330ed09ffe8f51f688136dee40d3f20f89541fc853e9f37a563ef58"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/investment",
+    "final_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/investment",
+    "checked_at": "2026-10-27T11:30:58.096025+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "5876b642080370acc4765429681ecb82bb8a3b38e0c89ae8127f542c4b99fef4"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/health",
+    "final_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/health",
+    "checked_at": "2026-10-27T11:31:02.222584+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "5bca474295f8e9154d9467e5b8ebd52c7f4cf6f73f8319f9168b2a93075fda01"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/critical-illness",
+    "final_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/critical-illness",
+    "checked_at": "2026-10-27T11:31:06.139865+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "8686bdcad65afa1d8d9742448ddb89977f30174e28052d06c7b7a2ce65f60005"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/education",
+    "final_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/education",
+    "checked_at": "2026-10-27T11:31:12.848290+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "f398b4561474746450eee96e748c6a8939e12a06e767ca252450ad8e7e09829f"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/retirement",
+    "final_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/retirement",
+    "checked_at": "2026-10-27T11:31:18.199563+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "1ee148b128dc5d5a04495acfb46e3d838f817bc8bf6dc7bf5e627f2866c3b5bb"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/client-care/downloads",
+    "final_url": "https://www.sunlifemalaysia.com/client-care/downloads",
+    "checked_at": "2026-10-27T11:31:22.827298+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "8b9a4edcdbd0e12751a4628e508420d12e23dc4a196e1b496f05cf6a56eb8766"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Invest-Takaful",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Invest-Takaful",
+    "checked_at": "2026-10-27T11:31:27.563826+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "ac91f4fb292509de81366a035de6625075486f7ecc9949b0c0845bce8d4c642a"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/life-insurance/sun-save-future/",
+    "final_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/sun-save-future",
+    "checked_at": "2026-10-27T11:31:31.845441+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "44301eab21b741e72a1f4fd7e6b70575257fd4822c9478b4f290cd360ea7990e"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/legacy-inheritance-family-empowerment-(life)/overview",
+    "final_url": "https://www.sunlifemalaysia.com/insurance-and-takaful/legacy-inheritance-family-empowerment-(life)/overview",
+    "checked_at": "2026-10-27T11:31:40.733428+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "f9b2f3e4aa01aeaee5dadc8343d9e230cc07c60f5ff1607ad529fca0bf495d5d"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/sitemap",
+    "final_url": "https://www.sunlifemalaysia.com/sitemap",
+    "checked_at": "2026-10-27T11:31:45.706165+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "a8c81c154892938638eb0625de674d90ad5e114d94a7901504357b255e703598"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Shield_Medi_Care_Max",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Shield_Medi_Care_Max",
+    "checked_at": "2026-10-27T11:32:29.398032+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "f0e37416c76ba7b0354d57dcec0bb2627abaee9b33d7c32780f5473629f44928"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Fortune",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Fortune",
+    "checked_at": "2026-10-27T11:32:33.529120+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "ae5a4bd14630c6e2c9744ffd0834d8fcb21133b189c0ce4114d57b338326f2fd"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Prestige-Life",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Prestige-Life",
+    "checked_at": "2026-10-27T11:32:37.408926+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "818581765d6e3a19d8f54093b8969f81eb46643daba5471fbcff96b296b8a5ab"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Protect-Term",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Protect-Term",
+    "checked_at": "2026-10-27T11:32:41.539947+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "4f69c8b887e73f5426223196878f3cddb9df85d106343f4cd0097ceae963b244"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Future",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Future",
+    "checked_at": "2026-10-27T11:32:45.774349+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "32ce45c977e4283abf46899c8ff8576822a183f7ce36595fa1ebd99a569c90ab"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Shield-Link",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Shield-Link",
+    "checked_at": "2026-10-27T11:32:50.182306+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "759cf4636a338ab023e1893d67cd370ec8601eef7cf55724ebb26f55ef55fe5c"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Cash-Plus-Assurance",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Cash-Plus-Assurance",
+    "checked_at": "2026-10-27T11:32:54.038572+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "c4f97ded6d57e9722c2500fdf5260202cde605984f206d7ac812b3923fcf6282"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Credit-Protector-Plus",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Credit-Protector-Plus",
+    "checked_at": "2026-10-27T11:32:57.991028+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "f1bae17cf7a323c7848bf503cef8b6bfcd3ca653d8d193d3a979784c1a88f2dd"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Amanah-Saham-Assurance",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Amanah-Saham-Assurance",
+    "checked_at": "2026-10-27T11:33:01.784984+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "4eb9d5ea7f184f9d23f59b0e8aa1b644986709421ee573dfad510a3e0b9bc168"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Level-Term-Assurance",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Level-Term-Assurance",
+    "checked_at": "2026-10-27T11:33:05.578709+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "5cf81ad34b8ff9e7c34314673273c82156e48c8bfef21ebe87edef026f36f40f"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Reducing-Term-Assurance",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Reducing-Term-Assurance",
+    "checked_at": "2026-10-27T11:33:10.658501+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "08db70fa2dcf13b0594f4f92e63265b12f05097b37140d72d9364d6b341937d5"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-AutoLife",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-AutoLife",
+    "checked_at": "2026-10-27T11:33:14.770509+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "0daa0c3f4e6aeb20eb2ab0eee6f5975838ce68a2a44d50a75aa0b29940fbfbd6"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-EduSmart",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-EduSmart",
+    "checked_at": "2026-10-27T11:33:18.923991+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "8df4fe3bef442217331e9f864aec707f6f8ae83b022486d4fd107eed4dbdc5af"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Income-Secure-Max",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Income-Secure-Max",
+    "checked_at": "2026-10-27T11:33:22.788651+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "5bb12b6b001158cb23c76af36d9085fa20c1296f275e0c3850b9b58f1308c25d"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Invest",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Save-Invest",
+    "checked_at": "2026-10-27T11:33:26.613371+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "b75e866bf61c2518b413952193be40015d95e17534d510a7d338dbd0cf3d5ac1"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-SaveAssured",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-SaveAssured",
+    "checked_at": "2026-10-27T11:33:31.293717+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "587a00c885002d4ff59b169199ccb835ad1e574100619d2fee3b474d8540d7e6"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Saver-Max",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Saver-Max",
+    "checked_at": "2026-10-27T11:33:35.174958+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "e2dc218ab3252b2057ea76ca494b6402d8c6c9c07ef723f5e9eead9d2b2b6246"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Signature-Life-Plus",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Signature-Life-Plus",
+    "checked_at": "2026-10-27T11:33:39.635070+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "ec67b864cd8e6da15c8207f8bcb8eb0d7da1193885a4b4ae57f29fc8009e8416"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Wealth-Plus",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Wealth-Plus",
+    "checked_at": "2026-10-27T11:33:43.465335+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "c9c926b2bbb85e7990eb745bd5b558666ea1d2f62e476b141507d119652395e2"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunInvest",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunInvest",
+    "checked_at": "2026-10-27T11:33:47.923352+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "ad031968d8072f25d79cde278603a845a92a1145cee45b3e9f8c013675e89fc6"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunLink-Max",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunLink-Max",
+    "checked_at": "2026-10-27T11:33:52.141580+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "c541dc40814b6504ac7c9cdebab7a54dc1ed11088a8049f24b7ac90b4d42c9ac"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eCritical-Shield",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eCritical-Shield",
+    "checked_at": "2026-10-27T11:33:56.245237+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "1f4ea00f1c829ec108b6695380cb0121dc2873f4261465cd74086bc027432058"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eMediCare-Income",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eMediCare-Income",
+    "checked_at": "2026-10-27T11:34:00.643025+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "b58f619a80859517a761635d577dd7bc434a490ad022954e715fcbb25c20e56f"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eSsential-Life",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eSsential-Life",
+    "checked_at": "2026-10-27T11:34:05.719463+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "7253e902b6b2488c22a5b68884ca2077b74728abcc31cde363350a8f10ebb439"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Prime-Family-Critical-Care-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Prime-Family-Critical-Care-i",
+    "checked_at": "2026-10-27T11:34:10.608786+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "0d2dd80634b5456c22d03d09056e266575840d15c6ae1c4e71be22571bf9911e"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Prime-Medi-Care-Max-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Prime-Medi-Care-Max-i",
+    "checked_at": "2026-10-27T11:34:14.687568+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "378d585cf96d53bed881821483f10d96a9361a926ac6592a261d7d7a0abc8de5"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Hajj",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Hajj",
+    "checked_at": "2026-10-27T11:34:19.193441+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "a8b64dcee0eaeac5eda01dc0c4f606b76d87d719a329647ae6fd8b5128594814"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Heritage-Plus-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Heritage-Plus-i",
+    "checked_at": "2026-10-27T11:34:23.345751+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "5ddf50f2ca7c740c88a69541900baac3c3c91d93638843ead6c8aead6e0b569f"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-MediMax-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-MediMax-i",
+    "checked_at": "2026-10-27T11:34:27.948927+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "22e9661063fed684d3cb80c7f0cd00eb9eeaeabbec3ba4ac086320377be38c81"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Prime-Link-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Prime-Link-i",
+    "checked_at": "2026-10-27T11:34:32.187329+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "f3fe1ff80f6667d5629228e90a3c50a42d7a86e3f88d52ae53541e5e4f48460e"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Secure-Treasure-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Secure-Treasure-i",
+    "checked_at": "2026-10-27T11:34:37.885299+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "cc7eaaf06d862c6d11ad8cbfe533a079365ca9b47a31a7cda37f91436aabe0e0"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Wealth-Protect-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Wealth-Protect-i",
+    "checked_at": "2026-10-27T11:34:42.752839+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "872416cc6defd81361553c58d0178384790e8f57c3a7afae35f35160d7de0623"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sinar-Kasih",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sinar-Kasih",
+    "checked_at": "2026-10-27T11:34:46.744840+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "ed6bfa9db62daf50301d25298f39e833a45e5112f623656f972fd181fb7a3e01"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sinar-Wasilah",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sinar-Wasilah",
+    "checked_at": "2026-10-27T11:34:51.429454+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "474dc9ab5cf77369ce01c7c6ecfcff5b0663a3eacbc0eb4165660c3b3e4e7b73"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Credit-Protector-Plus-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Credit-Protector-Plus-i",
+    "checked_at": "2026-10-27T11:34:56.354163+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "d8292de0f3e4af581fe2ceab401b6ca45eecd6ba65a975b540a22503aa768a55"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Level-Term-Takaful",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Level-Term-Takaful",
+    "checked_at": "2026-10-27T11:35:00.632265+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "13892a0ed8cd4a43d5f86b18ef1c05b7d2f4c517d33491d0d562842a4310d991"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Reducing-Term-Takaful",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Mortgage-Reducing-Term-Takaful",
+    "checked_at": "2026-10-27T11:35:05.989798+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "352708698db9fdcdf0f957cd04a079f0d02c46bd2330eddf6017028a7a476849"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Term-Financing-Takaful",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Group-Term-Financing-Takaful",
+    "checked_at": "2026-10-27T11:35:10.393049+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "1bf9fe5e1b7c736832796afe283adaee9d13d26fd3ae74cf0a42f8dc093c4367"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SinarLink-Aiman",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SinarLink-Aiman",
+    "checked_at": "2026-10-27T11:35:15.381999+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "4a102527a9876edaa6b0187e933e52fc1d594e5c2e5e77308e9c14261d6584b3"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Apex-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Apex-i",
+    "checked_at": "2026-10-27T11:35:21.312286+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "97907b5228a1dff359c3464c9d9cac34d8d9db7451caa116bf6a02f45c841ee5"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-AutoTakaful",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-AutoTakaful",
+    "checked_at": "2026-10-27T11:35:25.475626+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "970eba1d4c46a0fbda828db2c2bf3f2d601bcc3542901bf4ede7bfa5b3aa3317"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Cover-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Cover-i",
+    "checked_at": "2026-10-27T11:35:29.819344+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "01bbcf0fb3f2289efd3814750d8aa7c23a039022f2bd1c54f6985cb2ef4d52ee"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Critical-Elite",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Critical-Elite",
+    "checked_at": "2026-10-27T11:35:40.787636+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "e2856ca73d14a2196cde2bdebb25212361a1f538996bc8378ef08880b85721c1"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Enrich-Extra-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Enrich-Extra-i",
+    "checked_at": "2026-10-27T11:35:46.304780+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "c39f0385c0e5d621aafc98bdb6739c1726e27b0a572b16dd379230dcfe04b349"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Inspirasi",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Inspirasi",
+    "checked_at": "2026-10-27T11:35:50.058802+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "376f16e3bc535adf26e43a6e14c7e16e6cc4be7f6d7c7ff05a5c06fa7b8810d8"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Istismar-Extra",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Istismar-Extra",
+    "checked_at": "2026-10-27T11:35:54.043889+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "04dcc336fe192c11194bed0110a9a1ffd4e72e72f26a0eb2d67d36b02fa22d8a"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Legacy-Shield",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Legacy-Shield",
+    "checked_at": "2026-10-27T11:35:58.408590+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "f872a0c4e60cefbb84eabbee1a1eaa5119a9a75908ef013c3cc770f10709529e"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-MaxiMed-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-MaxiMed-i",
+    "checked_at": "2026-10-27T11:36:02.415515+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "80c88c3d23132a334e07426cbbc1328365cfd614e17511f39d8d107837bc0cc8"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Ultimate-Coverage-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-Ultimate-Coverage-i",
+    "checked_at": "2026-10-27T11:36:07.498869+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "56652c3fdd965ea2df47dee5ee558742bb7d15c03c87b31944c3c52ea6a21545"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunInvest-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/SunInvest-i",
+    "checked_at": "2026-10-27T11:36:12.582659+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "079890d253062ca35e90d8605f1f4eee31a954c30b00d295d15f4ae9115193bf"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Takaful-Mulia",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Takaful-Mulia",
+    "checked_at": "2026-10-27T11:36:16.289881+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "061a8291ef3a10a84a92b116c40d73369051e3993bbbe892c9dfa3f97167fc29"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Takaful-Suria-Plus",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Takaful-Suria-Plus",
+    "checked_at": "2026-10-27T11:36:21.353858+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "c0e8f1438f4772b63904b46e2b73b2f49346ac13a5d3c141ca245568d6ce78db"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eCritical-Shield-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eCritical-Shield-i",
+    "checked_at": "2026-10-27T11:36:25.507112+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "3033ae34da0e5b5017561cbfde7db9b48e1670193552df536730c3b8036550da"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eMediCare-Income-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eMediCare-Income-i",
+    "checked_at": "2026-10-27T11:36:29.753792+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "ec0faed121f44d69d0f4cc25092eee0e590d4606712dfdf557d7e1e96bda6fc8"
+  },
+  {
+    "source_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eSsential-i",
+    "final_url": "https://www.sunlifemalaysia.com/Insurance-and-Takaful/Sun-eSsential-i",
+    "checked_at": "2026-10-27T11:36:33.762738+00:00",
+    "source_date": null,
+    "source_type": "official_public_HTML",
+    "content_sha256": "929c74674a65d03e812eab2bea910d0003eb3f448d8488d920dd2cc38cf593b8"
+  }
+]

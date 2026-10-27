@@ -1,0 +1,17 @@
+{
+  "marketed_offerings": {
+    "file": "products-sunlife-my.jsonl",
+    "rows": 61,
+    "issuer_assignment": "unresolved; retain separately, never copy to both legal entities"
+  },
+  "unresolved_map": {
+    "file": "sunlife-my-unresolved-issuer-map.jsonl",
+    "rows": 61,
+    "count_credit": "index only, not additional observations"
+  },
+  "documents": {
+    "file": "documents-sunlife-my.jsonl",
+    "rows": 218,
+    "count_credit": "entity-headed document references only; zero current-product/download credit"
+  }
+}

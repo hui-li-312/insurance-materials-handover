@@ -1,0 +1,91 @@
+{
+  "snapshot_at": "2026-10-27T13:02:39.383956+00:00",
+  "jurisdiction": "MY",
+  "source_brand": "Sun Life Malaysia",
+  "status": "immutable_candidate_for_independent_QA",
+  "products_status": "partial",
+  "marketed_catalog_unique_named_card_targets": 56,
+  "marketed_offering_observations_including_inline_riders": 61,
+  "marketed_role_counts": {
+    "rider": 8,
+    "product": 47,
+    "group": 6
+  },
+  "unresolved_legal_underwriter_rows": 61,
+  "confirmed_legal_issuer_current_product_credit": 0,
+  "current_named_card_type_counts": {
+    "Life Insurance": 24,
+    "Family Takaful": 32
+  },
+  "directory_raw_link_rows": 219,
+  "directory_duplicate_exact_rows_removed": 1,
+  "entity_assigned_document_observations": 218,
+  "document_rows_are_current_products": false,
+  "material_reference_count": 385,
+  "marketed_offering_material_reference_count": 167,
+  "directory_material_reference_count": 218,
+  "unique_publishable_material_urls": 305,
+  "material_role_counts": {
+    "brochure": 34,
+    "product_disclosure": 61,
+    "privacy_notice": 56,
+    "campaign_terms_or_information": 8,
+    "key_information_pager": 23,
+    "master_policy_or_contract_candidate": 104,
+    "certificate_or_contract_candidate": 22,
+    "blank_claim_form": 33,
+    "service_or_consumer_information": 44
+  },
+  "held_locator_fields_redacted": 0,
+  "additional_email_like_locator_fields_omitted": 2,
+  "raw_PDFs_downloaded": 0,
+  "formal_new_material_file_count": 0,
+  "verified_unique_SKUs": 0,
+  "source_request_event_count": 71,
+  "source_status_counts": {
+    "200": 71
+  },
+  "finite_queue_bounds": {
+    "homepage_identity_context": 1,
+    "source_advertised_roots_and_context": 15,
+    "reviewed_named_product_detail_queue": 55,
+    "new_links_auto_enqueued": false
+  },
+  "queue_reconciliation": "56 unique named card targets all read;1 target already in first queue,55 in second. No newly exposed in-scope unattempted product target after cached source/card/sitemap review. Case-preserved source hrefs requested; comparison normalization did not modify request URLs.",
+  "pagination_evidence": "Life24 and Family Takaful32 cards are fully present in public HTML. No next/load-more pagination controls or explicit product-array endpoint found on either category. Need-based categories repeat these targets.",
+  "legal_mapping_boundary": "All61 marketed offering/rider observations remain unassigned: only product-local PIDM contact notices available, with demonstrated conflicting company names. Source-type preferred candidate is not confirmed underwriting evidence. Entity-headed directory records are attributed only as documents.",
+  "per_issuer_status": [
+    {
+      "issuer_id": "MY-own-ce129644661ee399",
+      "legal_name": "Sun Life Malaysia Assurance Berhad",
+      "products_status": "partial",
+      "current_offering_assignment_status": "unresolved_shared_brand_legal_underwriter_not_proven",
+      "confirmed_current_offering_rows": 0,
+      "entity_headed_document_observations": 74,
+      "shared_origin_request_event_count": 71,
+      "request_count_note": "Same shared71 requests referenced by both entities, never142 separate requests."
+    },
+    {
+      "issuer_id": "MY-own-66b03be0417a1f3f",
+      "legal_name": "Sun Life Malaysia Takaful Berhad",
+      "products_status": "partial",
+      "current_offering_assignment_status": "unresolved_shared_brand_legal_underwriter_not_proven",
+      "confirmed_current_offering_rows": 0,
+      "entity_headed_document_observations": 144,
+      "shared_origin_request_event_count": 71,
+      "request_count_note": "Same shared71 requests referenced by both entities, never142 separate requests."
+    }
+  ],
+  "limits": [
+    "Current marked-card coverage is bounded to the observed English shared-brand pages, not all products/contracts across two legal issuers.",
+    "No confirmed legal-underwriter assignment for marketed offerings. No automatic duplication across Assurance and Takaful companies.",
+    "Inline named riders are recorded; SunLink Max/SinarLink Aiman/Sun Istismar Extra mention unnamed rider counts that remain unresolved without contract/source detail.",
+    "No PDFs, bank/partner origins, quotes, applications, login, contact forms or transaction pages were requested.",
+    "Policy-issue applicability from directory link labels is separated from publication/effective dates; filename dates remain unverified.",
+    "Directory documents include historical policies, certificates, claim forms and service guides. They are not evidence of currently purchasable offerings, new files, unique SKUs or complete contract packages.",
+    "56 offering-page Privacy Notice references are privacy/service information with zero individual-product-material credit; reference counts do not imply product-policy content."
+  ],
+  "supersedes": "sunlife-my-ready-20261027T114549Z",
+  "revision": "v2:56 explicitly labelled Privacy Notice links reclassified privacy_notice with zero individual product-material credit; no rows or URLs added/removed.",
+  "privacy_notice_occurrences_zero_product_material_credit": 56
+}
