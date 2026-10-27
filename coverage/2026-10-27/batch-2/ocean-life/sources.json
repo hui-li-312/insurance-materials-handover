@@ -1,0 +1,20 @@
+{
+  "issuer_regulator_source": {
+    "url": "https://smart.oic.or.th/EService/Menu12",
+    "source_date": null,
+    "checked_at": "2026-10-27T09:45:48Z",
+    "source_locator": "OIC insurer directory: life insurance tab, first page with 30 rows per page, fifth displayed company record (Ocean Life); observed 2026-10-27.",
+    "official_website": "https://www.ocean.co.th"
+  },
+  "catalog": {
+    "url": "https://www.ocean.co.th/our-products",
+    "pagination_pages": 10,
+    "unique_cards": 59,
+    "advertised_cards": 59,
+    "pagination_exhausted": true,
+    "detail_pages_checked": 59,
+    "all_detail_h1_names_match": true,
+    "group_catalog_url": "https://www.ocean.co.th/group-insurance",
+    "group_catalog_complete": false
+  }
+}

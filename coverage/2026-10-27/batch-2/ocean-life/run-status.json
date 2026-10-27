@@ -1,0 +1,26 @@
+{
+  "snapshot_at": "2026-10-27T10:43:17.755911+00:00",
+  "issuer_id": "own-th-e8f8423e8616",
+  "catalog_cards": 59,
+  "detail_pages_verified": 59,
+  "roles": {
+    "product": 42,
+    "rider": 14,
+    "plan": 3
+  },
+  "channel_entries": {
+    "online": 28,
+    "agent": 31
+  },
+  "material_links": 66,
+  "unique_material_urls": 66,
+  "material_files_requested_in_bounded_run": 0,
+  "material_files_downloaded_in_bounded_run": 0,
+  "new_formal_original_files": 0,
+  "selected_unfiltered_catalog_pagination_complete": true,
+  "issuer_all_public_catalogs_complete": false,
+  "all_skus_complete": false,
+  "all_wordings_complete": false,
+  "status": "ready_for_QA_not_publication",
+  "standalone_or_base_contract_unconfirmed_entries": 42
+}

@@ -1,0 +1,32 @@
+{
+  "snapshot_at": "2026-10-27T10:43:17.755911+00:00",
+  "supersedes_manifest_sha256": "e715dfa4ae5df56843e23634c2caf02fc2502babff86928052a7dc8442737ed6",
+  "revision_note": "Clarified product-observation versus unconfirmed standalone/base-contract status; replaced a local evidence locator with the official directory display locator. Entry and link counts unchanged.",
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "9f36cfdcbcabe0ef6991a9d5b0cff5e2866644ab021e7c0a92f32077a67e69a1",
+      "bytes": 668
+    },
+    {
+      "file": "catalog-cards.jsonl",
+      "sha256": "4ad938b5e325dfcfbdc4e77630413c7952ddea19ab6ae24bfc2144b95089dd00",
+      "bytes": 50864
+    },
+    {
+      "file": "products.jsonl",
+      "sha256": "5bb2fe8612da0ce96be15043f80249ed16f7377dafb57e7786e13c1053deb987",
+      "bytes": 121083
+    },
+    {
+      "file": "run-status.json",
+      "sha256": "089c48bb6a7c298866edd16d5f3aba4968c93dd6cabda7cf7fc7382a846b0d3e",
+      "bytes": 735
+    },
+    {
+      "file": "sources.json",
+      "sha256": "2a4624265c0cffaee332d99aeedc20ce78a95bb31287acb84a232612aa7e2472",
+      "bytes": 738
+    }
+  ]
+}
