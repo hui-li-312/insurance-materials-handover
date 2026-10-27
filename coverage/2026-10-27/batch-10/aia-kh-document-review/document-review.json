@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "artifactType": "document-review-sidecar-candidate",
+  "candidateStatus": "local_only_not_integrated_or_published",
+  "reviewId": "document-review-aia-kh-4b414b3c8f4df54f-20261027",
+  "reviewedAt": "2026-10-27T19:14:18.069874+00:00",
+  "binding": {
+    "sourceMaterialRefId": "material-e61979cc666bb329f725",
+    "exactOfficialDocumentUrl": "https://www.aia.com.kh/content/dam/kh-wise/policy-contract/AIA-PolicyContract-SamrabSokapheab-AIA-Chambong.pdf",
+    "sourceParentInventoryId": "KH-product-7d437a2f7cb81eab",
+    "sourceIssuerId": "KH-issuer-638d516b466f",
+    "sourceProductPageUrl": "https://www.aia.com.kh/en/products/health/medical-protection/aia-somrab-sokhapheap",
+    "sourceRepositoryRecord": {
+      "path": "coverage/2026-10-27/batch-7/bn-kh-la-mm/products.jsonl",
+      "jsonlLine": 220,
+      "materialArrayIndexZeroBased": 2
+    },
+    "automaticRuntimeBindingAllowed": false,
+    "runtimeBindingBlocker": "The current coverage runtime retains the exact document URL and source parent ID but does not preserve sourceMaterialRefId. Preserve that field before exact-key enrichment; reference-3 is not a globally unique document key."
+  },
+  "documentIdentity": {
+    "sha256": "4b414b3c8f4df54fd38b15069402ca2cd358672fae61ad83cb7e3465aa34c02a",
+    "byteCount": 73454222,
+    "pageCount": 91,
+    "issuer": "AIA (Cambodia) Life Insurance Plc",
+    "issuerEvidencePhysicalPages": [
+      53,
+      84
+    ],
+    "jurisdiction": "Kingdom of Cambodia",
+    "jurisdictionEvidencePhysicalPages": [
+      62,
+      83
+    ],
+    "sourceParentProductName": "AIA Samrab Sokapheap",
+    "basicPolicyName": "AIA ចម្បង",
+    "basicPolicyRomanization": "Chambong (source filename)",
+    "healthRiderName": "AIA សម្រាប់សុខភាព",
+    "healthRiderRomanTitleAsPrinted": "AIA SAMRAB SOKAPHEAB",
+    "healthRiderRomanTitleEvidencePhysicalPage": 84,
+    "formNumberVisual": "[IMR0]",
+    "formNumberEvidencePhysicalPages": [
+      1,
+      18,
+      51,
+      65
+    ],
+    "formNumberCaveat": "Visual transcription; English OCR reads the last character as O. This is not a confirmed revision date.",
+    "legalEffectiveDate": null,
+    "legalEffectiveDateStatus": "not_established",
+    "editionDate": null,
+    "editionDateStatus": "not_established"
+  },
+  "reviewConclusion": {
+    "documentRole": "basic_main_policy_wording_plus_health_rider_and_supplementary_services_bundle",
+    "basicMainPolicyWordingPresent": true,
+    "basicMainPolicyEvidencePhysicalPages": [
+      53,
+      54,
+      55
+    ],
+    "riderRelationshipEvidencePhysicalPages": [
+      66
+    ],
+    "supplementaryServicesEvidencePhysicalPages": [
+      84,
+      85,
+      87,
+      88
+    ],
+    "summary": "The file contains operative basic-policy clauses, a health rider attached to a basic policy, and complementary service terms in Khmer and English. It is not merely a brochure. These constituent parts are not additional independent products.",
+    "parts": [
+      {
+        "physicalPages": {
+          "start": 1,
+          "end": 17
+        },
+        "language": "Khmer",
+        "documentPartRole": "basic/main policy wording",
+        "displayedProductTitle": "AIA ចម្បង",
+        "printedPageRange": "a, b, 1–15"
+      },
+      {
+        "physicalPages": {
+          "start": 18,
+          "end": 42
+        },
+        "language": "Khmer",
+        "documentPartRole": "health rider policy wording",
+        "displayedProductTitle": "AIA សម្រាប់សុខភាព",
+        "printedPageRange": "a, b, 1–23"
+      },
+      {
+        "physicalPages": {
+          "start": 43,
+          "end": 50
+        },
+        "language": "Khmer",
+        "documentPartRole": "complementary services/benefits terms and conditions",
+        "displayedProductTitle": "AIA សម្រាប់សុខភាព",
+        "printedPageRange": "1–8"
+      },
+      {
+        "physicalPages": {
+          "start": 51,
+          "end": 64
+        },
+        "language": "English with Khmer product name",
+        "documentPartRole": "basic/main policy wording",
+        "displayedProductTitle": "INSURANCE POLICY AIA ចម្បង",
+        "printedPageRange": "a, b, 1–12"
+      },
+      {
+        "physicalPages": {
+          "start": 65,
+          "end": 83
+        },
+        "language": "English with Khmer product name",
+        "documentPartRole": "health rider policy wording",
+        "displayedProductTitle": "INSURANCE POLICY AIA សម្រាប់សុខភាព",
+        "printedPageRange": "unnumbered table of contents, 1–18"
+      },
+      {
+        "physicalPages": {
+          "start": 84,
+          "end": 91
+        },
+        "language": "English with Khmer product name",
+        "documentPartRole": "complementary services/benefits terms and conditions",
+        "displayedProductTitle": "AIA សម្រាប់សុខភាព (AIA SAMRAB SOKAPHEAB)",
+        "printedPageRange": "1–8"
+      }
+    ],
+    "notACompleteIssuedPolicyPackageFinding": "No selected numeric Benefits Schedule, Certificate of Insurance or individual endorsements were identified. Complete issued-package status remains unconfirmed.",
+    "currentSaleStatus": "not_independently_verified",
+    "legalApplicabilityConclusion": null
+  },
+  "reviewScope": {
+    "allPhysicalPagesVisuallyViewed": {
+      "start": 1,
+      "end": 91,
+      "count": 91
+    },
+    "allPageVisualTriageComplete": true,
+    "englishPagesLocallyOcredAndSemanticallyReviewed": {
+      "start": 51,
+      "end": 91,
+      "count": 41
+    },
+    "khmerPagesVisualTriageOnly": {
+      "start": 1,
+      "end": 50,
+      "count": 50
+    },
+    "fullContentSemanticReviewComplete": false,
+    "fullContentSafetyReviewComplete": false,
+    "khmerLineByLineLegalTranslationCompleted": false,
+    "englishKhmerLegalEquivalenceVerified": false,
+    "languagePriority": "Basic-policy physical page 64 states that Khmer prevails if English and Khmer versions conflict.",
+    "languagePriorityEvidencePhysicalPage": 64,
+    "methods": "Local 110 dpi all-page visual triage, selected 130 dpi identity pages, and local English OCR. Native text extraction was sparse; OCR is fallible. No external OCR or source refetch was used for this review.",
+    "scopeNote": "All pages viewed is not a claim that every Khmer clause was semantically verified; it must not be mapped to an unrestricted full-read or legal-clearance flag."
+  },
+  "deduplication": {
+    "existingLegacyDocumentId": "regional-20261025-4b414b3c8f4df54f",
+    "existingLegacyExactUrlAndSha256Match": true,
+    "existingLegacyByteAndPageCountsMatch": true,
+    "conclusion": "This reviewed byte identity already exists in the legacy document inventory. This review is not a net-new original relative to the existing formal baseline.",
+    "legacyMatchDoesNotAuthorizeProductMerge": true
+  },
+  "preservedBoundaries": {
+    "frozenSourceRecordsModified": false,
+    "frozenSourceTimestampsModified": false,
+    "frozenC4AcquisitionStatusModified": false,
+    "formalOriginalBaseline": 4713,
+    "strictVerifiedBaseline": 426,
+    "formalOriginalCreditIncrement": 0,
+    "strictVerifiedIncrement": 0,
+    "independentProductCountIncrement": 0,
+    "rawDocumentReleaseAuthorized": false,
+    "rawDocumentRehostingPermissionConfirmed": false,
+    "fullContractPackageVerified": false,
+    "sourceReviewIsNotReuseOrLegalClearance": true
+  },
+  "integrationRules": [
+    "Apply only as a separately approved review overlay; do not rewrite frozen coverage input rows, source timestamps or C4 acquisition states.",
+    "Preserve source material_ref_id in the adapter. Join only on the exact tuple of material_ref_id, document URL, source parent inventory ID and issuer ID; reject missing or conflicting keys.",
+    "Do not join on reference-3, similar product names, shared branding, URL basename, or document title alone.",
+    "The legacy exact URL plus same-byte SHA match is deduplication evidence only. Its label-group product parent is not an authority to merge or reassign product identity.",
+    "Keep visual-page coverage and semantic/full-content review flags separate. Do not turn allPagesReviewed/fullContentReviewComplete on solely from this all-page visual triage.",
+    "Keep original/formal/strict/SKU credits and independent product counts unchanged. No raw PDF, OCR text or private archive links belong in the public overlay."
+  ]
+}

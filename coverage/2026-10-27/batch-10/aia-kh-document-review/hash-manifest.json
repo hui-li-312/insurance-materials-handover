@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "artifactType": "safe-metadata-candidate-hash-manifest",
+  "candidateStatus": "local_only_not_integrated_or_published",
+  "createdAt": "2026-10-27T19:19:33.460832+00:00",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1489,
+      "sha256": "17d9039948bae27bbcd53099ebe68f8eb551afded89fb520edde8e9b3e00a571"
+    },
+    {
+      "path": "document-review.json",
+      "bytes": 8446,
+      "sha256": "ea36923a161234e49125c860e47074010b1c0a776ef8f9cdb447a15543190fbd"
+    }
+  ],
+  "manifestSelfHashIncluded": false,
+  "contentTypes": [
+    "application/json",
+    "text/markdown"
+  ],
+  "rawPdfFiles": 0,
+  "ocrTranscripts": 0,
+  "publicRawReleaseAuthorized": false
+}
