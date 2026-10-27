@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "compiled_at": "2026-10-27T18:30:50Z",
+  "compiled_at": "2026-10-27T18:47:00Z",
   "status": "in_progress_not_all_market_complete",
   "formal_original_baseline": 4713,
   "new_formal_original_credit": 0,
@@ -301,8 +301,42 @@
       "new_formal_original_credit": 0,
       "new_verified_SKU_credit": 0,
       "aggregation_notice": "56 rows added once; 11 brochure-label mentions join exact product IDs and retain null unresolved URLs, not HOLD. Source text operations are not HTTP request counts or product counts."
+    },
+    {
+      "id": "muangthai_life_th_catalog",
+      "path": "2026-10-27/batch-9/muangthai-life-th/",
+      "regions": [
+        "TH"
+      ],
+      "source_observations": 56,
+      "unit": "named_source_observations_not_verified_contracts_or_SKUs",
+      "issuer_id": "own-th-1489116e8845",
+      "source_material_occurrences": 109,
+      "unreviewed_image_reference_occurrences": 0,
+      "accepted_source_manifest_sha256": "5592414568f50b56f3bcd1c3d66239a1a3dd9c5894529fbec6d2977a25163044",
+      "whole_issuer_catalog_closed": false,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "aggregation_notice": "Import named observations once by issuer and stable source record ID; subordinate components, variants, generic classes, audience and comparison routes, and unvisited channels are non-additive. Document/image references are unreviewed, not complete policy wordings."
+    },
+    {
+      "id": "bangkok_life_th_catalog",
+      "path": "2026-10-27/batch-9/bangkok-life-th/",
+      "regions": [
+        "TH"
+      ],
+      "source_observations": 59,
+      "unit": "named_source_observations_not_verified_contracts_or_SKUs",
+      "issuer_id": "own-th-0b8588486bb9",
+      "source_material_occurrences": 9,
+      "unreviewed_image_reference_occurrences": 227,
+      "accepted_source_manifest_sha256": "ae78cc9edfebfb44744334bdb12f55c5977d103b4c4008e4ca0f2c78805bb976",
+      "whole_issuer_catalog_closed": false,
+      "new_formal_original_credit": 0,
+      "new_verified_SKU_credit": 0,
+      "aggregation_notice": "Import named observations once by issuer and stable source record ID; subordinate components, variants, generic classes, audience and comparison routes, and unvisited channels are non-additive. Document/image references are unreviewed, not complete policy wordings."
     }
   ],
   "public_projection_rule": "Known historical or already-held raw locators are withheld; observed source-reference counts are not the count of exposed download URLs. No current-file confidentiality finding or fresh-byte verification is inferred.",
-  "last_projection_correction": "Batch 8: exact Prudential Singapore v3 (128 observations) and AIA Philippines v4 (56 observations) added once with explicit source ownership, legal-underwriter uncertainty, scoped dates, components, unresolved targets and crawl-origin boundaries. Existing feeds and original/formal/verified credit unchanged."
+  "last_projection_correction": "Batch 9: exact independently approved Muang Thai Life (56) and corrected Bangkok Life v2 QA (59) named observations added once. Preserve all contract-role uncertainty, routes, source timestamps, subordinate relations, document-only and unvisited channels, and unreviewed image references. Life issuers stay separate from similarly named nonlife companies; no formal-original or verified-SKU additions."
 }

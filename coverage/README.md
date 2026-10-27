@@ -105,3 +105,7 @@ SAMPLE／示范件仍可以是真正的主保单条款，不等于宣传册；�
 [固定 v3 来源](2026-10-27/batch-8/prudential-sg/README.md) 新增 128 条混合观察；49 张卡及 69 条文档索引不另计行。Care Secure 为 Income 承保、Prudential 分销，采集归属 Prudential，不视为 Income 自有目录完成。74 个父关联不继承材料；46 处 information-as-of 只为来源信息时点，非发布／合同生效日期。完整整合边界与本地验证见 [REGIONAL_REFRESH_BATCH8.md](../docs/REGIONAL_REFRESH_BATCH8.md)。本地候选共 4,986 条混合观察 / 26 feeds，不增加正式原件或核验 SKU，未部署。
 
 [AIA Philippines v4 固定源](2026-10-27/batch-8/aia-ph/README.md) 追加 56 条来源公司语境，43 个父关联不模糊合并。11 个宣传册标签目标未暴露，URL null 不等于 HOLD。30 次 web 操作是 29 个不同请求 URL、29 个文本捕获加一次缓存缺失，不是 HTTP 数。9 处目录壳缺口保留；文本行补读闭合不等于动态官网／全市场完成，全部合同承保人未核。
+
+## 第九批：泰国两家寿险来源目录
+
+[Muang Thai Life 固定源](2026-10-27/batch-9/muangthai-life-th/README.md) 56 条与 [Bangkok Life corrected v2 QA 固定源](2026-10-27/batch-9/bangkok-life-th/README.md) 59 条命名观察各导入一次；合计 5,101 条混合观察 / 28 feeds，不是产品／SKU 数。44 条从属组件／变体及 7 条类别、受众与比较语境不另计产品；8 张仅文件卡、2 张未访问在线卡和 Bangkok 4 条未访问渠道引用保持各自状态。118 条文件候选与另列的 227 条未审图片引用（183 个唯一 URL）没有新增正式原件、OCR／视觉审查或完整条款信用。完整范围与本地验证见 [REGIONAL_REFRESH_BATCH9.md](../docs/REGIONAL_REFRESH_BATCH9.md)。该候选未部署；基于已验证完整 batch8 HEAD `8845a19e3ba2c364f642c2c7ec335bcc47d9c935`，发布前须复核当前 HEAD 并保留较新的部署文档。
