@@ -1,0 +1,61 @@
+{
+  "scope": "Selected English/default public catalog arrays, their exact details and two named related-card details; separate English/Malay HLA disclosure directory. Not an all-language/filter/channel or whole-issuer completeness claim.",
+  "catalog_arrays": {
+    "HLA_personal": 32,
+    "HLA_business": 7,
+    "HLMT_personal": 16,
+    "HLMT_business": 4
+  },
+  "default_card_rows": 59,
+  "additional_related_details": 2,
+  "successful_detail_sources": 61,
+  "catalog_observation_rows": 94,
+  "issuer_catalog_observation_rows": {
+    "Hong Leong Assurance Berhad": 44,
+    "Hong Leong MSIG Takaful Berhad": 50
+  },
+  "role_counts": {
+    "product": 43,
+    "rider_family": 1,
+    "rider": 40,
+    "product_family": 2,
+    "group": 6,
+    "plan_variant": 2
+  },
+  "parent_child_edges": 33,
+  "separate_disclosure_records": 214,
+  "disclosure_named_sections": 100,
+  "disclosure_tab_counts": {
+    "F - L": 82,
+    "A - E": 58,
+    "M - S": 50,
+    "T - Z": 24
+  },
+  "disclosure_language_counts": {
+    "en": 107,
+    "ms": 107
+  },
+  "material_associations": 437,
+  "distinct_material_URLs": 311,
+  "material_association_type_counts": {
+    "brochure_or_flyer_candidate": 42,
+    "product_disclosure_candidate": 112,
+    "general_consumer_protection_information": 61,
+    "benefit_option_information_candidate": 4,
+    "premium_or_contribution_schedule": 3,
+    "benefit_schedule": 1,
+    "product_disclosure_directory_reference": 214
+  },
+  "distinct_PIDM_URLs": 3,
+  "PIDM_material_credit": 0,
+  "full_policy_wording_source_candidates": 0,
+  "related_detail_delta": 0,
+  "PDF_acquisition_count": 0,
+  "full_contract_reviews": 0,
+  "formal_file_credit": 0,
+  "verified_SKU_credit": 0,
+  "whole_issuer_catalog_closed": false,
+  "source_pointer_scope": "All source_JSON_pointer values are absolute JSON Pointers from the full source model. source_card_JSON_pointer points into source_catalog_url. Child pointers do not inherit parent material credit.",
+  "underwriter_verification": "Legal-entity source publisher and official website association only; actual contract underwriting entity not independently document-verified.",
+  "date_scope": "Collection checked_at is not publication, effective or withdrawal date; all such source dates remain null."
+}
