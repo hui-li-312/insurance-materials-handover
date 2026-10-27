@@ -35,11 +35,17 @@
   "permissions": "Private handover only; no permission to publicly rehost third-party documents or to commercially reuse inferred.",
   "raw_bytes": 7481966941,
   "raw_release_asset_count": 18,
-  "raw_release_upload_status": "not_uploaded",
+  "raw_release_upload_status": "published_github_sha256_verified",
   "quarantine_restored": 51,
   "source_archive_count": 378,
   "nonmatching_archive_members_not_exported": 2424,
   "raw_release_original_count": 4662,
   "raw_release_withheld_count": 51,
-  "quarantine_release_status": "not_for_upload_pending_privacy_review"
+  "quarantine_release_status": "not_for_upload_pending_privacy_review",
+  "raw_release_url": "https://github.com/hui-li-312/insurance-materials-handover/releases/tag/v2026.10.27",
+  "raw_release_verified_at_utc": "2026-10-27T08:50:10Z",
+  "raw_release_verification_method": "18/18 GitHub-published SHA-256 digests matched local manifest; not full binary re-download",
+  "raw_release_zip_bytes": 7406180506,
+  "github_repository_url": "https://github.com/hui-li-312/insurance-materials-handover",
+  "github_clean_baseline_commit": "a30fb8793da3dfe2b2f10eae167049d7bbf7886a"
 }
