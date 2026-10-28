@@ -1,0 +1,23 @@
+{
+  "regionFiles": {
+    "coverage-observations-HK.json": "5db1bfafd5a666e4065a56b470e83464c74b7004e8ae7ff96427f95e2218e6d3",
+    "coverage-observations-SG.json": "28affc306ef44baa32a18dac860880fee29c149a542af5a2f3caf84e4bed6378",
+    "coverage-observations-MY.json": "01b63974919a9e8fe540ef878dfceaf73fafeaef8ac8191d02ab34c274beda8c",
+    "coverage-observations-TH.json": "6d5c3ff3649f16e32e9528da8a8d6decf48b04414b3103ed148cc8df74d23175",
+    "coverage-observations-ID.json": "ba48e9c782875bab9248d8e18b4aa41eb6895d6f9f6173ef87681ac1e516f50c",
+    "coverage-observations-PH.json": "98dea4255a519371da356748fb5284ebae212109e7984dec97edd6100a82a138",
+    "coverage-observations-VN.json": "733f7d99356f45823bc0400f4434c149936863c8cf3504cb0a41d8b31fa91e45",
+    "coverage-observations-BN.json": "e02d7397b1a7226fbb9f9ce936b1ae304d95ef24ffc209262f68ad4625ba855e",
+    "coverage-observations-KH.json": "7bf68339bffacf833e42f6b1ee6f4a8c414d9a0f1fefe59859ee2dd1004fe93a",
+    "coverage-observations-LA.json": "7a9fb7c1266d4ca15ecee8059ff3c8659947dab78294c07c56770877cc18f791",
+    "coverage-observations-MM.json": "04890159bfe8a364a97ee92e7e3f2cb9675051a0374918f67a27db9144939383",
+    "coverage-observations-TL.json": "dff3fa895e36df2292212e8de4067de53852fa2b39d6756e7e0a94cef11e7347"
+  },
+  "indexSha256": "ada41d7271d350e5cb38c4515ba35ce19031f18cc900b51c54f4345068600c4f",
+  "immutableOriginalAssets": {
+    "data.json": "39c2f59e802e0887ee23fc47aa66d833df249a9d7c81945bfd0a9850bd9a5483",
+    "sea.json": "9121b2174bb0a0c259c2c688b62237936f06694b3d39095c931bed72a3e161f2",
+    "product-library.json": "133a528d36a63836a180b9ca8a951b7d50ffe4565f7908ad9965eb4197fef495",
+    "document-review.mjs": "5d751b1b65a91874f5c338e69d228a0c5b532f14444c8ceaca9d4d00785a8407"
+  }
+}
