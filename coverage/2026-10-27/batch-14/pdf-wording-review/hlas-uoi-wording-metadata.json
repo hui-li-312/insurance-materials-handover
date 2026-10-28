@@ -1,0 +1,683 @@
+{
+  "schemaVersion": "wording-metadata-safe-successor-1",
+  "metadataCandidates": [
+    {
+      "priority": 4,
+      "rawSha256": "cc9a0b487a5e09cfc82b306910df59ac402e4c4c07be65bfada23375beacd3a6",
+      "printedTitle": "BUSINESS PROPERTY INSURANCE POLICY",
+      "printedIssuer": "United Overseas Insurance Limited",
+      "printedFormCode": null,
+      "physicalPageCount": 19,
+      "documentRole": "商业财产主条款模板，含财产、公众责任及内置条款",
+      "summaryOriginal": "19页商业财产条款包括火险、附加灾害与公众责任；公众责任触发以第1节可赔付为条件，另附多项限制。",
+      "summaryPhysicalPageCitations": [
+        1,
+        2,
+        3,
+        5,
+        13,
+        17,
+        18,
+        19
+      ],
+      "neutralScopeNotes": [
+        {
+          "physicalPages": [
+            13,
+            14
+          ],
+          "note": "公众责任除外在第13页列(a)、(b)，第14页从(6)开始；仅记录编号现象，不据此判定缺页或无效。"
+        },
+        {
+          "physicalPages": [
+            18,
+            19
+          ],
+          "note": "文件并列起保前付款及60天保费条款；适用主体、保单表选择及条款关系未确定，不将并存直接认定为冲突。"
+        }
+      ],
+      "sourceBindings": [
+        {
+          "observationId": "SG-UOI-observation-bab84984c8b4bdcc5ba8",
+          "materialIndex": 0,
+          "sourcePageUrl": "https://www.uoi.com.sg/uoi/commercial/business-property-insurance.page"
+        }
+      ],
+      "sourceBindingMeaning": "冻结官网页面与附件的精确来源关联；不是正式产品、当前版本或个案合同适用绑定。",
+      "reviewStatus": "reader_full_text_complete_independent_metadata_QA_GO",
+      "allPagesTextReviewed": true,
+      "allPagesVisuallyReviewed": false,
+      "visualPagesReviewed": [
+        1,
+        5,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "reviewScope": "全文状态归属原正文审读记录；独立QA核验来源、哈希、逐页证据与指定关键语义/图像，不代表第二遍全部正文法律审读。",
+      "independentQaKeyContextPages": [
+        13,
+        14,
+        18,
+        19
+      ],
+      "independentQaDetailedVisualPages": [
+        13,
+        14,
+        18,
+        19
+      ],
+      "independentQaIdentityOnlyVisualPages": [
+        1
+      ],
+      "fullIssuedPolicyVerified": false,
+      "currentApplicabilityVerified": false,
+      "versionRelationshipVerified": false,
+      "formalProductBindingVerified": false,
+      "redistributionPermissionVerified": false,
+      "effectiveDate": null,
+      "scopeCaution": "仅完成所获文件的正文审读与限定独立QA；不证明完整签发包、当前适用、正式产品绑定、最新或替换版本、再分发权。实际适用仍取决于签发保单表和批单等条件。",
+      "formalProductOrStrictCountCredit": 0,
+      "newOriginalCountCredit": 0
+    },
+    {
+      "priority": 5,
+      "rawSha256": "150430856580b3518ce971a502d314f2006094b565e1f173f3ba64ffa654ebd4",
+      "printedTitle": "CORPORATE TRAVEL 360 INSURANCE POLICY",
+      "printedIssuer": "HL Assurance Pte. Ltd.",
+      "printedFormCode": null,
+      "physicalPageCount": 31,
+      "documentRole": "公司团体差旅主条款",
+      "summaryOriginal": "31页公司团体差旅条款包括30节保障、内置COVID相关条款、除外及索赔条件；具体人员、限额与期间须结合保单表。",
+      "summaryPhysicalPageCitations": [
+        1,
+        6,
+        11,
+        16,
+        25,
+        27,
+        31
+      ],
+      "neutralScopeNotes": [
+        {
+          "physicalPages": [
+            3,
+            30
+          ],
+          "note": "被保险人定义写明起保时18至75岁，续保条款另提达到70岁的保险期间结束；初始定义与续保场景有别，不据此判定矛盾或个案保障。"
+        }
+      ],
+      "sourceBindings": [
+        {
+          "observationId": "SG-HLAS-observation-80f41d3d1bb1d8238bbb",
+          "materialIndex": 0,
+          "sourcePageUrl": "https://www.hlas.com.sg/corporate-travel360/"
+        }
+      ],
+      "sourceBindingMeaning": "冻结官网页面与附件的精确来源关联；不是正式产品、当前版本或个案合同适用绑定。",
+      "reviewStatus": "reader_full_text_complete_independent_metadata_QA_GO",
+      "allPagesTextReviewed": true,
+      "allPagesVisuallyReviewed": false,
+      "visualPagesReviewed": [
+        1,
+        6,
+        7,
+        8,
+        9,
+        11,
+        16,
+        17,
+        25,
+        27,
+        30,
+        31
+      ],
+      "reviewScope": "全文状态归属原正文审读记录；独立QA核验来源、哈希、逐页证据与指定关键语义/图像，不代表第二遍全部正文法律审读。",
+      "independentQaKeyContextPages": [
+        3,
+        30
+      ],
+      "independentQaDetailedVisualPages": [
+        3,
+        30
+      ],
+      "independentQaIdentityOnlyVisualPages": [
+        1
+      ],
+      "fullIssuedPolicyVerified": false,
+      "currentApplicabilityVerified": false,
+      "versionRelationshipVerified": false,
+      "formalProductBindingVerified": false,
+      "redistributionPermissionVerified": false,
+      "effectiveDate": null,
+      "scopeCaution": "仅完成所获文件的正文审读与限定独立QA；不证明完整签发包、当前适用、正式产品绑定、最新或替换版本、再分发权。实际适用仍取决于签发保单表和批单等条件。",
+      "formalProductOrStrictCountCredit": 0,
+      "newOriginalCountCredit": 0
+    },
+    {
+      "priority": 10,
+      "rawSha256": "645792ffdea8ca410349def59af5e7de6c908796e76149f7dabc90299c5fd59f",
+      "printedTitle": "COVIDSafe Travel Protect360",
+      "printedIssuer": "HL Assurance Pte. Ltd.",
+      "printedFormCode": "TV052205",
+      "physicalPageCount": 22,
+      "documentRole": "个人旅游主条款，含内置COVID相关章节",
+      "summaryOriginal": "22页个人旅游条款包括一般旅游保障与第35至42节COVID相关保障，并列定义、条件及除外；不是单独COVID附约。",
+      "summaryPhysicalPageCitations": [
+        1,
+        4,
+        14,
+        15,
+        16,
+        17,
+        20,
+        22
+      ],
+      "neutralScopeNotes": [
+        {
+          "physicalPages": [
+            15,
+            20
+          ],
+          "note": "第15页列第39节COVID紧急医疗撤离；第20页疫情除外的例外列表列35、36、37、38、40、41、42，未列39。同页一般除外以另有明文说明或扩展为保留条件；仅记录文本关系，不推断第39节错误、无保障或必获赔。"
+        }
+      ],
+      "sourceBindings": [
+        {
+          "observationId": "SG-HLAS-observation-bfb80d2ba9081a3513d6",
+          "materialIndex": 4,
+          "sourcePageUrl": "https://www.hlas.com.sg/personalinsurance/cep-travelinsurance/"
+        }
+      ],
+      "sourceBindingMeaning": "冻结官网页面与附件的精确来源关联；不是正式产品、当前版本或个案合同适用绑定。",
+      "reviewStatus": "reader_full_text_complete_independent_metadata_QA_GO",
+      "allPagesTextReviewed": true,
+      "allPagesVisuallyReviewed": false,
+      "visualPagesReviewed": [
+        1,
+        2,
+        4,
+        6,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21,
+        22
+      ],
+      "reviewScope": "全文状态归属原正文审读记录；独立QA核验来源、哈希、逐页证据与指定关键语义/图像，不代表第二遍全部正文法律审读。",
+      "independentQaKeyContextPages": [
+        15,
+        20
+      ],
+      "independentQaDetailedVisualPages": [
+        15,
+        20
+      ],
+      "independentQaIdentityOnlyVisualPages": [
+        1
+      ],
+      "fullIssuedPolicyVerified": false,
+      "currentApplicabilityVerified": false,
+      "versionRelationshipVerified": false,
+      "formalProductBindingVerified": false,
+      "redistributionPermissionVerified": false,
+      "effectiveDate": null,
+      "scopeCaution": "仅完成所获文件的正文审读与限定独立QA；不证明完整签发包、当前适用、正式产品绑定、最新或替换版本、再分发权。实际适用仍取决于签发保单表和批单等条件。",
+      "formalProductOrStrictCountCredit": 0,
+      "newOriginalCountCredit": 0
+    },
+    {
+      "priority": 11,
+      "rawSha256": "25bb7f1cff0d9943df5f4ce474f0e644259f034ad53221ef081729dc5be505d9",
+      "printedTitle": "Fraud Protect360 Plus",
+      "printedIssuer": "HL Assurance Pte. Ltd.",
+      "printedFormCode": "CY052602",
+      "physicalPageCount": 14,
+      "documentRole": "个人诈骗、网络损失及意外保障主条款模板",
+      "summaryOriginal": "14页标准条款同时包含个人诈骗、网络损失及意外保障，另列条件、除外和索赔程序；不是客户签发保单表。",
+      "summaryPhysicalPageCitations": [
+        1,
+        4,
+        6,
+        7,
+        8,
+        13,
+        14
+      ],
+      "neutralScopeNotes": [
+        {
+          "physicalPages": [
+            1,
+            3,
+            4,
+            6
+          ],
+          "note": "第6页Cyber(g)为针对被保险人及代其行事者的保单存在及条款保密条件，须结合定义与实际关系理解；不能自动等同对所有读者的文件级内部标识，也不证明再分发许可。"
+        }
+      ],
+      "sourceBindings": [
+        {
+          "observationId": "SG-HLAS-observation-b9350c229ea08807f633",
+          "materialIndex": 3,
+          "sourcePageUrl": "https://www.hlas.com.sg/personal-insurance/fraud-protect360-plus/"
+        }
+      ],
+      "sourceBindingMeaning": "冻结官网页面与附件的精确来源关联；不是正式产品、当前版本或个案合同适用绑定。",
+      "reviewStatus": "reader_full_text_complete_independent_metadata_QA_GO",
+      "allPagesTextReviewed": true,
+      "allPagesVisuallyReviewed": true,
+      "visualPagesReviewed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "reviewScope": "全文状态归属原正文审读记录；独立QA核验来源、哈希、逐页证据与指定关键语义/图像，不代表第二遍全部正文法律审读。",
+      "independentQaKeyContextPages": [
+        1,
+        3,
+        4,
+        6
+      ],
+      "independentQaDetailedVisualPages": [
+        1,
+        3,
+        4,
+        6
+      ],
+      "independentQaIdentityOnlyVisualPages": [
+        1
+      ],
+      "fullIssuedPolicyVerified": false,
+      "currentApplicabilityVerified": false,
+      "versionRelationshipVerified": false,
+      "formalProductBindingVerified": false,
+      "redistributionPermissionVerified": false,
+      "effectiveDate": null,
+      "scopeCaution": "仅完成所获文件的正文审读与限定独立QA；不证明完整签发包、当前适用、正式产品绑定、最新或替换版本、再分发权。实际适用仍取决于签发保单表和批单等条件。",
+      "formalProductOrStrictCountCredit": 0,
+      "newOriginalCountCredit": 0
+    },
+    {
+      "priority": 12,
+      "rawSha256": "018a976493196749fa9d2f5e7fb3b4405d604e6f6c0bffe0db1a5bd4f2e513d4",
+      "printedTitle": "Maid Protect360 Pro",
+      "printedIssuer": "HL Assurance Pte. Ltd.",
+      "printedFormCode": "DY022401",
+      "physicalPageCount": 12,
+      "documentRole": "帮佣多险别主条款，含保单表选定的可选保障",
+      "summaryOriginal": "12页Maid Protect360 Pro条款包含意外、住院、雇佣相关费用、保证金、责任及财物内容；第13至14节为保单表选定的可选保障。",
+      "summaryPhysicalPageCitations": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "neutralScopeNotes": [
+        {
+          "physicalPages": [
+            1,
+            4,
+            7,
+            9
+          ],
+          "note": "DY022401的既往症例外须结合Continuous Period定义、第2节住院条件及限额；第9页还提及第2节成功索赔时的第4、5节延伸。第13、14节仅在保单表标示承保时适用，不将本版内容复制给其他代码。"
+        }
+      ],
+      "sourceBindings": [
+        {
+          "observationId": "SG-HLAS-observation-b58bdc4003bde2a64e2f",
+          "materialIndex": 1,
+          "sourcePageUrl": "https://www.hlas.com.sg/personal-insurance/maid-insurance/"
+        }
+      ],
+      "sourceBindingMeaning": "冻结官网页面与附件的精确来源关联；不是正式产品、当前版本或个案合同适用绑定。",
+      "reviewStatus": "reader_full_text_complete_independent_metadata_QA_GO",
+      "allPagesTextReviewed": true,
+      "allPagesVisuallyReviewed": false,
+      "visualPagesReviewed": [
+        1,
+        3,
+        4,
+        10,
+        12
+      ],
+      "reviewScope": "全文状态归属原正文审读记录；独立QA核验来源、哈希、逐页证据与指定关键语义/图像，不代表第二遍全部正文法律审读。",
+      "independentQaKeyContextPages": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        9
+      ],
+      "independentQaDetailedVisualPages": [
+        4,
+        7,
+        9
+      ],
+      "independentQaIdentityOnlyVisualPages": [
+        1
+      ],
+      "fullIssuedPolicyVerified": false,
+      "currentApplicabilityVerified": false,
+      "versionRelationshipVerified": false,
+      "formalProductBindingVerified": false,
+      "redistributionPermissionVerified": false,
+      "effectiveDate": null,
+      "scopeCaution": "仅完成所获文件的正文审读与限定独立QA；不证明完整签发包、当前适用、正式产品绑定、最新或替换版本、再分发权。实际适用仍取决于签发保单表和批单等条件。",
+      "formalProductOrStrictCountCredit": 0,
+      "newOriginalCountCredit": 0
+    },
+    {
+      "priority": 13,
+      "rawSha256": "bd0c33b8452c3b5508794292411f9b737d6448df1941e1fee0aa095047b85b88",
+      "printedTitle": "EARLY PROTECT360 PLUS",
+      "printedIssuer": "HL Assurance Pte. Ltd.",
+      "printedFormCode": "ES012405",
+      "physicalPageCount": 9,
+      "documentRole": "重疾主条款",
+      "summaryOriginal": "9页Early Protect360 Plus条款包含早期及晚期重疾定义、血管成形术与ICU给付内容，并列限制、除外及索赔条件。",
+      "summaryPhysicalPageCitations": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "neutralScopeNotes": [
+        {
+          "physicalPages": [
+            1,
+            2,
+            5,
+            6
+          ],
+          "note": "定义、具体给付条件和保单表共同限定范围；条款文字不构成医疗意见或个案赔付结论。"
+        }
+      ],
+      "sourceBindings": [
+        {
+          "observationId": "SG-HLAS-observation-3c59f25db7c00ad65141",
+          "materialIndex": 0,
+          "sourcePageUrl": "https://www.hlas.com.sg/personalinsurance/cep-earlycriticalillnessinsurance/"
+        }
+      ],
+      "sourceBindingMeaning": "冻结官网页面与附件的精确来源关联；不是正式产品、当前版本或个案合同适用绑定。",
+      "reviewStatus": "reader_full_text_complete_independent_metadata_QA_GO",
+      "allPagesTextReviewed": true,
+      "allPagesVisuallyReviewed": false,
+      "visualPagesReviewed": [
+        1,
+        2,
+        6,
+        9
+      ],
+      "reviewScope": "全文状态归属原正文审读记录；独立QA核验来源、哈希、逐页证据与指定关键语义/图像，不代表第二遍全部正文法律审读。",
+      "independentQaKeyContextPages": [
+        1,
+        2,
+        5,
+        6
+      ],
+      "independentQaDetailedVisualPages": [
+        2,
+        6
+      ],
+      "independentQaIdentityOnlyVisualPages": [
+        1
+      ],
+      "fullIssuedPolicyVerified": false,
+      "currentApplicabilityVerified": false,
+      "versionRelationshipVerified": false,
+      "formalProductBindingVerified": false,
+      "redistributionPermissionVerified": false,
+      "effectiveDate": null,
+      "scopeCaution": "仅完成所获文件的正文审读与限定独立QA；不证明完整签发包、当前适用、正式产品绑定、最新或替换版本、再分发权。实际适用仍取决于签发保单表和批单等条件。",
+      "formalProductOrStrictCountCredit": 0,
+      "newOriginalCountCredit": 0
+    },
+    {
+      "priority": 14,
+      "rawSha256": "9334d2b4cbc3cdaa56023af7a3f10238f18cbf77ef4f78b61d7bfa6a39fc53d0",
+      "printedTitle": "Home Protect360",
+      "printedIssuer": "HL Assurance Pte. Ltd.",
+      "printedFormCode": "HC062105",
+      "physicalPageCount": 12,
+      "documentRole": "家居多险别主条款，含可选个人物品保障",
+      "summaryOriginal": "12页Home Protect360条款包括家居财物、责任、家庭意外与家居援助；第10节个人物品为可选保障。",
+      "summaryPhysicalPageCitations": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "neutralScopeNotes": [
+        {
+          "physicalPages": [
+            1,
+            2,
+            5,
+            6,
+            7,
+            8
+          ],
+          "note": "家庭意外是家居条款内的一节；可选个人物品、家居援助与其他险别须按各自范围和保单表判断，不能合并为无条件保障。"
+        }
+      ],
+      "sourceBindings": [
+        {
+          "observationId": "SG-HLAS-observation-038f69a3c18b216d033f",
+          "materialIndex": 0,
+          "sourcePageUrl": "https://www.hlas.com.sg/personalinsurance/cep-homecontentsinsurance/"
+        }
+      ],
+      "sourceBindingMeaning": "冻结官网页面与附件的精确来源关联；不是正式产品、当前版本或个案合同适用绑定。",
+      "reviewStatus": "reader_full_text_complete_independent_metadata_QA_GO",
+      "allPagesTextReviewed": true,
+      "allPagesVisuallyReviewed": false,
+      "visualPagesReviewed": [
+        1,
+        5,
+        6,
+        12
+      ],
+      "reviewScope": "全文状态归属原正文审读记录；独立QA核验来源、哈希、逐页证据与指定关键语义/图像，不代表第二遍全部正文法律审读。",
+      "independentQaKeyContextPages": [
+        1,
+        2,
+        5,
+        6,
+        7,
+        8
+      ],
+      "independentQaDetailedVisualPages": [
+        5,
+        6
+      ],
+      "independentQaIdentityOnlyVisualPages": [
+        1
+      ],
+      "fullIssuedPolicyVerified": false,
+      "currentApplicabilityVerified": false,
+      "versionRelationshipVerified": false,
+      "formalProductBindingVerified": false,
+      "redistributionPermissionVerified": false,
+      "effectiveDate": null,
+      "scopeCaution": "仅完成所获文件的正文审读与限定独立QA；不证明完整签发包、当前适用、正式产品绑定、最新或替换版本、再分发权。实际适用仍取决于签发保单表和批单等条件。",
+      "formalProductOrStrictCountCredit": 0,
+      "newOriginalCountCredit": 0
+    },
+    {
+      "priority": 15,
+      "rawSha256": "3b84b90adb982c02bd2977c199dbc1eec07cce1c5122e353f50801e2780dead6",
+      "printedTitle": "Family Protect360",
+      "printedIssuer": "HL Assurance Pte. Ltd.",
+      "printedFormCode": "FA021811",
+      "physicalPageCount": 8,
+      "documentRole": "家庭个人意外主条款",
+      "summaryOriginal": "8页Family Protect360条款包括家庭个人意外、医疗费用及家庭相关给付，并列定义、限额与除外。",
+      "summaryPhysicalPageCitations": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "neutralScopeNotes": [
+        {
+          "physicalPages": [
+            3,
+            4
+          ],
+          "note": "传染病医疗费用扩展列于第2节，第4页一般除外括注except for Section 3；一般除外开头另保留明文说明或扩展。保留节号与条件原貌，不擅自改号或作有无保障结论。"
+        }
+      ],
+      "sourceBindings": [
+        {
+          "observationId": "SG-HLAS-observation-3aba4104b1c3e2754a5b",
+          "materialIndex": 1,
+          "sourcePageUrl": "https://www.hlas.com.sg/personal-insurance/personalaccident/cep-familyprotect360/"
+        }
+      ],
+      "sourceBindingMeaning": "冻结官网页面与附件的精确来源关联；不是正式产品、当前版本或个案合同适用绑定。",
+      "reviewStatus": "reader_full_text_complete_independent_metadata_QA_GO",
+      "allPagesTextReviewed": true,
+      "allPagesVisuallyReviewed": false,
+      "visualPagesReviewed": [
+        1,
+        3,
+        4,
+        6,
+        8
+      ],
+      "reviewScope": "全文状态归属原正文审读记录；独立QA核验来源、哈希、逐页证据与指定关键语义/图像，不代表第二遍全部正文法律审读。",
+      "independentQaKeyContextPages": [
+        3,
+        4
+      ],
+      "independentQaDetailedVisualPages": [
+        3,
+        4
+      ],
+      "independentQaIdentityOnlyVisualPages": [
+        1
+      ],
+      "fullIssuedPolicyVerified": false,
+      "currentApplicabilityVerified": false,
+      "versionRelationshipVerified": false,
+      "formalProductBindingVerified": false,
+      "redistributionPermissionVerified": false,
+      "effectiveDate": null,
+      "scopeCaution": "仅完成所获文件的正文审读与限定独立QA；不证明完整签发包、当前适用、正式产品绑定、最新或替换版本、再分发权。实际适用仍取决于签发保单表和批单等条件。",
+      "formalProductOrStrictCountCredit": 0,
+      "newOriginalCountCredit": 0
+    },
+    {
+      "priority": 16,
+      "rawSha256": "34d694aa56e14878e86a8a29067a846f8343f4e3992377a2ee8f5192f209bb02",
+      "printedTitle": "Maid Protect360 Pro",
+      "printedIssuer": "HL Assurance Pte. Ltd.",
+      "printedFormCode": "DY012306",
+      "physicalPageCount": 12,
+      "documentRole": "帮佣多险别主条款，含保单表选定的可选保障",
+      "summaryOriginal": "12页Maid Protect360 Pro条款包含意外、住院、雇佣相关费用、保证金、责任及财物内容；第13至14节为保单表选定的可选保障。",
+      "summaryPhysicalPageCitations": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "neutralScopeNotes": [
+        {
+          "physicalPages": [
+            1,
+            4,
+            7,
+            9
+          ],
+          "note": "DY012306第9页的既往症例外在该处仅列第2节，须结合Continuous Period定义、住院条件及限额；不从DY022401移入第4、5节延伸语句。第13、14节仅在保单表标示承保时适用。"
+        }
+      ],
+      "sourceBindings": [
+        {
+          "observationId": "SG-HLAS-observation-391706e481b69810d57b",
+          "materialIndex": 1,
+          "sourcePageUrl": "https://www.hlas.com.sg/personalinsurance/cep-maidinsurance/"
+        }
+      ],
+      "sourceBindingMeaning": "冻结官网页面与附件的精确来源关联；不是正式产品、当前版本或个案合同适用绑定。",
+      "reviewStatus": "reader_full_text_complete_independent_metadata_QA_GO",
+      "allPagesTextReviewed": true,
+      "allPagesVisuallyReviewed": false,
+      "visualPagesReviewed": [
+        1,
+        3,
+        4,
+        7,
+        10,
+        12
+      ],
+      "reviewScope": "全文状态归属原正文审读记录；独立QA核验来源、哈希、逐页证据与指定关键语义/图像，不代表第二遍全部正文法律审读。",
+      "independentQaKeyContextPages": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        9
+      ],
+      "independentQaDetailedVisualPages": [
+        4,
+        7,
+        9
+      ],
+      "independentQaIdentityOnlyVisualPages": [
+        1
+      ],
+      "fullIssuedPolicyVerified": false,
+      "currentApplicabilityVerified": false,
+      "versionRelationshipVerified": false,
+      "formalProductBindingVerified": false,
+      "redistributionPermissionVerified": false,
+      "effectiveDate": null,
+      "scopeCaution": "仅完成所获文件的正文审读与限定独立QA；不证明完整签发包、当前适用、正式产品绑定、最新或替换版本、再分发权。实际适用仍取决于签发保单表和批单等条件。",
+      "formalProductOrStrictCountCredit": 0,
+      "newOriginalCountCredit": 0
+    }
+  ],
+  "scope": "限定元数据候选；原件、全文、图像不在交付范围。",
+  "candidateCount": 9,
+  "formalProductSkuStrictCountCredit": 0,
+  "newOriginalCountCredit": 0
+}
