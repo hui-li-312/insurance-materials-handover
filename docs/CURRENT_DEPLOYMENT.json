@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
-  "record_compiled_at": "2026-10-28T00:06:58.729271+00:00",
+  "record_compiled_at": "2026-10-28T00:42:17.710144+00:00",
   "project_id": "appgprj_6ad9e50081d881919e1b20b3843c8426",
   "site_url": "https://hong-kong-insurance-library.balabalaniuniu.chatgpt.site",
   "view_path": "/coverage",
   "audience": "public",
-  "saved_version_number": 137,
-  "saved_version_id": "appgprj_6ad9e50081d881919e1b20b3843c8426~appgver_ad397c2e8d6881919beebe9c2b392ea8",
-  "deployment_id": "appgdep_6ae1383697388191bbc3bb9dc4b5ead5",
+  "saved_version_number": 138,
+  "saved_version_id": "appgprj_6ad9e50081d881919e1b20b3843c8426~appgver_2fd731bb0c4c8191b9bb9087bf6d9609",
+  "deployment_id": "appgdep_6ae1425eef8c8191be0cfe899c59d7d9",
   "deployment_status": "succeeded",
-  "deployment_updated_at": "2026-10-27T23:48:14.226977+00:00",
-  "site_source_commit": "658be1168a10a96f15d5d03ebd785093b0cb32e4",
-  "github_runtime_source_commit": "9899241b0ec85aaae64ed9425f42c75713368fca",
-  "github_data_source_commit": "9899241b0ec85aaae64ed9425f42c75713368fca",
-  "static_assets": 44,
-  "deployment_archive_files": 45,
+  "deployment_updated_at": "2026-10-28T00:31:34.293298+00:00",
+  "site_source_commit": "5f6b210a9258e819490c67d70e963345d74bd8fc",
+  "github_runtime_source_commit": "ef96d86b53d96e888f7e6d5e00a7822a3b8b516d",
+  "github_data_source_commit": "ef96d86b53d96e888f7e6d5e00a7822a3b8b516d",
+  "static_assets": 45,
+  "deployment_archive_files": 46,
   "all_static_assets_byte_equal_reviewed_github_source": true,
-  "compressed_local_archive_sha256": "4a1f13b8f6515476ecf6020309513cad94e314cacde17a10ba09ad45397a2cbf",
-  "saved_archive_content_hash": "sha256:2cc8612a89d4233b1ccafcb5116528f31edf1e1896b3931bac9d8f7d23219e26",
+  "compressed_local_archive_sha256": "3822fc56fe8572cd97f8d47587c4eae3d097d4a7e909f54058b3f7ceeacb9bd1",
+  "saved_archive_content_hash": "sha256:9405216e8d9f0d12f2b2c194a42a865773ad91df2ed463371e230417ba9067e5",
   "saved_archive_format": "tar",
   "supplemental_active_feeds": 43,
   "mixed_observation_rows": 6115,
@@ -27,44 +27,62 @@
   "strict_main_verified_unchanged": 426,
   "new_formal_original_credit": 0,
   "verification": {
-    "direct_local_Node_commands": 18,
-    "coverage_DOM_test_groups": 126,
-    "focused_source_role_checks": 142,
-    "original_atomic_negative_cases": 133,
-    "extra_independent_atomic_negative_cases": 31,
+    "direct_local_Node_commands": 19,
+    "coverage_DOM_test_groups": 161,
+    "focused_PDF_review_checks": 400,
+    "focused_PDF_review_negative_cases": 379,
+    "source_role_checks": 142,
+    "source_role_negative_cases": 133,
+    "extra_independent_runtime_probes": 60,
+    "extra_runtime_rejected": 57,
+    "extra_runtime_unpinned_display_metadata_accepted_and_escaped": 3,
     "dependency_free_offline_Python_tests": 38,
     "old_observations_reconstructed": 6115,
-    "generated_projections_rebuilt_byte_exact": 13,
-    "deployed_archive_vs_reviewed_public_runtime": "44/44 byte-equal; 45th file is hosting configuration",
-    "complete_GitHub_source_readback": "721 files /121067893 bytes exact; batch13 5 added and10 modified,706 baseline files preserved",
+    "local_packaged_archive_vs_reviewed_public_runtime": "45/45 byte-equal; 46th file is hosting configuration",
+    "native_archive_identity_limit": {
+      "local_compressed_archive_SHA256": "3822fc56fe8572cd97f8d47587c4eae3d097d4a7e909f54058b3f7ceeacb9bd1",
+      "local_uncompressed_tar_SHA256": "9ea90cfb314d77b0c542755e04439f9fbb4aa92c89fbc92ec25295c863c2f133",
+      "stored_tar_content_hash": "sha256:9405216e8d9f0d12f2b2c194a42a865773ad91df2ed463371e230417ba9067e5",
+      "stored_archive_redownloaded_and_member_compared": false,
+      "meaning": "Local asset bytes, native saved source identity, and stored archive hash are separate evidence. The returned stored tar hash is not equal to local decompressed tar; stored archive byte identity is not claimed."
+    },
+    "complete_GitHub_source_readback": "731 files /121395273 bytes exact; batch14 10 added and13 modified,708 baseline files preserved",
     "known_held_locator_aliases_checked": 61,
     "known_held_locator_gate": "zero known locator matches; 504 historical held SHA occurrences unchanged; zero new delta/runtime held SHA occurrences",
-    "historical_private_name_text_references": {
-      "unchanged_count": 21,
-      "scope": "2 excluded filenames in an allowlist and19 plain-text XLSX provenance references; no active private hyperlinks",
+    "historical_text_reference_boundaries": {
+      "private_name_plaintext_references_unchanged": 21,
+      "broader_Library_ID_like_literals_including_defensive_tests_unchanged": 195,
       "new_delta_or_runtime_private_payload_matches": 0,
       "full_source_private_marker_literal_zero_claimed": false
     },
     "production_desktop_browser_QA": {
       "status": "passed_bounded_desktop_scope_with_explicit_method_limits",
-      "site_version": 137,
-      "source_report_sha256": "8b5e4f61d119ff55afcb5685d61444bbec08bef678472dac89d0f7c63e6b4f35",
-      "observation_started_at": "2026-10-27T23:51:40Z",
-      "checked_at": "2026-10-28T00:04:07.332Z",
-      "bounded_check_groups": 13,
+      "site_version": 138,
+      "source_report_sha256": "921f9d5e9fd49f0f63af6cf50c041a2af48e6632101e05a5b6eb67f875394fe7",
+      "observation_started_at": "2026-10-28T00:32:17Z",
+      "checked_at": "2026-10-28T00:38:53Z",
+      "bounded_check_groups": 21,
       "checked": [
-        "ge-brochure-candidate",
-        "ge-benefit-rate-candidate",
-        "ge-guide-candidate",
-        "ge-correction-not-website-accusation",
-        "ge-protected-sample-and-shared-url",
-        "parent-back-forward-collapse",
+        "ge-term-base-and-CI-bundle",
+        "ge-five-year-source-conflict",
+        "ge-life-II-plans-and-cross-references",
+        "historical-status-vs-current-body-review",
+        "maid-two-versions-and-optional-sections",
+        "fraud-confidentiality-scope",
+        "uoi-exact-product-binding",
+        "corporate-travel-age-scope",
+        "covid-travel-exclusion-qualification",
+        "family-exclusion-qualification",
+        "same-name-family-no-inheritance",
+        "early-protect-template-scope",
+        "home-protect-optional-scope",
+        "parent-history-and-collapse",
         "fast-query-issuer",
         "fast-query-scope",
-        "visible-global-count-boundaries",
         "old-aia-finite-review",
         "old-tugu-finite-review",
-        "hold-no-fallback",
+        "hold-no-material-link-fallback",
+        "global-counts-and-credit-boundaries",
         "desktop-layout-and-console"
       ],
       "viewport_css": {
@@ -75,18 +93,19 @@
         "scrollWidth": 1165
       },
       "new_GUI_defects_observed": 0,
-      "GE_source_role_types_sampled_live": 3,
-      "all18_role_and8_sample_objects_checked_locally_not_all_live": true,
+      "reviewed_observations_live": 11,
+      "review_summary_blocks_inspected_live": 17,
+      "all_identity_JSON_panels_expanded": false,
+      "PDF_bodies_re_reviewed_in_browser_QA": false,
       "mobile_touch_physical_phone": "unrun",
-      "Tugu_live_deep_samples": [
-        "Home"
-      ],
+      "old_reviews_representative_only": true,
       "console_capture": {
-        "warn_error_entries": 143,
-        "nonextension_entries": 0,
-        "full_network_trace": false
+        "warn_error_entries": 200,
+        "capture_is_capped": true,
+        "nonextension_entries_in_captured_sample": 0,
+        "full_session_or_network_trace": false
       },
-      "summary_zh": "Site 137 的 13 组限定生产桌面检查通过（1180×757，DPR 1），未观察到新的 GUI 缺陷。三种新角色各抽查一项，样本、父子跳转、返回／前进、折叠、快速切换筛选及既有 AIA／Tugu／保留引用边界通过代表性检查；18 项角色与 8 项样本对象全部一致性由本地数据对账确认，并非逐项 GUI 验收。机构／范围快速切换各一次保留搜索词，Tugu 仅 Home 深入抽样。移动模拟、触屏与实机未测；未访问外部来源或重读 PDF，不把历史测试或后续正文审读算作本版检查。匿名非浏览器资源曾返回 403，本次未重试，不声称匿名资源字节回读通过。原生归档、GitHub 全树核验与正常浏览器 UI 检查分别计证。"
+      "summary_zh": "Site 138 的 21 组限定生产桌面检查通过（1180×757，DPR 1），未发现阻断或非阻断缺陷。11 个观察条目中的 17 个审读摘要块均已展开检查；不是全部身份 JSON 面板逐一展开，也不是重新审读 271 页 PDF。样本与主附险范围、历史采集状态与后来正文审读、两个 Maid 版本、UOI 准确产品绑定、Fraud 条款适用主体、同名不继承、父子跳转／返回／前进／折叠及快速筛选保留搜索词均通过有界检查。既有 AIA、Tugu、保留引用仅代表性抽查。移动模拟、触屏、实机和其他视口未测；最近 200 条警告／错误均来自浏览器扩展，不能代表完整会话或网络健康。未打开外部来源或 PDF，既有匿名资源 403 未重试，不声称匿名资源字节回读通过。"
     },
     "public_static_readback_method_limit": {
       "anonymous_nonbrowser_asset_probe": "coverage-app.js returned HTTP 403",
@@ -96,7 +115,7 @@
       "normal_browser_UI": "passed bounded checks independently",
       "public_audience": "confirmed by native site metadata; not inferred from probe"
     },
-    "runtime_validation_limit": "Strict source/build atomic binding and exact released bytes were checked. Runtime validation is not general metadata integrity authentication; some metadata-removal or metadata-only mutations are accepted.",
+    "runtime_validation_limit": "Pinned build binds full source and review records. Runtime checks validate the review and selected binding fields, not whole-page cryptographic authenticity. Three extra metadata probes were accepted but escaped with no active injected external targets in bounded checks.",
     "CI": "GitHub Actions not configured; local test results are not CI."
   },
   "limits": [
@@ -108,9 +127,10 @@
     "No new raw-document Release;2360/4713/426 and18Releasepacks unchanged.",
     "Known-locator scans are bounded, not universal privacy or rights clearance.",
     "Public GitHub read access does not confer original Site deployment authorization.",
-    "Site137 corrects18 GE source-label classifications only;8 explicit sample-wording associations remain separate. Later16PDF text reviews are not included in this deployment.",
-    "Historical collector labels and capture times remain unchanged; the later role-review layer does not imply PDF body review.",
-    "Runtime checks are not general metadata authentication; privacy checks do not assert zero historical private-name text references."
+    "Site138 adds an independent16-PDF body-review metadata layer with17 exact associations; no raw PDF bodies, page images or full-text reproductions are newly published.",
+    "Original collector labels, capture states and timestamps remain historical; the new review layer describes later actual review without upgrading original dates or complete-package status.",
+    "Source/build pins and bounded runtime probes are not general metadata authentication. Historical private-name and identifier-like text remains; no blanket marker-zero claim.",
+    "Local45-asset equality and native saved source identity are verified separately; stored-tar byte equality has not been independently verified."
   ],
   "static_view_file": "coverage.html",
   "new_verified_SKU_credit": 0,
@@ -185,7 +205,8 @@
         "original_source_role_C4_time_unchanged": true,
         "existing_legacy_exact_file_not_new_original": true,
         "new_original_or_SKU_credit": 0
-      }
+      },
+      "historical_snapshot_note": "The batch10 unread classifications and source issuer claims describe original acquisition, not the later exact7GE PDF review layer added inSite138; that layer does not spread to other materials or product-level identity."
     },
     "batch11": {
       "new_mixed_observations": 218,
@@ -262,10 +283,11 @@
         "Personal Accident Table of Benefits missing from extracted body, not a conclusion about unread images.",
         "Three motor texts require signed Schedule; broken text retained without repair."
       ],
-      "formal_original_and_verified_SKU_credit": 0
+      "formal_original_and_verified_SKU_credit": 0,
+      "historical_snapshot_note": "Original batch12 acquisition/website-claim status is preserved. Site138 later8HLAS and1UOI exact PDF reviews are separate bindings, not a blanket review of source claims or same-name products."
     },
     "GE_inherited_material_role_quality_issue": {
-      "status": "source_label_role_correction_deployed_in_Site137",
+      "status": "source_label_role_correction_first_deployed_Site137_preserved_Site138",
       "generic_filename_prefix_occurrences": 18,
       "generic_filename_prefix_unique_URLs": 12,
       "corrected_candidate_roles": {
@@ -277,13 +299,14 @@
       "explicit_sample_wording_unique_URLs_preserved": 7,
       "five_year_base_CI_same_URL_source_label_conflict_preserved": true,
       "evidence": "source labels, enclosing HTML context and filename/path only",
-      "PDF_body_review_included_in_this_release": false,
       "original_collector_classification_and_capture_time_preserved": true,
       "new_layer": "materialRoleReview; distinct from documentReview",
-      "formal_or_strict_credit": 0
+      "formal_or_strict_credit": 0,
+      "PDF_body_review_included_in_role_correction": false,
+      "scope_note": "This source-role correction covers18 non-wording-candidate associations only; the separate later16-PDF review layer is described below."
     },
     "later_PDF_body_review": {
-      "status": "separate_batch14_integration_pending_not_in_Site137",
+      "status": "batch14_PDF_review_metadata_deployed_in_Site138",
       "unique_PDFs": 16,
       "GE": 7,
       "HLAS": 8,
@@ -291,54 +314,56 @@
       "source_associations": 17,
       "physical_pages": 271,
       "full_text_review_completed": true,
+      "all_physical_pages_detailed_visual_review": false,
+      "new_layer": "pdfWordingReview; original collector role, status and capture time retained as historical evidence",
       "raw_documents_publicly_redistributed": false,
       "new_product_or_complete_issued_policy_claim": false,
-      "limits": "Samples, versions and base/rider bundles must remain distinct. Body review is not evidence of current applicability or complete issued-policy components."
+      "formal_original_credit": 0,
+      "strict_main_wording_credit": 0,
+      "verified_SKU_credit": 0,
+      "unknown_publication_and_effective_dates": null,
+      "limits": [
+        "Physical page counts include identified blank or watermark pages; all meaningful extractable text was reviewed.",
+        "Samples, distinct versions and base/rider bundles remain separate; full issued packages and current applicability are not verified.",
+        "GE5-year source labels with/without Critical Care share a base-only sample; a matched CI component remains unproven.",
+        "GE LIFE II CI70/85 referenced715/717 separate copies are not attached; integrated TPD/TI text is not treated as absent cover.",
+        "HLAS historical version codes do not establish publication/effective dates or latest/superseding versions.",
+        "UOI Business Property review binds the exact existing product material, not the independent16 directory records.",
+        "HLAS Fraud wording confidentiality is scoped to the insured context; metadata review does not grant raw-file redistribution rights."
+      ]
     }
   },
   "previous_actual_deployment": {
-    "deployment_id": "appgdep_6ae12202fb588191ba0feee3663a3583",
+    "deployment_id": "appgdep_6ae1383697388191bbc3bb9dc4b5ead5",
     "deployment_status": "succeeded",
-    "deployment_updated_at": "2026-10-27T22:13:32.921686+00:00",
-    "site_source_commit": "ddc54651fa002e97190e440754010b25a571e3df",
-    "github_runtime_source_commit": "5626ab659c8bb8587048befba717e7784f92765a",
+    "deployment_updated_at": "2026-10-27T23:48:14.226977+00:00",
+    "site_source_commit": "658be1168a10a96f15d5d03ebd785093b0cb32e4",
+    "github_runtime_source_commit": "9899241b0ec85aaae64ed9425f42c75713368fca",
     "supplemental_active_feeds": 43,
     "feeds_with_displayed_observations": 39,
     "mixed_observation_rows": 6115,
-    "site_version": 136,
+    "site_version": 137,
     "production_desktop_browser_QA": {
       "status": "passed_bounded_desktop_scope_with_explicit_method_limits",
-      "site_version": 136,
-      "source_report_sha256": "45e15ebbf304400dccdb3745fc76c27e45c59964609d959ffabb42e4f4cf833d",
-      "observation_started_at": "2026-10-27T22:19:29Z",
-      "checked_at": "2026-10-27T22:28:25Z",
-      "bounded_check_groups": 25,
+      "site_version": 137,
+      "source_report_sha256": "8b5e4f61d119ff55afcb5685d61444bbec08bef678472dac89d0f7c63e6b4f35",
+      "observation_started_at": "2026-10-27T23:51:40Z",
+      "checked_at": "2026-10-28T00:04:07.332Z",
+      "bounded_check_groups": 13,
       "checked": [
-        "fresh-live-counts",
+        "ge-brochure-candidate",
+        "ge-benefit-rate-candidate",
+        "ge-guide-candidate",
+        "ge-correction-not-website-accusation",
+        "ge-protected-sample-and-shared-url",
+        "parent-back-forward-collapse",
         "fast-query-issuer",
         "fast-query-scope",
-        "settled-controls",
-        "pending-region-reset",
-        "explicit-clear",
-        "my-subjects-and-child",
-        "parent-history-collapse",
-        "hk-directory-separation",
-        "tugu-home-finite-binding",
-        "tugu-no-catalog-inheritance",
-        "tugu-pa-dependency",
-        "hlas-web-underwriter",
-        "hlas-covidsafe-no-attribution",
-        "chinalife-card502",
-        "chinalife-rider-unknown",
-        "victoria-held-no-fallback",
-        "id-other-context-counts",
-        "thai-distribution-separation",
-        "thai-two-name-conflicts",
-        "legacy-aia-finite",
-        "legacy-hidden-count",
-        "legacy-unresolved-nonhold",
-        "rapid-region-final",
-        "desktop-layout-console"
+        "visible-global-count-boundaries",
+        "old-aia-finite-review",
+        "old-tugu-finite-review",
+        "hold-no-fallback",
+        "desktop-layout-and-console"
       ],
       "viewport_css": {
         "width": 1180,
@@ -348,29 +373,20 @@
         "scrollWidth": 1165
       },
       "new_GUI_defects_observed": 0,
-      "prior_pending_query_race": "fixed_live_in_repeated_issuer_and_scope_changes_plus_controls",
+      "GE_source_role_types_sampled_live": 3,
+      "all18_role_and8_sample_objects_checked_locally_not_all_live": true,
       "mobile_touch_physical_phone": "unrun",
       "Tugu_live_deep_samples": [
-        "Home",
-        "Personal Accident"
+        "Home"
       ],
-      "all_seven_Tugu_bodies_re_reviewed": false,
-      "GE_source_role_semantics_cleared": false,
       "console_capture": {
-        "warn_error_entries": 228,
+        "warn_error_entries": 143,
         "nonextension_entries": 0,
         "full_network_trace": false
       },
-      "limits": [
-        "Representative desktop checks, not all 6115 observations or material semantics.",
-        "Mobile emulation, touch, physical phone and alternate viewports were not run.",
-        "No external insurer pages, PDF or image body reread.",
-        "Full counts and 44 local asset hashes are separate offline evidence.",
-        "Only Tugu Home and Personal Accident review cards sampled in depth; not all seven bodies.",
-        "Native version identity comes from deployment receipts, not an on-page version number."
-      ]
+      "summary_zh": "Site 137 的 13 组限定生产桌面检查通过（1180×757，DPR 1），未观察到新的 GUI 缺陷。三种新角色各抽查一项，样本、父子跳转、返回／前进、折叠、快速切换筛选及既有 AIA／Tugu／保留引用边界通过代表性检查；18 项角色与 8 项样本对象全部一致性由本地数据对账确认，并非逐项 GUI 验收。机构／范围快速切换各一次保留搜索词，Tugu 仅 Home 深入抽样。移动模拟、触屏与实机未测；未访问外部来源或重读 PDF，不把历史测试或后续正文审读算作本版检查。匿名非浏览器资源曾返回 403，本次未重试，不声称匿名资源字节回读通过。原生归档、GitHub 全树核验与正常浏览器 UI 检查分别计证。"
     },
-    "not_credited_as_Site137_QA": true
+    "not_credited_as_Site138_QA": true
   },
   "historical_deployments": [
     {
@@ -514,6 +530,82 @@
         ]
       },
       "not_credited_as_Site136_QA": true
+    },
+    {
+      "deployment_id": "appgdep_6ae12202fb588191ba0feee3663a3583",
+      "deployment_status": "succeeded",
+      "deployment_updated_at": "2026-10-27T22:13:32.921686+00:00",
+      "site_source_commit": "ddc54651fa002e97190e440754010b25a571e3df",
+      "github_runtime_source_commit": "5626ab659c8bb8587048befba717e7784f92765a",
+      "supplemental_active_feeds": 43,
+      "feeds_with_displayed_observations": 39,
+      "mixed_observation_rows": 6115,
+      "site_version": 136,
+      "production_desktop_browser_QA": {
+        "status": "passed_bounded_desktop_scope_with_explicit_method_limits",
+        "site_version": 136,
+        "source_report_sha256": "45e15ebbf304400dccdb3745fc76c27e45c59964609d959ffabb42e4f4cf833d",
+        "observation_started_at": "2026-10-27T22:19:29Z",
+        "checked_at": "2026-10-27T22:28:25Z",
+        "bounded_check_groups": 25,
+        "checked": [
+          "fresh-live-counts",
+          "fast-query-issuer",
+          "fast-query-scope",
+          "settled-controls",
+          "pending-region-reset",
+          "explicit-clear",
+          "my-subjects-and-child",
+          "parent-history-collapse",
+          "hk-directory-separation",
+          "tugu-home-finite-binding",
+          "tugu-no-catalog-inheritance",
+          "tugu-pa-dependency",
+          "hlas-web-underwriter",
+          "hlas-covidsafe-no-attribution",
+          "chinalife-card502",
+          "chinalife-rider-unknown",
+          "victoria-held-no-fallback",
+          "id-other-context-counts",
+          "thai-distribution-separation",
+          "thai-two-name-conflicts",
+          "legacy-aia-finite",
+          "legacy-hidden-count",
+          "legacy-unresolved-nonhold",
+          "rapid-region-final",
+          "desktop-layout-console"
+        ],
+        "viewport_css": {
+          "width": 1180,
+          "height": 757,
+          "dpr": 1,
+          "clientWidth": 1165,
+          "scrollWidth": 1165
+        },
+        "new_GUI_defects_observed": 0,
+        "prior_pending_query_race": "fixed_live_in_repeated_issuer_and_scope_changes_plus_controls",
+        "mobile_touch_physical_phone": "unrun",
+        "Tugu_live_deep_samples": [
+          "Home",
+          "Personal Accident"
+        ],
+        "all_seven_Tugu_bodies_re_reviewed": false,
+        "GE_source_role_semantics_cleared": false,
+        "console_capture": {
+          "warn_error_entries": 228,
+          "nonextension_entries": 0,
+          "full_network_trace": false
+        },
+        "limits": [
+          "Representative desktop checks, not all 6115 observations or material semantics.",
+          "Mobile emulation, touch, physical phone and alternate viewports were not run.",
+          "No external insurer pages, PDF or image body reread.",
+          "Full counts and 44 local asset hashes are separate offline evidence.",
+          "Only Tugu Home and Personal Accident review cards sampled in depth; not all seven bodies.",
+          "Native version identity comes from deployment receipts, not an on-page version number."
+        ]
+      },
+      "not_credited_as_Site137_QA": true
     }
   ],
   "unreviewed_image_reference_occurrences_metadata_only": 227,
