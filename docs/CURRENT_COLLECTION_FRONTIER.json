@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "record_type": "finite_collection_frontier_handover",
-  "record_compiled_at": "2026-10-27T22:32:29.206114+00:00",
+  "record_compiled_at": "2026-10-28T00:06:58.729271+00:00",
   "publication_status": "source_metadata_and_runtime_published_deployed_verified",
   "purpose": "交接八份限定来源快照的采集边界、审核状态、发布状态与下一步验收方法，不是全市场完成报告。",
   "scope": {
@@ -24,21 +24,21 @@
     "separate_document_contexts_definition": "仅 HK 85、MY 214、UOI 16 共 315 条文件或目录记录；不含另列 TH 73、ID 20 条其他语境或 MY 61 个 PIDM 关联。"
   },
   "current_verified_public_baseline": {
-    "site_version": 136,
+    "site_version": 137,
     "site_url": "https://hong-kong-insurance-library.balabalaniuniu.chatgpt.site/coverage",
     "github_repository_url": "https://github.com/hui-li-312/insurance-materials-handover",
-    "github_runtime_source_commit": "5626ab659c8bb8587048befba717e7784f92765a",
+    "github_runtime_source_commit": "9899241b0ec85aaae64ed9425f42c75713368fca",
     "mixed_observations": 6115,
     "active_feed_descriptors": 43,
     "directory_entries": 2360,
     "formal_originals": 4713,
     "strict_verified_main_files": 426,
-    "baseline_note": "本轮八份来源元数据已公开，实际 Site 136 部署成功；公开源码回读与部署源归档一致。有限桌面检查与完整源码对账是不同证据，不表示逐条在线或完整合同核验。",
-    "site_source_commit": "ddc54651fa002e97190e440754010b25a571e3df",
+    "baseline_note": "八份来源包最初于 Site136 发布，原冻结与首次发布身份保留。当前 Site137 只新增独立 GE 来源角色修正，未重新采集这八份快照；完整源码、原生部署与限定桌面检查分别核对。",
+    "site_source_commit": "658be1168a10a96f15d5d03ebd785093b0cb32e4",
     "row_contributing_feeds": 39,
-    "deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
-    "github_source_file_count": 714,
-    "github_source_bytes": 120817740
+    "deployment_succeeded_at": "2026-10-27T23:48:14.226977+00:00",
+    "github_source_file_count": 721,
+    "github_source_bytes": 121067893
   },
   "interpretation_rules": [
     "名录日期、来源采集时间、元数据审核时间与发布验收时间是不同事实，不互相改写。",
@@ -137,7 +137,7 @@
       },
       "publication_and_runtime": {
         "status": "published_and_active",
-        "site_version": 136,
+        "site_version": 137,
         "active_feed_present": true,
         "active_rows_from_this_feed": 81,
         "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
@@ -145,7 +145,9 @@
         "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
         "previous_site_version": 135,
         "previous_active_rows_from_this_feed": 0,
-        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+        "identity_basis": "Initial publication identifiers remain Site136; current active projection is preserved in verified Site137 source and deployment. Bounded desktop checks are representative, not every observation.",
+        "current_runtime_source_commit": "9899241b0ec85aaae64ed9425f42c75713368fca",
+        "current_native_deployment_succeeded_at": "2026-10-27T23:48:14.226977+00:00"
       },
       "repository_handover": {
         "link_status": "published_exact_path_verified_in_public_source_archive",
@@ -200,7 +202,7 @@
       },
       "publication_and_runtime": {
         "status": "published_and_active",
-        "site_version": 136,
+        "site_version": 137,
         "active_feed_present": true,
         "active_rows_from_this_feed": 94,
         "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
@@ -208,7 +210,9 @@
         "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
         "previous_site_version": 135,
         "previous_active_rows_from_this_feed": 0,
-        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+        "identity_basis": "Initial publication identifiers remain Site136; current active projection is preserved in verified Site137 source and deployment. Bounded desktop checks are representative, not every observation.",
+        "current_runtime_source_commit": "9899241b0ec85aaae64ed9425f42c75713368fca",
+        "current_native_deployment_succeeded_at": "2026-10-27T23:48:14.226977+00:00"
       },
       "repository_handover": {
         "link_status": "published_exact_path_verified_in_public_source_archive",
@@ -262,7 +266,7 @@
       },
       "publication_and_runtime": {
         "status": "published_and_active",
-        "site_version": 136,
+        "site_version": 137,
         "active_feed_present": true,
         "active_rows_from_this_feed": 32,
         "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
@@ -270,7 +274,9 @@
         "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
         "previous_site_version": 135,
         "previous_active_rows_from_this_feed": 0,
-        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+        "identity_basis": "Initial publication identifiers remain Site136; current active projection is preserved in verified Site137 source and deployment. Bounded desktop checks are representative, not every observation.",
+        "current_runtime_source_commit": "9899241b0ec85aaae64ed9425f42c75713368fca",
+        "current_native_deployment_succeeded_at": "2026-10-27T23:48:14.226977+00:00"
       },
       "repository_handover": {
         "link_status": "published_exact_path_verified_in_public_source_archive",
@@ -324,7 +330,7 @@
       },
       "publication_and_runtime": {
         "status": "published_and_active",
-        "site_version": 136,
+        "site_version": 137,
         "active_feed_present": true,
         "active_rows_from_this_feed": 48,
         "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
@@ -332,7 +338,9 @@
         "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
         "previous_site_version": 135,
         "previous_active_rows_from_this_feed": 0,
-        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+        "identity_basis": "Initial publication identifiers remain Site136; current active projection is preserved in verified Site137 source and deployment. Bounded desktop checks are representative, not every observation.",
+        "current_runtime_source_commit": "9899241b0ec85aaae64ed9425f42c75713368fca",
+        "current_native_deployment_succeeded_at": "2026-10-27T23:48:14.226977+00:00"
       },
       "repository_handover": {
         "link_status": "published_exact_path_verified_in_public_source_archive",
@@ -386,7 +394,7 @@
       },
       "publication_and_runtime": {
         "status": "published_and_active",
-        "site_version": 136,
+        "site_version": 137,
         "active_feed_present": true,
         "active_rows_from_this_feed": 36,
         "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
@@ -394,7 +402,9 @@
         "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
         "previous_site_version": 135,
         "previous_active_rows_from_this_feed": 0,
-        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+        "identity_basis": "Initial publication identifiers remain Site136; current active projection is preserved in verified Site137 source and deployment. Bounded desktop checks are representative, not every observation.",
+        "current_runtime_source_commit": "9899241b0ec85aaae64ed9425f42c75713368fca",
+        "current_native_deployment_succeeded_at": "2026-10-27T23:48:14.226977+00:00"
       },
       "repository_handover": {
         "link_status": "published_exact_path_verified_in_public_source_archive",
@@ -448,7 +458,7 @@
       },
       "publication_and_runtime": {
         "status": "published_and_active",
-        "site_version": 136,
+        "site_version": 137,
         "active_feed_present": true,
         "active_rows_from_this_feed": 47,
         "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
@@ -456,7 +466,9 @@
         "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
         "previous_site_version": 135,
         "previous_active_rows_from_this_feed": 0,
-        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+        "identity_basis": "Initial publication identifiers remain Site136; current active projection is preserved in verified Site137 source and deployment. Bounded desktop checks are representative, not every observation.",
+        "current_runtime_source_commit": "9899241b0ec85aaae64ed9425f42c75713368fca",
+        "current_native_deployment_succeeded_at": "2026-10-27T23:48:14.226977+00:00"
       },
       "repository_handover": {
         "link_status": "published_exact_path_verified_in_public_source_archive",
@@ -510,7 +522,7 @@
       },
       "publication_and_runtime": {
         "status": "published_and_active",
-        "site_version": 136,
+        "site_version": 137,
         "active_feed_present": true,
         "active_rows_from_this_feed": 24,
         "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
@@ -518,7 +530,9 @@
         "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
         "previous_site_version": 135,
         "previous_active_rows_from_this_feed": 0,
-        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+        "identity_basis": "Initial publication identifiers remain Site136; current active projection is preserved in verified Site137 source and deployment. Bounded desktop checks are representative, not every observation.",
+        "current_runtime_source_commit": "9899241b0ec85aaae64ed9425f42c75713368fca",
+        "current_native_deployment_succeeded_at": "2026-10-27T23:48:14.226977+00:00"
       },
       "repository_handover": {
         "link_status": "published_exact_path_verified_in_public_source_archive",
@@ -575,7 +589,7 @@
       },
       "publication_and_runtime": {
         "status": "published_and_active",
-        "site_version": 136,
+        "site_version": 137,
         "active_feed_present": true,
         "active_rows_from_this_feed": 33,
         "published_commit": "5626ab659c8bb8587048befba717e7784f92765a",
@@ -583,7 +597,9 @@
         "native_deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
         "previous_site_version": 135,
         "previous_active_rows_from_this_feed": 0,
-        "identity_basis": "Public GitHub archive readback, exact deployment source archive and native successful deployment; fresh bounded desktop checks are representative, not every observation."
+        "identity_basis": "Initial publication identifiers remain Site136; current active projection is preserved in verified Site137 source and deployment. Bounded desktop checks are representative, not every observation.",
+        "current_runtime_source_commit": "9899241b0ec85aaae64ed9425f42c75713368fca",
+        "current_native_deployment_succeeded_at": "2026-10-27T23:48:14.226977+00:00"
       },
       "repository_handover": {
         "link_status": "published_exact_path_verified_in_public_source_archive",
@@ -894,7 +910,7 @@
   },
   "next_reconciliation_required": false,
   "context_summary": {
-    "basis": "已公开的 Site 136 运行投影及其来源元数据；各行单位不同，不合并为一个产品、材料文件或合同数。",
+    "basis": "Site136 首次发布、Site137 保持不变的运行投影及来源元数据；各行单位不同，不合并为产品、文件或合同数。",
     "HK_MY_UOI_document_directory_records": 315,
     "TH_additional_context_entries": 73,
     "ID_additional_context_entries": 20,
@@ -995,16 +1011,21 @@
     "combined_product_or_contract_total": null
   },
   "previous_verified_public_baseline": {
-    "site_version": 135,
+    "site_version": 136,
     "site_url": "https://hong-kong-insurance-library.balabalaniuniu.chatgpt.site/coverage",
     "github_repository_url": "https://github.com/hui-li-312/insurance-materials-handover",
-    "github_runtime_source_commit": "be1caf68d5d22e007cf32a0c8e527bd94e8db677",
-    "mixed_observations": 5720,
-    "active_feed_descriptors": 35,
+    "github_runtime_source_commit": "5626ab659c8bb8587048befba717e7784f92765a",
+    "mixed_observations": 6115,
+    "active_feed_descriptors": 43,
     "directory_entries": 2360,
     "formal_originals": 4713,
     "strict_verified_main_files": 426,
-    "baseline_note": "上一已核实部署 Site 135；本轮发布前的历史基线，不再是当前运行状态。"
+    "baseline_note": "本轮八份来源元数据已公开，实际 Site 136 部署成功；公开源码回读与部署源归档一致。有限桌面检查与完整源码对账是不同证据，不表示逐条在线或完整合同核验。",
+    "site_source_commit": "ddc54651fa002e97190e440754010b25a571e3df",
+    "row_contributing_feeds": 39,
+    "deployment_succeeded_at": "2026-10-27T22:13:32.921686+00:00",
+    "github_source_file_count": 714,
+    "github_source_bytes": 120817740
   },
   "delivered_batch": {
     "status": "published_and_deployed_verified",
@@ -1019,16 +1040,62 @@
     "new_formal_original_credit": 0,
     "new_verified_sku_credit": 0
   },
-  "delivery_result": "八份有限来源元数据及运行投影已在 GitHub 与 Site 136 交付；全公司、渠道、语言、历史版本和完整合同包缺口继续开放。",
+  "delivery_result": "八份有限来源元数据及运行投影最初在 Site136 交付，当前 Site137 保持原范围与缺口；GE 来源角色修正作为独立变更另列。全公司、渠道、语言、历史版本和完整合同包仍开放。",
   "verification_limits": [
-    "公开源码的 714 文件回读与部署源归档的 44 个运行资产逐字节一致；原生成功部署记录标识 Site 136。",
-    "新鲜桌面检查为代表性语境验证，不是 6,115 条逐条在线检查，也不是所有数值都由页面计数器展示。",
-    "移动模拟、触屏与实体手机未测；未重读保险公司来源页面、PDF 或图片。",
-    "此页只总结八份来源包；其他已存在来源的角色分类调整须单独处理，不算本轮已完成工作。"
+    "当前721个运行源码文件已完整回读，44个运行资产与原生部署归档一致；成功部署标识 Site137。",
+    "八份来源快照首次发布仍为 Site136，原采集日期、冻结状态、来源链接及缺口未改写。",
+    "Site 137 的 13 组限定生产桌面检查通过（1180×757，DPR 1），未观察到新的 GUI 缺陷。三种新角色各抽查一项，样本、父子跳转、返回／前进、折叠、快速切换筛选及既有 AIA／Tugu／保留引用边界通过代表性检查；18 项角色与 8 项样本对象全部一致性由本地数据对账确认，并非逐项 GUI 验收。机构／范围快速切换各一次保留搜索词，Tugu 仅 Home 深入抽样。移动模拟、触屏与实机未测；未访问外部来源或重读 PDF，不把历史测试或后续正文审读算作本版检查。匿名非浏览器资源曾返回 403，本次未重试，不声称匿名资源字节回读通过。原生归档、GitHub 全树核验与正常浏览器 UI 检查分别计证。",
+    "GE本次18项修正只依据来源标签与路径；16份后续PDF全文审读尚未部署。",
+    "有限隐私扫描与严格构建绑定不代表普遍再分发权利或任意运行元数据完整性认证。"
   ],
   "public_handover_link_scope": {
     "documentation_links": "Mutable main-branch documentation, distinct from source snapshots pinned to the verified release commit.",
-    "status_documents_at_source_release_commit": "The source release commit still contained Site 135 handover records; the Site 136 handover update is a separate documentation change.",
+    "status_documents_at_source_release_commit": "The Site137 runtime source commit still contained Site136 handover records; this eight-document Site137 status refresh is a separate change.",
     "do_not_infer_document_sync_from_link_presence": true
+  },
+  "historical_verified_public_baselines": [
+    {
+      "site_version": 135,
+      "site_url": "https://hong-kong-insurance-library.balabalaniuniu.chatgpt.site/coverage",
+      "github_repository_url": "https://github.com/hui-li-312/insurance-materials-handover",
+      "github_runtime_source_commit": "be1caf68d5d22e007cf32a0c8e527bd94e8db677",
+      "mixed_observations": 5720,
+      "active_feed_descriptors": 35,
+      "directory_entries": 2360,
+      "formal_originals": 4713,
+      "strict_verified_main_files": 426,
+      "baseline_note": "上一已核实部署 Site 135；本轮发布前的历史基线，不再是当前运行状态。"
+    }
+  ],
+  "GE_source_label_correction": {
+    "status": "source_label_role_correction_deployed_in_Site137",
+    "generic_filename_prefix_occurrences": 18,
+    "generic_filename_prefix_unique_URLs": 12,
+    "corrected_candidate_roles": {
+      "brochure": 13,
+      "benefits_or_rates_table": 4,
+      "user_guide": 1
+    },
+    "explicit_sample_wording_occurrences_preserved": 8,
+    "explicit_sample_wording_unique_URLs_preserved": 7,
+    "five_year_base_CI_same_URL_source_label_conflict_preserved": true,
+    "evidence": "source labels, enclosing HTML context and filename/path only",
+    "PDF_body_review_included_in_this_release": false,
+    "original_collector_classification_and_capture_time_preserved": true,
+    "new_layer": "materialRoleReview; distinct from documentReview",
+    "formal_or_strict_credit": 0
+  },
+  "later_PDF_body_review": {
+    "status": "separate_batch14_integration_pending_not_in_Site137",
+    "unique_PDFs": 16,
+    "GE": 7,
+    "HLAS": 8,
+    "UOI": 1,
+    "source_associations": 17,
+    "physical_pages": 271,
+    "full_text_review_completed": true,
+    "raw_documents_publicly_redistributed": false,
+    "new_product_or_complete_issued_policy_claim": false,
+    "limits": "Samples, versions and base/rider bundles must remain distinct. Body review is not evidence of current applicability or complete issued-policy components."
   }
 }
